@@ -11,5 +11,69 @@
     "idioma": "es",
     "fechaUltimaNoticia": "2026-06-18T07:30:17.000Z",
     "ultimaBusquedaNoticias": "2026-06-18T07:37:29.383Z"
+  },
+  {
+    "id": "mundoplus",
+    "title": "Mundoplus.tv",
+    "source": "https://www.mundoplus.tv/feed/",
+    "categorias": [
+      "televisión",
+      "series",
+      "streaming",
+      "cine"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "vertele",
+    "title": "Vertele",
+    "source": "https://www.eldiario.es/vertele/rss/",
+    "categorias": [
+      "televisión",
+      "audiencias",
+      "series",
+      "programas"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "espinof",
+    "title": "Espinof",
+    "source": "https://www.espinof.com/index.xml",
+    "categorias": [
+      "cine",
+      "series",
+      "televisión",
+      "streaming"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "lavanguardia-television",
+    "title": "La Vanguardia - Televisión",
+    "source": "https://www.lavanguardia.com/rss/television.xml",
+    "categorias": [
+      "televisión"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "lavanguardia-tecnologia",
+    "title": "La Vanguardia - Tecnología",
+    "source": "https://www.lavanguardia.com/rss/tecnologia.xml",
+    "categorias": [
+      "tecnología"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
   }
 ]
