@@ -1,0 +1,47 @@
+name: Build RSS indexes
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: rss-json-writes
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Check script syntax
+        run: node --check scripts/build-indexes.mjs
+
+      - name: Generate indexes
+        run: node scripts/build-indexes.mjs
+
+      - name: Save JSON index changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git status --short
+          git add -A indexes
+          if git diff --cached --quiet; then
+            echo "No JSON index changes to commit"
+            exit 0
+          fi
+          git commit -m "Update RSS indexes"
+          git pull --rebase --autostash origin main
+          git push origin HEAD:main
