@@ -5,7 +5,7 @@ const ROOT = process.cwd();
 const SOURCES_PATH = path.join(ROOT, 'sources.json');
 const DATA_PATH = path.join(ROOT, 'data');
 const DEFAULT_FEEDS = {
-  xataka: ['https://', 'www.', 'xataka.com', '/index.xml'].join(''),
+  xataka: ['https://', 'www.', 'xataka.com', '/feedburner.xml'].join(''),
 };
 
 const entityMap = { amp: '&', lt: '<', gt: '>', quot: '"', apos: "'", nbsp: ' ' };
@@ -28,11 +28,18 @@ function stripHtml(value = '') {
   return value.replace(/<[^>]*>/g, ' ');
 }
 
+function cleanText(value = '') {
+  return value.replace(/\s+/g, ' ').trim();
+}
+
 function tag(xml, names, { raw = false } = {}) {
   for (const name of names) {
     const re = new RegExp(`<${escapeRegExp(name)}\\b[^>]*>([\\s\\S]*?)<\\/${escapeRegExp(name)}>`, 'i');
     const match = xml.match(re);
-    if (match?.[1]) return decode(raw ? match[1] : stripHtml(match[1]));
+    if (match?.[1]) {
+      const decoded = decode(match[1]);
+      return raw ? decoded : cleanText(stripHtml(decoded));
+    }
   }
   return '';
 }
