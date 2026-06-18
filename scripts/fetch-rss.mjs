@@ -1,9 +1,8 @@
-import { mkdir, readFile, writeFile } from 'node:fs/promises';
+import { mkdir, readFile, readdir, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 
 const ROOT = process.cwd();
 const SOURCES_PATH = path.join(ROOT, 'sources.json');
-const EXTRA_SOURCES_PATH = path.join(ROOT, 'sources-extra.json');
 const DATA_PATH = path.join(ROOT, 'data');
 const DEFAULT_FEEDS = {
   xataka: ['https://', 'www.', 'xataka.com', '/feedburner.xml'].join(''),
@@ -115,6 +114,21 @@ async function writeJson(file, data) {
   await writeFile(file, `${JSON.stringify(data, null, 2)}\n`, 'utf8');
 }
 
+async function readExtraSources() {
+  const entries = await readdir(ROOT, { withFileTypes: true });
+  const files = entries
+    .filter((entry) => entry.isFile() && /^sources-extra.*\.json$/.test(entry.name))
+    .map((entry) => entry.name)
+    .sort();
+
+  const lists = [];
+  for (const file of files) {
+    lists.push(await readJson(path.join(ROOT, file), []));
+  }
+
+  return lists;
+}
+
 function mergeSources(...lists) {
   const byId = new Map();
 
@@ -214,8 +228,8 @@ async function fetchArticles(source, now) {
 }
 
 const primarySources = await readJson(SOURCES_PATH, []);
-const extraSources = await readJson(EXTRA_SOURCES_PATH, []);
-const sources = mergeSources(primarySources, extraSources);
+const extraSourceLists = await readExtraSources();
+const sources = mergeSources(primarySources, ...extraSourceLists);
 
 const now = new Date().toISOString();
 let total = 0;
