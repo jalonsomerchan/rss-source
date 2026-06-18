@@ -1,95 +1,1246 @@
 [
-  {"id":"xataka","title":"Xataka","source":"https://www.xataka.com/feedburner.xml","categorias":["tecnología","gadgets","ciencia"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"vertele","title":"Vertele","source":"https://www.eldiario.es/vertele/rss/","categorias":["televisión","audiencias","series","programas"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"espinof","title":"Espinof","source":"https://www.espinof.com/index.xml","categorias":["cine","series","televisión","streaming"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"lavanguardia-television","title":"La Vanguardia - Televisión","source":"https://www.lavanguardia.com/rss/television.xml","categorias":["televisión"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"lavanguardia-tecnologia","title":"La Vanguardia - Tecnología","source":"https://www.lavanguardia.com/rss/tecnologia.xml","categorias":["tecnología"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"genbeta","title":"Genbeta","source":"https://www.genbeta.com/index.xml","categorias":["tecnología","software","internet","inteligencia artificial"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"xataka-movil","title":"Xataka Móvil","source":"https://www.xatakamovil.com/index.xml","categorias":["tecnología","móviles","operadoras","apps"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"applesfera","title":"Applesfera","source":"https://www.applesfera.com/index.xml","categorias":["tecnología","apple","iphone","mac"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"adslzone","title":"ADSLZone","source":"https://www.adslzone.net/feed/","categorias":["tecnología","internet","telecomunicaciones","streaming"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"xataka-smart-home","title":"Xataka Smart Home","source":"https://www.xatakahome.com/index.xml","categorias":["tecnología","domótica","smart tv","hogar conectado"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"hipertextual","title":"Hipertextual","source":"https://hipertextual.com/feed","categorias":["tecnología","ciencia","cultura digital","entretenimiento"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"muy-interesante","title":"Muy Interesante","source":"https://muyinteresante.okdiario.com/feed/","categorias":["ciencia","curiosidades","tecnología","historia"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"20minutos-ciencia","title":"20minutos - Ciencia","source":"https://www.20minutos.es/rss/ciencia/","categorias":["ciencia","curiosidades","tecnología"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"el-periodico-extremadura","title":"El Periódico Extremadura","source":"https://www.elperiodicoextremadura.com/rss","categorias":["extremadura","caceres","provincia-caceres","plasencia"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"plasencia-digital","title":"Plasencia Digital","source":"https://plasenciadigital.com/feed/","categorias":["plasencia","provincia-caceres","extremadura"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"microsiervos","title":"Microsiervos","source":"https://feeds.feedburner.com/microsiervos","categorias":["tecnología","ciencia","curiosidades","cultura digital"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"quo","title":"Quo","source":"https://www.quo.es/feed/","categorias":["ciencia","curiosidades","tecnología"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"20minutos-tecnologia","title":"20minutos - Tecnología","source":"https://www.20minutos.es/rss/tecnologia/","categorias":["tecnología","internet","ciencia"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"cope-extremadura","title":"COPE Extremadura","source":"https://www.cope.es/rss/emisoras/extremadura.xml","categorias":["extremadura","radio","caceres","provincia-caceres"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"el-pais","title":"El País","source":"https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada","categorias":["general","españa","sociedad","tecnología","ciencia"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"el-mundo","title":"El Mundo","source":"https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml","categorias":["general","españa","sociedad","tecnología"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"eldiario-es","title":"elDiario.es","source":"https://www.eldiario.es/rss/","categorias":["general","españa","sociedad","política"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"huffpost-espana","title":"HuffPost España","source":"https://www.huffingtonpost.es/feeds/index.xml","categorias":["general","sociedad","televisión","tendencias"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"el-pais-espana","title":"El País - España","source":"https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/espana/portada","categorias":["política","españa","sociedad"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"el-pais-internacional","title":"El País - Internacional","source":"https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/internacional/portada","categorias":["internacional","política","mundo"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"el-mundo-espana","title":"El Mundo - España","source":"https://e00-elmundo.uecdn.es/elmundo/rss/espana.xml","categorias":["política","españa","sociedad"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"el-mundo-internacional","title":"El Mundo - Internacional","source":"https://e00-elmundo.uecdn.es/elmundo/rss/internacional.xml","categorias":["internacional","política","mundo"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"eldiario-politica","title":"elDiario.es - Política","source":"https://www.eldiario.es/rss/politica/","categorias":["política","españa","sociedad"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"newtral","title":"Newtral","source":"https://www.newtral.es/feed/","categorias":["política","verificación","sociedad","desinformación"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"bbc-mundo","title":"BBC News Mundo","source":"https://feeds.bbci.co.uk/mundo/rss.xml","categorias":["internacional","mundo","sociedad"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"dw-espanol","title":"DW Español","source":"https://rss.dw.com/xml/rss-sp-all","categorias":["internacional","mundo","política"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"france24-espanol","title":"France 24 Español","source":"https://www.france24.com/es/rss","categorias":["internacional","mundo","política"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"euronews-espanol","title":"Euronews Español","source":"https://es.euronews.com/rss?level=theme&name=news","categorias":["internacional","mundo","europa"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"expansion","title":"Expansión","source":"https://e00-expansion.uecdn.es/rss/portada.xml","categorias":["economía","empresa","bolsa"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"expansion-mercados","title":"Expansión - Mercados","source":"https://e00-expansion.uecdn.es/rss/mercados.xml","categorias":["bolsa","mercados","economía"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"cinco-dias","title":"Cinco Días","source":"https://cincodias.elpais.com/rss/cincodias/portada.xml","categorias":["economía","empresa","bolsa"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"finanzas-com","title":"Finanzas.com","source":"https://www.finanzas.com/feed/","categorias":["economía","bolsa","mercados"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"investing-es-noticias","title":"Investing.com España - Noticias","source":"https://es.investing.com/rss/news.rss","categorias":["bolsa","mercados","economía"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"linux-adictos","title":"Linux Adictos","source":"https://www.linuxadictos.com/feed","categorias":["informática","linux","software"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"desde-linux","title":"Desde Linux","source":"https://blog.desdelinux.net/feed/","categorias":["informática","linux","software","programación"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"ubunlog","title":"Ubunlog","source":"https://ubunlog.com/feed/","categorias":["informática","linux","software"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"adictos-al-trabajo","title":"Adictos al Trabajo","source":"https://www.adictosaltrabajo.com/feed/","categorias":["programación","desarrollo","informática"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"bbc-mundo-ciencia-tecnologia","title":"BBC News Mundo - Ciencia y tecnología","source":"https://feeds.bbci.co.uk/mundo/topics/c2lej05epw5t/rss.xml","categorias":["ciencia","tecnología","internacional"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"xataka-ciencia","title":"Xataka Ciencia","source":"https://www.xatakaciencia.com/index.xml","categorias":["ciencia","tecnología","curiosidades"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"la-brujula-verde","title":"La Brújula Verde","source":"https://www.labrujulaverde.com/feed","categorias":["historia","arqueología","ciencia","curiosidades"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"historia-hoy","title":"Historia Hoy","source":"https://historiahoy.com.ar/feed/","categorias":["historia","cultura","curiosidades"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"desperta-ferro","title":"Desperta Ferro","source":"https://www.despertaferro-ediciones.com/feed/","categorias":["historia","arqueología","patrimonio","cultura"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"cuidateplus","title":"CuídatePlus","source":"https://cuidateplus.marca.com/rss.xml","categorias":["salud","bienestar","alimentación","medicina"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"20minutos-salud","title":"20minutos - Salud","source":"https://www.20minutos.es/rss/salud/","categorias":["salud","bienestar","sociedad"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"maldita-ciencia","title":"Maldita Ciencia","source":"https://maldita.es/malditaciencia/feed/","categorias":["ciencia","salud","verificación","desinformación"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"abc-salud","title":"ABC - Salud","source":"https://www.abc.es/rss/2.0/salud/","categorias":["salud","medicina","bienestar"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"efe-verde","title":"EFE Verde","source":"https://efeverde.com/feed/","categorias":["medio-ambiente","clima","biodiversidad","energía"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"climatica","title":"Climática","source":"https://climatica.coop/feed/","categorias":["medio-ambiente","clima","energía","sociedad"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"el-pais-clima-medio-ambiente","title":"El País - Clima y medio ambiente","source":"https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/clima-y-medio-ambiente/portada","categorias":["medio-ambiente","clima","sociedad"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"seo-birdlife","title":"SEO/BirdLife","source":"https://seo.org/feed/","categorias":["medio-ambiente","biodiversidad","naturaleza"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"ecoticias","title":"Ecoticias","source":"https://www.ecoticias.com/feed","categorias":["medio-ambiente","clima","energía","naturaleza"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"escapada-rural","title":"Escapada Rural","source":"https://www.escapadarural.com/blog/feed/","categorias":["turismo","escapadas","pueblos","naturaleza"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"espana-fascinante","title":"España Fascinante","source":"https://espanafascinante.com/feed/","categorias":["turismo","patrimonio","historia","gastronomía"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"directo-al-paladar","title":"Directo al Paladar","source":"https://www.directoalpaladar.com/index.xml","categorias":["gastronomía","recetas","cocina"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"bon-viveur","title":"Bon Viveur","source":"https://www.bonviveur.es/rss","categorias":["gastronomía","recetas","cocina"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"el-comidista","title":"El Comidista","source":"https://feeds.elpais.com/mrss-s/pages/ep/site/elcomidista.elpais.com/portada","categorias":["gastronomía","recetas","cocina"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"recetas-de-rechupete","title":"Recetas de rechupete","source":"https://www.recetasderechupete.com/feed/","categorias":["gastronomía","recetas","cocina"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"tapas-magazine","title":"Tapas Magazine","source":"https://www.tapasmagazine.es/feed/","categorias":["gastronomía","restaurantes","cultura"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"europa-press-sucesos","title":"Europa Press - Sucesos","source":"https://www.europapress.es/rss/rss.aspx?ch=00066","categorias":["sucesos","seguridad","sociedad"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"ayuntamiento-caceres","title":"Ayuntamiento de Cáceres","source":"https://www.ayto-caceres.es/feed/","categorias":["caceres","agenda","institucional","extremadura"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"diputacion-caceres","title":"Diputación de Cáceres","source":"https://www.dip-caceres.es/feed/","categorias":["provincia-caceres","institucional","agenda","extremadura"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"mondosonoro","title":"MondoSonoro","source":"https://www.mondosonoro.com/feed/","categorias":["música","festivales","conciertos","cultura"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"jenesaipop","title":"Jenesaispop","source":"https://jenesaispop.com/feed/","categorias":["música","cultura","tendencias"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"rockzone","title":"RockZone","source":"https://www.rockzonemag.com/feed/","categorias":["música","rock","conciertos","cultura"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"muzikalia","title":"Muzikalia","source":"https://muzikalia.com/feed/","categorias":["música","conciertos","cultura"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"maldita-es","title":"Maldita.es","source":"https://maldita.es/feed/","categorias":["viral","verificación","desinformación","sociedad"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"decoesfera","title":"Decoesfera","source":"https://www.decoesfera.com/index.xml","categorias":["hogar","decoración","bricolaje","diseño"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"habitissimo","title":"Habitissimo","source":"https://proyectos.habitissimo.es/feed","categorias":["hogar","bricolaje","reformas","decoración"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"trendencias","title":"Trendencias","source":"https://www.trendencias.com/index.xml","categorias":["moda","belleza","lifestyle"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"elle-espana","title":"Elle España","source":"https://www.elle.com/es/rss/all.xml","categorias":["moda","belleza","lifestyle"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"telva-moda","title":"Telva - Moda","source":"https://www.telva.com/rss/moda.xml","categorias":["moda","belleza","lifestyle"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"telva-belleza","title":"Telva - Belleza","source":"https://www.telva.com/rss/belleza.xml","categorias":["belleza","moda","lifestyle"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"harpers-bazaar-espana","title":"Harper's Bazaar España","source":"https://www.harpersbazaar.com/es/rss/all.xml","categorias":["moda","belleza","lujo"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"cosmopolitan-espana","title":"Cosmopolitan España","source":"https://www.cosmopolitan.com/es/rss/all.xml","categorias":["moda","belleza","influencers","lifestyle"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"marie-claire-espana","title":"Marie Claire España","source":"https://www.marie-claire.es/feed/","categorias":["moda","belleza","lifestyle"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"hola","title":"¡Hola!","source":"https://www.hola.com/rss.xml","categorias":["cotilleos","influencers","moda","belleza"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"diez-minutos","title":"Diez Minutos","source":"https://www.diezminutos.es/rss/all.xml","categorias":["cotilleos","influencers","television"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"jaleos","title":"Jaleos","source":"https://www.elespanol.com/rss/corazon/","categorias":["cotilleos","influencers","television"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"la-vanguardia-gente","title":"La Vanguardia - Gente","source":"https://www.lavanguardia.com/rss/gente.xml","categorias":["cotilleos","influencers","sociedad"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"20minutos-gente","title":"20minutos - Gente","source":"https://www.20minutos.es/rss/gente/","categorias":["cotilleos","influencers","television"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"cotilleo","title":"Cotilleo.es","source":"https://www.cotilleo.es/feed/","categorias":["cotilleos","influencers","television"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"marca","title":"Marca","source":"https://e00-marca.uecdn.es/rss/portada.xml","categorias":["deportes","futbol","motor","baloncesto"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"as","title":"AS","source":"https://feeds.as.com/mrss-s/pages/as/site/as.com/portada","categorias":["deportes","futbol","motor","baloncesto"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"mundo-deportivo","title":"Mundo Deportivo","source":"https://www.mundodeportivo.com/rss/home.xml","categorias":["deportes","futbol","motor","baloncesto"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"palco23","title":"Palco23","source":"https://www.palco23.com/rss.xml","categorias":["deportes","economia","negocios"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"gigantes-basket","title":"Gigantes del Basket","source":"https://www.gigantes.com/feed/","categorias":["deportes","baloncesto"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"runners-world-espana","title":"Runner's World España","source":"https://www.runnersworld.com/es/rss/all.xml","categorias":["deportes","running","salud"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null},
-  {"id":"motorsport-espana","title":"Motorsport.com España","source":"https://es.motorsport.com/rss/all/news/","categorias":["deportes","motor","formula-1"],"idioma":"es","fechaUltimaNoticia":null,"ultimaBusquedaNoticias":null}
+  {
+    "id": "xataka",
+    "title": "Xataka",
+    "source": "https://www.xataka.com/feedburner.xml",
+    "categorias": [
+      "tecnología",
+      "gadgets",
+      "ciencia"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T12:30:17.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "vertele",
+    "title": "Vertele",
+    "source": "https://www.eldiario.es/vertele/rss/",
+    "categorias": [
+      "televisión",
+      "audiencias",
+      "series",
+      "programas"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T11:22:48.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "espinof",
+    "title": "Espinof",
+    "source": "https://www.espinof.com/index.xml",
+    "categorias": [
+      "cine",
+      "series",
+      "televisión",
+      "streaming"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T12:30:17.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "lavanguardia-television",
+    "title": "La Vanguardia - Televisión",
+    "source": "https://www.lavanguardia.com/rss/television.xml",
+    "categorias": [
+      "televisión"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T09:15:28.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "lavanguardia-tecnologia",
+    "title": "La Vanguardia - Tecnología",
+    "source": "https://www.lavanguardia.com/rss/tecnologia.xml",
+    "categorias": [
+      "tecnología"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T04:00:00.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "genbeta",
+    "title": "Genbeta",
+    "source": "https://www.genbeta.com/index.xml",
+    "categorias": [
+      "tecnología",
+      "software",
+      "internet",
+      "inteligencia artificial"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2025-12-31T10:01:00.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "xataka-movil",
+    "title": "Xataka Móvil",
+    "source": "https://www.xatakamovil.com/index.xml",
+    "categorias": [
+      "tecnología",
+      "móviles",
+      "operadoras",
+      "apps"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T12:00:16.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "applesfera",
+    "title": "Applesfera",
+    "source": "https://www.applesfera.com/index.xml",
+    "categorias": [
+      "tecnología",
+      "apple",
+      "iphone",
+      "mac"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T12:00:17.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "adslzone",
+    "title": "ADSLZone",
+    "source": "https://www.adslzone.net/feed/",
+    "categorias": [
+      "tecnología",
+      "internet",
+      "telecomunicaciones",
+      "streaming"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T11:39:46.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "xataka-smart-home",
+    "title": "Xataka Smart Home",
+    "source": "https://www.xatakahome.com/index.xml",
+    "categorias": [
+      "tecnología",
+      "domótica",
+      "smart tv",
+      "hogar conectado"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T12:00:17.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "hipertextual",
+    "title": "Hipertextual",
+    "source": "https://hipertextual.com/feed",
+    "categorias": [
+      "tecnología",
+      "ciencia",
+      "cultura digital",
+      "entretenimiento"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T12:10:57.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "muy-interesante",
+    "title": "Muy Interesante",
+    "source": "https://muyinteresante.okdiario.com/feed/",
+    "categorias": [
+      "ciencia",
+      "curiosidades",
+      "tecnología",
+      "historia"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T12:00:00.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "20minutos-ciencia",
+    "title": "20minutos - Ciencia",
+    "source": "https://www.20minutos.es/rss/ciencia/",
+    "categorias": [
+      "ciencia",
+      "curiosidades",
+      "tecnología"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-17T18:23:40.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "el-periodico-extremadura",
+    "title": "El Periódico Extremadura",
+    "source": "https://www.elperiodicoextremadura.com/rss",
+    "categorias": [
+      "extremadura",
+      "caceres",
+      "provincia-caceres",
+      "plasencia"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T12:40:51.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "plasencia-digital",
+    "title": "Plasencia Digital",
+    "source": "https://plasenciadigital.com/feed/",
+    "categorias": [
+      "plasencia",
+      "provincia-caceres",
+      "extremadura"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T10:57:04.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "microsiervos",
+    "title": "Microsiervos",
+    "source": "https://feeds.feedburner.com/microsiervos",
+    "categorias": [
+      "tecnología",
+      "ciencia",
+      "curiosidades",
+      "cultura digital"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T08:36:19.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "quo",
+    "title": "Quo",
+    "source": "https://www.quo.es/feed/",
+    "categorias": [
+      "ciencia",
+      "curiosidades",
+      "tecnología"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T10:00:47.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "20minutos-tecnologia",
+    "title": "20minutos - Tecnología",
+    "source": "https://www.20minutos.es/rss/tecnologia/",
+    "categorias": [
+      "tecnología",
+      "internet",
+      "ciencia"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T11:41:46.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "cope-extremadura",
+    "title": "COPE Extremadura",
+    "source": "https://www.cope.es/rss/emisoras/extremadura.xml",
+    "categorias": [
+      "extremadura",
+      "radio",
+      "caceres",
+      "provincia-caceres"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T12:30:38.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "el-pais",
+    "title": "El País",
+    "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
+    "categorias": [
+      "general",
+      "españa",
+      "sociedad",
+      "tecnología",
+      "ciencia"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T12:25:37.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "el-mundo",
+    "title": "El Mundo",
+    "source": "https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml",
+    "categorias": [
+      "general",
+      "españa",
+      "sociedad",
+      "tecnología"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T12:29:06.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "eldiario-es",
+    "title": "elDiario.es",
+    "source": "https://www.eldiario.es/rss/",
+    "categorias": [
+      "general",
+      "españa",
+      "sociedad",
+      "política"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T12:35:47.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "huffpost-espana",
+    "title": "HuffPost España",
+    "source": "https://www.huffingtonpost.es/feeds/index.xml",
+    "categorias": [
+      "general",
+      "sociedad",
+      "televisión",
+      "tendencias"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T11:48:48.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "el-pais-espana",
+    "title": "El País - España",
+    "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/espana/portada",
+    "categorias": [
+      "política",
+      "españa",
+      "sociedad"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T11:25:28.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "el-pais-internacional",
+    "title": "El País - Internacional",
+    "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/internacional/portada",
+    "categorias": [
+      "internacional",
+      "política",
+      "mundo"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T12:21:44.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "el-mundo-espana",
+    "title": "El Mundo - España",
+    "source": "https://e00-elmundo.uecdn.es/elmundo/rss/espana.xml",
+    "categorias": [
+      "política",
+      "españa",
+      "sociedad"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T12:39:09.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "el-mundo-internacional",
+    "title": "El Mundo - Internacional",
+    "source": "https://e00-elmundo.uecdn.es/elmundo/rss/internacional.xml",
+    "categorias": [
+      "internacional",
+      "política",
+      "mundo"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T12:29:06.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "eldiario-politica",
+    "title": "elDiario.es - Política",
+    "source": "https://www.eldiario.es/rss/politica/",
+    "categorias": [
+      "política",
+      "españa",
+      "sociedad"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T12:38:25.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "newtral",
+    "title": "Newtral",
+    "source": "https://www.newtral.es/feed/",
+    "categorias": [
+      "política",
+      "verificación",
+      "sociedad",
+      "desinformación"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T11:42:49.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "bbc-mundo",
+    "title": "BBC News Mundo",
+    "source": "https://feeds.bbci.co.uk/mundo/rss.xml",
+    "categorias": [
+      "internacional",
+      "mundo",
+      "sociedad"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T12:45:44.556Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "dw-espanol",
+    "title": "DW Español",
+    "source": "https://rss.dw.com/xml/rss-sp-all",
+    "categorias": [
+      "internacional",
+      "mundo",
+      "política"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T12:04:00.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "france24-espanol",
+    "title": "France 24 Español",
+    "source": "https://www.france24.com/es/rss",
+    "categorias": [
+      "internacional",
+      "mundo",
+      "política"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T12:05:03.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "euronews-espanol",
+    "title": "Euronews Español",
+    "source": "https://es.euronews.com/rss?level=theme&name=news",
+    "categorias": [
+      "internacional",
+      "mundo",
+      "europa"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T11:33:19.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "expansion",
+    "title": "Expansión",
+    "source": "https://e00-expansion.uecdn.es/rss/portada.xml",
+    "categorias": [
+      "economía",
+      "empresa",
+      "bolsa"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T12:14:00.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "expansion-mercados",
+    "title": "Expansión - Mercados",
+    "source": "https://e00-expansion.uecdn.es/rss/mercados.xml",
+    "categorias": [
+      "bolsa",
+      "mercados",
+      "economía"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T12:14:00.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "cinco-dias",
+    "title": "Cinco Días",
+    "source": "https://cincodias.elpais.com/rss/cincodias/portada.xml",
+    "categorias": [
+      "economía",
+      "empresa",
+      "bolsa"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2023-02-14T13:54:07.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "finanzas-com",
+    "title": "Finanzas.com",
+    "source": "https://www.finanzas.com/feed/",
+    "categorias": [
+      "economía",
+      "bolsa",
+      "mercados"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T10:44:47.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "investing-es-noticias",
+    "title": "Investing.com España - Noticias",
+    "source": "https://es.investing.com/rss/news.rss",
+    "categorias": [
+      "bolsa",
+      "mercados",
+      "economía"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T12:31:47.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "linux-adictos",
+    "title": "Linux Adictos",
+    "source": "https://www.linuxadictos.com/feed",
+    "categorias": [
+      "informática",
+      "linux",
+      "software"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T07:37:52.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "desde-linux",
+    "title": "Desde Linux",
+    "source": "https://blog.desdelinux.net/feed/",
+    "categorias": [
+      "informática",
+      "linux",
+      "software",
+      "programación"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-16T15:08:19.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "ubunlog",
+    "title": "Ubunlog",
+    "source": "https://ubunlog.com/feed/",
+    "categorias": [
+      "informática",
+      "linux",
+      "software"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-16T15:31:13.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "adictos-al-trabajo",
+    "title": "Adictos al Trabajo",
+    "source": "https://www.adictosaltrabajo.com/feed/",
+    "categorias": [
+      "programación",
+      "desarrollo",
+      "informática"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-16T06:32:39.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "bbc-mundo-ciencia-tecnologia",
+    "title": "BBC News Mundo - Ciencia y tecnología",
+    "source": "https://feeds.bbci.co.uk/mundo/topics/c2lej05epw5t/rss.xml",
+    "categorias": [
+      "ciencia",
+      "tecnología",
+      "internacional"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T12:45:44.556Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "xataka-ciencia",
+    "title": "Xataka Ciencia",
+    "source": "https://www.xatakaciencia.com/index.xml",
+    "categorias": [
+      "ciencia",
+      "tecnología",
+      "curiosidades"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2024-06-06T09:46:00.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "la-brujula-verde",
+    "title": "La Brújula Verde",
+    "source": "https://www.labrujulaverde.com/feed",
+    "categorias": [
+      "historia",
+      "arqueología",
+      "ciencia",
+      "curiosidades"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T10:18:13.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "historia-hoy",
+    "title": "Historia Hoy",
+    "source": "https://historiahoy.com.ar/feed/",
+    "categorias": [
+      "historia",
+      "cultura",
+      "curiosidades"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-06T10:43:52.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "desperta-ferro",
+    "title": "Desperta Ferro",
+    "source": "https://www.despertaferro-ediciones.com/feed/",
+    "categorias": [
+      "historia",
+      "arqueología",
+      "patrimonio",
+      "cultura"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-05T21:11:06.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "cuidateplus",
+    "title": "CuídatePlus",
+    "source": "https://cuidateplus.marca.com/rss.xml",
+    "categorias": [
+      "salud",
+      "bienestar",
+      "alimentación",
+      "medicina"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T13:02:21.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "20minutos-salud",
+    "title": "20minutos - Salud",
+    "source": "https://www.20minutos.es/rss/salud/",
+    "categorias": [
+      "salud",
+      "bienestar",
+      "sociedad"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T10:27:55.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "maldita-ciencia",
+    "title": "Maldita Ciencia",
+    "source": "https://maldita.es/malditaciencia/feed/",
+    "categorias": [
+      "ciencia",
+      "salud",
+      "verificación",
+      "desinformación"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-17T14:12:00.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "abc-salud",
+    "title": "ABC - Salud",
+    "source": "https://www.abc.es/rss/2.0/salud/",
+    "categorias": [
+      "salud",
+      "medicina",
+      "bienestar"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T04:00:02.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "efe-verde",
+    "title": "EFE Verde",
+    "source": "https://efeverde.com/feed/",
+    "categorias": [
+      "medio-ambiente",
+      "clima",
+      "biodiversidad",
+      "energía"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T12:41:52.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "climatica",
+    "title": "Climática",
+    "source": "https://climatica.coop/feed/",
+    "categorias": [
+      "medio-ambiente",
+      "clima",
+      "energía",
+      "sociedad"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T11:45:26.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "el-pais-clima-medio-ambiente",
+    "title": "El País - Clima y medio ambiente",
+    "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/clima-y-medio-ambiente/portada",
+    "categorias": [
+      "medio-ambiente",
+      "clima",
+      "sociedad"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-17T17:49:53.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "seo-birdlife",
+    "title": "SEO/BirdLife",
+    "source": "https://seo.org/feed/",
+    "categorias": [
+      "medio-ambiente",
+      "biodiversidad",
+      "naturaleza"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T11:33:59.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "ecoticias",
+    "title": "Ecoticias",
+    "source": "https://www.ecoticias.com/feed",
+    "categorias": [
+      "medio-ambiente",
+      "clima",
+      "energía",
+      "naturaleza"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T12:35:34.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "escapada-rural",
+    "title": "Escapada Rural",
+    "source": "https://www.escapadarural.com/blog/feed/",
+    "categorias": [
+      "turismo",
+      "escapadas",
+      "pueblos",
+      "naturaleza"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-16T07:29:10.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "espana-fascinante",
+    "title": "España Fascinante",
+    "source": "https://espanafascinante.com/feed/",
+    "categorias": [
+      "turismo",
+      "patrimonio",
+      "historia",
+      "gastronomía"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T11:45:00.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "directo-al-paladar",
+    "title": "Directo al Paladar",
+    "source": "https://www.directoalpaladar.com/index.xml",
+    "categorias": [
+      "gastronomía",
+      "recetas",
+      "cocina"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T12:01:04.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "bon-viveur",
+    "title": "Bon Viveur",
+    "source": "https://www.bonviveur.es/rss",
+    "categorias": [
+      "gastronomía",
+      "recetas",
+      "cocina"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T06:15:09.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "el-comidista",
+    "title": "El Comidista",
+    "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elcomidista.elpais.com/portada",
+    "categorias": [
+      "gastronomía",
+      "recetas",
+      "cocina"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2023-03-07T11:23:58.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "recetas-de-rechupete",
+    "title": "Recetas de rechupete",
+    "source": "https://www.recetasderechupete.com/feed/",
+    "categorias": [
+      "gastronomía",
+      "recetas",
+      "cocina"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T06:11:14.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "tapas-magazine",
+    "title": "Tapas Magazine",
+    "source": "https://www.tapasmagazine.es/feed/",
+    "categorias": [
+      "gastronomía",
+      "restaurantes",
+      "cultura"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T12:04:18.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "europa-press-sucesos",
+    "title": "Europa Press - Sucesos",
+    "source": "https://www.europapress.es/rss/rss.aspx?ch=00066",
+    "categorias": [
+      "sucesos",
+      "seguridad",
+      "sociedad"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T12:34:45.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "ayuntamiento-caceres",
+    "title": "Ayuntamiento de Cáceres",
+    "source": "https://www.ayto-caceres.es/feed/",
+    "categorias": [
+      "caceres",
+      "agenda",
+      "institucional",
+      "extremadura"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T09:21:14.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "diputacion-caceres",
+    "title": "Diputación de Cáceres",
+    "source": "https://www.dip-caceres.es/feed/",
+    "categorias": [
+      "provincia-caceres",
+      "institucional",
+      "agenda",
+      "extremadura"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T11:22:14.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "mondosonoro",
+    "title": "MondoSonoro",
+    "source": "https://www.mondosonoro.com/feed/",
+    "categorias": [
+      "música",
+      "festivales",
+      "conciertos",
+      "cultura"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T12:39:57.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "jenesaipop",
+    "title": "Jenesaispop",
+    "source": "https://jenesaispop.com/feed/",
+    "categorias": [
+      "música",
+      "cultura",
+      "tendencias"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T12:45:09.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "rockzone",
+    "title": "RockZone",
+    "source": "https://www.rockzonemag.com/feed/",
+    "categorias": [
+      "música",
+      "rock",
+      "conciertos",
+      "cultura"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-17T14:30:34.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "muzikalia",
+    "title": "Muzikalia",
+    "source": "https://muzikalia.com/feed/",
+    "categorias": [
+      "música",
+      "conciertos",
+      "cultura"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T09:01:02.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "maldita-es",
+    "title": "Maldita.es",
+    "source": "https://maldita.es/feed/",
+    "categorias": [
+      "viral",
+      "verificación",
+      "desinformación",
+      "sociedad"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T11:41:27.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "decoesfera",
+    "title": "Decoesfera",
+    "source": "https://www.decoesfera.com/index.xml",
+    "categorias": [
+      "hogar",
+      "decoración",
+      "bricolaje",
+      "diseño"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T11:00:17.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "habitissimo",
+    "title": "Habitissimo",
+    "source": "https://proyectos.habitissimo.es/feed",
+    "categorias": [
+      "hogar",
+      "bricolaje",
+      "reformas",
+      "decoración"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-05-12T14:31:31.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "trendencias",
+    "title": "Trendencias",
+    "source": "https://www.trendencias.com/index.xml",
+    "categorias": [
+      "moda",
+      "belleza",
+      "lifestyle"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T12:30:17.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "elle-espana",
+    "title": "Elle España",
+    "source": "https://www.elle.com/es/rss/all.xml",
+    "categorias": [
+      "moda",
+      "belleza",
+      "lifestyle"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T11:49:00.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "telva-moda",
+    "title": "Telva - Moda",
+    "source": "https://www.telva.com/rss/moda.xml",
+    "categorias": [
+      "moda",
+      "belleza",
+      "lifestyle"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T11:02:36.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "telva-belleza",
+    "title": "Telva - Belleza",
+    "source": "https://www.telva.com/rss/belleza.xml",
+    "categorias": [
+      "belleza",
+      "moda",
+      "lifestyle"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T12:10:07.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "harpers-bazaar-espana",
+    "title": "Harper's Bazaar España",
+    "source": "https://www.harpersbazaar.com/es/rss/all.xml",
+    "categorias": [
+      "moda",
+      "belleza",
+      "lujo"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T12:08:00.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "cosmopolitan-espana",
+    "title": "Cosmopolitan España",
+    "source": "https://www.cosmopolitan.com/es/rss/all.xml",
+    "categorias": [
+      "moda",
+      "belleza",
+      "influencers",
+      "lifestyle"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T12:00:00.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "marie-claire-espana",
+    "title": "Marie Claire España",
+    "source": "https://www.marie-claire.es/feed/",
+    "categorias": [
+      "moda",
+      "belleza",
+      "lifestyle"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T10:00:00.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "hola",
+    "title": "¡Hola!",
+    "source": "https://www.hola.com/rss.xml",
+    "categorias": [
+      "cotilleos",
+      "influencers",
+      "moda",
+      "belleza"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T12:41:55.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "diez-minutos",
+    "title": "Diez Minutos",
+    "source": "https://www.diezminutos.es/rss/all.xml",
+    "categorias": [
+      "cotilleos",
+      "influencers",
+      "television"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T12:33:00.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "jaleos",
+    "title": "Jaleos",
+    "source": "https://www.elespanol.com/rss/corazon/",
+    "categorias": [
+      "cotilleos",
+      "influencers",
+      "television"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T11:41:37.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "la-vanguardia-gente",
+    "title": "La Vanguardia - Gente",
+    "source": "https://www.lavanguardia.com/rss/gente.xml",
+    "categorias": [
+      "cotilleos",
+      "influencers",
+      "sociedad"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T12:03:02.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "20minutos-gente",
+    "title": "20minutos - Gente",
+    "source": "https://www.20minutos.es/rss/gente/",
+    "categorias": [
+      "cotilleos",
+      "influencers",
+      "television"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T12:08:50.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "cotilleo",
+    "title": "Cotilleo.es",
+    "source": "https://www.cotilleo.es/feed/",
+    "categorias": [
+      "cotilleos",
+      "influencers",
+      "television"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T08:20:00.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "marca",
+    "title": "Marca",
+    "source": "https://e00-marca.uecdn.es/rss/portada.xml",
+    "categorias": [
+      "deportes",
+      "futbol",
+      "motor",
+      "baloncesto"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T09:30:15.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "as",
+    "title": "AS",
+    "source": "https://feeds.as.com/mrss-s/pages/as/site/as.com/portada",
+    "categorias": [
+      "deportes",
+      "futbol",
+      "motor",
+      "baloncesto"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T12:43:16.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "mundo-deportivo",
+    "title": "Mundo Deportivo",
+    "source": "https://www.mundodeportivo.com/rss/home.xml",
+    "categorias": [
+      "deportes",
+      "futbol",
+      "motor",
+      "baloncesto"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T12:18:45.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "palco23",
+    "title": "Palco23",
+    "source": "https://www.palco23.com/rss.xml",
+    "categorias": [
+      "deportes",
+      "economia",
+      "negocios"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T12:45:44.556Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "gigantes-basket",
+    "title": "Gigantes del Basket",
+    "source": "https://www.gigantes.com/feed/",
+    "categorias": [
+      "deportes",
+      "baloncesto"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T11:29:53.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "runners-world-espana",
+    "title": "Runner's World España",
+    "source": "https://www.runnersworld.com/es/rss/all.xml",
+    "categorias": [
+      "deportes",
+      "running",
+      "salud"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T10:31:00.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  },
+  {
+    "id": "motorsport-espana",
+    "title": "Motorsport.com España",
+    "source": "https://es.motorsport.com/rss/all/news/",
+    "categorias": [
+      "deportes",
+      "motor",
+      "formula-1"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": "2026-06-18T12:36:46.000Z",
+    "ultimaBusquedaNoticias": "2026-06-18T12:45:44.556Z"
+  }
 ]
