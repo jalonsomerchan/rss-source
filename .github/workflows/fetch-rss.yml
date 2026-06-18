@@ -22,3 +22,9 @@ jobs:
 
       - name: Read RSS feeds
         run: node scripts/fetch-rss.mjs
+
+      - name: Save JSON changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Update RSS JSON data
+          file_pattern: sources.json data/**/*.json
