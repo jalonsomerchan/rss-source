@@ -4,6 +4,8 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "check": "node --check scripts/fetch-rss.mjs"
+    "check": "node --check scripts/fetch-rss.mjs && node --check scripts/build-indexes.mjs",
+    "fetch": "node scripts/fetch-rss.mjs",
+    "build-indexes": "node scripts/build-indexes.mjs"
   }
 }
