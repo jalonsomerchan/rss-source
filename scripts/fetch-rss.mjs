@@ -3,6 +3,7 @@ import path from 'node:path';
 
 const ROOT = process.cwd();
 const SOURCES_PATH = path.join(ROOT, 'sources.json');
+const EXTRA_SOURCES_PATH = path.join(ROOT, 'sources-extra.json');
 const DATA_PATH = path.join(ROOT, 'data');
 const DEFAULT_FEEDS = {
   xataka: ['https://', 'www.', 'xataka.com', '/feedburner.xml'].join(''),
@@ -114,6 +115,24 @@ async function writeJson(file, data) {
   await writeFile(file, `${JSON.stringify(data, null, 2)}\n`, 'utf8');
 }
 
+function mergeSources(...lists) {
+  const byId = new Map();
+
+  for (const list of lists) {
+    if (!Array.isArray(list)) throw new Error('Los ficheros de fuentes deben contener un array');
+
+    for (const source of list) {
+      const id = source.id || slug(source.title);
+      if (!id) continue;
+
+      const current = byId.get(id);
+      byId.set(id, current ? { ...source, ...current, id } : { ...source, id });
+    }
+  }
+
+  return [...byId.values()];
+}
+
 function monthlyPath(sourceId, article) {
   const date = new Date(article.fecha);
   const year = String(date.getUTCFullYear());
@@ -194,8 +213,9 @@ async function fetchArticles(source, now) {
   return articles;
 }
 
-const sources = await readJson(SOURCES_PATH, []);
-if (!Array.isArray(sources)) throw new Error('sources.json debe contener un array');
+const primarySources = await readJson(SOURCES_PATH, []);
+const extraSources = await readJson(EXTRA_SOURCES_PATH, []);
+const sources = mergeSources(primarySources, extraSources);
 
 const now = new Date().toISOString();
 let total = 0;
