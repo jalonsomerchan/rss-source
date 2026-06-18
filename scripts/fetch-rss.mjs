@@ -5,7 +5,7 @@ const ROOT = process.cwd();
 const SOURCES_PATH = path.join(ROOT, 'sources.json');
 const DATA_PATH = path.join(ROOT, 'data');
 const DEFAULT_FEEDS = {
-  xataka: ['https://', 'www.', 'xataka.com', '/feedburner.xml'].join(''),
+  xataka: ['https://', 'www.', 'xataka.com', '/index.xml'].join(''),
 };
 
 const entityMap = { amp: '&', lt: '<', gt: '>', quot: '"', apos: "'", nbsp: ' ' };
@@ -164,6 +164,10 @@ function latestDate(articles) {
     .map((timestamp) => new Date(timestamp).toISOString())[0] ?? null;
 }
 
+function feedPreview(text) {
+  return decode(stripHtml(text.slice(0, 500))).slice(0, 160) || 'respuesta vacia';
+}
+
 async function fetchArticles(source, now) {
   const response = await fetch(source.source, {
     headers: {
@@ -172,7 +176,15 @@ async function fetchArticles(source, now) {
     },
   });
   if (!response.ok) throw new Error(`HTTP ${response.status}`);
-  return parseFeed(await response.text(), now);
+
+  const text = await response.text();
+  const articles = parseFeed(text, now);
+  if (!articles.length) {
+    const contentType = response.headers.get('content-type') ?? 'sin content-type';
+    throw new Error(`Feed sin articulos parseables (${contentType}): ${feedPreview(text)}`);
+  }
+
+  return articles;
 }
 
 const sources = await readJson(SOURCES_PATH, []);
