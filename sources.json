@@ -202,5 +202,46 @@
     "fechaUltimaNoticia": null,
     "ultimaBusquedaNoticias": "2026-06-18T08:11:42.721Z",
     "ultimoError": "HTTP 403"
+  },
+  {
+    "id": "hoy-extremadura",
+    "title": "Hoy Extremadura",
+    "source": "https://www.hoy.es/rss/2.0/?section=portada",
+    "categorias": [
+      "extremadura",
+      "caceres",
+      "provincia-caceres",
+      "plasencia"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "el-periodico-extremadura",
+    "title": "El Periódico Extremadura",
+    "source": "https://www.elperiodicoextremadura.com/rss",
+    "categorias": [
+      "extremadura",
+      "caceres",
+      "provincia-caceres",
+      "plasencia"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "plasencia-digital",
+    "title": "Plasencia Digital",
+    "source": "https://plasenciadigital.com/feed/",
+    "categorias": [
+      "plasencia",
+      "provincia-caceres",
+      "extremadura"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
   }
 ]
