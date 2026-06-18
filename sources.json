@@ -75,5 +75,130 @@
     "idioma": "es",
     "fechaUltimaNoticia": null,
     "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "genbeta",
+    "title": "Genbeta",
+    "source": "https://www.genbeta.com/index.xml",
+    "categorias": [
+      "tecnología",
+      "software",
+      "internet",
+      "inteligencia artificial"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "xataka-movil",
+    "title": "Xataka Móvil",
+    "source": "https://www.xatakamovil.com/index.xml",
+    "categorias": [
+      "tecnología",
+      "móviles",
+      "operadoras",
+      "apps"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "applesfera",
+    "title": "Applesfera",
+    "source": "https://www.applesfera.com/index.xml",
+    "categorias": [
+      "tecnología",
+      "apple",
+      "iphone",
+      "mac"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "adslzone",
+    "title": "ADSLZone",
+    "source": "https://www.adslzone.net/feed/",
+    "categorias": [
+      "tecnología",
+      "internet",
+      "telecomunicaciones",
+      "streaming"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "xataka-smart-home",
+    "title": "Xataka Smart Home",
+    "source": "https://www.xatakahome.com/index.xml",
+    "categorias": [
+      "tecnología",
+      "domótica",
+      "smart tv",
+      "hogar conectado"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "hipertextual",
+    "title": "Hipertextual",
+    "source": "https://hipertextual.com/feed",
+    "categorias": [
+      "tecnología",
+      "ciencia",
+      "cultura digital",
+      "entretenimiento"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "muy-interesante",
+    "title": "Muy Interesante",
+    "source": "https://muyinteresante.okdiario.com/feed/",
+    "categorias": [
+      "ciencia",
+      "curiosidades",
+      "tecnología",
+      "historia"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "20minutos-ciencia",
+    "title": "20minutos - Ciencia",
+    "source": "https://www.20minutos.es/rss/ciencia/",
+    "categorias": [
+      "ciencia",
+      "curiosidades",
+      "tecnología"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "national-geographic-espana",
+    "title": "National Geographic España",
+    "source": "https://www.nationalgeographic.com.es/rss.xml",
+    "categorias": [
+      "ciencia",
+      "naturaleza",
+      "historia",
+      "curiosidades"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
   }
 ]
