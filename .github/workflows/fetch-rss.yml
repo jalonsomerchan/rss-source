@@ -30,7 +30,9 @@ jobs:
         run: node --check scripts/fetch-rss.mjs
 
       - name: Read RSS feeds
-        run: node scripts/fetch-rss.mjs
+        run: |
+          node scripts/fetch-rss.mjs
+          rm -f sources-extra*.json
 
       - name: Save JSON changes
         run: |
@@ -38,6 +40,7 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git status --short
           git add -A sources.json
+          git add -A sources-extra*.json 2>/dev/null || true
           if [ -d data ]; then
             git add -A data
           fi
