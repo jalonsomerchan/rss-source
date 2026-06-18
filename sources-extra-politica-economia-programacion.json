@@ -1,0 +1,422 @@
+[
+  {
+    "id": "el-pais-espana",
+    "title": "El País - España",
+    "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/espana/portada",
+    "categorias": [
+      "política",
+      "españa",
+      "sociedad"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "el-pais-internacional",
+    "title": "El País - Internacional",
+    "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/internacional/portada",
+    "categorias": [
+      "internacional",
+      "política",
+      "mundo"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "el-mundo-espana",
+    "title": "El Mundo - España",
+    "source": "https://e00-elmundo.uecdn.es/elmundo/rss/espana.xml",
+    "categorias": [
+      "política",
+      "españa",
+      "sociedad"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "el-mundo-internacional",
+    "title": "El Mundo - Internacional",
+    "source": "https://e00-elmundo.uecdn.es/elmundo/rss/internacional.xml",
+    "categorias": [
+      "internacional",
+      "política",
+      "mundo"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "eldiario-politica",
+    "title": "elDiario.es - Política",
+    "source": "https://www.eldiario.es/rss/politica/",
+    "categorias": [
+      "política",
+      "españa",
+      "sociedad"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "publico-politica",
+    "title": "Público - Política",
+    "source": "https://www.publico.es/rss/politica",
+    "categorias": [
+      "política",
+      "españa",
+      "sociedad"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "newtral",
+    "title": "Newtral",
+    "source": "https://www.newtral.es/feed/",
+    "categorias": [
+      "política",
+      "verificación",
+      "sociedad",
+      "desinformación"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "bbc-mundo",
+    "title": "BBC News Mundo",
+    "source": "https://feeds.bbci.co.uk/mundo/rss.xml",
+    "categorias": [
+      "internacional",
+      "mundo",
+      "sociedad"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "dw-espanol",
+    "title": "DW Español",
+    "source": "https://rss.dw.com/xml/rss-sp-all",
+    "categorias": [
+      "internacional",
+      "mundo",
+      "política"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "france24-espanol",
+    "title": "France 24 Español",
+    "source": "https://www.france24.com/es/rss",
+    "categorias": [
+      "internacional",
+      "mundo",
+      "política"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "euronews-espanol",
+    "title": "Euronews Español",
+    "source": "https://es.euronews.com/rss?level=theme&name=news",
+    "categorias": [
+      "internacional",
+      "mundo",
+      "europa"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "swissinfo-espanol",
+    "title": "SWI swissinfo.ch en español",
+    "source": "https://www.swissinfo.ch/spa/rss",
+    "categorias": [
+      "internacional",
+      "mundo",
+      "sociedad"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "expansion",
+    "title": "Expansión",
+    "source": "https://e00-expansion.uecdn.es/rss/portada.xml",
+    "categorias": [
+      "economía",
+      "empresa",
+      "bolsa"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "expansion-mercados",
+    "title": "Expansión - Mercados",
+    "source": "https://e00-expansion.uecdn.es/rss/mercados.xml",
+    "categorias": [
+      "bolsa",
+      "mercados",
+      "economía"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "cinco-dias",
+    "title": "Cinco Días",
+    "source": "https://cincodias.elpais.com/rss/cincodias/portada.xml",
+    "categorias": [
+      "economía",
+      "empresa",
+      "bolsa"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "el-economista-economia",
+    "title": "elEconomista.es - Economía",
+    "source": "https://www.eleconomista.es/rss/rss-economia.php",
+    "categorias": [
+      "economía",
+      "empresa",
+      "actualidad"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "el-economista-mercados",
+    "title": "elEconomista.es - Mercados",
+    "source": "https://www.eleconomista.es/rss/rss-mercados.php",
+    "categorias": [
+      "bolsa",
+      "mercados",
+      "economía"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "bolsamania",
+    "title": "Bolsamanía",
+    "source": "https://www.bolsamania.com/rss/noticias",
+    "categorias": [
+      "bolsa",
+      "mercados",
+      "economía"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "estrategias-de-inversion",
+    "title": "Estrategias de Inversión",
+    "source": "https://www.estrategiasdeinversion.com/rss",
+    "categorias": [
+      "bolsa",
+      "mercados",
+      "inversión"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "finanzas-com",
+    "title": "Finanzas.com",
+    "source": "https://www.finanzas.com/feed/",
+    "categorias": [
+      "economía",
+      "bolsa",
+      "mercados"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "investing-es-noticias",
+    "title": "Investing.com España - Noticias",
+    "source": "https://es.investing.com/rss/news.rss",
+    "categorias": [
+      "bolsa",
+      "mercados",
+      "economía"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "muycomputer",
+    "title": "MuyComputer",
+    "source": "https://www.muycomputer.com/feed/",
+    "categorias": [
+      "informática",
+      "tecnología",
+      "hardware",
+      "software"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "muylinux",
+    "title": "MuyLinux",
+    "source": "https://www.muylinux.com/feed/",
+    "categorias": [
+      "informática",
+      "linux",
+      "software",
+      "programación"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "linux-adictos",
+    "title": "Linux Adictos",
+    "source": "https://www.linuxadictos.com/feed",
+    "categorias": [
+      "informática",
+      "linux",
+      "software"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "desde-linux",
+    "title": "Desde Linux",
+    "source": "https://blog.desdelinux.net/feed/",
+    "categorias": [
+      "informática",
+      "linux",
+      "software",
+      "programación"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "ubunlog",
+    "title": "Ubunlog",
+    "source": "https://ubunlog.com/feed/",
+    "categorias": [
+      "informática",
+      "linux",
+      "software"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "desarrollo-web",
+    "title": "DesarrolloWeb.com",
+    "source": "https://desarrolloweb.com/rss",
+    "categorias": [
+      "programación",
+      "desarrollo-web",
+      "informática"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "adictos-al-trabajo",
+    "title": "Adictos al Trabajo",
+    "source": "https://www.adictosaltrabajo.com/feed/",
+    "categorias": [
+      "programación",
+      "desarrollo",
+      "informática"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "openwebinars-blog",
+    "title": "OpenWebinars Blog",
+    "source": "https://openwebinars.net/blog/rss.xml",
+    "categorias": [
+      "programación",
+      "formación",
+      "informática"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "keepcoding-blog",
+    "title": "KeepCoding Blog",
+    "source": "https://keepcoding.io/blog/feed/",
+    "categorias": [
+      "programación",
+      "formación",
+      "informática"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "genbeta-desarrollo",
+    "title": "Genbeta - Desarrollo",
+    "source": "https://www.genbeta.com/desarrollo/index.xml",
+    "categorias": [
+      "programación",
+      "desarrollo-web",
+      "informática"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "genbeta-linux",
+    "title": "Genbeta - Linux",
+    "source": "https://www.genbeta.com/linux/index.xml",
+    "categorias": [
+      "informática",
+      "linux",
+      "software"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  }
+]
