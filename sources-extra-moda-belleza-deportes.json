@@ -1,0 +1,518 @@
+[
+  {
+    "id": "trendencias",
+    "title": "Trendencias",
+    "source": "https://www.trendencias.com/index.xml",
+    "categorias": [
+      "moda",
+      "belleza",
+      "lifestyle"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "vogue-espana",
+    "title": "Vogue España",
+    "source": "https://www.vogue.es/rss.xml",
+    "categorias": [
+      "moda",
+      "belleza",
+      "influencers",
+      "lujo"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "elle-espana",
+    "title": "Elle España",
+    "source": "https://www.elle.com/es/rss/all.xml",
+    "categorias": [
+      "moda",
+      "belleza",
+      "lifestyle"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "telva-moda",
+    "title": "Telva - Moda",
+    "source": "https://www.telva.com/rss/moda.xml",
+    "categorias": [
+      "moda",
+      "belleza",
+      "lifestyle"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "telva-belleza",
+    "title": "Telva - Belleza",
+    "source": "https://www.telva.com/rss/belleza.xml",
+    "categorias": [
+      "belleza",
+      "moda",
+      "lifestyle"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "harpers-bazaar-espana",
+    "title": "Harper's Bazaar España",
+    "source": "https://www.harpersbazaar.com/es/rss/all.xml",
+    "categorias": [
+      "moda",
+      "belleza",
+      "lujo"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "cosmopolitan-espana",
+    "title": "Cosmopolitan España",
+    "source": "https://www.cosmopolitan.com/es/rss/all.xml",
+    "categorias": [
+      "moda",
+      "belleza",
+      "influencers",
+      "lifestyle"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "woman-madame-figaro",
+    "title": "Woman Madame Figaro",
+    "source": "https://www.woman.es/feed/",
+    "categorias": [
+      "moda",
+      "belleza",
+      "lifestyle"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "clara",
+    "title": "Clara",
+    "source": "https://www.clara.es/rss.xml",
+    "categorias": [
+      "belleza",
+      "moda",
+      "salud",
+      "lifestyle"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "glamour-espana",
+    "title": "Glamour España",
+    "source": "https://www.glamour.es/rss.xml",
+    "categorias": [
+      "moda",
+      "belleza",
+      "influencers"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "vanity-fair-espana",
+    "title": "Vanity Fair España",
+    "source": "https://www.revistavanityfair.es/rss.xml",
+    "categorias": [
+      "influencers",
+      "cotilleos",
+      "moda",
+      "cultura"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "marie-claire-espana",
+    "title": "Marie Claire España",
+    "source": "https://www.marie-claire.es/feed/",
+    "categorias": [
+      "moda",
+      "belleza",
+      "lifestyle"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "hola",
+    "title": "¡Hola!",
+    "source": "https://www.hola.com/rss.xml",
+    "categorias": [
+      "cotilleos",
+      "influencers",
+      "moda",
+      "belleza"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "lecturas",
+    "title": "Lecturas",
+    "source": "https://www.lecturas.com/rss.xml",
+    "categorias": [
+      "cotilleos",
+      "influencers",
+      "television"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "semana",
+    "title": "Semana",
+    "source": "https://www.semana.es/feed/",
+    "categorias": [
+      "cotilleos",
+      "influencers",
+      "television"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "diez-minutos",
+    "title": "Diez Minutos",
+    "source": "https://www.diezminutos.es/rss/all.xml",
+    "categorias": [
+      "cotilleos",
+      "influencers",
+      "television"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "vanitatis",
+    "title": "Vanitatis",
+    "source": "https://www.elconfidencial.com/rss/vanitatis/",
+    "categorias": [
+      "cotilleos",
+      "influencers",
+      "moda"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "jaleos",
+    "title": "Jaleos",
+    "source": "https://www.elespanol.com/rss/corazon/",
+    "categorias": [
+      "cotilleos",
+      "influencers",
+      "television"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "bekia",
+    "title": "Bekia",
+    "source": "https://www.bekia.es/rss/",
+    "categorias": [
+      "cotilleos",
+      "influencers",
+      "television",
+      "moda"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "europa-press-chance",
+    "title": "Europa Press Chance",
+    "source": "https://www.europapress.es/chance/rss.xml",
+    "categorias": [
+      "cotilleos",
+      "influencers",
+      "moda"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "la-vanguardia-gente",
+    "title": "La Vanguardia - Gente",
+    "source": "https://www.lavanguardia.com/rss/gente.xml",
+    "categorias": [
+      "cotilleos",
+      "influencers",
+      "sociedad"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "20minutos-gente",
+    "title": "20minutos - Gente",
+    "source": "https://www.20minutos.es/rss/gente/",
+    "categorias": [
+      "cotilleos",
+      "influencers",
+      "television"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "mujer-hoy",
+    "title": "Mujer Hoy",
+    "source": "https://www.mujerhoy.com/rss/",
+    "categorias": [
+      "moda",
+      "belleza",
+      "cotilleos",
+      "lifestyle"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "pronto",
+    "title": "Pronto",
+    "source": "https://www.pronto.es/rss.xml",
+    "categorias": [
+      "cotilleos",
+      "television",
+      "influencers"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "cotilleo",
+    "title": "Cotilleo.es",
+    "source": "https://www.cotilleo.es/feed/",
+    "categorias": [
+      "cotilleos",
+      "influencers",
+      "television"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "marca",
+    "title": "Marca",
+    "source": "https://e00-marca.uecdn.es/rss/portada.xml",
+    "categorias": [
+      "deportes",
+      "futbol",
+      "motor",
+      "baloncesto"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "as",
+    "title": "AS",
+    "source": "https://as.com/rss/portada.xml",
+    "categorias": [
+      "deportes",
+      "futbol",
+      "motor",
+      "baloncesto"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "mundo-deportivo",
+    "title": "Mundo Deportivo",
+    "source": "https://www.mundodeportivo.com/rss/home.xml",
+    "categorias": [
+      "deportes",
+      "futbol",
+      "motor",
+      "baloncesto"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "sport",
+    "title": "Sport",
+    "source": "https://www.sport.es/es/rss/last-news/rss.xml",
+    "categorias": [
+      "deportes",
+      "futbol",
+      "motor",
+      "baloncesto"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "relevo",
+    "title": "Relevo",
+    "source": "https://www.relevo.com/rss/2.0/portada.xml",
+    "categorias": [
+      "deportes",
+      "futbol",
+      "baloncesto",
+      "motor"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "el-desmarque",
+    "title": "El Desmarque",
+    "source": "https://www.eldesmarque.com/feed/",
+    "categorias": [
+      "deportes",
+      "futbol"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "eurosport-espana",
+    "title": "Eurosport España",
+    "source": "https://espanol.eurosport.com/rss.xml",
+    "categorias": [
+      "deportes",
+      "futbol",
+      "tenis",
+      "ciclismo"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "palco23",
+    "title": "Palco23",
+    "source": "https://www.palco23.com/rss.xml",
+    "categorias": [
+      "deportes",
+      "economia",
+      "negocios"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "gigantes-basket",
+    "title": "Gigantes del Basket",
+    "source": "https://www.gigantes.com/feed/",
+    "categorias": [
+      "deportes",
+      "baloncesto"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "besoccer-noticias",
+    "title": "BeSoccer Noticias",
+    "source": "https://es.besoccer.com/rss/noticias.xml",
+    "categorias": [
+      "deportes",
+      "futbol"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "runners-world-espana",
+    "title": "Runner's World España",
+    "source": "https://www.runnersworld.com/es/rss/all.xml",
+    "categorias": [
+      "deportes",
+      "running",
+      "salud"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "motorsport-espana",
+    "title": "Motorsport.com España",
+    "source": "https://es.motorsport.com/rss/all/news/",
+    "categorias": [
+      "deportes",
+      "motor",
+      "formula-1"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "ciclismo-a-fondo",
+    "title": "Ciclismo a Fondo",
+    "source": "https://www.ciclismoafondo.es/rss.xml",
+    "categorias": [
+      "deportes",
+      "ciclismo"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  },
+  {
+    "id": "planeta-triatlon",
+    "title": "Planeta Triatlón",
+    "source": "https://planetatriatlon.com/feed/",
+    "categorias": [
+      "deportes",
+      "triatlon",
+      "running"
+    ],
+    "idioma": "es",
+    "fechaUltimaNoticia": null,
+    "ultimaBusquedaNoticias": null
+  }
+]
