@@ -24,7 +24,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 24
 
       - name: Check script syntax
         run: node --check scripts/fetch-rss.mjs
@@ -36,11 +36,15 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add sources.json data
+          git status --short
+          git add -A sources.json
+          if [ -d data ]; then
+            git add -A data
+          fi
           if git diff --cached --quiet; then
             echo "No JSON changes to commit"
             exit 0
           fi
           git commit -m "Update RSS JSON data"
-          git pull --rebase origin main
+          git pull --rebase --autostash origin main
           git push origin HEAD:main
