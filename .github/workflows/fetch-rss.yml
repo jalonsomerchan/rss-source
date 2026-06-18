@@ -1,0 +1,30 @@
+name: Fetch RSS sources
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 * * * *"
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Check script syntax
+        run: node --check scripts/fetch-rss.mjs
+
+      - name: Read RSS feeds
+        run: node scripts/fetch-rss.mjs
+
+      - name: Save JSON changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Update RSS JSON data
+          file_pattern: sources.json data/**/*.json
