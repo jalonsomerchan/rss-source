@@ -1,8 +1,320 @@
 {
-  "generado": "2026-06-19T22:41:23.057Z",
+  "generado": "2026-06-19T23:00:12.243Z",
   "limite": 50,
-  "total": 7546,
+  "total": 7581,
   "noticias": [
+    {
+      "titulo": "Chess Hold’em: una curiosa mezcla de ajedrez y póker",
+      "url": "https://www.microsiervos.com/archivo/juegos-y-diversion/chess-holdem-mezcla-ajedrez-poker.html",
+      "imagen": "https://img.microsiervos.com/images2026/chess-holdem.webp",
+      "fecha": "2026-06-19T22:43:00.000Z",
+      "fuenteId": "microsiervos",
+      "fuenteTitle": "Microsiervos",
+      "categorias": [
+        "tecnología",
+        "ciencia",
+        "curiosidades",
+        "cultura digital"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "El nuevo túnel que cambia las normas: los barcos atravesarán una montaña atravesando 1,7 kilómetros de roca sólida en uno de los tramos de agua más peligrosos del planeta",
+      "url": "https://www.huffingtonpost.es/sociedad/el-nuevonel-cambia-normas-barcos-atravesaran-montana-atravesando-17-kilometros-roca-solida-tramos-agua-mas-peligrosos-planeta-f202606.html",
+      "imagen": "",
+      "fecha": "2026-06-19T22:37:31.000Z",
+      "fuenteId": "huffpost-espana",
+      "fuenteTitle": "HuffPost España",
+      "categorias": [
+        "general",
+        "sociedad",
+        "televisión",
+        "tendencias"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "SpaceX estrena la era de la IA tras una semana histórica en Bolsa",
+      "url": "https://www.expansion.com/mercados/2026/06/20/6a35b1ef468aeb3a518b459c.html",
+      "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/06/15/17815179042036.jpg",
+      "fecha": "2026-06-19T22:34:46.000Z",
+      "fuenteId": "expansion",
+      "fuenteTitle": "Expansión",
+      "categorias": [
+        "economía",
+        "empresa",
+        "bolsa"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Polonia contra Zelenski: el homenaje a una unidad de la Segunda Guerra Mundial sigue alejando a los socios",
+      "url": "https://www.france24.com/es/europa/20260619-polonia-contra-zelenski-el-homenaje-a-una-unidad-de-la-segunda-guerra-mundial-sigue-alejando-a-los-socios",
+      "imagen": "https://s.france24.com/media/display/ac7d3db4-0bae-11f1-96e0-005056a90284/w:1024/p:16x9/2026-02-16T220009Z-951649375-RC2ULJAQF0AM-RTRMADP-3-UKRAINE-CRISIS-ZELENSKIY.jpg",
+      "fecha": "2026-06-19T22:34:37.000Z",
+      "fuenteId": "france24-espanol",
+      "fuenteTitle": "France 24 Español",
+      "categorias": [
+        "internacional",
+        "mundo",
+        "política"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "RALPH LAUREN - Detalles",
+      "url": "https://www.elle.com/es/pasarelas/hombre-primavera-verano-2027/g71641420/ralph-lauren-rptlldl7-detalles/",
+      "imagen": "https://hips.hearstapps.com/hmg-catwalk/catwalk/ralph-lauren/1aad0b6a-f7d9-4e94-b77f-6fddb4ec7872.jpg",
+      "fecha": "2026-06-19T22:30:09.000Z",
+      "fuenteId": "elle-espana",
+      "fuenteTitle": "Elle España",
+      "categorias": [
+        "moda",
+        "belleza",
+        "lifestyle"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Cuentas y depósitos vuelan hasta el 3%, pero con mucha letra pequeña",
+      "url": "https://www.expansion.com/ahorro/2026/06/20/6a357734468aebe9218b4578.html",
+      "imagen": "http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&cg=rss-expansion&ci=es-widgetueditorial&si=https://www.expansion.com/rss/portada.xml",
+      "fecha": "2026-06-19T22:29:27.000Z",
+      "fuenteId": "expansion",
+      "fuenteTitle": "Expansión",
+      "categorias": [
+        "economía",
+        "empresa",
+        "bolsa"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "El Corte Ingles: cinco terremotos en la cúpula desde 2019",
+      "url": "https://www.expansion.com/empresas/distribucion/2026/06/20/6a35b4d9468aeb326f8b459a.html",
+      "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/06/19/17819048462247.jpg",
+      "fecha": "2026-06-19T22:29:25.000Z",
+      "fuenteId": "expansion",
+      "fuenteTitle": "Expansión",
+      "categorias": [
+        "economía",
+        "empresa",
+        "bolsa"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Qué oportunidades trae la paz en Irán a la Bolsa",
+      "url": "https://www.expansion.com/mercados/2026/06/20/6a3592a6e5fdea127f8b45a3.html",
+      "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/06/19/17819043665190.jpg",
+      "fecha": "2026-06-19T22:29:22.000Z",
+      "fuenteId": "expansion",
+      "fuenteTitle": "Expansión",
+      "categorias": [
+        "economía",
+        "empresa",
+        "bolsa"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "CSN y Gobierno ultiman la luz verde a prorrogar Almaraz",
+      "url": "https://www.expansion.com/empresas/energia/2026/06/20/6a35adc8e5fdea4e278b45a5.html",
+      "imagen": "http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&cg=rss-expansion&ci=es-widgetueditorial&si=https://www.expansion.com/rss/portada.xml",
+      "fecha": "2026-06-19T22:29:20.000Z",
+      "fuenteId": "expansion",
+      "fuenteTitle": "Expansión",
+      "categorias": [
+        "economía",
+        "empresa",
+        "bolsa"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Sólo dos universidades españolas entre las 200 mejores del mundo",
+      "url": "https://www.expansion.com/expansion-empleo/desarrollo-de-carrera/2026/06/19/6a358130e5fdeaff1e8b45c3.html",
+      "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/06/19/17818955627612.jpg",
+      "fecha": "2026-06-19T22:25:50.000Z",
+      "fuenteId": "expansion",
+      "fuenteTitle": "Expansión",
+      "categorias": [
+        "economía",
+        "empresa",
+        "bolsa"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "NotebookLM se prepara para recibir la mejor función de Gemini: ahora no dejarás de usarlo",
+      "url": "https://hipertextual.com/inteligencia-artificial/notebooklm-inteligencia-personal-edicion-notas-ia/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/12/Gemini-y-NotebookLM-1.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
+      "fecha": "2026-06-19T22:25:00.000Z",
+      "fuenteId": "hipertextual",
+      "fuenteTitle": "Hipertextual",
+      "categorias": [
+        "tecnología",
+        "ciencia",
+        "cultura digital",
+        "entretenimiento"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Guía para invertir en 'criptos' a través de plataformas reguladas",
+      "url": "https://www.expansion.com/mercados/criptomonedas/2026/06/20/6a35ac73e5fdea66548b457d.html",
+      "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/06/19/17819024141907.jpg",
+      "fecha": "2026-06-19T22:23:39.000Z",
+      "fuenteId": "expansion",
+      "fuenteTitle": "Expansión",
+      "categorias": [
+        "economía",
+        "empresa",
+        "bolsa"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Santander, Telefónica, Indra, CAF... Las empresas españolas se centran en crecer tras el Brexit",
+      "url": "https://www.expansion.com/economia/2026/06/20/6a358f6b468aeb6d4c8b4575.html",
+      "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2019/08/23/15665566362402.jpg",
+      "fecha": "2026-06-19T22:23:17.000Z",
+      "fuenteId": "expansion",
+      "fuenteTitle": "Expansión",
+      "categorias": [
+        "economía",
+        "empresa",
+        "bolsa"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Marc Andreessen, el informático favorito de Trump",
+      "url": "https://www.expansion.com/empresas/2026/06/20/6a359818468aeb9c6d8b458c.html",
+      "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/06/19/17818972912270.jpg",
+      "fecha": "2026-06-19T22:22:29.000Z",
+      "fuenteId": "expansion",
+      "fuenteTitle": "Expansión",
+      "categorias": [
+        "economía",
+        "empresa",
+        "bolsa"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "EEUU acaba de incorporar un nuevo Boeing 747 a su flota presidencial. Detrás hay un polémico regalo de Qatar",
+      "url": "https://www.xataka.com/magnet/eeuu-acaba-incorporar-nuevo-boeing-747-a-su-flota-presidencial-detras-hay-polemico-regalo-qatar",
+      "imagen": "https://i.blogs.es/c33e81/nuevo-avion-presidencial-estados-unidos-1/1024_2000.jpeg",
+      "fecha": "2026-06-19T22:21:40.000Z",
+      "fuenteId": "xataka",
+      "fuenteTitle": "Xataka",
+      "categorias": [
+        "tecnología",
+        "gadgets",
+        "ciencia"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "El Badajoz espera salir con un ascenso de la boca de El Lobo",
+      "url": "https://www.elperiodicoextremadura.com/deportes/2026/06/20/badajoz-espera-salir-ascenso-boca-131617961.html",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/a6b6bac3-1bfc-45c3-aa81-46729354d7dc_16-9-aspect-ratio_default_0_x640y284.jpg",
+      "fecha": "2026-06-19T22:20:58.000Z",
+      "fuenteId": "el-periodico-extremadura",
+      "fuenteTitle": "El Periódico Extremadura",
+      "categorias": [
+        "extremadura",
+        "caceres",
+        "provincia-caceres",
+        "plasencia"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Raquel Bollo se sincera sobre su ex amiga, Isabel Pantoja, en De Viernes: \"Si realmente piensa eso, qué pena\"",
+      "url": "https://www.diezminutos.es/famosos-corazon/famosos-espanoles/a71640952/raquel-bollo-ex-amiga-isabel-pantoja-de-viernes-que-pena/",
+      "imagen": "https://hips.hearstapps.com/hmg-prod/images/dcf85dce-759b-418f-aa3d-eceb471ef77f.jpg",
+      "fecha": "2026-06-19T22:17:00.000Z",
+      "fuenteId": "diez-minutos",
+      "fuenteTitle": "Diez Minutos",
+      "categorias": [
+        "cotilleos",
+        "influencers",
+        "television"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Revolut, Trade Republic y N26 tienen una cuota de mercado del 0,4% en España",
+      "url": "https://www.expansion.com/empresas/banca/2026/06/20/6a3574f5e5fdeaff1e8b45b9.html",
+      "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/06/19/17818882014661.jpg",
+      "fecha": "2026-06-19T22:14:35.000Z",
+      "fuenteId": "expansion",
+      "fuenteTitle": "Expansión",
+      "categorias": [
+        "economía",
+        "empresa",
+        "bolsa"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Indra, Arquimea, EM&E y Oesía se lanzan a por contratos de drones",
+      "url": "https://www.expansion.com/empresas/industria/2026/06/20/6a35a033e5fdea567f8b45a0.html",
+      "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/06/19/17818996918019.jpg",
+      "fecha": "2026-06-19T22:14:32.000Z",
+      "fuenteId": "expansion",
+      "fuenteTitle": "Expansión",
+      "categorias": [
+        "economía",
+        "empresa",
+        "bolsa"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Anatomía de un alto el fuego: en Oriente Medio, lo que queda pendiente suele retornar con venganza añadida",
+      "url": "https://www.elmundo.es/internacional/2026/06/20/6a353ef3fc6c8359448b45be.html",
+      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/06/19/17818744682402.jpg",
+      "fecha": "2026-06-19T22:12:28.000Z",
+      "fuenteId": "el-mundo-internacional",
+      "fuenteTitle": "El Mundo - Internacional",
+      "categorias": [
+        "internacional",
+        "política",
+        "mundo"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "José Manuel Restrepo, candidato a vicepresidente con Abelardo de la Espriella: \"Petro deja Colombia peor que cuando la pandemia\"",
+      "url": "https://www.elmundo.es/internacional/2026/06/20/6a3524f0e4d4d88e1e8b4587.html",
+      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/06/19/17818677820550.jpg",
+      "fecha": "2026-06-19T22:12:27.000Z",
+      "fuenteId": "el-mundo-internacional",
+      "fuenteTitle": "El Mundo - Internacional",
+      "categorias": [
+        "internacional",
+        "política",
+        "mundo"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Teknia sondea la venta de un 40% del grupo a dos socios",
+      "url": "https://www.expansion.com/empresas/motor/2026/06/20/6a35a76ee5fdea567f8b45a9.html",
+      "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/06/19/17819012197084.jpg",
+      "fecha": "2026-06-19T22:11:57.000Z",
+      "fuenteId": "expansion",
+      "fuenteTitle": "Expansión",
+      "categorias": [
+        "economía",
+        "empresa",
+        "bolsa"
+      ],
+      "idioma": "es"
+    },
     {
       "titulo": "Roban la bici de Paula Blasi durante la Volta a Cataluña",
       "url": "https://www.elperiodicoextremadura.com/deportes/2026/06/20/roban-bici-paula-blasi-durante-131617898.html",
@@ -19,16 +331,75 @@
       "idioma": "es"
     },
     {
+      "titulo": "Trump jubila el Air Force One, pero presenta su nuevo avión: un regalo de Qatar valorado en 400 millones",
+      "url": "https://elpais.com/us/2026-06-19/trump-jubila-el-air-force-one-pero-presenta-su-nuevo-avion-un-regalo-de-qatar-valorado-en-400-millones.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/RF4CUEKKX5LKHAITLVACBDT5TY.jpg?auth=6c1abd02a571426694d7da369cc677bd8ab482007e73be2e4b45ac2cf4effe4d",
+      "fecha": "2026-06-19T22:08:30.000Z",
+      "fuenteId": "el-pais",
+      "fuenteTitle": "El País",
+      "categorias": [
+        "general",
+        "españa",
+        "sociedad",
+        "tecnología",
+        "ciencia"
+      ],
+      "idioma": "es"
+    },
+    {
       "titulo": "Historia gráfica de la Bolsa española",
       "url": "https://www.expansion.com/especiales/40-aniversario-expansion/2026/06/12/69faf9a7e5fdead36a8b4572.html",
       "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/05/06/17780631969895.jpg",
       "fecha": "2026-06-19T22:07:41.000Z",
-      "fuenteId": "expansion-mercados",
-      "fuenteTitle": "Expansión - Mercados",
+      "fuenteId": "expansion",
+      "fuenteTitle": "Expansión",
       "categorias": [
-        "bolsa",
-        "mercados",
-        "economía"
+        "economía",
+        "empresa",
+        "bolsa"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Las camisetas más extravagantes de los Mundiales",
+      "url": "https://as.com/futbol/fotorrelato/las-camisetas-mas-extravagantes-de-los-mundiales-f202606-f/",
+      "imagen": "https://cloudfront-eu-central-1.images.arcpublishing.com/diarioas/D4QD3GKMO5CD3EAFO7QL2WJXEU.jpg",
+      "fecha": "2026-06-19T22:06:11.000Z",
+      "fuenteId": "as",
+      "fuenteTitle": "AS",
+      "categorias": [
+        "deportes",
+        "futbol",
+        "motor",
+        "baloncesto"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "La italiana a la que un despido le sirvió para montar un imperio de belleza",
+      "url": "https://www.expansion.com/directivos/estilo-vida/tendencias/2026/06/20/6a355712e5fdea117f8b458d.html",
+      "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/06/19/17818807136446.jpg",
+      "fecha": "2026-06-19T22:05:43.000Z",
+      "fuenteId": "expansion",
+      "fuenteTitle": "Expansión",
+      "categorias": [
+        "economía",
+        "empresa",
+        "bolsa"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Model 3, C-HR+, Dolphin Surf, EV3, R5, Elroq: los coches eléctricos que triunfan en España",
+      "url": "https://www.expansion.com/empresas/motor/2026/06/20/6a352314468aeb03518b45a3.html",
+      "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/06/19/17818687526775.jpg",
+      "fecha": "2026-06-19T22:05:40.000Z",
+      "fuenteId": "expansion",
+      "fuenteTitle": "Expansión",
+      "categorias": [
+        "economía",
+        "empresa",
+        "bolsa"
       ],
       "idioma": "es"
     },
@@ -37,12 +408,12 @@
       "url": "https://www.expansion.com/mercados/divisas/2026/06/20/6a35a549468aebb8668b4582.html",
       "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/06/19/17819006328018.jpg",
       "fecha": "2026-06-19T22:02:57.000Z",
-      "fuenteId": "expansion-mercados",
-      "fuenteTitle": "Expansión - Mercados",
+      "fuenteId": "expansion",
+      "fuenteTitle": "Expansión",
       "categorias": [
-        "bolsa",
-        "mercados",
-        "economía"
+        "economía",
+        "empresa",
+        "bolsa"
       ],
       "idioma": "es"
     },
@@ -58,6 +429,34 @@
         "caceres",
         "provincia-caceres",
         "plasencia"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Así aplica Cabify la IA para aumentar la ocupación de sus vehículos",
+      "url": "https://www.expansion.com/economia-digital/companias/2026/06/20/6a350889468aeb92398b459f.html",
+      "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/06/19/17818606737608.jpg",
+      "fecha": "2026-06-19T22:01:06.000Z",
+      "fuenteId": "expansion",
+      "fuenteTitle": "Expansión",
+      "categorias": [
+        "economía",
+        "empresa",
+        "bolsa"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Bertrand Sourdais, el francés con alma soriana que apuesta por la España vaciada con vinos de más de 1.000 euros",
+      "url": "https://www.expansion.com/fueradeserie/gastro/2026/06/20/6a1f1cc1e5fdea4f3a8b4584.html",
+      "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/06/02/17804236665982.jpg",
+      "fecha": "2026-06-19T22:01:04.000Z",
+      "fuenteId": "expansion",
+      "fuenteTitle": "Expansión",
+      "categorias": [
+        "economía",
+        "empresa",
+        "bolsa"
       ],
       "idioma": "es"
     },
@@ -86,6 +485,63 @@
         "internacional",
         "mundo",
         "política"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Mesas en patios y jardines urbanos",
+      "url": "https://www.expansion.com/directivos/estilo-vida/rincones-gastronomicos/2026/06/19/6a357d6be5fdeae1048b45ba.html",
+      "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/06/19/17818905053475.jpg",
+      "fecha": "2026-06-19T21:56:26.000Z",
+      "fuenteId": "expansion",
+      "fuenteTitle": "Expansión",
+      "categorias": [
+        "economía",
+        "empresa",
+        "bolsa"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Así es el primer motor de amoníaco que reduce más de un 90% las emisiones",
+      "url": "https://www.expansion.com/economia-digital/2026/06/19/6a355227e5fdeae1048b45ac.html",
+      "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/06/19/17818870541679.jpg",
+      "fecha": "2026-06-19T21:54:57.000Z",
+      "fuenteId": "expansion",
+      "fuenteTitle": "Expansión",
+      "categorias": [
+        "economía",
+        "empresa",
+        "bolsa"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "La España de la que habla Sánchez no existe",
+      "url": "https://www.expansion.com/economia/2026/06/19/6a35a08c468aeb3c658b4581.html",
+      "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/06/19/17818996844832.jpg",
+      "fecha": "2026-06-19T21:51:34.000Z",
+      "fuenteId": "expansion",
+      "fuenteTitle": "Expansión",
+      "categorias": [
+        "economía",
+        "empresa",
+        "bolsa"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "¡Georgina echa más leña al fuego!: su mensaje contra Joao Neves en Instagram",
+      "url": "https://www.mundodeportivo.com/futbol/mundial/20260619/1004197242/georgina-echa-lena-fuego-mensaje-joao-neves-instagram.html",
+      "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/01/16/696a5b961b51e.jpeg",
+      "fecha": "2026-06-19T21:51:15.000Z",
+      "fuenteId": "mundo-deportivo",
+      "fuenteTitle": "Mundo Deportivo",
+      "categorias": [
+        "deportes",
+        "futbol",
+        "motor",
+        "baloncesto"
       ],
       "idioma": "es"
     },
@@ -262,476 +718,6 @@
         "españa",
         "sociedad",
         "tecnología"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Colisión de trenes al norte de Londres deja un muerto",
-      "url": "https://www.dw.com/es/colisión-de-trenes-al-norte-de-londres-deja-un-muerto/a-77632804?maca=spa-rss-sp-all-1122-xml-mrss",
-      "imagen": "",
-      "fecha": "2026-06-19T21:32:00.000Z",
-      "fuenteId": "dw-espanol",
-      "fuenteTitle": "DW Español",
-      "categorias": [
-        "internacional",
-        "mundo",
-        "política"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Lo creas o no, SEGA estuvo a un paso de abandonar los juegos de ‘Sonic’",
-      "url": "https://hipertextual.com/videojuegos/sonic-estuvo-a-punto-abandonar-juegos-sonic/",
-      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/Sonic-1-scaled.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
-      "fecha": "2026-06-19T21:30:00.000Z",
-      "fuenteId": "hipertextual",
-      "fuenteTitle": "Hipertextual",
-      "categorias": [
-        "tecnología",
-        "ciencia",
-        "cultura digital",
-        "entretenimiento"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Todo le sale bien a Estados Unidos, ya en dieciseisavos",
-      "url": "https://www.mundodeportivo.com/futbol/mundial/20260619/1004197207/le-sale-estados-unidos-1-16.html",
-      "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/06/19/6a35b4338ef6f.jpeg",
-      "fecha": "2026-06-19T21:28:36.000Z",
-      "fuenteId": "mundo-deportivo",
-      "fuenteTitle": "Mundo Deportivo",
-      "categorias": [
-        "deportes",
-        "futbol",
-        "motor",
-        "baloncesto"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "22:00 | 19 JUN 2026 | TIEMPO DE JUEGO",
-      "url": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/22-00-19-jun-2026-juego-20260619_3388253.html",
-      "imagen": "",
-      "fecha": "2026-06-19T21:27:47.000Z",
-      "fuenteId": "cope-extremadura",
-      "fuenteTitle": "COPE Extremadura",
-      "categorias": [
-        "extremadura",
-        "radio",
-        "caceres",
-        "provincia-caceres"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Doble invasión de campo y amago de suspensión en el ascenso del Sabadell",
-      "url": "https://as.com/futbol/primera-rfef/doble-invasion-de-campo-y-amago-de-suspension-en-el-ascenso-del-sabadell-f202606-n/",
-      "imagen": "https://img.asmedia.epimg.net/resizer/v2/G24PW4OG6ZBCFNX7OWG6H7BS5A.jpeg?auth=29ce341c5945d693436693a5b5cecf9e07dc83c1289160a3a2d53f3fce537b1a",
-      "fecha": "2026-06-19T21:26:11.000Z",
-      "fuenteId": "as",
-      "fuenteTitle": "AS",
-      "categorias": [
-        "deportes",
-        "futbol",
-        "motor",
-        "baloncesto"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Fabiola Martínez responde a las críticas tras confesar que se imagina sin su hijo Kike",
-      "url": "https://www.mundodeportivo.com/elotromundo/gente/20260619/1004197223/fabiola-martinez-responde-criticas-confesar-imagina-hijo-kike-no-me-convierte-mala-madre-dct.html",
-      "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2025/01/24/67940b86a621a.r_d.854-445-0.jpeg",
-      "fecha": "2026-06-19T21:23:12.000Z",
-      "fuenteId": "mundo-deportivo",
-      "fuenteTitle": "Mundo Deportivo",
-      "categorias": [
-        "deportes",
-        "futbol",
-        "motor",
-        "baloncesto"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Achraf Hakimi se enfrentará a la Justicia francesa por caso de violación",
-      "url": "https://www.france24.com/es/video/20260619-achraf-hakimi-se-enfrentar%C3%A1-a-la-justicia-francesa-por-caso-de-violaci%C3%B3n",
-      "imagen": "https://s.france24.com/media/display/89d902cc-6c23-11f1-a73c-005056bf30b7/w:1024/p:16x9/ES-20260619-111015-111214-CS.jpg",
-      "fecha": "2026-06-19T21:22:00.000Z",
-      "fuenteId": "france24-espanol",
-      "fuenteTitle": "France 24 Español",
-      "categorias": [
-        "internacional",
-        "mundo",
-        "política"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "La Estados Unidos de Pochettino gana, pasa de ronda y luce oficio en su Mundial",
-      "url": "https://www.elperiodicoextremadura.com/deportes/2026/06/19/estados-unidos-pochettino-gana-pasa-131617317.html",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/7df12aa7-b05c-4e33-95e7-f0a35093409b_16-9-aspect-ratio_default_0_x1000y444.jpg",
-      "fecha": "2026-06-19T21:21:37.000Z",
-      "fuenteId": "el-periodico-extremadura",
-      "fuenteTitle": "El Periódico Extremadura",
-      "categorias": [
-        "extremadura",
-        "caceres",
-        "provincia-caceres",
-        "plasencia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Estados Unidos se gana un respeto",
-      "url": "https://elpais.com/deportes/mundial-futbol/2026-06-19/estados-unidos-se-gana-un-respeto.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/SV6GOBPCYFPQFBU3HVG3TGJO5M.jpg?auth=3e14fb90639540a26a9f9c6684fc59ed7d78247e4621366c4efb0b132008742f",
-      "fecha": "2026-06-19T21:19:18.000Z",
-      "fuenteId": "el-pais",
-      "fuenteTitle": "El País",
-      "categorias": [
-        "general",
-        "españa",
-        "sociedad",
-        "tecnología",
-        "ciencia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Perú: Fujimori aventaja a Sánchez, que convoca manifestaciones y denuncia irregularidades",
-      "url": "https://www.france24.com/es/video/20260619-per%C3%BA-fujimori-aventaja-a-s%C3%A1nchez-que-convoca-manifestaciones-y-denuncia-irregularidades",
-      "imagen": "https://s.france24.com/media/display/9ad3b532-6c22-11f1-ab43-005056bf30b7/w:1024/p:16x9/ES-20260619-090854-091045-CS.jpg",
-      "fecha": "2026-06-19T21:18:51.000Z",
-      "fuenteId": "france24-espanol",
-      "fuenteTitle": "France 24 Español",
-      "categorias": [
-        "internacional",
-        "mundo",
-        "política"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "¡El Sabadell vuelve a Segunda!",
-      "url": "https://as.com/futbol/primera-rfef/el-sabadell-vuelve-a-segunda-f202606-n/",
-      "imagen": "https://img.asmedia.epimg.net/resizer/v2/5DTNMHY5RJGI5KSJJCL2B62DRE.jpeg?auth=97eccc8623b57102b8b8480da0a4dfd0b578c34e19d093a1a59946e79a15bcdb",
-      "fecha": "2026-06-19T21:18:48.000Z",
-      "fuenteId": "as",
-      "fuenteTitle": "AS",
-      "categorias": [
-        "deportes",
-        "futbol",
-        "motor",
-        "baloncesto"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Pudo costarle muy caro al Sabadell: la imagen de la discordia es un absoluto caos",
-      "url": "https://as.com/futbol/videos/pudo-costarle-muy-caro-al-sabadell-la-imagen-de-la-discordia-es-un-absoluto-caos-f202606-v/",
-      "imagen": "https://vdmedia.as.com/mcv/diarioas/multimedia/20260619/1185764_210839_video_1200.mp4",
-      "fecha": "2026-06-19T21:15:27.000Z",
-      "fuenteId": "as",
-      "fuenteTitle": "AS",
-      "categorias": [
-        "deportes",
-        "futbol",
-        "motor",
-        "baloncesto"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Claudia y Maica lanzan duros dardos a Alba Paul y compañía tras 'Supervivientes'",
-      "url": "https://www.mundodeportivo.com/elotromundo/television/20260619/1004197236/claudia-chacon-maica-benedicto-lanzan-duros-dardos-alba-paul-compania-supervivientes-dct.html",
-      "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/06/19/6a35b11b0634e.png",
-      "fecha": "2026-06-19T21:15:17.000Z",
-      "fuenteId": "mundo-deportivo",
-      "fuenteTitle": "Mundo Deportivo",
-      "categorias": [
-        "deportes",
-        "futbol",
-        "motor",
-        "baloncesto"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El Sabadell vuelve a la Segunda División",
-      "url": "https://www.cope.es/programas/tiempo-de-juego/noticias/sabadell-vuelve-segunda-division-20260619_3388251.html",
-      "imagen": "https://imagenes.cope.es/files/og_thumbnail/files/fp/uploads/2026/05/15/6a07387d8ecc0.r_d.1500-1000-0.jpeg",
-      "fecha": "2026-06-19T21:13:27.000Z",
-      "fuenteId": "cope-extremadura",
-      "fuenteTitle": "COPE Extremadura",
-      "categorias": [
-        "extremadura",
-        "radio",
-        "caceres",
-        "provincia-caceres"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Vilau, Casado y Cuartero, a hombros con una gran novillada de Talavante en la primera de Hogueras",
-      "url": "https://www.elmundo.es/cultura/toros/2026/06/19/6a35b0dde85ece80238b4575.html",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/06/19/17819035274539.jpg",
-      "fecha": "2026-06-19T21:13:12.000Z",
-      "fuenteId": "el-mundo",
-      "fuenteTitle": "El Mundo",
-      "categorias": [
-        "general",
-        "españa",
-        "sociedad",
-        "tecnología"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Escocia - Marruecos, en directo: fase de grupos del Mundial 2026 hoy, en vivo",
-      "url": "https://as.com/futbol/mundial/escocia-marruecos-en-directo-fase-de-grupos-del-mundial-2026-hoy-en-vivo-f202606-d/",
-      "imagen": "https://img.asmedia.epimg.net/resizer/v2/YE66KJL5WJE6ZDRDZ6DESQGQJ4.jpg?auth=f7a940bc06307b905071016903615bb677ae64c09de4f08d8e9dc49e3357d361",
-      "fecha": "2026-06-19T21:11:56.000Z",
-      "fuenteId": "as",
-      "fuenteTitle": "AS",
-      "categorias": [
-        "deportes",
-        "futbol",
-        "motor",
-        "baloncesto"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Estados Unidos brilla y luego duerme",
-      "url": "https://as.com/us/futbol/mundial/estados-unidos-brilla-y-luego-duerme-f202606-n/",
-      "imagen": "https://img.asmedia.epimg.net/resizer/v2/IQDKH3H7GFOWDJOSZ4CCB7B6WU.jpg?auth=550e3844f2df1cac730354ef145d24a4d846a508d98b641a6a177f233da8be89",
-      "fecha": "2026-06-19T21:08:14.000Z",
-      "fuenteId": "as",
-      "fuenteTitle": "AS",
-      "categorias": [
-        "deportes",
-        "futbol",
-        "motor",
-        "baloncesto"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Israel y Hezbolá anuncian cese el fuego tras ataques y suspensión de negociación Irán - EE. UU.",
-      "url": "https://www.france24.com/es/video/20260619-israel-y-hezbol%C3%A1-anuncian-cese-el-fuego-tras-ataques-y-suspensi%C3%B3n-de-negociaci%C3%B3n-ir%C3%A1n-ee-uu",
-      "imagen": "https://s.france24.com/media/display/06d794a8-6c12-11f1-8af9-005056a90284/w:1024/p:16x9/ES-20260619-090403-090542-CS.jpg",
-      "fecha": "2026-06-19T21:05:00.000Z",
-      "fuenteId": "france24-espanol",
-      "fuenteTitle": "France 24 Español",
-      "categorias": [
-        "internacional",
-        "mundo",
-        "política"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Estados Unidos demuestra quién es el verdadero 'rey' del 'soccer'",
-      "url": "https://www.marca.com/futbol/mundial/cronica/2026/06/19/estados-unidos-demuestra-verdadero-rey-soccer.html",
-      "imagen": "https://e01-xlk-ue-marca.uecdn.es/files/article_main_microformat/uploads/2026/06/19/6a35ad7182806.jpeg",
-      "fecha": "2026-06-19T21:04:00.000Z",
-      "fuenteId": "marca",
-      "fuenteTitle": "Marca",
-      "categorias": [
-        "deportes",
-        "futbol",
-        "motor",
-        "baloncesto"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Transfermarkt lo tasa en 40M€ y va a valer el doble cuando acabe el Mundial: vean lo bueno que es el crack de USA",
-      "url": "https://as.com/futbol/videos/transfermarkt-lo-tasa-en-40m-y-va-a-valer-el-doble-cuando-acabe-el-mundial-vean-lo-bueno-que-es-el-crack-de-usa-f202606-v/",
-      "imagen": "https://vdmedia.as.com/mcv/diarioas/multimedia/20260619/1185761_210212_video_1200.mp4",
-      "fecha": "2026-06-19T21:03:10.000Z",
-      "fuenteId": "as",
-      "fuenteTitle": "AS",
-      "categorias": [
-        "deportes",
-        "futbol",
-        "motor",
-        "baloncesto"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Deficiente, pero irreemplazable: cómo la lechuga iceberg conquistó el mundo",
-      "url": "https://www.directoalpaladar.com/ingredientes-y-alimentos/deficiente-irreemplazable-como-lechuga-iceberg-conquisto-mundo-1",
-      "imagen": "https://i.blogs.es/010a5b/lechuga_iceberg/1024_2000.jpeg",
-      "fecha": "2026-06-19T21:00:17.000Z",
-      "fuenteId": "directo-al-paladar",
-      "fuenteTitle": "Directo al Paladar",
-      "categorias": [
-        "gastronomía",
-        "recetas",
-        "cocina"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Lula ironiza sobre el papel de Neymar en el Mundial: \"Es el primer jugador con teletrabajo\"",
-      "url": "https://www.eldiario.es/rastreador/lula-ironiza-papel-neymar-mundial-primer-jugador-teletrabajo_132_13319400.html",
-      "imagen": "https://static.eldiario.es/clip/d01cfa59-7619-4fa2-9295-c57d40905327_16-9-discover-aspect-ratio_default_0_x2693y2145.jpg",
-      "fecha": "2026-06-19T21:00:01.000Z",
-      "fuenteId": "eldiario-es",
-      "fuenteTitle": "elDiario.es",
-      "categorias": [
-        "general",
-        "españa",
-        "sociedad",
-        "política"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Así es AlaZ, la nueva prueba final de 'Pasapalabra' que sustituye a El Rosco: todos sus secretos",
-      "url": "https://www.hola.com/actualidad/20260619908407/alaz-nueva-prueba-final-pasapalabra-sustituye-a-el-rosco/",
-      "imagen": "https://www.hola.com/horizon/landscape/4242540eeb56-rl.png",
-      "fecha": "2026-06-19T20:57:42.000Z",
-      "fuenteId": "hola",
-      "fuenteTitle": "¡Hola!",
-      "categorias": [
-        "cotilleos",
-        "influencers",
-        "moda",
-        "belleza"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "La Fiscalía Europea ve delitos en otro contrato del empresario amigo de Begoña para el que firmaba cartas de recomendación",
-      "url": "https://www.elmundo.es/espana/2026/06/19/6a358044e9cf4a947d8b45a4.html",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/06/19/17819011245816.jpg",
-      "fecha": "2026-06-19T20:56:45.000Z",
-      "fuenteId": "el-mundo-espana",
-      "fuenteTitle": "El Mundo - España",
-      "categorias": [
-        "política",
-        "españa",
-        "sociedad"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El hundimiento del 'mito Zapatero': cinco meses que destruyeron un icono que ya sólo resiste para los sanchistas puros",
-      "url": "https://www.elmundo.es/espana/2026/06/19/6a353761e4d4d87e7a8b459f.html",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/06/17/17817239413901.jpg",
-      "fecha": "2026-06-19T20:55:41.000Z",
-      "fuenteId": "el-mundo-espana",
-      "fuenteTitle": "El Mundo - España",
-      "categorias": [
-        "política",
-        "españa",
-        "sociedad"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Las explicaciones de Zapatero",
-      "url": "https://www.elmundo.es/espana/2026/06/19/6a358168fdddff3c348b45b1.html",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/06/17/17817162812051.jpg",
-      "fecha": "2026-06-19T20:54:49.000Z",
-      "fuenteId": "el-mundo-espana",
-      "fuenteTitle": "El Mundo - España",
-      "categorias": [
-        "política",
-        "españa",
-        "sociedad"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Los líderes de la UE fuerzan una discusión sobre inmigración tras el choque de Sánchez con Merz, Meloni y Frederiksen",
-      "url": "https://www.elmundo.es/espana/2026/06/19/6a358060e9cf4adf2f8b45b6.html",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/06/19/17819007116643.jpg",
-      "fecha": "2026-06-19T20:53:57.000Z",
-      "fuenteId": "el-mundo-espana",
-      "fuenteTitle": "El Mundo - España",
-      "categorias": [
-        "política",
-        "españa",
-        "sociedad"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Iván Espinosa de los Monteros: \"La prioridad nacional es echar a Pedro Sánchez del Gobierno\"",
-      "url": "https://www.elmundo.es/espana/2026/06/19/6a31912c21efa0723d8b457a.html",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/06/16/17816336163310.jpg",
-      "fecha": "2026-06-19T20:50:22.000Z",
-      "fuenteId": "el-mundo-espana",
-      "fuenteTitle": "El Mundo - España",
-      "categorias": [
-        "política",
-        "españa",
-        "sociedad"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Sánchez: “Presentaremos los presupuestos en 2026 y habrá elecciones en 2027”",
-      "url": "https://www.elperiodicoextremadura.com/videos/espana/2026/06/19/sanchez-presentaremos-presupuestos-2026-habra-131616945.html",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/dbfa3d7c-bd15-4000-94a4-ef521bc0ff8c_16-9-aspect-ratio_default_0_x1200y532.jpg",
-      "fecha": "2026-06-19T20:48:45.000Z",
-      "fuenteId": "el-periodico-extremadura",
-      "fuenteTitle": "El Periódico Extremadura",
-      "categorias": [
-        "extremadura",
-        "caceres",
-        "provincia-caceres",
-        "plasencia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Manu Sánchez dispara sus audiencias en TVE y triplica al nuevo programa de Juan y Medio en Canal Sur",
-      "url": "https://www.mundodeportivo.com/elotromundo/television/20260619/1004197227/manu-sanchez-crece-audiencias-triplica-rtve-nuevo-programa-juan-medio-canal-sur-dct.html",
-      "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/06/19/6a35aa7287b1c.jpeg",
-      "fecha": "2026-06-19T20:48:22.000Z",
-      "fuenteId": "mundo-deportivo",
-      "fuenteTitle": "Mundo Deportivo",
-      "categorias": [
-        "deportes",
-        "futbol",
-        "motor",
-        "baloncesto"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Queja oficial de Argelia a FIFA: \"Messi debió ver la roja\"",
-      "url": "https://www.marca.com/futbol/mundial/2026/06/19/queja-oficial-argelia-fifa-messi-debio-ver-roja.html",
-      "imagen": "https://e01-xlk-ue-marca.uecdn.es/files/article_main_microformat/uploads/2026/06/19/6a35a7b29ef77.jpeg",
-      "fecha": "2026-06-19T20:48:15.000Z",
-      "fuenteId": "marca",
-      "fuenteTitle": "Marca",
-      "categorias": [
-        "deportes",
-        "futbol",
-        "motor",
-        "baloncesto"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Irán presentará una queja ante la FIFA por las restricciones de viaje para el Mundial",
-      "url": "https://www.france24.com/es/deportes/20260619-ir%C3%A1n-presentar%C3%A1-una-queja-ante-la-fifa-por-las-restricciones-de-viaje-para-el-mundial",
-      "imagen": "https://s.france24.com/media/display/0676e6a0-6ba2-11f1-94ff-005056bfb2b6/w:1024/p:16x9/2026-06-16T023306Z-165806999-UP1EM6G0734CP-RTRMADP-3-SOCCER-WORLDCUP-IRN-NZL.jpg",
-      "fecha": "2026-06-19T20:47:24.000Z",
-      "fuenteId": "france24-espanol",
-      "fuenteTitle": "France 24 Español",
-      "categorias": [
-        "internacional",
-        "mundo",
-        "política"
       ],
       "idioma": "es"
     }
