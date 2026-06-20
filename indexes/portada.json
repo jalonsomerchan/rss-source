@@ -1,8 +1,655 @@
 {
-  "generado": "2026-06-20T18:01:18.128Z",
+  "generado": "2026-06-20T18:06:48.586Z",
   "limite": 50,
-  "total": 9016,
+  "total": 9066,
   "noticias": [
+    {
+      "titulo": "Jorge Ángel, enfermero: “Por la noche, cuando empieza a refrescar, hay que abrir las persianas y empezar a ventilar”",
+      "url": "https://www.directoalpaladar.com/consumidores/jorge-angel-enfermero-noche-cuando-empieza-a-refrescar-hay-que-abrir-persianas-empezar-a-ventilar",
+      "imagen": "https://i.blogs.es/8ad917/joana-costa-periodista/1024_2000.jpeg",
+      "fecha": "2026-06-20T18:01:08.000Z",
+      "fuenteId": "directo-al-paladar",
+      "fuenteTitle": "Directo al Paladar",
+      "categorias": [
+        "gastronomía",
+        "recetas",
+        "cocina"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Valencia - Barça, en directo: segundo partido de la final de la Liga Endesa en vivo",
+      "url": "https://as.com/baloncesto/acb/valencia-barca-en-directo-segundo-partido-de-la-final-de-la-liga-endesa-en-vivo-f202606-n/",
+      "imagen": "https://img.asmedia.epimg.net/resizer/v2/UAW4GRPO4FISRPJCZ6LLIPU7XA.jpg?auth=8f2565088ace132dbc13151414827456b8f4ef2307a0a88832f0ffa8f4faae63",
+      "fecha": "2026-06-20T18:00:36.000Z",
+      "fuenteId": "as",
+      "fuenteTitle": "AS",
+      "categorias": [
+        "deportes",
+        "futbol",
+        "motor",
+        "baloncesto"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Acude a un restaurante con dos estrellas Michelin, se gasta más de 800€ y explota por un detalle: “No me gusta”",
+      "url": "https://as.com/tikitakas/virales/acude-a-un-restaurante-con-dos-estrellas-michelin-se-gasta-mas-de-800-y-explota-por-un-detalle-no-me-gusta-f202606-n/",
+      "imagen": "https://img.asmedia.epimg.net/resizer/v2/PW6IQFHR5NAJJBGBEU76XA2O4E.jpg?auth=0355b1daa45685a7a87fc3c23d519c83dfff12ee7b1f248bbd52492e3228f8dc",
+      "fecha": "2026-06-20T18:00:00.000Z",
+      "fuenteId": "as",
+      "fuenteTitle": "AS",
+      "categorias": [
+        "deportes",
+        "futbol",
+        "motor",
+        "baloncesto"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Por qué las mujeres españolas más elegantes están agotando este vestido de lino que acaba de llegar a Zara: estiliza todas las figuras",
+      "url": "https://www.cosmopolitan.com/es/moda/novedades-moda/a71612379/vestido-lino-zara-mujeres-elegantes-espanolas/",
+      "imagen": "https://hips.hearstapps.com/hmg-prod/images/6ece2c22-0b29-4eea-a526-94613284ab98.jpg",
+      "fecha": "2026-06-20T18:00:00.000Z",
+      "fuenteId": "cosmopolitan-espana",
+      "fuenteTitle": "Cosmopolitan España",
+      "categorias": [
+        "moda",
+        "belleza",
+        "influencers",
+        "lifestyle"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Mónica Cruz (49): \"Llevo tres perros en cada mano. Ojalá todo el mundo tuviera la capacidad de saber cuidar y vivir con un animal porque nos enseñan tanto”",
+      "url": "https://www.harpersbazaar.com/es/famosas/el-estilo-de/a71502340/monica-cruz-tres-perros-cada-mano-ojala-todo-mundo-tuviera-capacidad-saber-cuidar-vivir-animal-ensenan-tanto/",
+      "imagen": "https://hips.hearstapps.com/hmg-prod/images/e24ef28b-140b-4187-b727-77198817c803.jpeg",
+      "fecha": "2026-06-20T18:00:00.000Z",
+      "fuenteId": "harpers-bazaar-espana",
+      "fuenteTitle": "Harper's Bazaar España",
+      "categorias": [
+        "moda",
+        "belleza",
+        "lujo"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Olvídate de un nuevo PC: lo nuevo de Windows 11 hará que tu Photoshop vaya más rápido",
+      "url": "https://hipertextual.com/software/photoshop-windows11-mejora-rendimiento-microsoft-adobe/",
+      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/adobe-photoshop-01.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
+      "fecha": "2026-06-20T18:00:00.000Z",
+      "fuenteId": "hipertextual",
+      "fuenteTitle": "Hipertextual",
+      "categorias": [
+        "tecnología",
+        "ciencia",
+        "cultura digital",
+        "entretenimiento"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Almería - Málaga en directo: vuelta de la final del playoff de ascenso a Primera hoy, en vivo",
+      "url": "https://as.com/futbol/segunda/almeria-malaga-en-directo-vuelta-de-la-final-del-playoff-de-ascenso-a-primera-hoy-en-vivo-f202606-d/",
+      "imagen": "https://img.asmedia.epimg.net/resizer/v2/NSRX4AMBK5DVPHQTDRVPK7WZ6Q.jpg?auth=f3bd969654e83803491be28403e2c4c82b030a55ba2226eb3163626c57735050",
+      "fecha": "2026-06-20T17:59:18.000Z",
+      "fuenteId": "as",
+      "fuenteTitle": "AS",
+      "categorias": [
+        "deportes",
+        "futbol",
+        "motor",
+        "baloncesto"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Yaroslav Trofimov, reportero de guerra ucraniano: \"El frente ahora es una zona mortal donde nadie puede actuar por los drones\"",
+      "url": "https://www.elmundo.es/internacional/2026/06/15/6a2d14b3e85ece67128b459a.html",
+      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/06/13/17813397164203.jpg",
+      "fecha": "2026-06-20T17:58:58.000Z",
+      "fuenteId": "el-mundo-internacional",
+      "fuenteTitle": "El Mundo - Internacional",
+      "categorias": [
+        "internacional",
+        "política",
+        "mundo"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Crisis en pleno Mundial para Senegal",
+      "url": "https://www.mundodeportivo.com/futbol/mundial/20260620/1004197528/crisis-pleno-mundial-senegal.html",
+      "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/06/16/6a31b03ad884a.jpeg",
+      "fecha": "2026-06-20T17:58:45.000Z",
+      "fuenteId": "mundo-deportivo",
+      "fuenteTitle": "Mundo Deportivo",
+      "categorias": [
+        "deportes",
+        "futbol",
+        "motor",
+        "baloncesto"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "El caso del cuerpo hallado en un congelador de Castellón entra en un impás hasta la autopsia",
+      "url": "https://www.elperiodicoextremadura.com/sucesos/2026/06/20/caso-cuerpo-hallado-congelador-castellon-impas-autopsia-131635791.html",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/68ddcb52-66ae-4d8f-8749-b30126ce3fe4_16-9-aspect-ratio_default_0_x810y360.jpg",
+      "fecha": "2026-06-20T17:56:36.000Z",
+      "fuenteId": "el-periodico-extremadura",
+      "fuenteTitle": "El Periódico Extremadura",
+      "categorias": [
+        "extremadura",
+        "caceres",
+        "provincia-caceres",
+        "plasencia"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Galería | El ejemplo humano de los pisos tutelados de 'Santa Ana' de Monroy",
+      "url": "https://www.elperiodicoextremadura.com/fotos/caceres/2026/06/20/galeria-ejemplo-humano-pisos-tutelados-131635735.html",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/2136f1f4-6f5b-4998-86a3-179a6e181db5_16-9-aspect-ratio_default_0_x800y400.jpg",
+      "fecha": "2026-06-20T17:55:53.000Z",
+      "fuenteId": "el-periodico-extremadura",
+      "fuenteTitle": "El Periódico Extremadura",
+      "categorias": [
+        "extremadura",
+        "caceres",
+        "provincia-caceres",
+        "plasencia"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Demanda a la familia de la mujer que cuidaba por despido improcedente",
+      "url": "https://www.mundodeportivo.com/actualidad/20260620/1004197509/tribunal-da-razon-empleada-hogar-sindrome-tunel-carpiano-severo-obliga-seguridad-social-pagarle-pension-incapacidad-jst-dct.html",
+      "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/12/29/67713215662fe.r_d.2033-2306-0.jpeg",
+      "fecha": "2026-06-20T17:53:03.000Z",
+      "fuenteId": "mundo-deportivo",
+      "fuenteTitle": "Mundo Deportivo",
+      "categorias": [
+        "deportes",
+        "futbol",
+        "motor",
+        "baloncesto"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Mercedes señala la clave del salto de Ferrari y promete \"recuperar la ventaja perdida\"",
+      "url": "https://es.motorsport.com/f1/news/mercedes-explica-por-que-ferrari-acercado-respuesta/10831799/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=es",
+      "imagen": "https://cdn-8.motorsport.com/images/amp/0arKPa42/s6/andrea-kimi-antonelli-mercedes.jpg",
+      "fecha": "2026-06-20T17:50:55.000Z",
+      "fuenteId": "motorsport-espana",
+      "fuenteTitle": "Motorsport.com España",
+      "categorias": [
+        "deportes",
+        "motor",
+        "formula-1"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "La poco conocida historia de cómo unos mineros de Cornualles llevaron el fútbol a México hace más de 130 años",
+      "url": "https://www.bbc.com/mundo/articles/c20yn28ryr7o?at_medium=RSS&at_campaign=rss",
+      "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8b20/live/f8c43770-667d-11f1-9286-5160d00e7bd3.jpg",
+      "fecha": "2026-06-20T17:50:16.000Z",
+      "fuenteId": "bbc-mundo",
+      "fuenteTitle": "BBC News Mundo",
+      "categorias": [
+        "internacional",
+        "mundo",
+        "sociedad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "El juez Joaquim Bosch compara la situación de Zapatero con la de Begoña Gómez y llega a esta conclusión",
+      "url": "https://www.huffingtonpost.es/virales/el-juez-joaquim-bosch-compara-situacion-zapatero-begona-gomez-llega-conclusion-f202606.html",
+      "imagen": "",
+      "fecha": "2026-06-20T17:48:21.000Z",
+      "fuenteId": "huffpost-espana",
+      "fuenteTitle": "HuffPost España",
+      "categorias": [
+        "general",
+        "sociedad",
+        "televisión",
+        "tendencias"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "La Selección Española afina su puesta a punto en Atlanta con incógnitas en el once",
+      "url": "https://www.mundodeportivo.com/videos/selecciones/20260620/1004197523/seleccion-espanola-afina-puesta-punto-atlanta-incognitas-once-luis-fuente.html",
+      "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/06/20/6a36d225e97fd.jpeg",
+      "fecha": "2026-06-20T17:47:48.000Z",
+      "fuenteId": "mundo-deportivo",
+      "fuenteTitle": "Mundo Deportivo",
+      "categorias": [
+        "deportes",
+        "futbol",
+        "motor",
+        "baloncesto"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "El fin de curso más caliente de la educación valenciana: radiografía de un conflicto sin precedentes",
+      "url": "https://www.elperiodicoextremadura.com/sociedad/2026/06/20/final-curso-caliente-educacion-valenciana-131635562.html",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/d31aba9f-93dd-4080-8433-b0a91525285a_16-9-aspect-ratio_default_0_x1117y770.jpg",
+      "fecha": "2026-06-20T17:45:43.000Z",
+      "fuenteId": "el-periodico-extremadura",
+      "fuenteTitle": "El Periódico Extremadura",
+      "categorias": [
+        "extremadura",
+        "caceres",
+        "provincia-caceres",
+        "plasencia"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Ariane de Holanda (19 años), junto a sus padres, estrella en las gradas y talismán de su selección en el Mundial",
+      "url": "https://www.hola.com/realeza/casa_holanda/20260620908478/ariane-de-holanda-mundial-fotos/",
+      "imagen": "https://www.hola.com/horizon/landscape/7f1d9c2e1a3d-gettyimages-2281959714.jpg",
+      "fecha": "2026-06-20T17:45:32.000Z",
+      "fuenteId": "hola",
+      "fuenteTitle": "¡Hola!",
+      "categorias": [
+        "cotilleos",
+        "influencers",
+        "moda",
+        "belleza"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "PAUL SMITH - ATMOSPHERE",
+      "url": "https://www.harpersbazaar.com/es/pasarelas/hombre-primavera-verano-2027/g71646964/paul-smith-5lr-myl-atmosphere/",
+      "imagen": "https://hips.hearstapps.com/hmg-catwalk/catwalk/paul-smith/3faa4d01-0eb7-4e78-9434-d8842b86e2da.jpg",
+      "fecha": "2026-06-20T17:45:21.000Z",
+      "fuenteId": "harpers-bazaar-espana",
+      "fuenteTitle": "Harper's Bazaar España",
+      "categorias": [
+        "moda",
+        "belleza",
+        "lujo"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "5 series refrescantes para combatir la llegada del verano y su primera ola de calor",
+      "url": "https://www.eldiario.es/vertele/series/5-mejores-series-refrescantes-combatir-llegada-verano-primera-ola-calor_1_13311593.html",
+      "imagen": "https://static.eldiario.es/clip/fe58cfa7-52a9-47b0-9a96-0fdc3805cec9_16-9-discover-aspect-ratio_default_0.jpg",
+      "fecha": "2026-06-20T17:45:18.000Z",
+      "fuenteId": "vertele",
+      "fuenteTitle": "Vertele",
+      "categorias": [
+        "televisión",
+        "audiencias",
+        "series",
+        "programas"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "PAUL SMITH - ATMOSPHERE",
+      "url": "https://www.elle.com/es/pasarelas/hombre-primavera-verano-2027/g71646958/paul-smith-5or2-e-n-atmosphere/",
+      "imagen": "https://hips.hearstapps.com/hmg-catwalk/catwalk/paul-smith/32641439-d7a4-4ceb-868d-2c7213e80602.jpg",
+      "fecha": "2026-06-20T17:45:10.000Z",
+      "fuenteId": "elle-espana",
+      "fuenteTitle": "Elle España",
+      "categorias": [
+        "moda",
+        "belleza",
+        "lifestyle"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Los tres precedentes entre España y Arabia Saudí que invitan al optimismo",
+      "url": "https://as.com/futbol/videos/los-tres-precedentes-entre-espana-y-arabia-saudi-que-invitan-al-optimismo-f202606-v/",
+      "imagen": "https://vdmedia.as.com/mcv/diarioas/multimedia/20260620/1185982_165533_video_1200.mp4",
+      "fecha": "2026-06-20T17:42:19.000Z",
+      "fuenteId": "as",
+      "fuenteTitle": "AS",
+      "categorias": [
+        "deportes",
+        "futbol",
+        "motor",
+        "baloncesto"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Actualizando las previsiones de 2026",
+      "url": "https://www.expansion.com/mercados/2026/06/20/6a36cf75e5fdea24788b4575.html",
+      "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/06/20/17819772276949.jpg",
+      "fecha": "2026-06-20T17:41:46.000Z",
+      "fuenteId": "expansion-mercados",
+      "fuenteTitle": "Expansión - Mercados",
+      "categorias": [
+        "bolsa",
+        "mercados",
+        "economía"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "XXXIX CONCURSO NACIONAL HISPANO-LUSODE ALBAÑILERÍA CHINATO",
+      "url": "https://www.elperiodicoextremadura.com/fotos/extremadura/2026/06/20/xxxix-concurso-nacional-hispano-lusode-131635356.html",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/c740c097-716a-4560-914b-eb5ca0c5077d_16-9-aspect-ratio_default_0_x750y337.jpg",
+      "fecha": "2026-06-20T17:41:30.000Z",
+      "fuenteId": "el-periodico-extremadura",
+      "fuenteTitle": "El Periódico Extremadura",
+      "categorias": [
+        "extremadura",
+        "caceres",
+        "provincia-caceres",
+        "plasencia"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "China vuelve a amenazar a Estados Unidos y sigue con su pulso: les acusa de ‘reprimir’ a sus empresas",
+      "url": "https://as.com/actualidad/politica/china-vuelve-a-amenazar-a-estados-unidos-y-sigue-con-su-pulso-les-acusa-de-reprimir-a-sus-empresas-f202606-n/",
+      "imagen": "https://img.asmedia.epimg.net/resizer/v2/PQP54RR2PRKNPFUZHMFYCB6ZRU.jpg?auth=a2e4ca1d241d4749766fc914bb649df1a732b3798db14c72a38eca0a15d4c75b",
+      "fecha": "2026-06-20T17:40:48.000Z",
+      "fuenteId": "as",
+      "fuenteTitle": "AS",
+      "categorias": [
+        "deportes",
+        "futbol",
+        "motor",
+        "baloncesto"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Los 50 días en llamas del Real Madrid de baloncesto: de la lesión de Tavares a la dimisión de Sergio Rodríguez",
+      "url": "https://elpais.com/deportes/baloncesto/2026-06-20/los-50-dias-en-llamas-del-real-madrid-de-baloncesto-de-la-lesion-de-tavares-a-la-dimision-de-sergio-rodriguez.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/5PJ6SDKFLZJPHGMT7BZESSN744.jpg?auth=9d869a9918f6104a2f592dd742be12918bccf468e4da4f7fd386666ec8ff9f1f",
+      "fecha": "2026-06-20T17:36:41.000Z",
+      "fuenteId": "el-pais",
+      "fuenteTitle": "El País",
+      "categorias": [
+        "general",
+        "españa",
+        "sociedad",
+        "tecnología",
+        "ciencia"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "'Fichaje' de pretemporada de Luis García Plaza",
+      "url": "https://www.mundodeportivo.com/futbol/sevilla/20260620/1004197519/fichaje-pretemporada-luis-garcia-plaza.html",
+      "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/06/15/6a302de78ee53.jpeg",
+      "fecha": "2026-06-20T17:35:06.000Z",
+      "fuenteId": "mundo-deportivo",
+      "fuenteTitle": "Mundo Deportivo",
+      "categorias": [
+        "deportes",
+        "futbol",
+        "motor",
+        "baloncesto"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Palante, con togas y a lo loco",
+      "url": "https://www.eldiario.es/opinion/tribuna-abierta/palante-togas-loco_129_13320633.html",
+      "imagen": "https://static.eldiario.es/clip/c27ab34b-2d86-4293-a630-321f33f9a596_16-9-discover-aspect-ratio_default_0.jpg",
+      "fecha": "2026-06-20T17:34:29.000Z",
+      "fuenteId": "eldiario-es",
+      "fuenteTitle": "elDiario.es",
+      "categorias": [
+        "general",
+        "españa",
+        "sociedad",
+        "política"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Manifestantes europeístas piden en Londres revertir el Brexit diez años después",
+      "url": "https://www.elperiodicoextremadura.com/videos/internacional/2026/06/20/manifestantes-europeistas-piden-londres-revertir-131635189.html",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/10a24f39-4523-4492-ad40-6511d8247973_16-9-aspect-ratio_default_0_x387y143.jpg",
+      "fecha": "2026-06-20T17:34:06.000Z",
+      "fuenteId": "el-periodico-extremadura",
+      "fuenteTitle": "El Periódico Extremadura",
+      "categorias": [
+        "extremadura",
+        "caceres",
+        "provincia-caceres",
+        "plasencia"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Tamara Falcó tiene el vestido estampado de Pedro del Hierro rebajado a 86 € (antes 289 €) que agotarán las clásicas españolas",
+      "url": "https://www.elle.com/es/star-style/el-estilo-de/a71645891/tamara-falco-vestido-estampado-pedro-del-hierro-rebajas-verano/",
+      "imagen": "https://hips.hearstapps.com/hmg-prod/images/78286c5b-3434-41f9-b066-6b801b713bad.jpg",
+      "fecha": "2026-06-20T17:33:00.000Z",
+      "fuenteId": "elle-espana",
+      "fuenteTitle": "Elle España",
+      "categorias": [
+        "moda",
+        "belleza",
+        "lifestyle"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Restaurantes vacíos a la hora \"normal\" de cenar: el cachondeo constante de los guiris con los horarios españoles",
+      "url": "https://www.directoalpaladar.com/consumidores/restaurantes-vacios-a-hora-normal-cenar-cachondeo-constante-guiris-horarios-espanoles-1",
+      "imagen": "https://i.blogs.es/9fda91/fotojet-77-/1024_2000.jpeg",
+      "fecha": "2026-06-20T17:31:07.000Z",
+      "fuenteId": "directo-al-paladar",
+      "fuenteTitle": "Directo al Paladar",
+      "categorias": [
+        "gastronomía",
+        "recetas",
+        "cocina"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Jeff Bezos: “Toda la contaminación puede enviarse al espacio para volver al estado previo a la Revolución Industrial”",
+      "url": "https://www.xataka.com/espacio/jeff-bezos-toda-contaminacion-puede-enviarse-al-espacio-para-volver-al-estado-previo-a-revolucion-industrial",
+      "imagen": "https://i.blogs.es/eba871/chatgpt-image-19-jun-2026-13_27_04/1024_2000.png",
+      "fecha": "2026-06-20T17:31:07.000Z",
+      "fuenteId": "xataka",
+      "fuenteTitle": "Xataka",
+      "categorias": [
+        "tecnología",
+        "gadgets",
+        "ciencia"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Final de la Liga ACB | Valencia Basket - Barcelona, en directo",
+      "url": "https://www.elperiodicoextremadura.com/deportes/baloncesto/acb/2025-2026/valencia-basket-barcelona-30535_01_02_6206_6216.html",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/ef94394d-ec71-411e-9181-4bf1445bccbb_16-9-aspect-ratio_default_0_x1000y444.jpg",
+      "fecha": "2026-06-20T17:30:51.000Z",
+      "fuenteId": "el-periodico-extremadura",
+      "fuenteTitle": "El Periódico Extremadura",
+      "categorias": [
+        "extremadura",
+        "caceres",
+        "provincia-caceres",
+        "plasencia"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "SETCHU - Detalles",
+      "url": "https://www.harpersbazaar.com/es/pasarelas/hombre-primavera-verano-2027/g71646764/setchu-7-l3-iyp-detalles/",
+      "imagen": "https://hips.hearstapps.com/hmg-catwalk/catwalk/setchu/0d9ac288-fa86-4fb2-8bc3-9ceecc874d23.jpg",
+      "fecha": "2026-06-20T17:30:21.000Z",
+      "fuenteId": "harpers-bazaar-espana",
+      "fuenteTitle": "Harper's Bazaar España",
+      "categorias": [
+        "moda",
+        "belleza",
+        "lujo"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "SETCHU - Detalles",
+      "url": "https://www.elle.com/es/pasarelas/hombre-primavera-verano-2027/g71646759/setchu-021rthu9-detalles/",
+      "imagen": "https://hips.hearstapps.com/hmg-catwalk/catwalk/setchu/fc3087e5-40e9-4c7b-81a2-38da4470859a.jpg",
+      "fecha": "2026-06-20T17:30:13.000Z",
+      "fuenteId": "elle-espana",
+      "fuenteTitle": "Elle España",
+      "categorias": [
+        "moda",
+        "belleza",
+        "lifestyle"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "¿Por qué el Real Madrid niega contactos con Olise?",
+      "url": "https://www.mundodeportivo.com/futbol/real-madrid/20260620/1004197506/real-madrid-niega-contactos-olise.html",
+      "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/04/28/69f10f548bade.jpeg",
+      "fecha": "2026-06-20T17:30:00.000Z",
+      "fuenteId": "mundo-deportivo",
+      "fuenteTitle": "Mundo Deportivo",
+      "categorias": [
+        "deportes",
+        "futbol",
+        "motor",
+        "baloncesto"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Galería | Así es Plasenzuela, el pequeño pueblo cacereño que desafía a la despoblación",
+      "url": "https://www.elperiodicoextremadura.com/fotos/caceres/2026/06/20/galeria-plasenzuela-pequeno-pueblo-cacereno-131635032.html",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/6ad98f47-ebe5-44f6-992c-bd9889c68b06_16-9-aspect-ratio_default_0_x522y449.jpg",
+      "fecha": "2026-06-20T17:29:28.000Z",
+      "fuenteId": "el-periodico-extremadura",
+      "fuenteTitle": "El Periódico Extremadura",
+      "categorias": [
+        "extremadura",
+        "caceres",
+        "provincia-caceres",
+        "plasencia"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Bolivia comienza a desbloquearse tras 50 días de conflicto",
+      "url": "https://www.elmundo.es/elecciones/2026/06/20/6a36ccd521efa03d068b4577.html",
+      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/06/20/17819763364074.jpg",
+      "fecha": "2026-06-20T17:28:36.000Z",
+      "fuenteId": "el-mundo",
+      "fuenteTitle": "El Mundo",
+      "categorias": [
+        "general",
+        "españa",
+        "sociedad",
+        "tecnología"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Casemiro toma una decisión definitiva sobre su futuro: ya hay acuerdo",
+      "url": "https://www.mundodeportivo.com/futbol/fichajes/20260620/1004197511/casemiro.html",
+      "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/06/20/6a36cd54161f3.jpeg",
+      "fecha": "2026-06-20T17:27:37.000Z",
+      "fuenteId": "mundo-deportivo",
+      "fuenteTitle": "Mundo Deportivo",
+      "categorias": [
+        "deportes",
+        "futbol",
+        "motor",
+        "baloncesto"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Si ya has devorado 'Off-Campus', estas 7 series de romances juveniles y tensión romántica serán tu nueva obsesión",
+      "url": "https://www.hola.com/actualidad/20260620904952/off-campus-series-similares/",
+      "imagen": "https://www.hola.com/horizon/landscape/3891e3213af4-offcampuss1ut250619henlia0530r3000-1.jpg",
+      "fecha": "2026-06-20T17:27:00.000Z",
+      "fuenteId": "hola",
+      "fuenteTitle": "¡Hola!",
+      "categorias": [
+        "cotilleos",
+        "influencers",
+        "moda",
+        "belleza"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "La historia que conmovió a Aitana Bonmatí en pleno Mundial",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260620/1004197473/historia-conmovio-aitana-bonmati-pleno-mundial.html",
+      "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/04/08/69d6b29c6e308.jpeg",
+      "fecha": "2026-06-20T17:20:43.000Z",
+      "fuenteId": "mundo-deportivo",
+      "fuenteTitle": "Mundo Deportivo",
+      "categorias": [
+        "deportes",
+        "futbol",
+        "motor",
+        "baloncesto"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Pedro Martí, autor del fenómeno literario 'La mala hija': \"La escritura se parece mucho a la docencia en la capacidad para tocar corazones y que te lo agradezcan siempre\"",
+      "url": "https://www.huffingtonpost.es/life/cultura/pedro-marti-autor-fenomeno-literario-la-mala-hija-la-escritura-parece-docencia-capacidad-tocar-corazones-te-agradezcan-siempre-f202606.html",
+      "imagen": "",
+      "fecha": "2026-06-20T17:20:07.000Z",
+      "fuenteId": "huffpost-espana",
+      "fuenteTitle": "HuffPost España",
+      "categorias": [
+        "general",
+        "sociedad",
+        "televisión",
+        "tendencias"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "El príncipe Guillermo revela su afición secreta: conducir motos en incógnito",
+      "url": "https://www.cotilleo.es/2026/06/20/principe-guillermo-motos-incognito-524205/",
+      "imagen": "https://www.cotilleo.es/wp-content/uploads/2022/03/Principe-Guillermo-y-Kate-Middleton.jpg",
+      "fecha": "2026-06-20T17:18:00.000Z",
+      "fuenteId": "cotilleo",
+      "fuenteTitle": "Cotilleo.es",
+      "categorias": [
+        "cotilleos",
+        "influencers",
+        "television"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Valencia Basket - Barça, en directo",
+      "url": "https://www.mundodeportivo.com/baloncesto/acb/20260620/1004197229/valencia-basket-barca-directo-final-liga-endesa-segundo-partido-playoff-baloncesto.html",
+      "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/06/19/6a34db7274e3c.jpeg",
+      "fecha": "2026-06-20T17:17:50.000Z",
+      "fuenteId": "mundo-deportivo",
+      "fuenteTitle": "Mundo Deportivo",
+      "categorias": [
+        "deportes",
+        "futbol",
+        "motor",
+        "baloncesto"
+      ],
+      "idioma": "es"
+    },
     {
       "titulo": "La ciencia aún no sabe cómo alargar la vida humana, pero miles de personas ya siguen los tratamientos de los gurús tecnológicos de la longevidad sin pruebas concluyentes",
       "url": "https://muyinteresante.okdiario.com/curiosidades/gurus-tecnologicos-longevidad-tratamientos-sin-pruebas.html",
@@ -61,513 +708,10 @@
       "idioma": "es"
     },
     {
-      "titulo": "Fernando Méndez-Leite, reelegido presidente de la Academia de Cine",
-      "url": "https://www.eldiario.es/cultura/fernando-mendez-leite-reelegido-presidente-academia-cine_1_13320628.html",
-      "imagen": "https://static.eldiario.es/clip/105e4f3f-5dfb-4e28-95a7-21ca86c4f37d_16-9-discover-aspect-ratio_default_0.jpg",
-      "fecha": "2026-06-20T17:13:41.000Z",
-      "fuenteId": "eldiario-es",
-      "fuenteTitle": "elDiario.es",
-      "categorias": [
-        "general",
-        "españa",
-        "sociedad",
-        "política"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "La reacción de la actriz María Hervás cuando conoció a la reina Letizia: \"Me enamoré un poco de ella\"",
-      "url": "https://www.huffingtonpost.es/virales/la-reaccion-actriz-maria-hervas-conocio-reina-letizia-me-enamore-poco-f202606.html",
-      "imagen": "",
-      "fecha": "2026-06-20T17:11:52.000Z",
-      "fuenteId": "huffpost-espana",
-      "fuenteTitle": "HuffPost España",
-      "categorias": [
-        "general",
-        "sociedad",
-        "televisión",
-        "tendencias"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "David Cormand, eurodiputado, sobre la batalla tecnológica por la IA con Estados Unidos: \"Es una lucha a vida o muerte. No hay margen posible para el entendimiento\"",
-      "url": "https://www.huffingtonpost.es/global/david-cormand-eurodiputado-sobre-batalla-tecnologica-ia-estados-unidos-es-lucha-vida-muerte-hay-margen-posible-entendimiento-f202606.html",
-      "imagen": "",
-      "fecha": "2026-06-20T17:11:32.000Z",
-      "fuenteId": "huffpost-espana",
-      "fuenteTitle": "HuffPost España",
-      "categorias": [
-        "general",
-        "sociedad",
-        "televisión",
-        "tendencias"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Un banquero millonario con vínculos con la realeza europea, detenido como sospechoso del misterioso caso del 'empujador de Putney'",
-      "url": "https://www.huffingtonpost.es/sociedad/un-banquero-millonario-vinculos-realeza-europea-detenido-sospechoso-misterioso-caso-empujador-putney-f202606.html",
-      "imagen": "",
-      "fecha": "2026-06-20T17:11:12.000Z",
-      "fuenteId": "huffpost-espana",
-      "fuenteTitle": "HuffPost España",
-      "categorias": [
-        "general",
-        "sociedad",
-        "televisión",
-        "tendencias"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Si el Fire TV de Amazon se queda sin WiFi o sin sonido, estas soluciones lo arreglan en segundos",
-      "url": "https://www.adslzone.net/noticias/streaming-tv/fire-tv-sin-wifi-sonido-soluciones/",
-      "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/06/problemas-fire-tv-amazon.jpg",
-      "fecha": "2026-06-20T17:09:03.000Z",
-      "fuenteId": "adslzone",
-      "fuenteTitle": "ADSLZone",
-      "categorias": [
-        "tecnología",
-        "internet",
-        "telecomunicaciones",
-        "streaming"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Muere en un accidente aéreo Claude Guillemot, uno de los fundadores de Ubisoft, creadora de Assassin's Creed",
-      "url": "https://www.elmundo.es/tecnologia/2026/06/20/6a36c8d3fc6c83f01a8b45ac.html",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/06/20/17819750069493.jpg",
-      "fecha": "2026-06-20T17:07:33.000Z",
-      "fuenteId": "el-mundo",
-      "fuenteTitle": "El Mundo",
-      "categorias": [
-        "general",
-        "españa",
-        "sociedad",
-        "tecnología"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Giulio recorrió el Himalaya, Madagascar y las fuentes del Ganges para acabar siendo el único habitante de una aldea perdida en los Alpes: \"De profesión, soy peregrino\"",
-      "url": "https://www.huffingtonpost.es/sociedad/giulio-recorrio-himalaya-madagascar-fuentes-ganges-acabar-siendo-unico-habitante-aldea-perdida-alpes-de-profesion-peregrino-f202606.html",
-      "imagen": "",
-      "fecha": "2026-06-20T17:01:23.000Z",
-      "fuenteId": "huffpost-espana",
-      "fuenteTitle": "HuffPost España",
-      "categorias": [
-        "general",
-        "sociedad",
-        "televisión",
-        "tendencias"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Poco tiene que ver con el amor y sí mucho con la fe: por qué al maracuyá también se le llama fruta de la pasión",
-      "url": "https://www.directoalpaladar.com/cultura-gastronomica/poco-tiene-que-ver-amor-mucho-fe-que-al-maracuya-tambien-se-le-llama-fruta-pasion",
-      "imagen": "https://i.blogs.es/2a33bf/flor-passiflora/1024_2000.jpeg",
-      "fecha": "2026-06-20T17:01:08.000Z",
-      "fuenteId": "directo-al-paladar",
-      "fuenteTitle": "Directo al Paladar",
-      "categorias": [
-        "gastronomía",
-        "recetas",
-        "cocina"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Samara Weaving, actriz, sobre su pasión por los videojuegos: \"Siempre he creído que Yoshi es muy sexy. Es mi alma gemela\"",
-      "url": "https://www.espinof.com/actores-y-actrices/samara-weaving-actriz-su-pasion-videojuegos-siempre-he-creido-que-yoshi-muy-sexy-mi-alma-gemela",
-      "imagen": "https://i.blogs.es/d516bb/47700913-1de0-4617-880b-07e7fb06/1024_2000.jpeg",
-      "fecha": "2026-06-20T17:01:08.000Z",
-      "fuenteId": "espinof",
-      "fuenteTitle": "Espinof",
-      "categorias": [
-        "cine",
-        "series",
-        "televisión",
-        "streaming"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El triple de potente que las Tres Gargantas: así es el coloso hidroeléctrico con el que China \"está intentando domar la naturaleza\"",
-      "url": "https://www.xataka.com/energia/triple-potente-que-tres-gargantas-asi-coloso-hidroelectrico-que-china-esta-intentando-domar-naturaleza",
-      "imagen": "https://i.blogs.es/e6bf25/megapresa/1024_2000.jpeg",
-      "fecha": "2026-06-20T17:01:08.000Z",
-      "fuenteId": "xataka",
-      "fuenteTitle": "Xataka",
-      "categorias": [
-        "tecnología",
-        "gadgets",
-        "ciencia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Las 5 mejores manicuras minimalistas para dar aspecto limpio y cuidado a las uñas durante todo el verano",
-      "url": "https://www.cosmopolitan.com/es/belleza/unas-manicura/a71628816/manicuras-minimalistas-aspecto-limpio-cuidado-unas/",
-      "imagen": "https://hips.hearstapps.com/hmg-prod/images/7e2be517-fd4a-429c-821d-9e0c712bdebf.png",
-      "fecha": "2026-06-20T17:00:00.000Z",
-      "fuenteId": "cosmopolitan-espana",
-      "fuenteTitle": "Cosmopolitan España",
-      "categorias": [
-        "moda",
-        "belleza",
-        "influencers",
-        "lifestyle"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "5 veces que Pixar hizo historia y cambió el mundo de la animación",
-      "url": "https://hipertextual.com/cine-television/5-veces-que-pixar-hizo-historia-y-cambio-el-mundo-de-la-animacion/",
-      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/Pixar.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
-      "fecha": "2026-06-20T17:00:00.000Z",
-      "fuenteId": "hipertextual",
-      "fuenteTitle": "Hipertextual",
-      "categorias": [
-        "tecnología",
-        "ciencia",
-        "cultura digital",
-        "entretenimiento"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "La mejor colonia fresca de verano es de Massimo Dutti y la he puesto a prueba a más de 30 grados en Barcelona",
-      "url": "https://www.marie-claire.es/belleza/mejor-colonia-fresca-verano-massimo-dutti.html",
-      "imagen": "",
-      "fecha": "2026-06-20T17:00:00.000Z",
-      "fuenteId": "marie-claire-espana",
-      "fuenteTitle": "Marie Claire España",
-      "categorias": [
-        "moda",
-        "belleza",
-        "lifestyle"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Ismael Clemente: \"si empezamos las obras en septiembre, en dos años y medio estará en marcha el centro de datos de Navalmoral\"",
-      "url": "https://www.elperiodicoextremadura.com/extremadura/2026/06/20/ismael-clemente-empezamos-obras-septiembre-131634160.html",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/81f0c1fb-84f7-45a1-98a3-0ecaa75743c4_16-9-aspect-ratio_default_0_x967y429.jpg",
-      "fecha": "2026-06-20T16:57:25.000Z",
-      "fuenteId": "el-periodico-extremadura",
-      "fuenteTitle": "El Periódico Extremadura",
-      "categorias": [
-        "extremadura",
-        "caceres",
-        "provincia-caceres",
-        "plasencia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El Once Ideal de Segunda División para Tiempo de Juego",
-      "url": "https://www.cope.es/programas/tiempo-de-juego/noticias/once-ideal-segunda-division-juego-20260620_3388355.html",
-      "imagen": "https://imagenes.cope.es/files/og_thumbnail/uploads/2026/06/20/6a36c635afe11.jpeg",
-      "fecha": "2026-06-20T16:57:08.000Z",
-      "fuenteId": "cope-extremadura",
-      "fuenteTitle": "COPE Extremadura",
-      "categorias": [
-        "extremadura",
-        "radio",
-        "caceres",
-        "provincia-caceres"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Las comisiones dilapidan la planficación deportiva del Atlético",
-      "url": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260620/1004197499/comisiones-dilapidan-planficacion-deportiva-atletico.html",
-      "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2026/04/23/69ea23c916ef4.r_d.1491-874-0.jpeg",
-      "fecha": "2026-06-20T16:53:17.000Z",
-      "fuenteId": "mundo-deportivo",
-      "fuenteTitle": "Mundo Deportivo",
-      "categorias": [
-        "deportes",
-        "futbol",
-        "motor",
-        "baloncesto"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Irán anuncia el cierre del estrecho de Ormuz en respuesta a los ataques de Israel contra el Líbano",
-      "url": "https://www.bbc.com/mundo/articles/c0qy87zd8dyo?at_medium=RSS&at_campaign=rss",
-      "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3e41/live/6d280620-6cc6-11f1-95c0-035571ba4bec.jpg",
-      "fecha": "2026-06-20T16:52:40.000Z",
-      "fuenteId": "bbc-mundo",
-      "fuenteTitle": "BBC News Mundo",
-      "categorias": [
-        "internacional",
-        "mundo",
-        "sociedad"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Meloni a Trump: \"Mi popularidad no es asunto tuyo\"",
-      "url": "https://www.dw.com/es/meloni-a-trump-mi-popularidad-no-es-asunto-tuyo/a-77639007?maca=spa-rss-sp-all-1122-xml-mrss",
-      "imagen": "",
-      "fecha": "2026-06-20T16:52:00.000Z",
-      "fuenteId": "dw-espanol",
-      "fuenteTitle": "DW Español",
-      "categorias": [
-        "internacional",
-        "mundo",
-        "política"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Popularidad, Irán, gasto militar: Trump y Meloni profundizan una disputa personal con efectos políticos",
-      "url": "https://www.france24.com/es/europa/20260620-popularidad-ir%C3%A1n-gasto-militar-trump-y-meloni-profundizan-una-disputa-personal-con-efectos-pol%C3%ADticos",
-      "imagen": "https://s.france24.com/media/display/7db33e74-6ca8-11f1-828f-005056bfb2b6/w:1024/p:16x9/000-B79R7DP.jpg",
-      "fecha": "2026-06-20T16:49:58.000Z",
-      "fuenteId": "france24-espanol",
-      "fuenteTitle": "France 24 Español",
-      "categorias": [
-        "internacional",
-        "mundo",
-        "política"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Pablo Maffeo se despide el Mallorca: \"Me llevo momentos deportivos inolvidables y me voy con la cabeza alta\"",
-      "url": "https://www.cope.es/programas/tiempo-de-juego/noticias/pablo-maffeo-despide-mallorca-me-llevo-momentos-deportivos-inolvidable-me-cabeza-alta-20260620_3388354.html",
-      "imagen": "https://imagenes.cope.es/files/og_thumbnail/files/fp/uploads/2026/06/20/6a36c2afc268d.r_d.1428-730-0.jpeg",
-      "fecha": "2026-06-20T16:47:43.000Z",
-      "fuenteId": "cope-extremadura",
-      "fuenteTitle": "COPE Extremadura",
-      "categorias": [
-        "extremadura",
-        "radio",
-        "caceres",
-        "provincia-caceres"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Desde Italia apuntan a mejoras del Aston Martin para el GP de Hungría",
-      "url": "https://www.mundodeportivo.com/motor/f1/20260620/1004197498/italia-apuntan-mejoras-aston-martin-gp-hungria.html",
-      "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/06/14/6a2ebde701174.jpeg",
-      "fecha": "2026-06-20T16:46:52.000Z",
-      "fuenteId": "mundo-deportivo",
-      "fuenteTitle": "Mundo Deportivo",
-      "categorias": [
-        "deportes",
-        "futbol",
-        "motor",
-        "baloncesto"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Kiko Rivera y Lola García celebran su relación en plena polémica con Irene Rosales: \"Estoy disfrutando del camino\"",
-      "url": "https://www.diezminutos.es/famosos-corazon/famosos-espanoles/a71646210/kiko-rivera-lola-garcia-celebran-polemica-irene-rosales-estoy-disfrutando/",
-      "imagen": "https://hips.hearstapps.com/hmg-prod/images/7b498643-0f2c-4434-80c5-e1704c0a43a4.jpg",
-      "fecha": "2026-06-20T16:46:00.000Z",
-      "fuenteId": "diez-minutos",
-      "fuenteTitle": "Diez Minutos",
-      "categorias": [
-        "cotilleos",
-        "influencers",
-        "television"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Nadie lo había visto antes en Sudamérica: captan a 3.969 metros de altura a un venado de cola blanca, el primero registrado en la historia del continente",
-      "url": "https://www.ecoticias.com/eco-america/nadie-lo-habia-visto-antes-en-sudamerica-captan-a-3-969-metros-de-altura-a-un-venado-de-cola-blanca-el-primero-registrado-en-la-historia-del-continente",
-      "imagen": "",
-      "fecha": "2026-06-20T16:46:00.000Z",
-      "fuenteId": "ecoticias",
-      "fuenteTitle": "Ecoticias",
-      "categorias": [
-        "medio-ambiente",
-        "clima",
-        "energía",
-        "naturaleza"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Máximo Pradera se pronuncia sobre el auto del juez Peinado y vaticina lo que podría ocurrir en las elecciones de 2027",
-      "url": "https://www.huffingtonpost.es/virales/maximo-pradera-pronuncia-sobre-auto-juez-peinado-vaticina-ocurrir-elecciones-2027-f202606.html",
-      "imagen": "",
-      "fecha": "2026-06-20T16:44:43.000Z",
-      "fuenteId": "huffpost-espana",
-      "fuenteTitle": "HuffPost España",
-      "categorias": [
-        "general",
-        "sociedad",
-        "televisión",
-        "tendencias"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Se acabó la espera: Dua Lipa comparte las primeras fotos de su vestido de novia y de su fabulosa boda en Sicilia con Callum Turner",
-      "url": "https://www.hola.com/actualidad/20260620908475/dua-lipa-desvela-su-fascinante-vestido-de-novia/",
-      "imagen": "https://www.hola.com/horizon/landscape/d092cfe00808-712246457186225394930431968075021599506232122n.jpg",
-      "fecha": "2026-06-20T16:44:11.000Z",
-      "fuenteId": "hola",
-      "fuenteTitle": "¡Hola!",
-      "categorias": [
-        "cotilleos",
-        "influencers",
-        "moda",
-        "belleza"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Yo también ficharía a Julián",
-      "url": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260620/1004197497/ficharia-julian.html",
-      "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/images/default.jpg",
-      "fecha": "2026-06-20T16:43:57.000Z",
-      "fuenteId": "mundo-deportivo",
-      "fuenteTitle": "Mundo Deportivo",
-      "categorias": [
-        "deportes",
-        "futbol",
-        "motor",
-        "baloncesto"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El Real Madrid niega contactos con Olise",
-      "url": "https://www.elperiodicoextremadura.com/deportes/2026/06/20/real-madrid-niega-contactos-olise-bayern-131634177.html",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/cffa10bc-d3be-42fc-8a65-7c50451b36e0_16-9-aspect-ratio_default_0_x600y225.jpg",
-      "fecha": "2026-06-20T16:43:45.000Z",
-      "fuenteId": "el-periodico-extremadura",
-      "fuenteTitle": "El Periódico Extremadura",
-      "categorias": [
-        "extremadura",
-        "caceres",
-        "provincia-caceres",
-        "plasencia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El efecto Verstappen anima a Valentino Rossi a plantearse correr las 24H de Nurburgring",
-      "url": "https://es.motorsport.com/intercontinental-gt-challenge/news/efecto-verstappen-anima-rossi-24horas-nurburgring/10831346/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=es",
-      "imagen": "https://cdn-4.motorsport.com/images/amp/YpbPADj0/s6/46-team-wrt-bmw-m4-lmgt3-valen.jpg",
-      "fecha": "2026-06-20T16:40:02.000Z",
-      "fuenteId": "motorsport-espana",
-      "fuenteTitle": "Motorsport.com España",
-      "categorias": [
-        "deportes",
-        "motor",
-        "formula-1"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Países Bajos - Suecia, en directo",
-      "url": "https://www.mundodeportivo.com/futbol/mundial/20260620/1004197206/paises-bajos-suecia-directo-mundial-2026-fase-grupos.html",
-      "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/06/08/6a2734ebd0995.jpeg",
-      "fecha": "2026-06-20T16:39:42.000Z",
-      "fuenteId": "mundo-deportivo",
-      "fuenteTitle": "Mundo Deportivo",
-      "categorias": [
-        "deportes",
-        "futbol",
-        "motor",
-        "baloncesto"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Imanol Arizmendi se lleva una accidentada Quebrantahuesos",
-      "url": "https://www.mundodeportivo.com/ciclismo/20260620/1004197496/imanol-arizmendi-lleva-accidentada-quebrantahuesos.html",
-      "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/06/20/6a36c201a3c6b.jpeg",
-      "fecha": "2026-06-20T16:38:39.000Z",
-      "fuenteId": "mundo-deportivo",
-      "fuenteTitle": "Mundo Deportivo",
-      "categorias": [
-        "deportes",
-        "futbol",
-        "motor",
-        "baloncesto"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Galería | La Diputación de Cáceres rescata la memoria de Baltasar Robledo",
-      "url": "https://www.elperiodicoextremadura.com/fotos/caceres/2026/06/20/galeria-diputacion-caceres-rescata-memoria-131634076.html",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/526d5bf5-6e49-49cf-b569-864ed8b815b5_16-9-aspect-ratio_default_0_x1125y562.jpg",
-      "fecha": "2026-06-20T16:38:12.000Z",
-      "fuenteId": "el-periodico-extremadura",
-      "fuenteTitle": "El Periódico Extremadura",
-      "categorias": [
-        "extremadura",
-        "caceres",
-        "provincia-caceres",
-        "plasencia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Jordi Wild carga contra los influencers que hicieron contenido con la muerte de Gaspi: \"Estamos perdiendo los valores más básicos\"",
-      "url": "https://www.huffingtonpost.es/life/influencers-celebrities/jordi-wild-carga-influencers-hicieron-contenido-muerte-gaspi-estamos-perdiendo-valores-mas-basicos-f202606.html",
-      "imagen": "",
-      "fecha": "2026-06-20T16:37:00.000Z",
-      "fuenteId": "huffpost-espana",
-      "fuenteTitle": "HuffPost España",
-      "categorias": [
-        "general",
-        "sociedad",
-        "televisión",
-        "tendencias"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Países Bajos - Suecia en directo: el partido del grupo F del Mundial 2026, en vivo",
-      "url": "https://elpais.com/deportes/mundial-futbol/2026-06-20/paises-bajos-suecia-en-directo-el-partido-del-grupo-f-del-mundial-2026-en-vivo.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/J2QMGH2W4ZKOLMF6W2QVAJJGVI.jpg?auth=77f9fa733318a2d17bdd38c1bfbc914b10801e31ea3fd0df72af3ed6af7f1671",
-      "fecha": "2026-06-20T16:36:01.000Z",
-      "fuenteId": "el-pais",
-      "fuenteTitle": "El País",
-      "categorias": [
-        "general",
-        "españa",
-        "sociedad",
-        "tecnología",
-        "ciencia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "\"Creo que, si quisiera acabar con nosotros, optaría por algo biológico que no le afectara a ella\"",
-      "url": "https://www.mundodeportivo.com/tressesenta/20260620/1004197490/geoffrey-hinton-padrino-ia-creo-quisiera-acabar-optaria-biologico-no-le-afectara-dct.html",
-      "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2026/01/11/6963e44d52296.r_d.620-370-0.jpeg",
-      "fecha": "2026-06-20T16:35:35.000Z",
-      "fuenteId": "mundo-deportivo",
-      "fuenteTitle": "Mundo Deportivo",
-      "categorias": [
-        "deportes",
-        "futbol",
-        "motor",
-        "baloncesto"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El Madrid niega contactos con Olise",
-      "url": "https://as.com/futbol/primera/el-madrid-niega-contactos-con-olise-f202606-n/",
-      "imagen": "https://img.asmedia.epimg.net/resizer/v2/I6OPM3EKIJGXXE6JFHBM3UPKOI.JPG?auth=6267bccf18ab9dfecc97175513066a9485296b5ebb0d4c674772cbbbe0972372",
-      "fecha": "2026-06-20T16:34:02.000Z",
+      "titulo": "Millonada en Italia tras la gravísima lesión de Koné",
+      "url": "https://as.com/futbol/mundial/millonada-en-italia-tras-la-gravisima-lesion-de-kone-f202606-n/",
+      "imagen": "https://img.asmedia.epimg.net/resizer/v2/2XN6SI3KFJJ2HKT2CKBPQGKRPU.jpg?auth=55d972cc63900d4a84a08959ff0eaadb2ec9779fa1731ac3feadbc80cfd3b825",
+      "fecha": "2026-06-20T17:14:11.000Z",
       "fuenteId": "as",
       "fuenteTitle": "AS",
       "categorias": [
@@ -579,161 +723,17 @@
       "idioma": "es"
     },
     {
-      "titulo": "Raúl Prieto: \"Belén Esteban es una profesional y encajaría en cualquier sitio, pero nunca se ha valorado para 'El show de Paz\"",
-      "url": "https://www.elespanol.com/corazon/bluper/20260620/raul-prieto-belen-esteban-profesional-encajaria-cualquier-sitio-nunca-valorado-show-paz/1003744294103_0.html",
-      "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11298282.jpg?p=w:1706/h:960&h=Av0AIEmP",
-      "fecha": "2026-06-20T16:33:11.000Z",
-      "fuenteId": "jaleos",
-      "fuenteTitle": "Jaleos",
+      "titulo": "Fernando Méndez-Leite, reelegido presidente de la Academia de Cine",
+      "url": "https://www.eldiario.es/cultura/fernando-mendez-leite-reelegido-presidente-academia-cine_1_13320628.html",
+      "imagen": "https://static.eldiario.es/clip/105e4f3f-5dfb-4e28-95a7-21ca86c4f37d_16-9-discover-aspect-ratio_default_0.jpg",
+      "fecha": "2026-06-20T17:13:41.000Z",
+      "fuenteId": "eldiario-es",
+      "fuenteTitle": "elDiario.es",
       "categorias": [
-        "cotilleos",
-        "influencers",
-        "television"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El entrenamiento de fuerza se relaciona con un menor riesgo de enfermedades cardíacas en las mujeres",
-      "url": "https://www.20minutos.es/salud/entrenamiento-fuerza-se-relaciona-con-un-menor-riesgo-enfermedades-cardiacas-las-mujeres_6985870_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/06/02/6a1ee5a8273a67-04809663.jpeg",
-      "fecha": "2026-06-20T16:33:07.000Z",
-      "fuenteId": "20minutos-salud",
-      "fuenteTitle": "20minutos - Salud",
-      "categorias": [
-        "salud",
-        "bienestar",
-        "sociedad"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Hamburguesa de lentejas: receta vegana con todo el sabor",
-      "url": "https://www.directoalpaladar.com/recetas-vegetarianas/hamburguesa-lentejas-receta-vegana-todo-sabor",
-      "imagen": "https://i.blogs.es/6e5c64/hamburguesa-de-lentejas/1024_2000.jpeg",
-      "fecha": "2026-06-20T16:31:07.000Z",
-      "fuenteId": "directo-al-paladar",
-      "fuenteTitle": "Directo al Paladar",
-      "categorias": [
-        "gastronomía",
-        "recetas",
-        "cocina"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Llevamos décadas buscando alienígenas de la forma equivocada. La solución podría estar en el polvo de la Luna",
-      "url": "https://www.xataka.com/espacio/llevamos-decadas-buscando-alienigenas-forma-equivocada-solucion-podria-estar-polvo-luna",
-      "imagen": "https://i.blogs.es/d5899c/aliens/1024_2000.jpeg",
-      "fecha": "2026-06-20T16:31:07.000Z",
-      "fuenteId": "xataka",
-      "fuenteTitle": "Xataka",
-      "categorias": [
-        "tecnología",
-        "gadgets",
-        "ciencia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Aefa Mulholland, chef profesional: \"estas son las siete recetas para freidora de aire que nunca fallan\"",
-      "url": "https://www.xatakahome.com/hogar/aefa-mulholland-chef-profesional-estas-siete-recetas-para-freidora-aire-que-nunca-fallan",
-      "imagen": "https://i.blogs.es/5ee0cf/freidor-mulholland/1024_2000.jpeg",
-      "fecha": "2026-06-20T16:31:07.000Z",
-      "fuenteId": "xataka-smart-home",
-      "fuenteTitle": "Xataka Smart Home",
-      "categorias": [
-        "tecnología",
-        "domótica",
-        "smart tv",
-        "hogar conectado"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Laporte: \"Estamos bien, llevamos 32 partidos invictos\"",
-      "url": "https://www.mundodeportivo.com/futbol/mundial/20260620/1004197449/laporte-llevamos-32-partidos-invictos-nuestro.html",
-      "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/06/20/6a36b2e782f37.jpeg",
-      "fecha": "2026-06-20T16:31:02.000Z",
-      "fuenteId": "mundo-deportivo",
-      "fuenteTitle": "Mundo Deportivo",
-      "categorias": [
-        "deportes",
-        "futbol",
-        "motor",
-        "baloncesto"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "SETCHU - Backstage",
-      "url": "https://www.harpersbazaar.com/es/pasarelas/hombre-primavera-verano-2027/g71646337/setchu-1r5i-tfn-backstage/",
-      "imagen": "https://hips.hearstapps.com/hmg-catwalk/catwalk/setchu/de787c36-fca9-4207-91ba-393cc759148d.jpg",
-      "fecha": "2026-06-20T16:30:28.000Z",
-      "fuenteId": "harpers-bazaar-espana",
-      "fuenteTitle": "Harper's Bazaar España",
-      "categorias": [
-        "moda",
-        "belleza",
-        "lujo"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "SETCHU - Backstage",
-      "url": "https://www.elle.com/es/pasarelas/hombre-primavera-verano-2027/g71646328/setchu-f2t-0-p-backstage/",
-      "imagen": "https://hips.hearstapps.com/hmg-catwalk/catwalk/setchu/4baa486a-3ae0-438a-bdb1-3dacca29c805.jpg",
-      "fecha": "2026-06-20T16:30:18.000Z",
-      "fuenteId": "elle-espana",
-      "fuenteTitle": "Elle España",
-      "categorias": [
-        "moda",
-        "belleza",
-        "lifestyle"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Misma pantalla, distinta ambición: comparamos tres Xiaomi de 11 pulgadas para ver dónde compensa subir",
-      "url": "https://www.mundodeportivo.com/elrecomendador/ofertas/20260620/1004196781/pantalla-distinta-ambicion-comparamos-tres-xiaomi-11-pulgadas-ver-donde-compensa-subir-mkt-alie.html",
-      "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2025/08/25/68ac2d86d1780.jpeg",
-      "fecha": "2026-06-20T16:30:00.000Z",
-      "fuenteId": "mundo-deportivo",
-      "fuenteTitle": "Mundo Deportivo",
-      "categorias": [
-        "deportes",
-        "futbol",
-        "motor",
-        "baloncesto"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Extremadura revisará la huella de Nicolás de Ovando en el origen del Nuevo Mundo",
-      "url": "https://www.elperiodicoextremadura.com/extremadura/2026/06/20/nicolas-ovando-historia-america-congreso-extremadura-131633883.html",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/e0742282-8524-4576-8e96-80d574531c77_16-9-aspect-ratio_default_0_x285y120.jpg",
-      "fecha": "2026-06-20T16:29:35.000Z",
-      "fuenteId": "el-periodico-extremadura",
-      "fuenteTitle": "El Periódico Extremadura",
-      "categorias": [
-        "extremadura",
-        "caceres",
-        "provincia-caceres",
-        "plasencia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Islandia reanuda la caza de ballenas entre protestas tras una pausa de dos años",
-      "url": "https://efeverde.com/islandia-reanuda-caza-ballenas/",
-      "imagen": "",
-      "fecha": "2026-06-20T16:27:56.000Z",
-      "fuenteId": "efe-verde",
-      "fuenteTitle": "EFE Verde",
-      "categorias": [
-        "medio-ambiente",
-        "clima",
-        "biodiversidad",
-        "energía"
+        "general",
+        "españa",
+        "sociedad",
+        "política"
       ],
       "idioma": "es"
     }
