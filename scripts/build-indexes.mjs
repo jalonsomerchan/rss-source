@@ -9,6 +9,26 @@ const HOME_PATH = path.join(INDEXES_PATH, 'portada.json');
 const CATEGORIES_PATH = path.join(INDEXES_PATH, 'categorias.json');
 const HOME_LIMIT = 50;
 const CATEGORY_LIMIT = 20;
+const GENERIC_CATEGORY_BY_SLUG = new Map([
+  ['actualidad', 'actualidad'], ['general', 'actualidad'], ['espana', 'actualidad'], ['sociedad', 'actualidad'], ['verificacion', 'actualidad'], ['desinformacion', 'actualidad'], ['viral', 'actualidad'], ['tendencias', 'actualidad'],
+  ['politica', 'politica'], ['institucional', 'politica'],
+  ['internacional', 'internacional'], ['mundo', 'internacional'], ['europa', 'internacional'],
+  ['economia', 'economia'], ['empresa', 'economia'], ['negocios', 'economia'], ['bolsa', 'economia'], ['mercados', 'economia'], ['inversion', 'economia'],
+  ['tecnologia', 'tecnologia'], ['informatica', 'tecnologia'], ['gadgets', 'tecnologia'], ['software', 'tecnologia'], ['hardware', 'tecnologia'], ['internet', 'tecnologia'], ['inteligencia-artificial', 'tecnologia'], ['programacion', 'tecnologia'], ['desarrollo', 'tecnologia'], ['desarrollo-web', 'tecnologia'], ['formacion', 'tecnologia'], ['linux', 'tecnologia'], ['apps', 'tecnologia'], ['moviles', 'tecnologia'], ['operadoras', 'tecnologia'], ['telecomunicaciones', 'tecnologia'], ['apple', 'tecnologia'], ['iphone', 'tecnologia'], ['mac', 'tecnologia'], ['domotica', 'tecnologia'], ['smart-tv', 'tecnologia'], ['hogar-conectado', 'tecnologia'], ['cultura-digital', 'tecnologia'],
+  ['ciencia', 'ciencia'], ['investigacion', 'ciencia'], ['salud-cientifica', 'ciencia'], ['curiosidades', 'ciencia'],
+  ['salud', 'salud'], ['bienestar', 'salud'], ['alimentacion', 'salud'], ['medicina', 'salud'],
+  ['medio-ambiente', 'medio-ambiente'], ['clima', 'medio-ambiente'], ['biodiversidad', 'medio-ambiente'], ['energia', 'medio-ambiente'], ['meteorologia', 'medio-ambiente'], ['avisos', 'medio-ambiente'], ['tiempo', 'medio-ambiente'],
+  ['turismo', 'viajes'], ['viajes', 'viajes'], ['escapadas', 'viajes'], ['pueblos', 'viajes'],
+  ['gastronomia', 'gastronomia'], ['recetas', 'gastronomia'], ['cocina', 'gastronomia'], ['restaurantes', 'gastronomia'],
+  ['historia', 'cultura'], ['arqueologia', 'cultura'], ['patrimonio', 'cultura'], ['naturaleza', 'cultura'], ['cultura', 'cultura'], ['agenda', 'cultura'], ['ocio', 'cultura'], ['eventos', 'cultura'], ['musica', 'cultura'], ['festivales', 'cultura'], ['conciertos', 'cultura'], ['rock', 'cultura'],
+  ['entretenimiento', 'entretenimiento'], ['television', 'entretenimiento'], ['series', 'entretenimiento'], ['streaming', 'entretenimiento'], ['cine', 'entretenimiento'], ['audiencias', 'entretenimiento'], ['programas', 'entretenimiento'],
+  ['corazon', 'corazon'], ['cotilleos', 'corazon'], ['influencers', 'corazon'],
+  ['moda', 'moda'], ['belleza', 'moda'], ['lifestyle', 'moda'], ['lujo', 'moda'],
+  ['deportes', 'deportes'], ['futbol', 'deportes'], ['baloncesto', 'deportes'], ['motor', 'deportes'], ['tenis', 'deportes'], ['ciclismo', 'deportes'], ['running', 'deportes'], ['formula-1', 'deportes'], ['triatlon', 'deportes'],
+  ['sucesos', 'sucesos'], ['emergencias', 'sucesos'], ['seguridad', 'sucesos'], ['trafico', 'sucesos'],
+  ['hogar', 'hogar'], ['decoracion', 'hogar'], ['bricolaje', 'hogar'], ['diseno', 'hogar'], ['arquitectura', 'hogar'], ['reformas', 'hogar'], ['limpieza', 'hogar'],
+  ['local', 'local'], ['extremadura', 'local'], ['caceres', 'local'], ['provincia-caceres', 'local'], ['plasencia', 'local'], ['radio', 'local'],
+]);
 
 function slug(value = '') {
   return value
@@ -40,6 +60,15 @@ function timestamp(article) {
 
 function cleanCategory(value) {
   return String(value ?? '').replace(/\s+/g, ' ').trim().toLowerCase();
+}
+
+function genericCategory(value) {
+  return GENERIC_CATEGORY_BY_SLUG.get(slug(value)) ?? cleanCategory(value);
+}
+
+function simplifyCategories(values) {
+  const categories = Array.isArray(values) ? values.map(genericCategory).filter(Boolean) : [];
+  return [...new Set(categories.length ? categories : ['actualidad'])];
 }
 
 async function* jsonFiles(dir) {
@@ -78,7 +107,7 @@ function sourceFromPath(file, sourcesById) {
   return {
     id: source.id || sourceId || slug(source.title),
     title: source.title || source.id || sourceId,
-    categorias: Array.isArray(source.categorias) ? source.categorias.map(cleanCategory).filter(Boolean) : [],
+    categorias: simplifyCategories(source.categorias),
     idioma: source.idioma || 'es',
   };
 }
