@@ -7,6 +7,145 @@ const DATA_PATH = path.join(ROOT, 'data');
 const DEFAULT_FEEDS = {
   xataka: ['https://', 'www.', 'xataka.com', '/feedburner.xml'].join(''),
 };
+const GENERIC_CATEGORIES = new Map([
+  ['actualidad', 'Actualidad'],
+  ['politica', 'Politica'],
+  ['internacional', 'Internacional'],
+  ['economia', 'Economia'],
+  ['tecnologia', 'Tecnologia'],
+  ['ciencia', 'Ciencia'],
+  ['salud', 'Salud'],
+  ['medio-ambiente', 'Medio ambiente'],
+  ['viajes', 'Viajes'],
+  ['gastronomia', 'Gastronomia'],
+  ['cultura', 'Cultura'],
+  ['entretenimiento', 'Entretenimiento'],
+  ['corazon', 'Corazon'],
+  ['moda', 'Moda'],
+  ['deportes', 'Deportes'],
+  ['sucesos', 'Sucesos'],
+  ['hogar', 'Hogar'],
+  ['local', 'Local'],
+]);
+const CATEGORY_ALIASES = new Map([
+  ['general', 'actualidad'],
+  ['actualidad', 'actualidad'],
+  ['espana', 'actualidad'],
+  ['sociedad', 'actualidad'],
+  ['verificacion', 'actualidad'],
+  ['desinformacion', 'actualidad'],
+  ['viral', 'actualidad'],
+  ['tendencias', 'actualidad'],
+  ['politica', 'politica'],
+  ['institucional', 'politica'],
+  ['internacional', 'internacional'],
+  ['mundo', 'internacional'],
+  ['europa', 'internacional'],
+  ['economia', 'economia'],
+  ['empresa', 'economia'],
+  ['negocios', 'economia'],
+  ['bolsa', 'economia'],
+  ['mercados', 'economia'],
+  ['inversion', 'economia'],
+  ['tecnologia', 'tecnologia'],
+  ['informatica', 'tecnologia'],
+  ['gadgets', 'tecnologia'],
+  ['software', 'tecnologia'],
+  ['hardware', 'tecnologia'],
+  ['internet', 'tecnologia'],
+  ['inteligencia-artificial', 'tecnologia'],
+  ['programacion', 'tecnologia'],
+  ['desarrollo', 'tecnologia'],
+  ['desarrollo-web', 'tecnologia'],
+  ['formacion', 'tecnologia'],
+  ['linux', 'tecnologia'],
+  ['apps', 'tecnologia'],
+  ['moviles', 'tecnologia'],
+  ['operadoras', 'tecnologia'],
+  ['telecomunicaciones', 'tecnologia'],
+  ['apple', 'tecnologia'],
+  ['iphone', 'tecnologia'],
+  ['mac', 'tecnologia'],
+  ['domotica', 'tecnologia'],
+  ['smart-tv', 'tecnologia'],
+  ['hogar-conectado', 'tecnologia'],
+  ['cultura-digital', 'tecnologia'],
+  ['ciencia', 'ciencia'],
+  ['investigacion', 'ciencia'],
+  ['salud-cientifica', 'ciencia'],
+  ['curiosidades', 'ciencia'],
+  ['salud', 'salud'],
+  ['bienestar', 'salud'],
+  ['alimentacion', 'salud'],
+  ['medicina', 'salud'],
+  ['medio-ambiente', 'medio-ambiente'],
+  ['clima', 'medio-ambiente'],
+  ['biodiversidad', 'medio-ambiente'],
+  ['energia', 'medio-ambiente'],
+  ['meteorologia', 'medio-ambiente'],
+  ['avisos', 'medio-ambiente'],
+  ['tiempo', 'medio-ambiente'],
+  ['turismo', 'viajes'],
+  ['viajes', 'viajes'],
+  ['escapadas', 'viajes'],
+  ['pueblos', 'viajes'],
+  ['gastronomia', 'gastronomia'],
+  ['recetas', 'gastronomia'],
+  ['cocina', 'gastronomia'],
+  ['restaurantes', 'gastronomia'],
+  ['historia', 'cultura'],
+  ['arqueologia', 'cultura'],
+  ['patrimonio', 'cultura'],
+  ['naturaleza', 'cultura'],
+  ['cultura', 'cultura'],
+  ['agenda', 'cultura'],
+  ['ocio', 'cultura'],
+  ['eventos', 'cultura'],
+  ['musica', 'cultura'],
+  ['festivales', 'cultura'],
+  ['conciertos', 'cultura'],
+  ['rock', 'cultura'],
+  ['entretenimiento', 'entretenimiento'],
+  ['television', 'entretenimiento'],
+  ['series', 'entretenimiento'],
+  ['streaming', 'entretenimiento'],
+  ['cine', 'entretenimiento'],
+  ['audiencias', 'entretenimiento'],
+  ['programas', 'entretenimiento'],
+  ['corazon', 'corazon'],
+  ['cotilleos', 'corazon'],
+  ['influencers', 'corazon'],
+  ['moda', 'moda'],
+  ['belleza', 'moda'],
+  ['lifestyle', 'moda'],
+  ['lujo', 'moda'],
+  ['deportes', 'deportes'],
+  ['futbol', 'deportes'],
+  ['baloncesto', 'deportes'],
+  ['motor', 'deportes'],
+  ['tenis', 'deportes'],
+  ['ciclismo', 'deportes'],
+  ['running', 'deportes'],
+  ['formula-1', 'deportes'],
+  ['triatlon', 'deportes'],
+  ['sucesos', 'sucesos'],
+  ['emergencias', 'sucesos'],
+  ['seguridad', 'sucesos'],
+  ['trafico', 'sucesos'],
+  ['hogar', 'hogar'],
+  ['decoracion', 'hogar'],
+  ['bricolaje', 'hogar'],
+  ['diseno', 'hogar'],
+  ['arquitectura', 'hogar'],
+  ['reformas', 'hogar'],
+  ['limpieza', 'hogar'],
+  ['local', 'local'],
+  ['extremadura', 'local'],
+  ['caceres', 'local'],
+  ['provincia-caceres', 'local'],
+  ['plasencia', 'local'],
+  ['radio', 'local'],
+]);
 
 const entityMap = { amp: '&', lt: '<', gt: '>', quot: '"', apos: "'", nbsp: ' ' };
 
@@ -98,6 +237,16 @@ function slug(value = '') {
     .toLowerCase()
     .replace(/[^a-z0-9]+/g, '-')
     .replace(/^-+|-+$/g, '') || 'source';
+}
+
+function genericCategory(value) {
+  const genericId = CATEGORY_ALIASES.get(slug(value));
+  return genericId ? GENERIC_CATEGORIES.get(genericId) : null;
+}
+
+function simplifyCategories(values) {
+  const categories = Array.isArray(values) ? values.map(genericCategory).filter(Boolean) : [];
+  return [...new Set(categories.length ? categories : [GENERIC_CATEGORIES.get('actualidad')])];
 }
 
 async function readJson(file, fallback) {
@@ -237,6 +386,7 @@ let total = 0;
 for (const source of sources) {
   source.id = source.id || slug(source.title);
   source.source = source.source || DEFAULT_FEEDS[source.id] || '';
+  source.categorias = simplifyCategories(source.categorias);
   source.ultimaBusquedaNoticias = now;
 
   try {
