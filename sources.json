@@ -1079,5 +1079,245 @@
     "idioma": "es",
     "fechaUltimaNoticia": "2026-06-22T07:06:25.000Z",
     "ultimaBusquedaNoticias": "2026-06-22T07:44:30.030Z"
+  },
+  {
+    "id": "el-pais-economia",
+    "title": "El País - Economía",
+    "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/economia/portada",
+    "categorias": [
+      "Economia",
+      "Actualidad"
+    ],
+    "idioma": "es"
+  },
+  {
+    "id": "el-pais-cultura",
+    "title": "El País - Cultura",
+    "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/cultura/portada",
+    "categorias": [
+      "Cultura"
+    ],
+    "idioma": "es"
+  },
+  {
+    "id": "el-pais-deportes",
+    "title": "El País - Deportes",
+    "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/deportes/portada",
+    "categorias": [
+      "Deportes"
+    ],
+    "idioma": "es"
+  },
+  {
+    "id": "el-pais-sociedad",
+    "title": "El País - Sociedad",
+    "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/sociedad/portada",
+    "categorias": [
+      "Actualidad"
+    ],
+    "idioma": "es"
+  },
+  {
+    "id": "el-pais-ciencia",
+    "title": "El País - Ciencia",
+    "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/ciencia/portada",
+    "categorias": [
+      "Ciencia",
+      "Tecnologia"
+    ],
+    "idioma": "es"
+  },
+  {
+    "id": "el-pais-salud-bienestar",
+    "title": "El País - Salud y bienestar",
+    "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/salud-y-bienestar/portada",
+    "categorias": [
+      "Salud",
+      "Actualidad"
+    ],
+    "idioma": "es"
+  },
+  {
+    "id": "el-pais-viajes",
+    "title": "El País - El Viajero",
+    "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/elviajero.elpais.com/portada",
+    "categorias": [
+      "Viajes",
+      "Cultura"
+    ],
+    "idioma": "es"
+  },
+  {
+    "id": "el-pais-smoda",
+    "title": "El País - S Moda",
+    "source": "https://feeds.elpais.com/mrss-s/pages/ep/site/smoda.elpais.com/portada",
+    "categorias": [
+      "Moda",
+      "Corazon"
+    ],
+    "idioma": "es"
+  },
+  {
+    "id": "el-mundo-economia",
+    "title": "El Mundo - Economía",
+    "source": "https://e00-elmundo.uecdn.es/elmundo/rss/economia.xml",
+    "categorias": [
+      "Economia",
+      "Actualidad"
+    ],
+    "idioma": "es"
+  },
+  {
+    "id": "el-mundo-cultura",
+    "title": "El Mundo - Cultura",
+    "source": "https://e00-elmundo.uecdn.es/elmundo/rss/cultura.xml",
+    "categorias": [
+      "Cultura"
+    ],
+    "idioma": "es"
+  },
+  {
+    "id": "el-mundo-deportes",
+    "title": "El Mundo - Deportes",
+    "source": "https://e00-elmundo.uecdn.es/elmundo/rss/deportes.xml",
+    "categorias": [
+      "Deportes"
+    ],
+    "idioma": "es"
+  },
+  {
+    "id": "el-mundo-ciencia-salud",
+    "title": "El Mundo - Ciencia y Salud",
+    "source": "https://e00-elmundo.uecdn.es/elmundo/rss/ciencia-y-salud.xml",
+    "categorias": [
+      "Ciencia",
+      "Salud"
+    ],
+    "idioma": "es"
+  },
+  {
+    "id": "el-mundo-tecnologia",
+    "title": "El Mundo - Tecnología",
+    "source": "https://e00-elmundo.uecdn.es/elmundo/rss/tecnologia.xml",
+    "categorias": [
+      "Tecnologia"
+    ],
+    "idioma": "es"
+  },
+  {
+    "id": "el-mundo-television",
+    "title": "El Mundo - Televisión",
+    "source": "https://e00-elmundo.uecdn.es/elmundo/rss/television.xml",
+    "categorias": [
+      "Entretenimiento"
+    ],
+    "idioma": "es"
+  },
+  {
+    "id": "el-mundo-loc",
+    "title": "El Mundo - LOC",
+    "source": "https://e00-elmundo.uecdn.es/elmundo/rss/loc.xml",
+    "categorias": [
+      "Corazon",
+      "Entretenimiento"
+    ],
+    "idioma": "es"
+  },
+  {
+    "id": "la-vanguardia-politica",
+    "title": "La Vanguardia - Política",
+    "source": "https://www.lavanguardia.com/rss/politica.xml",
+    "categorias": [
+      "Politica",
+      "Actualidad"
+    ],
+    "idioma": "es"
+  },
+  {
+    "id": "la-vanguardia-internacional",
+    "title": "La Vanguardia - Internacional",
+    "source": "https://www.lavanguardia.com/rss/internacional.xml",
+    "categorias": [
+      "Internacional",
+      "Actualidad"
+    ],
+    "idioma": "es"
+  },
+  {
+    "id": "la-vanguardia-vida",
+    "title": "La Vanguardia - Vida",
+    "source": "https://www.lavanguardia.com/rss/vida.xml",
+    "categorias": [
+      "Actualidad",
+      "Salud"
+    ],
+    "idioma": "es"
+  },
+  {
+    "id": "la-vanguardia-economia",
+    "title": "La Vanguardia - Economía",
+    "source": "https://www.lavanguardia.com/rss/economia.xml",
+    "categorias": [
+      "Economia",
+      "Actualidad"
+    ],
+    "idioma": "es"
+  },
+  {
+    "id": "la-vanguardia-deportes",
+    "title": "La Vanguardia - Deportes",
+    "source": "https://www.lavanguardia.com/rss/deportes.xml",
+    "categorias": [
+      "Deportes"
+    ],
+    "idioma": "es"
+  },
+  {
+    "id": "la-vanguardia-cultura",
+    "title": "La Vanguardia - Cultura",
+    "source": "https://www.lavanguardia.com/rss/cultura.xml",
+    "categorias": [
+      "Cultura"
+    ],
+    "idioma": "es"
+  },
+  {
+    "id": "la-vanguardia-sucesos",
+    "title": "La Vanguardia - Sucesos",
+    "source": "https://www.lavanguardia.com/rss/sucesos.xml",
+    "categorias": [
+      "Sucesos",
+      "Actualidad"
+    ],
+    "idioma": "es"
+  },
+  {
+    "id": "la-vanguardia-natural",
+    "title": "La Vanguardia - Natural",
+    "source": "https://www.lavanguardia.com/rss/natural.xml",
+    "categorias": [
+      "Medio ambiente",
+      "Actualidad"
+    ],
+    "idioma": "es"
+  },
+  {
+    "id": "la-vanguardia-comer",
+    "title": "La Vanguardia - Comer",
+    "source": "https://www.lavanguardia.com/rss/comer.xml",
+    "categorias": [
+      "Gastronomia"
+    ],
+    "idioma": "es"
+  },
+  {
+    "id": "la-vanguardia-magazine",
+    "title": "La Vanguardia - Magazine",
+    "source": "https://www.lavanguardia.com/rss/magazine.xml",
+    "categorias": [
+      "Cultura",
+      "Entretenimiento"
+    ],
+    "idioma": "es"
   }
 ]
