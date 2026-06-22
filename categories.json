@@ -1,214 +1,96 @@
 {
-  "version": 1,
-  "descripcion": "Catalogo de categorias de fuentes RSS agrupadas en supercategorias para consumo de la API.",
-  "supercategorias": [
+  "version": 2,
+  "descripcion": "Catalogo simple de categorias genericas de fuentes RSS para consumo de la API.",
+  "categorias": [
     {
-      "id": "actualidad-sociedad",
-      "title": "Actualidad y sociedad",
-      "categorias": [
-        "actualidad",
-        "política",
-        "españa",
-        "internacional",
-        "mundo",
-        "europa",
-        "sociedad",
-        "verificación",
-        "desinformación",
-        "institucional"
-      ]
+      "id": "actualidad",
+      "title": "Actualidad",
+      "descripcion": "Noticias generales y temas de sociedad."
     },
     {
-      "id": "local-extremadura",
-      "title": "Local, Cáceres y Extremadura",
-      "categorias": [
-        "extremadura",
-        "caceres",
-        "provincia-caceres",
-        "plasencia",
-        "radio"
-      ]
+      "id": "politica",
+      "title": "Política",
+      "descripcion": "Política nacional, instituciones y verificación pública."
     },
     {
-      "id": "tecnologia-informatica",
-      "title": "Tecnología, informática y programación",
-      "categorias": [
-        "tecnología",
-        "informática",
-        "gadgets",
-        "software",
-        "hardware",
-        "internet",
-        "inteligencia artificial",
-        "programación",
-        "desarrollo",
-        "desarrollo-web",
-        "formación",
-        "linux",
-        "apps",
-        "móviles",
-        "operadoras",
-        "telecomunicaciones",
-        "apple",
-        "iphone",
-        "mac",
-        "domótica",
-        "smart tv",
-        "hogar conectado",
-        "cultura digital"
-      ]
+      "id": "internacional",
+      "title": "Internacional",
+      "descripcion": "Noticias internacionales, mundo y Europa."
     },
     {
-      "id": "economia-bolsa",
-      "title": "Economía, empresa y bolsa",
-      "categorias": [
-        "economía",
-        "economia",
-        "empresa",
-        "negocios",
-        "bolsa",
-        "mercados",
-        "inversión"
-      ]
+      "id": "economia",
+      "title": "Economía",
+      "descripcion": "Economía, empresa, mercados y finanzas."
     },
     {
-      "id": "ciencia-historia-conocimiento",
-      "title": "Ciencia, historia y conocimiento",
-      "categorias": [
-        "ciencia",
-        "investigación",
-        "salud-científica",
-        "historia",
-        "arqueología",
-        "patrimonio",
-        "naturaleza",
-        "curiosidades"
-      ]
+      "id": "tecnologia",
+      "title": "Tecnología",
+      "descripcion": "Tecnología, informática, software, móviles e internet."
     },
     {
-      "id": "salud-bienestar",
-      "title": "Salud y bienestar",
-      "categorias": [
-        "salud",
-        "bienestar",
-        "alimentación",
-        "medicina"
-      ]
+      "id": "ciencia",
+      "title": "Ciencia",
+      "descripcion": "Ciencia, investigación, historia y conocimiento."
     },
     {
-      "id": "medio-ambiente-meteorologia",
-      "title": "Medio ambiente y meteorología",
-      "categorias": [
-        "medio-ambiente",
-        "clima",
-        "biodiversidad",
-        "energía",
-        "meteorología",
-        "avisos",
-        "tiempo"
-      ]
+      "id": "salud",
+      "title": "Salud",
+      "descripcion": "Salud, bienestar, medicina y alimentación."
     },
     {
-      "id": "turismo-gastronomia",
-      "title": "Turismo y gastronomía",
-      "categorias": [
-        "turismo",
-        "viajes",
-        "escapadas",
-        "pueblos",
-        "gastronomía",
-        "recetas",
-        "cocina",
-        "restaurantes"
-      ]
+      "id": "medio-ambiente",
+      "title": "Medio ambiente",
+      "descripcion": "Clima, biodiversidad, energía y medio ambiente."
     },
     {
-      "id": "agenda-cultura-ocio",
-      "title": "Agenda, cultura y ocio",
-      "categorias": [
-        "agenda",
-        "ocio",
-        "eventos",
-        "cultura",
-        "entretenimiento",
-        "música",
-        "festivales",
-        "conciertos",
-        "rock"
-      ]
+      "id": "viajes",
+      "title": "Viajes",
+      "descripcion": "Turismo, escapadas, pueblos y patrimonio viajero."
     },
     {
-      "id": "television-cine-streaming",
-      "title": "Televisión, cine y streaming",
-      "categorias": [
-        "televisión",
-        "television",
-        "series",
-        "streaming",
-        "cine",
-        "audiencias",
-        "programas"
-      ]
+      "id": "gastronomia",
+      "title": "Gastronomía",
+      "descripcion": "Cocina, recetas, restaurantes y cultura gastronómica."
     },
     {
-      "id": "sucesos-emergencias",
-      "title": "Sucesos y emergencias",
-      "categorias": [
-        "sucesos",
-        "emergencias",
-        "seguridad",
-        "tráfico",
-        "trafico"
-      ]
+      "id": "cultura",
+      "title": "Cultura",
+      "descripcion": "Cultura, música, historia, agenda y ocio cultural."
     },
     {
-      "id": "viral-redes-tendencias",
-      "title": "Viral, redes y tendencias",
-      "categorias": [
-        "viral",
-        "redes sociales",
-        "tendencias"
-      ]
+      "id": "entretenimiento",
+      "title": "Entretenimiento",
+      "descripcion": "Televisión, cine, series, streaming y tendencias de ocio."
     },
     {
-      "id": "hogar-decoracion",
-      "title": "Hogar, decoración y bricolaje",
-      "categorias": [
-        "hogar",
-        "decoración",
-        "bricolaje",
-        "diseño",
-        "arquitectura",
-        "reformas",
-        "limpieza"
-      ]
+      "id": "corazon",
+      "title": "Corazón",
+      "descripcion": "Gente, famosos, influencers y crónica social."
     },
     {
-      "id": "moda-belleza-corazon",
-      "title": "Moda, belleza, influencers y corazón",
-      "categorias": [
-        "moda",
-        "belleza",
-        "lifestyle",
-        "influencers",
-        "lujo",
-        "cotilleos"
-      ]
+      "id": "moda",
+      "title": "Moda",
+      "descripcion": "Moda, belleza, lifestyle y lujo."
     },
     {
       "id": "deportes",
       "title": "Deportes",
-      "categorias": [
-        "deportes",
-        "futbol",
-        "baloncesto",
-        "motor",
-        "tenis",
-        "ciclismo",
-        "running",
-        "formula-1",
-        "triatlon"
-      ]
+      "descripcion": "Actualidad deportiva general."
+    },
+    {
+      "id": "sucesos",
+      "title": "Sucesos",
+      "descripcion": "Sucesos, seguridad, emergencias y tráfico."
+    },
+    {
+      "id": "hogar",
+      "title": "Hogar",
+      "descripcion": "Hogar, decoración, bricolaje, reformas y diseño."
+    },
+    {
+      "id": "local",
+      "title": "Local",
+      "descripcion": "Actualidad local, Cáceres, provincia y Extremadura."
     }
   ]
 }
