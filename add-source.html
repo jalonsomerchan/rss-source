@@ -1,0 +1,590 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Añadir source RSS</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --bg: #f5f7fb;
+      --card: #ffffff;
+      --text: #172033;
+      --muted: #667085;
+      --border: #d9e0ec;
+      --accent: #1d4ed8;
+      --accent-soft: #e8f0ff;
+      --danger: #b42318;
+      --ok: #047857;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      background: radial-gradient(circle at top left, #e8f0ff, transparent 34rem), var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+    }
+
+    main {
+      width: min(1180px, calc(100% - 32px));
+      margin: 0 auto;
+      padding: 40px 0;
+    }
+
+    header {
+      margin-bottom: 24px;
+    }
+
+    h1 {
+      margin: 0 0 8px;
+      font-size: clamp(2rem, 4vw, 3.4rem);
+      line-height: 1;
+      letter-spacing: -0.06em;
+    }
+
+    p {
+      color: var(--muted);
+      line-height: 1.55;
+      margin: 0;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: minmax(0, 0.9fr) minmax(0, 1.1fr);
+      gap: 20px;
+      align-items: start;
+    }
+
+    .card {
+      background: color-mix(in srgb, var(--card) 94%, transparent);
+      border: 1px solid var(--border);
+      border-radius: 24px;
+      padding: 20px;
+      box-shadow: 0 20px 70px rgba(16, 24, 40, 0.08);
+    }
+
+    .section-title {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      margin-bottom: 14px;
+    }
+
+    h2 {
+      margin: 0;
+      font-size: 1.1rem;
+      letter-spacing: -0.02em;
+    }
+
+    label {
+      display: block;
+      font-weight: 700;
+      font-size: 0.88rem;
+      margin-bottom: 8px;
+    }
+
+    input, textarea, select, button {
+      font: inherit;
+    }
+
+    input[type="text"], input[type="url"], select, textarea {
+      width: 100%;
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      background: #fff;
+      color: var(--text);
+      padding: 12px 14px;
+      outline: none;
+      transition: border-color 0.15s ease, box-shadow 0.15s ease;
+    }
+
+    input:focus, select:focus, textarea:focus {
+      border-color: var(--accent);
+      box-shadow: 0 0 0 4px var(--accent-soft);
+    }
+
+    textarea {
+      min-height: 260px;
+      resize: vertical;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      font-size: 0.88rem;
+      line-height: 1.5;
+    }
+
+    .field {
+      margin-bottom: 16px;
+    }
+
+    .row {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 12px;
+    }
+
+    .hint {
+      font-size: 0.82rem;
+      color: var(--muted);
+      margin-top: 6px;
+    }
+
+    .actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 14px;
+    }
+
+    button, .file-label {
+      border: 0;
+      border-radius: 999px;
+      padding: 11px 15px;
+      background: var(--text);
+      color: #fff;
+      cursor: pointer;
+      font-weight: 800;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      text-decoration: none;
+    }
+
+    button.secondary, .file-label {
+      background: #eef2f7;
+      color: var(--text);
+    }
+
+    button.primary {
+      background: var(--accent);
+    }
+
+    button:disabled {
+      opacity: 0.5;
+      cursor: not-allowed;
+    }
+
+    input[type="file"] {
+      position: absolute;
+      inline-size: 1px;
+      block-size: 1px;
+      opacity: 0;
+      pointer-events: none;
+    }
+
+    .categories {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+      gap: 8px;
+      margin-top: 6px;
+    }
+
+    .category {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      padding: 9px 11px;
+      background: #fff;
+      font-weight: 700;
+      font-size: 0.9rem;
+      cursor: pointer;
+    }
+
+    .category input {
+      accent-color: var(--accent);
+    }
+
+    .status {
+      margin-top: 12px;
+      padding: 12px 14px;
+      border-radius: 14px;
+      background: #eef2f7;
+      color: var(--muted);
+      font-size: 0.9rem;
+      line-height: 1.45;
+      white-space: pre-line;
+    }
+
+    .status.error {
+      color: var(--danger);
+      background: #fff1f0;
+    }
+
+    .status.ok {
+      color: var(--ok);
+      background: #ecfdf3;
+    }
+
+    .output-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 10px;
+    }
+
+    .count {
+      color: var(--muted);
+      font-size: 0.9rem;
+      font-weight: 700;
+    }
+
+    @media (max-width: 900px) {
+      .grid { grid-template-columns: 1fr; }
+      .row { grid-template-columns: 1fr; }
+      main { padding-top: 24px; }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <header>
+      <h1>Añadir source RSS</h1>
+      <p>Carga el <strong>sources.json</strong> entero, rellena la nueva fuente y copia o descarga el JSON completo con la source añadida al final.</p>
+    </header>
+
+    <div class="grid">
+      <section class="card">
+        <div class="section-title">
+          <h2>1. JSON actual</h2>
+        </div>
+
+        <div class="actions" style="margin-top: 0; margin-bottom: 14px;">
+          <button class="secondary" id="loadRemote" type="button">Leer sources.json</button>
+          <label class="file-label" for="sourceFile">Cargar archivo</label>
+          <input id="sourceFile" type="file" accept="application/json,.json">
+        </div>
+
+        <div class="field">
+          <label for="jsonInput">sources.json completo</label>
+          <textarea id="jsonInput" spellcheck="false" placeholder="Pega aquí el contenido completo de sources.json"></textarea>
+        </div>
+
+        <form id="sourceForm">
+          <div class="section-title">
+            <h2>2. Nueva source</h2>
+          </div>
+
+          <div class="row">
+            <div class="field">
+              <label for="title">Nombre</label>
+              <input id="title" type="text" placeholder="Ej: El País - Cultura" required>
+            </div>
+            <div class="field">
+              <label for="id">ID</label>
+              <input id="id" type="text" placeholder="el-pais-cultura" required>
+              <div class="hint">Se puede autogenerar desde el nombre.</div>
+            </div>
+          </div>
+
+          <div class="field">
+            <label for="source">URL del feed</label>
+            <input id="source" type="url" placeholder="https://ejemplo.com/rss.xml" required>
+          </div>
+
+          <div class="row">
+            <div class="field">
+              <label for="idioma">Idioma</label>
+              <select id="idioma">
+                <option value="es" selected>es</option>
+                <option value="en">en</option>
+                <option value="pt">pt</option>
+                <option value="fr">fr</option>
+                <option value="it">it</option>
+                <option value="de">de</option>
+              </select>
+            </div>
+            <div class="field">
+              <label for="timestampMode">Fechas</label>
+              <select id="timestampMode">
+                <option value="none" selected>No añadir fechas</option>
+                <option value="now">Añadir fechaUltimaNoticia y ultimaBusquedaNoticias con ahora</option>
+              </select>
+            </div>
+          </div>
+
+          <div class="field">
+            <label>Categorías</label>
+            <div id="categories" class="categories"></div>
+            <div class="hint">Solo se muestran categorías genéricas del catálogo plano.</div>
+          </div>
+
+          <div class="actions">
+            <button class="primary" type="submit">Añadir al final</button>
+            <button class="secondary" id="clearForm" type="button">Limpiar fuente</button>
+          </div>
+        </form>
+
+        <div id="status" class="status">Esperando JSON.</div>
+      </section>
+
+      <section class="card">
+        <div class="output-header">
+          <h2>JSON completo generado</h2>
+          <span id="count" class="count">0 sources</span>
+        </div>
+        <textarea id="jsonOutput" spellcheck="false" readonly placeholder="Aquí aparecerá el JSON completo actualizado"></textarea>
+        <div class="actions">
+          <button id="copyOutput" type="button">Copiar JSON</button>
+          <button class="secondary" id="downloadOutput" type="button">Descargar sources.json</button>
+        </div>
+      </section>
+    </div>
+  </main>
+
+  <script>
+    const fallbackCategories = [
+      { id: 'actualidad', title: 'Actualidad' },
+      { id: 'politica', title: 'Politica' },
+      { id: 'internacional', title: 'Internacional' },
+      { id: 'economia', title: 'Economia' },
+      { id: 'tecnologia', title: 'Tecnologia' },
+      { id: 'ciencia', title: 'Ciencia' },
+      { id: 'salud', title: 'Salud' },
+      { id: 'medio-ambiente', title: 'Medio ambiente' },
+      { id: 'viajes', title: 'Viajes' },
+      { id: 'gastronomia', title: 'Gastronomia' },
+      { id: 'cultura', title: 'Cultura' },
+      { id: 'entretenimiento', title: 'Entretenimiento' },
+      { id: 'corazon', title: 'Corazon' },
+      { id: 'moda', title: 'Moda' },
+      { id: 'deportes', title: 'Deportes' },
+      { id: 'sucesos', title: 'Sucesos' },
+      { id: 'hogar', title: 'Hogar' },
+      { id: 'local', title: 'Local' }
+    ];
+
+    const elements = {
+      jsonInput: document.getElementById('jsonInput'),
+      jsonOutput: document.getElementById('jsonOutput'),
+      sourceFile: document.getElementById('sourceFile'),
+      loadRemote: document.getElementById('loadRemote'),
+      sourceForm: document.getElementById('sourceForm'),
+      status: document.getElementById('status'),
+      count: document.getElementById('count'),
+      categories: document.getElementById('categories'),
+      title: document.getElementById('title'),
+      id: document.getElementById('id'),
+      source: document.getElementById('source'),
+      idioma: document.getElementById('idioma'),
+      timestampMode: document.getElementById('timestampMode'),
+      copyOutput: document.getElementById('copyOutput'),
+      downloadOutput: document.getElementById('downloadOutput'),
+      clearForm: document.getElementById('clearForm')
+    };
+
+    let catalogCategories = fallbackCategories;
+
+    function slugify(value) {
+      return value
+        .normalize('NFD')
+        .replace(/[\u0300-\u036f]/g, '')
+        .toLowerCase()
+        .replace(/&/g, ' y ')
+        .replace(/[^a-z0-9]+/g, '-')
+        .replace(/^-+|-+$/g, '')
+        .replace(/-{2,}/g, '-');
+    }
+
+    function setStatus(message, type = '') {
+      elements.status.textContent = message;
+      elements.status.className = `status ${type}`.trim();
+    }
+
+    function parseSources() {
+      const raw = elements.jsonInput.value.trim();
+      if (!raw) {
+        throw new Error('Pega o carga primero el sources.json completo.');
+      }
+
+      const parsed = JSON.parse(raw);
+      if (!Array.isArray(parsed)) {
+        throw new Error('sources.json debe ser un array de fuentes.');
+      }
+
+      parsed.forEach((item, index) => {
+        if (!item || typeof item !== 'object' || Array.isArray(item)) {
+          throw new Error(`La fuente en posición ${index + 1} no es un objeto válido.`);
+        }
+      });
+
+      return parsed;
+    }
+
+    function renderCategories() {
+      elements.categories.innerHTML = '';
+      for (const category of catalogCategories) {
+        const label = document.createElement('label');
+        label.className = 'category';
+        label.innerHTML = `
+          <input type="checkbox" name="categorias" value="${category.id}">
+          <span>${category.title}</span>
+        `;
+        elements.categories.append(label);
+      }
+    }
+
+    function selectedCategories() {
+      return Array.from(document.querySelectorAll('input[name="categorias"]:checked')).map((input) => input.value);
+    }
+
+    function updateCount() {
+      try {
+        const sources = parseSources();
+        elements.count.textContent = `${sources.length} sources`;
+        setStatus(`JSON cargado correctamente. Sources actuales: ${sources.length}.`, 'ok');
+      } catch (error) {
+        elements.count.textContent = '0 sources';
+        if (elements.jsonInput.value.trim()) setStatus(error.message, 'error');
+      }
+    }
+
+    function buildSource() {
+      const id = elements.id.value.trim();
+      const title = elements.title.value.trim();
+      const source = elements.source.value.trim();
+      const categorias = selectedCategories();
+
+      if (!id) throw new Error('El ID es obligatorio.');
+      if (!/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(id)) throw new Error('El ID solo puede usar minúsculas, números y guiones.');
+      if (!title) throw new Error('El nombre es obligatorio.');
+      if (!source) throw new Error('La URL del feed es obligatoria.');
+      if (!categorias.length) throw new Error('Selecciona al menos una categoría.');
+
+      const validCategoryIds = new Set(catalogCategories.map((category) => category.id));
+      const invalidCategories = categorias.filter((category) => !validCategoryIds.has(category));
+      if (invalidCategories.length) {
+        throw new Error(`Categorías no válidas: ${invalidCategories.join(', ')}`);
+      }
+
+      const nextSource = {
+        id,
+        title,
+        source,
+        categorias,
+        idioma: elements.idioma.value
+      };
+
+      if (elements.timestampMode.value === 'now') {
+        const now = new Date().toISOString();
+        nextSource.fechaUltimaNoticia = now;
+        nextSource.ultimaBusquedaNoticias = now;
+      }
+
+      return nextSource;
+    }
+
+    function formatJson(value) {
+      return `${JSON.stringify(value, null, 2)}\n`;
+    }
+
+    async function loadRemoteJson(path) {
+      const response = await fetch(path, { cache: 'no-store' });
+      if (!response.ok) throw new Error(`No se pudo leer ${path} (${response.status}).`);
+      return response.json();
+    }
+
+    async function loadCatalog() {
+      try {
+        const catalog = await loadRemoteJson('categories.json');
+        if (Array.isArray(catalog?.categorias)) {
+          catalogCategories = catalog.categorias.filter((category) => category?.id && category?.title);
+        }
+      } catch (_) {
+        catalogCategories = fallbackCategories;
+      }
+      renderCategories();
+    }
+
+    elements.title.addEventListener('input', () => {
+      if (!elements.id.dataset.edited) {
+        elements.id.value = slugify(elements.title.value);
+      }
+    });
+
+    elements.id.addEventListener('input', () => {
+      elements.id.dataset.edited = 'true';
+      elements.id.value = slugify(elements.id.value);
+    });
+
+    elements.jsonInput.addEventListener('input', updateCount);
+
+    elements.sourceFile.addEventListener('change', async () => {
+      const [file] = elements.sourceFile.files;
+      if (!file) return;
+      elements.jsonInput.value = await file.text();
+      updateCount();
+    });
+
+    elements.loadRemote.addEventListener('click', async () => {
+      try {
+        const sources = await loadRemoteJson('sources.json');
+        elements.jsonInput.value = formatJson(sources);
+        updateCount();
+      } catch (error) {
+        setStatus(`${error.message}\nSi estás abriendo este HTML como archivo local, usa “Cargar archivo” o pega el JSON.`, 'error');
+      }
+    });
+
+    elements.sourceForm.addEventListener('submit', (event) => {
+      event.preventDefault();
+      try {
+        const sources = parseSources();
+        const nextSource = buildSource();
+
+        if (sources.some((item) => item.id === nextSource.id)) {
+          throw new Error(`Ya existe una source con id “${nextSource.id}”.`);
+        }
+
+        if (sources.some((item) => item.source === nextSource.source)) {
+          throw new Error('Ya existe una source con esa URL de feed.');
+        }
+
+        const updated = [...sources, nextSource];
+        const json = formatJson(updated);
+        elements.jsonOutput.value = json;
+        elements.count.textContent = `${updated.length} sources`;
+        setStatus(`Source añadida al final. Total: ${updated.length}.`, 'ok');
+      } catch (error) {
+        setStatus(error.message, 'error');
+      }
+    });
+
+    elements.clearForm.addEventListener('click', () => {
+      elements.sourceForm.reset();
+      elements.id.dataset.edited = '';
+      document.querySelectorAll('input[name="categorias"]').forEach((input) => { input.checked = false; });
+    });
+
+    elements.copyOutput.addEventListener('click', async () => {
+      if (!elements.jsonOutput.value.trim()) {
+        setStatus('Primero genera el JSON actualizado.', 'error');
+        return;
+      }
+      await navigator.clipboard.writeText(elements.jsonOutput.value);
+      setStatus('JSON copiado al portapapeles.', 'ok');
+    });
+
+    elements.downloadOutput.addEventListener('click', () => {
+      if (!elements.jsonOutput.value.trim()) {
+        setStatus('Primero genera el JSON actualizado.', 'error');
+        return;
+      }
+      const blob = new Blob([elements.jsonOutput.value], { type: 'application/json;charset=utf-8' });
+      const url = URL.createObjectURL(blob);
+      const link = document.createElement('a');
+      link.href = url;
+      link.download = 'sources.json';
+      link.click();
+      URL.revokeObjectURL(url);
+    });
+
+    loadCatalog();
+  </script>
+</body>
+</html>
