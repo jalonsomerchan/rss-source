@@ -15,7 +15,7 @@ Proyecto para leer feeds RSS y guardar metadatos de noticias en JSON.
 - Generar indices en `indexes/portada.json` y `indexes/categorias.json`.
 - `indexes/portada.json` debe contener las ultimas 50 noticias de todas las fuentes.
 - `indexes/categorias.json` debe agrupar las ultimas 20 noticias por categoria.
-- Mantener `categories.json` como catalogo de categorias agrupadas en supercategorias.
+- Mantener `categories.json` como catalogo plano de categorias genericas, sin supercategorias.
 - Cada vez que se añada, elimine o renombre una categoria en `sources.json`, actualizar `categories.json` en el mismo cambio.
 - Antes de crear una categoria nueva, revisar si ya existe una equivalente para evitar duplicados por acentos, singular/plural o variantes de escritura.
 - Los workflows deben ejecutarse por horario o manualmente, no en cada push.
