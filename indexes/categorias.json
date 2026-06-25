@@ -1,5 +1,5 @@
 {
-  "generado": "2026-06-25T02:47:14.342Z",
+  "generado": "2026-06-25T03:00:19.317Z",
   "limitePorCategoria": 20,
   "categorias": {
     "actualidad": [
@@ -1055,6 +1055,30 @@
     ],
     "deportes": [
       {
+        "titulo": "Los Clippers confían en el español Baba Miller",
+        "url": "https://as.com/baloncesto/nba/los-clippers-confian-en-el-espanol-baba-miller-f202606-n/",
+        "imagen": "https://img.asmedia.epimg.net/resizer/v2/ASFST3NZDJOT3I6C4EY7SZBUJI.jpg?auth=43ad4af24a2dcd8ed94abc6db38290eee2d5d658bc2a78515ecdbc998a15f3f0",
+        "fecha": "2026-06-25T02:27:41.000Z",
+        "fuenteId": "as",
+        "fuenteTitle": "AS",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Sentido mensaje de Messi en redes tras cumplir años: \"Es algo hermoso\"",
+        "url": "https://www.mundodeportivo.com/futbol/mundial/20260625/1004199116/sentido-mensaje-messi-redes-cumplir-anos-hermoso.html",
+        "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/06/23/6a3a1be100cf4.jpeg",
+        "fecha": "2026-06-25T01:54:10.000Z",
+        "fuenteId": "mundo-deportivo",
+        "fuenteTitle": "Mundo Deportivo",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "“Si las cosas no se dan, me tendré que ir”",
         "url": "https://as.com/futbol/mundial/si-las-cosas-no-se-dan-me-tendre-que-ir-f202606-n/",
         "imagen": "https://img.asmedia.epimg.net/resizer/v2/BB5SLHOCFJPTDKRWJPXLK5PZ5Y.jpg?auth=44c4fa1d881b20dafc2607a32d27fd73e5ae5b18f7dfef73d0e06fe8f18085f2",
@@ -1265,30 +1289,6 @@
         "fecha": "2026-06-25T00:30:25.000Z",
         "fuenteId": "abc-deportes",
         "fuenteTitle": "ABC - Deportes",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Sudáfrica- Corea del Sur, fútbol hoy en directo: resultado, goleadores y estadísticas en vivo del partido del Mundial",
-        "url": "https://www.elespanol.com/deportes/futbol/mundial/20260625/sudafrica-corea-sur-futbol-hoy-directo-resultado-goleadores-estadisticas-vivo-partido-mundial/1003744298964_22.html",
-        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11301404.jpg?p=w:1706/h:960&h=dpnY5JQF",
-        "fecha": "2026-06-25T00:30:00.000Z",
-        "fuenteId": "el-espanol-deportes",
-        "fuenteTitle": "El Español - Deportes",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "República Checa - México, fútbol hoy en directo: resultado, goleadores y estadísticas en vivo del partido del Mundial",
-        "url": "https://www.elespanol.com/deportes/futbol/mundial/20260625/republica-checa-mexico-futbol-hoy-directo-resultado-goleadores-estadisticas-vivo-partido-mundial/1003744298977_22.html",
-        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11301408.jpg?p=w:1706/h:960&h=03oI6y4q",
-        "fecha": "2026-06-25T00:30:00.000Z",
-        "fuenteId": "el-espanol-deportes",
-        "fuenteTitle": "El Español - Deportes",
         "categorias": [
           "deportes"
         ],
@@ -2318,6 +2318,19 @@
     ],
     "internacional": [
       {
+        "titulo": "Irán califica el memorando con EE. UU. como una \"derrota estadounidense\"",
+        "url": "https://www.france24.com/es/video/20260625-ir%C3%A1n-califica-el-memorando-con-ee-uu-como-una-derrota-estadounidense",
+        "imagen": "https://s.france24.com/media/display/d80c1744-7020-11f1-9e51-005056a90284/w:1024/p:16x9/ES-20260624-130220-130415-CS.jpg",
+        "fecha": "2026-06-25T02:41:30.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "EN VIDEO | El momento en el que dos terremotos golpean Venezuela provocando graves daños",
         "url": "https://www.bbc.com/mundo/articles/crr8jr4w7v8o?at_medium=RSS&at_campaign=rss",
         "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e53f/live/90000da0-703b-11f1-8cda-7b4f1cb9edc7.jpg",
@@ -2563,22 +2576,165 @@
           "politica"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "Lumumba Vea, el 'hincha estatua' de RD Congo que causa sensación en el Mundial",
-        "url": "https://www.france24.com/es/deportes/20260624-lumumba-vea-la-estatua-viviente-de-rd-congo-que-causa-sensaci%C3%B3n-en-el-mundial",
-        "imagen": "https://s.france24.com/media/display/15928f04-6f85-11f1-90c3-005056bf30b7/w:1024/p:16x9/2026-06-24T030628Z-477437979-UP1EM6O08MQA1-RTRMADP-3-SOCCER-WORLDCUP-COL-COD.jpg",
-        "fecha": "2026-06-24T21:57:39.000Z",
-        "fuenteId": "france24-espanol",
-        "fuenteTitle": "France 24 Español",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
       }
     ],
     "local": [
+      {
+        "titulo": "El tiempo en Coria: previsión meteorológica para hoy, jueves 25 de junio",
+        "url": "https://www.elperiodicoextremadura.com/tiempo/2026/06/25/tiempo-coria-prevision-meteorologica-hoy-131786826.html",
+        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/0b330dc1-4744-4b46-8447-9221ba9cfeca_16-9-aspect-ratio_default_0_x600y225.jpg",
+        "fecha": "2026-06-25T02:44:40.000Z",
+        "fuenteId": "el-periodico-extremadura",
+        "fuenteTitle": "El Periódico Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El tiempo en Castuera: previsión meteorológica para hoy, jueves 25 de junio",
+        "url": "https://www.elperiodicoextremadura.com/tiempo/2026/06/25/tiempo-castuera-prevision-meteorologica-hoy-131786788.html",
+        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/adff6076-10f2-495c-8d5a-b8b937723c42_16-9-aspect-ratio_default_0_x600y225.jpg",
+        "fecha": "2026-06-25T02:41:57.000Z",
+        "fuenteId": "el-periodico-extremadura",
+        "fuenteTitle": "El Periódico Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El tiempo en Casar de Cáceres: previsión meteorológica para hoy, jueves 25 de junio",
+        "url": "https://www.elperiodicoextremadura.com/tiempo/2026/06/25/tiempo-casar-caceres-prevision-meteorologica-131786776.html",
+        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/78103d3c-7aa1-4cac-b2eb-12227be6c9a9_16-9-aspect-ratio_default_0_x600y225.jpg",
+        "fecha": "2026-06-25T02:41:03.000Z",
+        "fuenteId": "el-periodico-extremadura",
+        "fuenteTitle": "El Periódico Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El tiempo en Campanario: previsión meteorológica para hoy, jueves 25 de junio",
+        "url": "https://www.elperiodicoextremadura.com/tiempo/2026/06/25/tiempo-campanario-prevision-meteorologica-hoy-131786742.html",
+        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/f83e1562-cb8d-41bb-8235-a2a07f560bb1_16-9-aspect-ratio_default_0_x600y225.jpg",
+        "fecha": "2026-06-25T02:38:47.000Z",
+        "fuenteId": "el-periodico-extremadura",
+        "fuenteTitle": "El Periódico Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El tiempo en Calamonte: previsión meteorológica para hoy, jueves 25 de junio",
+        "url": "https://www.elperiodicoextremadura.com/tiempo/2026/06/25/tiempo-calamonte-prevision-meteorologica-hoy-131786717.html",
+        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/42658ee1-f910-4b5f-85ec-8944ee950200_16-9-aspect-ratio_default_0_x600y225.jpg",
+        "fecha": "2026-06-25T02:36:59.000Z",
+        "fuenteId": "el-periodico-extremadura",
+        "fuenteTitle": "El Periódico Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El tiempo en Cabeza del Buey: previsión meteorológica para hoy, jueves 25 de junio",
+        "url": "https://www.elperiodicoextremadura.com/tiempo/2026/06/25/tiempo-cabeza-buey-prevision-meteorologica-131786705.html",
+        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/fcb573ca-069f-44aa-9f39-a8c9350687af_16-9-aspect-ratio_default_0_x600y225.jpg",
+        "fecha": "2026-06-25T02:36:04.000Z",
+        "fuenteId": "el-periodico-extremadura",
+        "fuenteTitle": "El Periódico Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El tiempo en Badajoz: previsión meteorológica para hoy, jueves 25 de junio",
+        "url": "https://www.elperiodicoextremadura.com/tiempo/2026/06/25/tiempo-badajoz-prevision-meteorologica-hoy-131786614.html",
+        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/bfa18a9c-bd3b-497b-ade9-bd2b5cf4d703_16-9-aspect-ratio_default_0_x600y225.jpg",
+        "fecha": "2026-06-25T02:29:51.000Z",
+        "fuenteId": "el-periodico-extremadura",
+        "fuenteTitle": "El Periódico Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El tiempo en Azuaga: previsión meteorológica para hoy, jueves 25 de junio",
+        "url": "https://www.elperiodicoextremadura.com/tiempo/2026/06/25/tiempo-azuaga-prevision-meteorologica-hoy-131786612.html",
+        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/7dc27e23-56df-410f-91cc-c86dea9a0e36_16-9-aspect-ratio_default_0_x600y225.jpg",
+        "fecha": "2026-06-25T02:29:39.000Z",
+        "fuenteId": "el-periodico-extremadura",
+        "fuenteTitle": "El Periódico Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El tiempo en Arroyo de la Luz: previsión meteorológica para hoy, jueves 25 de junio",
+        "url": "https://www.elperiodicoextremadura.com/tiempo/2026/06/25/tiempo-arroyo-luz-prevision-meteorologica-131786593.html",
+        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/4e36f87b-0de0-450a-8601-6811be922284_16-9-aspect-ratio_default_0_x600y225.jpg",
+        "fecha": "2026-06-25T02:28:11.000Z",
+        "fuenteId": "el-periodico-extremadura",
+        "fuenteTitle": "El Periódico Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El tiempo en Arroyo de San Serván: previsión meteorológica para hoy, jueves 25 de junio",
+        "url": "https://www.elperiodicoextremadura.com/tiempo/2026/06/25/tiempo-arroyo-san-servan-prevision-131786591.html",
+        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/66a477aa-6457-4890-86ba-4423159ca0b1_16-9-aspect-ratio_default_0_x600y225.jpg",
+        "fecha": "2026-06-25T02:28:00.000Z",
+        "fuenteId": "el-periodico-extremadura",
+        "fuenteTitle": "El Periódico Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El tiempo en Almendralejo: previsión meteorológica para hoy, jueves 25 de junio",
+        "url": "https://www.elperiodicoextremadura.com/tiempo/2026/06/25/tiempo-almendralejo-prevision-meteorologica-hoy-131786539.html",
+        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/f86110a8-867e-47c7-a334-4e70b6613730_16-9-aspect-ratio_default_0_x600y225.jpg",
+        "fecha": "2026-06-25T02:24:34.000Z",
+        "fuenteId": "el-periodico-extremadura",
+        "fuenteTitle": "El Periódico Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El tiempo en Alburquerque: previsión meteorológica para hoy, jueves 25 de junio",
+        "url": "https://www.elperiodicoextremadura.com/tiempo/2026/06/25/tiempo-alburquerque-prevision-meteorologica-hoy-131786507.html",
+        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/801192bf-7554-4256-a1f6-9833ceb0273f_16-9-aspect-ratio_default_0_x600y225.jpg",
+        "fecha": "2026-06-25T02:22:00.000Z",
+        "fuenteId": "el-periodico-extremadura",
+        "fuenteTitle": "El Periódico Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El tiempo en Aceuchal: previsión meteorológica para hoy, jueves 25 de junio",
+        "url": "https://www.elperiodicoextremadura.com/tiempo/2026/06/25/tiempo-aceuchal-prevision-meteorologica-hoy-131786483.html",
+        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/337229da-edf5-42e8-8559-b41e96777153_16-9-aspect-ratio_default_0_x600y225.jpg",
+        "fecha": "2026-06-25T02:20:13.000Z",
+        "fuenteId": "el-periodico-extremadura",
+        "fuenteTitle": "El Periódico Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "01:00 | 25 JUN 2026 | TIEMPO DE JUEGO",
         "url": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/01-00-25-jun-2026-juego-20260625_3391249.html",
@@ -2658,162 +2814,6 @@
         "fecha": "2026-06-24T22:19:36.000Z",
         "fuenteId": "el-periodico-extremadura",
         "fuenteTitle": "El Periódico Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "23:00 | 24 JUN 2026 | TIEMPO DE JUEGO",
-        "url": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/23-00-24-jun-2026-juego-20260625_3391223.html",
-        "imagen": "",
-        "fecha": "2026-06-24T22:02:26.000Z",
-        "fuenteId": "cope-extremadura",
-        "fuenteTitle": "COPE Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Apúntate a la GRAVITEO SKATE RACE, la gran carrera de velocidad del Circuit de Barcelona-Catalunya",
-        "url": "https://www.elperiodicoextremadura.com/deportes/2026/06/24/apuntate-graviteo-skate-race-gran-131785245.html",
-        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/fb38f4dc-40ce-41a6-9560-a02ba1bf3021_16-9-aspect-ratio_default_0_x1040y461.jpg",
-        "fecha": "2026-06-24T21:59:50.000Z",
-        "fuenteId": "el-periodico-extremadura",
-        "fuenteTitle": "El Periódico Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "22:00 | 24 JUN 2026 | TIEMPO DE JUEGO",
-        "url": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/22-00-24-jun-2026-juego-20260624_3391215.html",
-        "imagen": "",
-        "fecha": "2026-06-24T21:43:28.000Z",
-        "fuenteId": "cope-extremadura",
-        "fuenteTitle": "COPE Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Nueva York se prepara para la boda de Taylor Swift",
-        "url": "https://www.elperiodicoextremadura.com/vida-y-estilo/gente/2026/06/24/taylor-swift-boda-nueva-york-madison-square-garden-4-julio-131785101.html",
-        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/f6dc910d-39cd-48a3-9c1b-8804f891a406_16-9-aspect-ratio_default_0_x1200y533.jpg",
-        "fecha": "2026-06-24T21:43:05.000Z",
-        "fuenteId": "el-periodico-extremadura",
-        "fuenteTitle": "El Periódico Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Grimaldo confirma las negociaciones entre Atlético y Leverkusen: \"Está claro que hay conversaciones, pero veremos lo que pasa en los próximos días\"",
-        "url": "https://www.cope.es/programas/tiempo-de-juego/noticias/grimaldo-confirma-negociaciones-atletico-leverkusen-claro-hay-conversaciones-veremos-pasa-proximos-dias-20260624_3391219.html",
-        "imagen": "https://imagenes.cope.es/files/og_thumbnail/uploads/2026/06/24/6a3c4d1de9462.jpeg",
-        "fecha": "2026-06-24T21:37:44.000Z",
-        "fuenteId": "cope-extremadura",
-        "fuenteTitle": "COPE Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El Aeropuerto de Miami bromea con una 'alerta ovni' en el Escocia-Brasil",
-        "url": "https://www.cope.es/programas/tiempo-de-juego/noticias/aeropuerto-miami-bromea-alerta-ovni-escocia-brasil-20260624_3391216.html",
-        "imagen": "https://imagenes.cope.es/files/og_thumbnail/uploads/2026/06/24/6a3c4b7b885a4.jpeg",
-        "fecha": "2026-06-24T21:33:35.000Z",
-        "fuenteId": "cope-extremadura",
-        "fuenteTitle": "COPE Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Suiza y Canadá certifican su clasificación para las eliminatorias, Bosnia queda a la espera y Qatar se vuelve a casa",
-        "url": "https://www.elperiodicoextremadura.com/deportes/2026/06/24/canada-suiza-bosnia-qatar-mundial-clasificados-dieciseisavos-131784904.html",
-        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/3e5debd3-a7f5-4bb6-8aff-8d8cc6a47469_16-9-aspect-ratio_default_0_x1000y472.jpg",
-        "fecha": "2026-06-24T21:21:09.000Z",
-        "fuenteId": "el-periodico-extremadura",
-        "fuenteTitle": "El Periódico Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Primer herido grave en los Sanjuanes de Coria: un joven de 25 años sufre una cogida de un toro sobrero",
-        "url": "https://www.elperiodicoextremadura.com/coria/2026/06/24/primer-herido-grave-sanjuanes-coria-131784671.html",
-        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/b2814aa1-de32-4942-b65d-3787bfd25bfb_16-9-aspect-ratio_default_0_x229y441.jpg",
-        "fecha": "2026-06-24T21:10:46.000Z",
-        "fuenteId": "el-periodico-extremadura",
-        "fuenteTitle": "El Periódico Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Trump dice que España es un \"desastre\" como socio de la OTAN",
-        "url": "https://www.elperiodicoextremadura.com/internacional/2026/06/24/trump-espana-desastre-socio-otan-131784468.html",
-        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/fbdd247e-d282-4a34-b6c6-b40241fa35b5_16-9-aspect-ratio_default_0_x1200y533.jpg",
-        "fecha": "2026-06-24T20:53:57.000Z",
-        "fuenteId": "el-periodico-extremadura",
-        "fuenteTitle": "El Periódico Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Consulta la portada correspondiente al día 25 de junio de 2026",
-        "url": "https://www.elperiodicoextremadura.com/sociedad/2026/06/24/consulta-portada-correspondiente-dia-25-131784342.html",
-        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/fac291b8-9eed-474e-b5ce-c72caab056c1_16-9-aspect-ratio_default_0_x853y728.jpg",
-        "fecha": "2026-06-24T20:48:46.000Z",
-        "fuenteId": "el-periodico-extremadura",
-        "fuenteTitle": "El Periódico Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "20:30 | 24 JUN 2026 | TIEMPO DE JUEGO",
-        "url": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/20-30-24-jun-2026-juego-20260624_3391200.html",
-        "imagen": "",
-        "fecha": "2026-06-24T20:23:26.000Z",
-        "fuenteId": "cope-extremadura",
-        "fuenteTitle": "COPE Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Blindar a perpetuidad la VPO, el origen del nuevo 'encontronazo' del Gobierno y las comunidades del PP",
-        "url": "https://www.elperiodicoextremadura.com/economia/2026/06/24/plan-estatal-vivienda-perpetuidad-vpo-131783686.html",
-        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/d308830c-0d93-4ef2-b2d5-87eb8dc7190c_16-9-aspect-ratio_default_0_x384y384.jpg",
-        "fecha": "2026-06-24T20:13:40.000Z",
-        "fuenteId": "el-periodico-extremadura",
-        "fuenteTitle": "El Periódico Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El Valencia Basket, campeón de la ACB",
-        "url": "https://www.cope.es/programas/tiempo-de-juego/noticias/valencia-basket-campeon-liga-endesa-20260624_3391195.html",
-        "imagen": "https://imagenes.cope.es/files/og_thumbnail/uploads/2026/06/24/6a3c387d94c1a.jpeg",
-        "fecha": "2026-06-24T20:12:37.000Z",
-        "fuenteId": "cope-extremadura",
-        "fuenteTitle": "COPE Extremadura",
         "categorias": [
           "local"
         ],
@@ -3324,6 +3324,19 @@
     ],
     "politica": [
       {
+        "titulo": "Irán califica el memorando con EE. UU. como una \"derrota estadounidense\"",
+        "url": "https://www.france24.com/es/video/20260625-ir%C3%A1n-califica-el-memorando-con-ee-uu-como-una-derrota-estadounidense",
+        "imagen": "https://s.france24.com/media/display/d80c1744-7020-11f1-9e51-005056a90284/w:1024/p:16x9/ES-20260624-130220-130415-CS.jpg",
+        "fecha": "2026-06-25T02:41:30.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Delcy Rodríguez declara estado de emergencia tras terremoto en Venezuela y expresa condolencias por víctimas",
         "url": "https://www.france24.com/es/minuto-a-minuto/20260625-delcy-rodriguez-declara-estado-de-emergencia-tras-terremoto-en-venezuela-y-expresa-condolencias-por-v%C3%ADctimas",
         "imagen": "",
@@ -3564,19 +3577,6 @@
         "fecha": "2026-06-24T22:05:00.000Z",
         "fuenteId": "la-vanguardia-politica",
         "fuenteTitle": "La Vanguardia - Política",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Ruta por los atardereces más tardíos de la Europa continental: el fin del mundo en tres días",
-        "url": "https://www.abc.es/espana/galicia/ruta-atardereces-tardios-europa-continental-fin-mundo-20260624000000-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/06/24/descarga-RJ0NqCRTfGOfqCWmQCHVeVN-1200x840@diario_abc.png",
-        "fecha": "2026-06-24T22:00:01.000Z",
-        "fuenteId": "abc-espana",
-        "fuenteTitle": "ABC - España",
         "categorias": [
           "politica",
           "actualidad"
