@@ -1,8 +1,556 @@
 {
-  "generado": "2026-06-30T03:31:37.849Z",
+  "generado": "2026-06-30T03:40:18.626Z",
   "limite": 50,
-  "total": 46229,
+  "total": 46274,
   "noticias": [
+    {
+      "titulo": "Crunch Fitness: de la quiebra a los 3 millones de socios y la alianza con CR7",
+      "url": "https://palco23.mundodeportivo.com/fitness/crunch-fitness-de-la-quiebra-a-los-3-millones-de-socios-y-la-alianza-con-cristiano-ronaldo",
+      "imagen": "",
+      "fecha": "2026-06-30T03:20:18.472Z",
+      "fuenteId": "palco23",
+      "fuenteTitle": "Palco23",
+      "categorias": [
+        "deportes",
+        "economia"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "La Gran Départ del Tour asegurará en Tarragona un impacto de 34 millones",
+      "url": "https://palco23.mundodeportivo.com/competiciones/la-gran-depart-del-tour-de-francia-2026-en-barcelona-asegurara-a-tarragona-34-millones-de-euros-diarios",
+      "imagen": "",
+      "fecha": "2026-06-30T03:20:18.472Z",
+      "fuenteId": "palco23",
+      "fuenteTitle": "Palco23",
+      "categorias": [
+        "deportes",
+        "economia"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Movistar, MasOrange y Vodafone repercuten las subidas de precios de Netflix",
+      "url": "https://cincodias.elpais.com/companias/2026-06-30/movistar-masorange-y-vodafone-repercuten-las-subidas-de-precios-de-netflix.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/25LTKIPTCZEB3EAVPNW5VUPXJE.png?auth=976c273c4976b3ff1e9aa5676dab49a9ac8c2af0907f2d3d5d74f4908d7a17b1",
+      "fecha": "2026-06-30T03:15:00.000Z",
+      "fuenteId": "el-pais-economia",
+      "fuenteTitle": "El País - Economía",
+      "categorias": [
+        "economia",
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "El tiempo en Quintana de la Serena: previsión meteorológica para hoy, martes 30 de junio",
+      "url": "https://www.elperiodicoextremadura.com/tiempo/2026/06/30/tiempo-quintana-serena-prevision-meteorologica-131954641.html",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/9ed616d1-b0de-46e9-aed1-b0a441ede58a_16-9-aspect-ratio_default_0_x600y225.jpg",
+      "fecha": "2026-06-30T03:12:43.000Z",
+      "fuenteId": "el-periodico-extremadura",
+      "fuenteTitle": "El Periódico Extremadura",
+      "categorias": [
+        "local"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Dinamita Montilla, retrato de un asesino en serie: \"Yo soy una persona completa. El resto de la gente son más torpes que yo\"",
+      "url": "https://www.elperiodicoextremadura.com/sucesos/2026/06/30/dinamita-montilla-retrato-asesino-serie-131954484.html",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/3a88a100-4696-4d1e-a9f2-4560168323e2_16-9-aspect-ratio_default_0.jpg",
+      "fecha": "2026-06-30T03:01:06.000Z",
+      "fuenteId": "el-periodico-extremadura",
+      "fuenteTitle": "El Periódico Extremadura",
+      "categorias": [
+        "local"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Qué precio de la luz pagarás hoy por poner la lavadora, el lavavajillas o el horno: las horas más caras y las más baratas de este martes, 30 de junio de 2026",
+      "url": "https://theobjective.com/actualidad/2026-06-30/precio-luz-martes-30-junio-2026/",
+      "imagen": "",
+      "fecha": "2026-06-30T03:01:03.000Z",
+      "fuenteId": "the-objective",
+      "fuenteTitle": "The Objective",
+      "categorias": [
+        "actualidad",
+        "politica"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "El TSJ rechaza la vía del Ayuntamiento de Toledo para evitar pagar 10,13 millones por la expropiación del Nudo Norte",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/tsj-rechaza-via-ayuntamiento-toledo-evitar-pagar-20260630050101-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/06/30/1494339913-R8ExXp546Vm45Fd0oW9eHUO-1200x840@diario_abc.jpg",
+      "fecha": "2026-06-30T03:01:01.000Z",
+      "fuenteId": "abc-espana",
+      "fuenteTitle": "ABC - España",
+      "categorias": [
+        "politica",
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Sorteo del calendario de Liga 2026-27: horario y dónde ver por televisión y online los partidos de Primera División",
+      "url": "https://www.abc.es/deportes/futbol/sorteo-calendario-liga-202627-horario-donde-ver-television-20260630050000-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/06/30/mbappe-lamine-yamal-real-madrid-barcelona-k0iD-U305567556195xF-1200x840@diario_abc.jpg",
+      "fecha": "2026-06-30T03:00:05.000Z",
+      "fuenteId": "abc-deportes",
+      "fuenteTitle": "ABC - Deportes",
+      "categorias": [
+        "deportes"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Fito & Fitipaldis en Galicia: conciertos en Vigo y La Coruña en 2026",
+      "url": "https://www.abc.es/espana/galicia/fito-fitipaldis-galicia-conciertos-vigo-coruna-2026-20260629050002-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/06/29/1513784247-R0oC4K3zFxnt44fzrWf48AM-1200x840@diario_abc.jpg",
+      "fecha": "2026-06-30T03:00:02.000Z",
+      "fuenteId": "abc-espana",
+      "fuenteTitle": "ABC - España",
+      "categorias": [
+        "politica",
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "La tembladera",
+      "url": "https://www.20minutos.es/internacional/tembladera-terremoto-venezuela_7008443_3.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/06/29/6a42d7bb509b58-29164125.jpeg",
+      "fecha": "2026-06-30T03:00:00.000Z",
+      "fuenteId": "20minutos",
+      "fuenteTitle": "20minutos",
+      "categorias": [
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "La paz imposible de Trump",
+      "url": "https://www.20minutos.es/internacional/paz-imposible-trump_7008094_3.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/06/24/6a3b3488e9d250-46199414.jpeg",
+      "fecha": "2026-06-30T03:00:00.000Z",
+      "fuenteId": "20minutos",
+      "fuenteTitle": "20minutos",
+      "categorias": [
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "La triste Europa",
+      "url": "https://www.20minutos.es/internacional/triste-europa-afganistan-mujeres-talibanes_7008149_3.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/08/26/mujeres-hacen-cola-en-kabul-en-una-imagen-de-archivo.jpeg",
+      "fecha": "2026-06-30T03:00:00.000Z",
+      "fuenteId": "20minutos",
+      "fuenteTitle": "20minutos",
+      "categorias": [
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "El euríbor se estabiliza en junio a la espera del BCE pero encarecerá las hipotecas hasta 1.550 euros al año",
+      "url": "https://www.20minutos.es/lainformacion/economia-y-finanzas/euribor-estabiliza-junio-hipotecas-encarecera_7008226_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/06/29/6a42732122ece2-87700944.jpeg",
+      "fecha": "2026-06-30T03:00:00.000Z",
+      "fuenteId": "20minutos-economia",
+      "fuenteTitle": "20minutos - Economía",
+      "categorias": [
+        "economia",
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "La UE se enfrenta a su gran asignatura económica pendiente: la culminación del mercado único",
+      "url": "https://www.20minutos.es/lainformacion/economia-y-finanzas/ue-se-enfrenta-su-gran-asignatura-economica-pendiente-culminacion-mercado-unico_7008376_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/06/29/6a42aabd793e81-16929595.jpeg",
+      "fecha": "2026-06-30T03:00:00.000Z",
+      "fuenteId": "20minutos-economia",
+      "fuenteTitle": "20minutos - Economía",
+      "categorias": [
+        "economia",
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "La burocracia ralentiza el abono de las ayudas para agricultores y pescadores por el conflicto en Oriente Próximo",
+      "url": "https://www.20minutos.es/lainformacion/economia-y-finanzas/burocracia-ralentiza-abono-ayudas-agricultores-pescadores-conflicto-oriente-proximo_7008366_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/06/29/6a42aa009c93b3-74960625.jpeg",
+      "fecha": "2026-06-30T03:00:00.000Z",
+      "fuenteId": "20minutos-economia",
+      "fuenteTitle": "20minutos - Economía",
+      "categorias": [
+        "economia",
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "El alquiler de verano en la costa, más caro que nunca: \"Las playas atlánticas y cantábricas marcan el ritmo de las subidas\"",
+      "url": "https://www.20minutos.es/lainformacion/economia-y-finanzas/alquiler-verano-costa-mas-caro-que-nunca-las-playas-atlanticas-cantabricas-marcan-ritmo-las-subidas_6983795_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/06/19/fotografia-casa-en-la-playa.jpeg",
+      "fecha": "2026-06-30T03:00:00.000Z",
+      "fuenteId": "20minutos-economia",
+      "fuenteTitle": "20minutos - Economía",
+      "categorias": [
+        "economia",
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Último día para hacer la declaración de la Renta 2026: las multas y sanciones por presentarla fuera de plazo",
+      "url": "https://www.20minutos.es/lainformacion/economia-y-finanzas/ultimo-dia-declaracion-renta-multas-sanciones-presentarla-fuerza-plazo_6982458_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/04/08/69d60eb87ed788-62214743.r_d.540-639-15323.jpeg",
+      "fecha": "2026-06-30T03:00:00.000Z",
+      "fuenteId": "20minutos-economia",
+      "fuenteTitle": "20minutos - Economía",
+      "categorias": [
+        "economia",
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Tras la flota fantasma que decide el precio de tu bocadillo de calamares",
+      "url": "https://www.elconfidencial.com/economia/2026-06-30/flotas-pesca-calamar-pota-argentina-china-poton-cbtr_4380661/",
+      "imagen": "https://images.ecestaticos.com/ynn-htN66Pb6plGQSnR5i45UKYU=/0x0:1920x1080/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F63c%2F0fe%2F3e1%2F63c0fe3e1c45f89f416109879faca544.jpg",
+      "fecha": "2026-06-30T03:00:00.000Z",
+      "fuenteId": "el-confidencial",
+      "fuenteTitle": "El Confidencial",
+      "categorias": [
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "El secreto mejor guardado de España: unos cimientos firmes (y un récord mundial) hacen un equipo ganador",
+      "url": "https://www.elconfidencial.com/deportes/futbol/mundial/2026-06-30/espana-austria-secreto-de-la-fuente-centrales-defensa-unai-simon_4380320/",
+      "imagen": "https://images.ecestaticos.com/0-AKPaBGMw03sIKtajN_5MLjdZc=/0x31:2272x1309/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fffc%2F772%2F6ad%2Fffc7726ad7c4d9a9c1a7f6a6c2f5511a.jpg",
+      "fecha": "2026-06-30T03:00:00.000Z",
+      "fuenteId": "el-confidencial",
+      "fuenteTitle": "El Confidencial",
+      "categorias": [
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Mbappé en modo Ronaldo para ilusionarse: la revancha de 2022, el motor de la temible Francia",
+      "url": "https://www.elconfidencial.com/deportes/futbol/mundial/2026-06-30/mundial-francia-deschamps-mbappe-dembele_4380368/",
+      "imagen": "https://images.ecestaticos.com/hhysQ4Ra4SIsOrsZfLTD7u7mAfk=/0x202:2272x1480/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fdd3%2F426%2F34e%2Fdd342634e34965cc001a35f8fc5e93e1.jpg",
+      "fecha": "2026-06-30T03:00:00.000Z",
+      "fuenteId": "el-confidencial",
+      "fuenteTitle": "El Confidencial",
+      "categorias": [
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Heráclito, filósofo: “Los ojos son testigos más exactos que los oídos”",
+      "url": "https://www.elconfidencial.com/alma-corazon-vida/2026-06-30/filosofo-ojos-testigos-mas-exactos-oidos-heraclito_4378229/",
+      "imagen": "https://images.ecestaticos.com/1bJSXmicb0dvbAvQGyjY7rxTmCc=/0x0:1600x1930/746x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F10b%2Fb76%2Fdcb%2F10bb76dcbbc0919ffe772fe4400d2760.jpg",
+      "fecha": "2026-06-30T03:00:00.000Z",
+      "fuenteId": "el-confidencial-alma-corazon-vida",
+      "fuenteTitle": "El Confidencial - Alma, Corazón y Vida",
+      "categorias": [
+        "salud",
+        "hogar",
+        "corazon"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "El nombre de niña más repetido en los bebés nacidos en 2024 en Castilla y León",
+      "url": "https://www.elconfidencial.com/alma-corazon-vida/2026-06-30/nombre-nina-mas-repetido-bebes-castilla-leon-2024_4378469/",
+      "imagen": "https://images.ecestaticos.com/kLbC-PvLo3VZ1iJ_53rukCxccCM=/0x0:2272x1514/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fe36%2Fda2%2F72b%2Fe36da272b73e4e2f53692a4c5597e1f8.jpg",
+      "fecha": "2026-06-30T03:00:00.000Z",
+      "fuenteId": "el-confidencial-alma-corazon-vida",
+      "fuenteTitle": "El Confidencial - Alma, Corazón y Vida",
+      "categorias": [
+        "salud",
+        "hogar",
+        "corazon"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Peter Serafinowicz, actor de 'Star Wars': \"Fue la mayor decepción de mi vida\"",
+      "url": "https://www.elconfidencial.com/cultura/cine/2026-06-30/peter-serafinowicz-actor-star-wars-decepcion-1qrt_4379272/",
+      "imagen": "https://images.ecestaticos.com/SSFQUBqqfCM9WSk9k4oGPvR691k=/0x0:2158x1472/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F42d%2Fb59%2F531%2F42db59531d1a1b8084874529eea9fcb1.jpg",
+      "fecha": "2026-06-30T03:00:00.000Z",
+      "fuenteId": "el-confidencial-cultura",
+      "fuenteTitle": "El Confidencial - Cultura",
+      "categorias": [
+        "cultura"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "De Salvador Dalí a Pantomima Full: así ha cambiado el postureo español en más de un siglo",
+      "url": "https://www.elconfidencial.com/cultura/2026-06-30/dali-valle-inclan-pantomima-full-postureo-espanol_4369908/",
+      "imagen": "https://images.ecestaticos.com/Kfa2J-wd58hvAaYZUDg44RZfwEk=/0x0:2272x1661/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F784%2F847%2F028%2F784847028f8f2d7df5673d627f6276a6.jpg",
+      "fecha": "2026-06-30T03:00:00.000Z",
+      "fuenteId": "el-confidencial-cultura",
+      "fuenteTitle": "El Confidencial - Cultura",
+      "categorias": [
+        "cultura"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "La Generalitat separará la negociación laboral con los maestros de la reforma educativa",
+      "url": "https://www.elconfidencial.com/espana/cataluna/2026-06-30/generalitat-separara-negociacion-laboral-maestros_4380524/",
+      "imagen": "https://images.ecestaticos.com/06W-gtIDQold51sGMDz51hUKNas=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F36f%2F466%2Fe79%2F36f466e79d7cf78b4e0d884dd5caf356.jpg",
+      "fecha": "2026-06-30T03:00:00.000Z",
+      "fuenteId": "el-confidencial-espana",
+      "fuenteTitle": "El Confidencial - España",
+      "categorias": [
+        "politica",
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "La vida de sangre y muerte de Domenico Paviglianiti, el capo de la mafia que vivió oculto en Soria",
+      "url": "https://www.elconfidencial.com/espana/castilla-y-leon/2026-06-30/vida-domenico-paviglianiti-capo-mafia-oculto-soria_4380539/",
+      "imagen": "https://images.ecestaticos.com/-QFR4NVsUsIjOp7wcBy1YV7Jv4k=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ff94%2Fe8e%2Fdf5%2Ff94e8edf5f7e603e57a42f237d067660.jpg",
+      "fecha": "2026-06-30T03:00:00.000Z",
+      "fuenteId": "el-confidencial-espana",
+      "fuenteTitle": "El Confidencial - España",
+      "categorias": [
+        "politica",
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "El Supremo advierte que la regularización masiva del Gobierno puede colisionar con la normativa europea",
+      "url": "https://www.elconfidencial.com/espana/2026-06-30/supremo-advierte-regularizacion-masiva-colisionar-normativa-europea_4380603/",
+      "imagen": "https://images.ecestaticos.com/s5fpizlWeF6wATarcegs-AH3sH8=/0x0:2272x1518/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fd7c%2F43d%2F019%2Fd7c43d019b2b101f783e84e7e15887cc.jpg",
+      "fecha": "2026-06-30T03:00:00.000Z",
+      "fuenteId": "el-confidencial-espana",
+      "fuenteTitle": "El Confidencial - España",
+      "categorias": [
+        "politica",
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "El olor a muerte bajo los escombros desnuda el primer fallo de la 'gestión Delcy' del terremoto: las cifras",
+      "url": "https://www.elconfidencial.com/mundo/2026-06-30/olor-muerte-escombros-fallo-gestion-delcy-terremoto-venezuela_4380275/",
+      "imagen": "https://images.ecestaticos.com/e3gMd61xrZPWiZ21l0A85ad2YO0=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F30d%2F267%2F137%2F30d2671371ad69bb4f5efe10dd68487f.jpg",
+      "fecha": "2026-06-30T03:00:00.000Z",
+      "fuenteId": "el-confidencial-mundo",
+      "fuenteTitle": "El Confidencial - Mundo",
+      "categorias": [
+        "internacional",
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "\"Sudáfrica para los sudafricanos\": el país se blinda para intentar evitar lo peor de una 'caza al inmingrante'",
+      "url": "https://www.elconfidencial.com/mundo/2026-06-30/sudafrica-xenofobia-inmigracion-violencia-pobreza-1hms_4380590/",
+      "imagen": "https://images.ecestaticos.com/tVXHRERJvginRJ3IOTMdPl3WquQ=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F3bb%2F6aa%2F2b3%2F3bb6aa2b341d432df4246bc3d6030882.jpg",
+      "fecha": "2026-06-30T03:00:00.000Z",
+      "fuenteId": "el-confidencial-mundo",
+      "fuenteTitle": "El Confidencial - Mundo",
+      "categorias": [
+        "internacional",
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "El primer hotel de la historia sin personal humano abrirá en China en 2027",
+      "url": "https://www.elconfidencial.com/tecnologia/novaceno/2026-06-30/primer-hotel-historia-personal-humano-china-2027_4380666/",
+      "imagen": "https://images.ecestaticos.com/SsrCOhf5B3b_03WCvo_qS1CM5s8=/0x0:1920x1440/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F4af%2Fc43%2F9ee%2F4afc439ee406d4d7f125208f5048b14d.jpg",
+      "fecha": "2026-06-30T03:00:00.000Z",
+      "fuenteId": "el-confidencial-tecnologia",
+      "fuenteTitle": "El Confidencial - Tecnología",
+      "categorias": [
+        "tecnologia"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "386 fósiles de 21 especies diferentes revelan el momento exacto en el que los humanos dimos el estirón",
+      "url": "https://www.elconfidencial.com/tecnologia/ciencia/2026-06-30/fosiles-especies-humanos-dimos-estiron-1qrt_4378527/",
+      "imagen": "https://images.ecestaticos.com/Yf2cPF7EpnUUD2WNyMAZ5Ln8Gos=/0x0:2272x1406/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F936%2F582%2F487%2F936582487bb4ad7b4ef0257612091ffe.jpg",
+      "fecha": "2026-06-30T03:00:00.000Z",
+      "fuenteId": "el-confidencial-tecnologia",
+      "fuenteTitle": "El Confidencial - Tecnología",
+      "categorias": [
+        "tecnologia"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "EEUU inyecta hongos y microbios en el cemento y crea un nuevo tipo de hormigón vivo que se repara solo",
+      "url": "https://www.elconfidencial.com/tecnologia/2026-06-30/eeuu-hongos-microbios-cemento-hormigon-1qrt_4378635/",
+      "imagen": "https://images.ecestaticos.com/B9d1Zcfrfv5Q5lsrj1MUtqPIZwE=/0x0:2000x1254/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F235%2F2c8%2Ff10%2F2352c8f10745fe2b57a441ea73b8bd0e.jpg",
+      "fecha": "2026-06-30T03:00:00.000Z",
+      "fuenteId": "el-confidencial-tecnologia",
+      "fuenteTitle": "El Confidencial - Tecnología",
+      "categorias": [
+        "tecnologia"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Un abogado de IA 'gana' un juicio real y eso dice mucho del futuro que nos espera",
+      "url": "https://www.elconfidencial.com/tecnologia/2026-06-30/abogado-ia-gana-juicio-real-futuro-espera-1qrt_4379234/",
+      "imagen": "https://images.ecestaticos.com/c7XRUoqkEPKpc0y4-LofQH8WzLI=/0x0:1986x1270/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ff36%2Fe20%2F8cd%2Ff36e208cd85cea811d5248e7ec07b444.jpg",
+      "fecha": "2026-06-30T03:00:00.000Z",
+      "fuenteId": "el-confidencial-tecnologia",
+      "fuenteTitle": "El Confidencial - Tecnología",
+      "categorias": [
+        "tecnologia"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "El tiempo en Villanueva de la Serena: previsión meteorológica para hoy, martes 30 de junio",
+      "url": "https://www.elperiodicoextremadura.com/tiempo/2026/06/30/tiempo-villanueva-serena-prevision-meteorologica-131954426.html",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/df971908-7d3b-4581-8abe-ff3388a948af_16-9-aspect-ratio_default_0_x600y225.jpg",
+      "fecha": "2026-06-30T02:58:06.000Z",
+      "fuenteId": "el-periodico-extremadura",
+      "fuenteTitle": "El Periódico Extremadura",
+      "categorias": [
+        "local"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "El tiempo en Don Benito: previsión meteorológica para hoy, martes 30 de junio",
+      "url": "https://www.elperiodicoextremadura.com/tiempo/2026/06/30/tiempo-don-benito-prevision-meteorologica-131954423.html",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/28a9c419-55f6-4d5f-955c-471d8d39e6f4_16-9-aspect-ratio_default_0_x600y225.jpg",
+      "fecha": "2026-06-30T02:57:55.000Z",
+      "fuenteId": "el-periodico-extremadura",
+      "fuenteTitle": "El Periódico Extremadura",
+      "categorias": [
+        "local"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "El tiempo en Navalvillar de Pela: previsión meteorológica para hoy, martes 30 de junio",
+      "url": "https://www.elperiodicoextremadura.com/tiempo/2026/06/30/tiempo-navalvillar-pela-prevision-meteorologica-131954413.html",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/696ed685-3ebf-48dd-ab12-ab2a61c6cc6b_16-9-aspect-ratio_default_0_x600y225.jpg",
+      "fecha": "2026-06-30T02:57:24.000Z",
+      "fuenteId": "el-periodico-extremadura",
+      "fuenteTitle": "El Periódico Extremadura",
+      "categorias": [
+        "local"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "El tiempo en Campanario: previsión meteorológica para hoy, martes 30 de junio",
+      "url": "https://www.elperiodicoextremadura.com/tiempo/2026/06/30/tiempo-campanario-prevision-meteorologica-hoy-131954410.html",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/35a82042-00ea-4e4c-a2a6-5d4e125237c0_16-9-aspect-ratio_default_0_x600y225.jpg",
+      "fecha": "2026-06-30T02:57:13.000Z",
+      "fuenteId": "el-periodico-extremadura",
+      "fuenteTitle": "El Periódico Extremadura",
+      "categorias": [
+        "local"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Gakpo, las lágrimas de un padre y el gol de una leyenda",
+      "url": "https://www.mundodeportivo.com/futbol/mundial/20260630/1004200986/gakpo-lagrimas-padre-gol-leyenda.html",
+      "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/06/30/6a432f4ba6fa6.jpeg",
+      "fecha": "2026-06-30T02:57:10.000Z",
+      "fuenteId": "mundo-deportivo",
+      "fuenteTitle": "Mundo Deportivo",
+      "categorias": [
+        "deportes"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "El tiempo en Cabeza del Buey: previsión meteorológica para hoy, martes 30 de junio",
+      "url": "https://www.elperiodicoextremadura.com/tiempo/2026/06/30/tiempo-cabeza-buey-prevision-meteorologica-131954408.html",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/cef8bb15-b34f-4476-a4cc-19cb43dad1b9_16-9-aspect-ratio_default_0_x600y225.jpg",
+      "fecha": "2026-06-30T02:57:02.000Z",
+      "fuenteId": "el-periodico-extremadura",
+      "fuenteTitle": "El Periódico Extremadura",
+      "categorias": [
+        "local"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "El gol más especial de Gakpo",
+      "url": "https://as.com/futbol/mundial/el-gol-mas-especial-de-gakpo-f202606-n/",
+      "imagen": "https://img.asmedia.epimg.net/resizer/v2/AYGODKI66NJZPGU7ZPA4LAQ4OQ.jpg?auth=99ea70b72637c65be27d86f6a14739b7516cf765bb75b7a72475390ad566f9af",
+      "fecha": "2026-06-30T02:55:10.000Z",
+      "fuenteId": "as",
+      "fuenteTitle": "AS",
+      "categorias": [
+        "deportes"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Subastas de letras en julio: cómo lograr un retorno del 2,5 % con poco riesgo",
+      "url": "https://www.finanzas.com/renta-fija/subastas-letras-julio-lograr-rentabilidad-25-poco-riesgo.html",
+      "imagen": "",
+      "fecha": "2026-06-30T02:55:00.000Z",
+      "fuenteId": "finanzas-com",
+      "fuenteTitle": "Finanzas.com",
+      "categorias": [
+        "economia"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Iberdrola, Repsol y Endesa lideran un julio repleto de dividendos en la Bolsa española",
+      "url": "https://www.finanzas.com/ibex-35/iberdrola-repsol-endesa-lideran-julio-repleto-dividendos-bolsa-espanola.html",
+      "imagen": "",
+      "fecha": "2026-06-30T02:55:00.000Z",
+      "fuenteId": "finanzas-com",
+      "fuenteTitle": "Finanzas.com",
+      "categorias": [
+        "economia"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Últimas 24 horas para contratar la cuenta de ahorro que ofrece hasta un 2,50 % TAE",
+      "url": "https://www.finanzas.com/finanzas-personales/24-horas-cuenta-ahorro-250-tae.html",
+      "imagen": "",
+      "fecha": "2026-06-30T02:55:00.000Z",
+      "fuenteId": "finanzas-com",
+      "fuenteTitle": "Finanzas.com",
+      "categorias": [
+        "economia"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "El oro cae a mínimos de 8 meses y acumula pérdidas en junio",
+      "url": "https://es.investing.com/news/commodities-news/el-oro-cae-a-minimos-de-8-meses-y-acumula-perdidas-en-junio-3721627",
+      "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "fecha": "2026-06-30T02:47:57.000Z",
+      "fuenteId": "investing-es-noticias",
+      "fuenteTitle": "Investing.com España - Noticias",
+      "categorias": [
+        "economia"
+      ],
+      "idioma": "es"
+    },
     {
       "titulo": "El tiempo en Monesterio: previsión meteorológica para hoy, martes 30 de junio",
       "url": "https://www.elperiodicoextremadura.com/tiempo/2026/06/30/tiempo-monesterio-prevision-meteorologica-hoy-131954210.html",
@@ -52,6 +600,18 @@
       "idioma": "es"
     },
     {
+      "titulo": "Nuvectis Pharma fija en 20 dólares por acción su oferta pública de 100 millones",
+      "url": "https://es.investing.com/news/company-news/nuvectis-pharma-fija-en-20-dolares-por-accion-su-oferta-publica-de-100-millones-93CH-3721624",
+      "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "fecha": "2026-06-30T02:37:57.000Z",
+      "fuenteId": "investing-es-noticias",
+      "fuenteTitle": "Investing.com España - Noticias",
+      "categorias": [
+        "economia"
+      ],
+      "idioma": "es"
+    },
+    {
       "titulo": "El tiempo en Azuaga: previsión meteorológica para hoy, martes 30 de junio",
       "url": "https://www.elperiodicoextremadura.com/tiempo/2026/06/30/tiempo-azuaga-prevision-meteorologica-hoy-131954188.html",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/eb2d4673-9569-4648-9253-c311758d2d43_16-9-aspect-ratio_default_0_x600y225.jpg",
@@ -60,551 +620,6 @@
       "fuenteTitle": "El Periódico Extremadura",
       "categorias": [
         "local"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El tiempo en Coria: previsión meteorológica para hoy, martes 30 de junio",
-      "url": "https://www.elperiodicoextremadura.com/tiempo/2026/06/30/tiempo-coria-prevision-meteorologica-hoy-131954179.html",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/1d4215d7-25b9-417e-97d8-72da059df3a7_16-9-aspect-ratio_default_0_x600y225.jpg",
-      "fecha": "2026-06-30T02:37:27.000Z",
-      "fuenteId": "el-periodico-extremadura",
-      "fuenteTitle": "El Periódico Extremadura",
-      "categorias": [
-        "local"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El tiempo en Arroyo de la Luz: previsión meteorológica para hoy, martes 30 de junio",
-      "url": "https://www.elperiodicoextremadura.com/tiempo/2026/06/30/tiempo-arroyo-luz-prevision-meteorologica-131954173.html",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/d03cb819-54b7-491d-a5dc-be3ecd58dd75_16-9-aspect-ratio_default_0_x600y225.jpg",
-      "fecha": "2026-06-30T02:37:16.000Z",
-      "fuenteId": "el-periodico-extremadura",
-      "fuenteTitle": "El Periódico Extremadura",
-      "categorias": [
-        "local"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El tiempo en Casar de Cáceres: previsión meteorológica para hoy, martes 30 de junio",
-      "url": "https://www.elperiodicoextremadura.com/tiempo/2026/06/30/tiempo-casar-caceres-prevision-meteorologica-131954170.html",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/c0c06e3f-03df-479d-a596-c88814249b24_16-9-aspect-ratio_default_0_x600y225.jpg",
-      "fecha": "2026-06-30T02:37:06.000Z",
-      "fuenteId": "el-periodico-extremadura",
-      "fuenteTitle": "El Periódico Extremadura",
-      "categorias": [
-        "local"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El tiempo en Malpartida de Cáceres: previsión meteorológica para hoy, martes 30 de junio",
-      "url": "https://www.elperiodicoextremadura.com/tiempo/2026/06/30/tiempo-malpartida-caceres-prevision-meteorologica-131954168.html",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/df473d20-ba85-4b9e-924e-0c3c25c3889f_16-9-aspect-ratio_default_0_x600y225.jpg",
-      "fecha": "2026-06-30T02:36:55.000Z",
-      "fuenteId": "el-periodico-extremadura",
-      "fuenteTitle": "El Periódico Extremadura",
-      "categorias": [
-        "local"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El tiempo en San Vicente de Alcántara: previsión meteorológica para hoy, martes 30 de junio",
-      "url": "https://www.elperiodicoextremadura.com/tiempo/2026/06/30/tiempo-san-vicente-alcantara-prevision-131954166.html",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/a9ab1e34-b8a1-4f10-b32f-580e8296d821_16-9-aspect-ratio_default_0_x600y225.jpg",
-      "fecha": "2026-06-30T02:36:44.000Z",
-      "fuenteId": "el-periodico-extremadura",
-      "fuenteTitle": "El Periódico Extremadura",
-      "categorias": [
-        "local"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El tiempo en Valencia de Alcántara: previsión meteorológica para hoy, martes 30 de junio",
-      "url": "https://www.elperiodicoextremadura.com/tiempo/2026/06/30/tiempo-valencia-alcantara-prevision-meteorologica-131954164.html",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/590fd450-911e-47fe-896a-930f93589f9e_16-9-aspect-ratio_default_0_x600y225.jpg",
-      "fecha": "2026-06-30T02:36:33.000Z",
-      "fuenteId": "el-periodico-extremadura",
-      "fuenteTitle": "El Periódico Extremadura",
-      "categorias": [
-        "local"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El tiempo en Cáceres: previsión meteorológica para hoy, martes 30 de junio",
-      "url": "https://www.elperiodicoextremadura.com/tiempo/2026/06/30/tiempo-caceres-prevision-meteorologica-hoy-131954162.html",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/a1e765ae-7083-433e-acc1-443b9a845a2c_16-9-aspect-ratio_default_0_x600y225.jpg",
-      "fecha": "2026-06-30T02:36:22.000Z",
-      "fuenteId": "el-periodico-extremadura",
-      "fuenteTitle": "El Periódico Extremadura",
-      "categorias": [
-        "local"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El tiempo en Alburquerque: previsión meteorológica para hoy, martes 30 de junio",
-      "url": "https://www.elperiodicoextremadura.com/tiempo/2026/06/30/tiempo-alburquerque-prevision-meteorologica-hoy-131954160.html",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/d0945349-fbaa-47f5-8ac0-caceaca79a32_16-9-aspect-ratio_default_0_x600y225.jpg",
-      "fecha": "2026-06-30T02:36:11.000Z",
-      "fuenteId": "el-periodico-extremadura",
-      "fuenteTitle": "El Periódico Extremadura",
-      "categorias": [
-        "local"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El tiempo en Almendralejo: previsión meteorológica para hoy, martes 30 de junio",
-      "url": "https://www.elperiodicoextremadura.com/tiempo/2026/06/30/tiempo-almendralejo-prevision-meteorologica-hoy-131954158.html",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/e23bb28b-59b0-4c07-ab6e-cdc7d2ae5280_16-9-aspect-ratio_default_0_x600y225.jpg",
-      "fecha": "2026-06-30T02:35:59.000Z",
-      "fuenteId": "el-periodico-extremadura",
-      "fuenteTitle": "El Periódico Extremadura",
-      "categorias": [
-        "local"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El tiempo en Talavera la Real: previsión meteorológica para hoy, martes 30 de junio",
-      "url": "https://www.elperiodicoextremadura.com/tiempo/2026/06/30/tiempo-talavera-real-prevision-meteorologica-131954156.html",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/ed90c73f-c21b-4898-bce0-54e61659997a_16-9-aspect-ratio_default_0_x600y225.jpg",
-      "fecha": "2026-06-30T02:35:49.000Z",
-      "fuenteId": "el-periodico-extremadura",
-      "fuenteTitle": "El Periódico Extremadura",
-      "categorias": [
-        "local"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El tiempo en Badajoz: previsión meteorológica para hoy, martes 30 de junio",
-      "url": "https://www.elperiodicoextremadura.com/tiempo/2026/06/30/tiempo-badajoz-prevision-meteorologica-hoy-131954154.html",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/e3cd548b-6ece-49d0-b5b4-4897b71e90ec_16-9-aspect-ratio_default_0_x600y225.jpg",
-      "fecha": "2026-06-30T02:35:38.000Z",
-      "fuenteId": "el-periodico-extremadura",
-      "fuenteTitle": "El Periódico Extremadura",
-      "categorias": [
-        "local"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El tiempo en Aceuchal: previsión meteorológica para hoy, martes 30 de junio",
-      "url": "https://www.elperiodicoextremadura.com/tiempo/2026/06/30/tiempo-aceuchal-prevision-meteorologica-hoy-131954152.html",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/613d38c6-078b-43b8-a0fc-18247c87ecc7_16-9-aspect-ratio_default_0_x600y225.jpg",
-      "fecha": "2026-06-30T02:35:26.000Z",
-      "fuenteId": "el-periodico-extremadura",
-      "fuenteTitle": "El Periódico Extremadura",
-      "categorias": [
-        "local"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El tiempo en Villafranca de los Barros: previsión meteorológica para hoy, martes 30 de junio",
-      "url": "https://www.elperiodicoextremadura.com/tiempo/2026/06/30/tiempo-villafranca-barros-prevision-meteorologica-131954150.html",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/71509d36-bcc6-42c7-ac63-f90d3f078f95_16-9-aspect-ratio_default_0_x600y225.jpg",
-      "fecha": "2026-06-30T02:35:15.000Z",
-      "fuenteId": "el-periodico-extremadura",
-      "fuenteTitle": "El Periódico Extremadura",
-      "categorias": [
-        "local"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El tiempo en Santa Marta: previsión meteorológica para hoy, martes 30 de junio",
-      "url": "https://www.elperiodicoextremadura.com/tiempo/2026/06/30/tiempo-santa-marta-prevision-meteorologica-131954146.html",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/3e72285d-1984-459a-9041-0da60e432ca0_16-9-aspect-ratio_default_0_x600y225.jpg",
-      "fecha": "2026-06-30T02:35:03.000Z",
-      "fuenteId": "el-periodico-extremadura",
-      "fuenteTitle": "El Periódico Extremadura",
-      "categorias": [
-        "local"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El tiempo en Fuente del Maestre: previsión meteorológica para hoy, martes 30 de junio",
-      "url": "https://www.elperiodicoextremadura.com/tiempo/2026/06/30/tiempo-fuente-maestre-prevision-meteorologica-131954143.html",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/7f882277-6bfe-44f5-9a69-05613ac48883_16-9-aspect-ratio_default_0_x600y225.jpg",
-      "fecha": "2026-06-30T02:34:52.000Z",
-      "fuenteId": "el-periodico-extremadura",
-      "fuenteTitle": "El Periódico Extremadura",
-      "categorias": [
-        "local"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Vishay fija el precio de su oferta de acciones por 750 millones de dólares a 50 dólares por acción",
-      "url": "https://es.investing.com/news/company-news/vishay-fija-el-precio-de-su-oferta-de-acciones-por-750-millones-de-dolares-a-50-dolares-por-accion-93CH-3721620",
-      "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "fecha": "2026-06-30T02:30:11.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Venezuela: por qué hay tantas réplicas después de los terremotos y cuánto tiempo pueden durar",
-      "url": "https://www.bbc.com/mundo/articles/cx2jw1kz293o?at_medium=RSS&at_campaign=rss",
-      "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e6bc/live/0f966900-742a-11f1-aef0-ab619497e70e.png",
-      "fecha": "2026-06-30T02:30:08.000Z",
-      "fuenteId": "bbc-mundo",
-      "fuenteTitle": "BBC News Mundo",
-      "categorias": [
-        "internacional",
-        "actualidad"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El Banco de la Reserva de Australia está listo para subir los tipos de interés",
-      "url": "https://es.investing.com/news/economy-news/el-banco-de-la-reserva-de-australia-esta-listo-para-subir-los-tipos-de-interes-3721619",
-      "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "fecha": "2026-06-30T02:23:27.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Declarado día de fiesta nacional",
-      "url": "https://www.marca.com/futbol/mundial/2026/06/30/paraguay-llora-felicidad.html",
-      "imagen": "https://e01-xlk-ue-marca.uecdn.es/files/article_main_microformat/uploads/2026/06/30/6a4324ee91584.jpeg",
-      "fecha": "2026-06-30T02:11:26.000Z",
-      "fuenteId": "marca",
-      "fuenteTitle": "Marca",
-      "categorias": [
-        "deportes"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El yen japonés cae a mínimos de 1986 ante posible intervención",
-      "url": "https://es.investing.com/news/forex-news/el-yen-japones-cae-a-minimos-de-1986-ante-posible-intervencion-3721617",
-      "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "fecha": "2026-06-30T02:07:49.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Terremotos en Venezuela: rescatistas buscan sobrevivientes; la comunidad ora frente a las ruinas",
-      "url": "https://www.france24.com/es/video/20260630-terremotos-en-venezuela-rescatistas-buscan-sobrevivientes-la-comunidad-ora-frente-a-las-ruinas",
-      "imagen": "https://s.france24.com/media/display/212f5770-7426-11f1-8644-005056bf30b7/w:1024/p:16x9/ES-20260629-200531-200927-CS.jpg",
-      "fecha": "2026-06-30T02:06:56.000Z",
-      "fuenteId": "france24-espanol",
-      "fuenteTitle": "France 24 Español",
-      "categorias": [
-        "internacional",
-        "politica"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "02:50 | 29 JUN 2026 | TIEMPO DE JUEGO",
-      "url": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/02-50-29-jun-2026-juego-20260630_3394055.html",
-      "imagen": "",
-      "fecha": "2026-06-30T02:06:19.000Z",
-      "fuenteId": "cope-extremadura",
-      "fuenteTitle": "COPE Extremadura",
-      "categorias": [
-        "local"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Rusia enfrenta falta de combustible tras ofensiva ucraniana contra sus refinerías",
-      "url": "https://www.france24.com/es/programas/econom%C3%ADa/20260630-rusia-enfrenta-falta-de-combustible-tras-ofensiva-ucraniana-contra-sus-refiner%C3%ADas",
-      "imagen": "https://s.france24.com/media/display/d46cc2ba-7425-11f1-960b-005056bf30b7/w:1024/p:16x9/AP26121420696481.jpg",
-      "fecha": "2026-06-30T02:02:31.000Z",
-      "fuenteId": "france24-espanol",
-      "fuenteTitle": "France 24 Español",
-      "categorias": [
-        "internacional",
-        "politica"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Las lágrimas del goleador Enciso: \"Veía el fútbol con mi abuelo, le mando un beso en el cielo\"",
-      "url": "https://www.mundodeportivo.com/futbol/mundial/20260630/1004200983/lagrimas-goleador-enciso-veia-futbol-mi-abuelo-le-mando-beso-cielo.html",
-      "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/06/30/6a43231ee05a9.jpeg",
-      "fecha": "2026-06-30T02:01:26.000Z",
-      "fuenteId": "mundo-deportivo",
-      "fuenteTitle": "Mundo Deportivo",
-      "categorias": [
-        "deportes"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El tiempo en Montehermoso: previsión meteorológica para hoy, martes 30 de junio",
-      "url": "https://www.elperiodicoextremadura.com/tiempo/2026/06/30/tiempo-montehermoso-prevision-meteorologica-hoy-131953685.html",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/0b6009f8-311d-4547-8f42-11d46ae4d146_16-9-aspect-ratio_default_0_x600y225.jpg",
-      "fecha": "2026-06-30T02:00:08.000Z",
-      "fuenteId": "el-periodico-extremadura",
-      "fuenteTitle": "El Periódico Extremadura",
-      "categorias": [
-        "local"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Los pueblos ganan habitantes y emprendedores: \"Internet me permite estar en toda España\"",
-      "url": "https://www.elperiodicoextremadura.com/economia/2026/06/30/pueblos-ganan-habitantes-emprendedores-internet-131953678.html",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/5b0fd51b-064a-4966-8d5b-e44a721a76db_16-9-aspect-ratio_default_0_x800y302.jpg",
-      "fecha": "2026-06-30T02:00:00.000Z",
-      "fuenteId": "el-periodico-extremadura",
-      "fuenteTitle": "El Periódico Extremadura",
-      "categorias": [
-        "local"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Horóscopo diario de hoy, martes 30 de junio de 2026: predicción para todos los signos del Zodíaco",
-      "url": "https://www.marie-claire.es/horoscopo/horoscopo-diario-30-junio-2026.html",
-      "imagen": "",
-      "fecha": "2026-06-30T02:00:00.000Z",
-      "fuenteId": "marie-claire-espana",
-      "fuenteTitle": "Marie Claire España",
-      "categorias": [
-        "moda"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El tiempo en Hervás: previsión meteorológica para hoy, martes 30 de junio",
-      "url": "https://www.elperiodicoextremadura.com/tiempo/2026/06/30/tiempo-hervas-prevision-meteorologica-hoy-131953661.html",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/c5cfe250-5d97-4539-9e29-59c895026a78_16-9-aspect-ratio_default_0_x600y225.jpg",
-      "fecha": "2026-06-30T01:59:55.000Z",
-      "fuenteId": "el-periodico-extremadura",
-      "fuenteTitle": "El Periódico Extremadura",
-      "categorias": [
-        "local"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El tiempo en Malpartida de Plasencia: previsión meteorológica para hoy, martes 30 de junio",
-      "url": "https://www.elperiodicoextremadura.com/tiempo/2026/06/30/tiempo-malpartida-plasencia-prevision-meteorologica-131953659.html",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/0e9330da-98bf-4181-a5a2-b2885c2e8ba4_16-9-aspect-ratio_default_0_x600y225.jpg",
-      "fecha": "2026-06-30T01:59:44.000Z",
-      "fuenteId": "el-periodico-extremadura",
-      "fuenteTitle": "El Periódico Extremadura",
-      "categorias": [
-        "local"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El tiempo en Plasencia: previsión meteorológica para hoy, martes 30 de junio",
-      "url": "https://www.elperiodicoextremadura.com/tiempo/2026/06/30/tiempo-plasencia-prevision-meteorologica-hoy-131953657.html",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/05c9a190-b530-40d0-aa65-68911284ef5f_16-9-aspect-ratio_default_0_x600y225.jpg",
-      "fecha": "2026-06-30T01:59:33.000Z",
-      "fuenteId": "el-periodico-extremadura",
-      "fuenteTitle": "El Periódico Extremadura",
-      "categorias": [
-        "local"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El tiempo en Jaraíz de la Vera: previsión meteorológica para hoy, martes 30 de junio",
-      "url": "https://www.elperiodicoextremadura.com/tiempo/2026/06/30/tiempo-jaraiz-vera-prevision-meteorologica-131953655.html",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/66a0fa5f-c649-4c3b-bba8-85edf6addef3_16-9-aspect-ratio_default_0_x600y225.jpg",
-      "fecha": "2026-06-30T01:59:20.000Z",
-      "fuenteId": "el-periodico-extremadura",
-      "fuenteTitle": "El Periódico Extremadura",
-      "categorias": [
-        "local"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El tiempo en Talayuela: previsión meteorológica para hoy, martes 30 de junio",
-      "url": "https://www.elperiodicoextremadura.com/tiempo/2026/06/30/tiempo-talayuela-prevision-meteorologica-hoy-131953653.html",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/c7f3570b-ca82-4cc8-973c-7f27d3c4a969_16-9-aspect-ratio_default_0_x600y225.jpg",
-      "fecha": "2026-06-30T01:59:07.000Z",
-      "fuenteId": "el-periodico-extremadura",
-      "fuenteTitle": "El Periódico Extremadura",
-      "categorias": [
-        "local"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El director ejecutivo de Legend Biotech, Huang Ying, vende 82.265 dólares en acciones",
-      "url": "https://es.investing.com/news/insider-trading-news/el-director-ejecutivo-de-legend-biotech-huang-ying-vende-82265-dolares-en-acciones-93CH-3721615",
-      "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "fecha": "2026-06-30T01:58:43.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El tiempo en Navalmoral de la Mata: previsión meteorológica para hoy, martes 30 de junio",
-      "url": "https://www.elperiodicoextremadura.com/tiempo/2026/06/30/tiempo-navalmoral-mata-prevision-meteorologica-131953635.html",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/10b007a6-0d26-4b00-997c-a0e5f9c2c7d7_16-9-aspect-ratio_default_0_x600y225.jpg",
-      "fecha": "2026-06-30T01:57:40.000Z",
-      "fuenteId": "el-periodico-extremadura",
-      "fuenteTitle": "El Periódico Extremadura",
-      "categorias": [
-        "local"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El tiempo en Trujillo: previsión meteorológica para hoy, martes 30 de junio",
-      "url": "https://www.elperiodicoextremadura.com/tiempo/2026/06/30/tiempo-trujillo-prevision-meteorologica-hoy-131953633.html",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/a98b8aba-9e17-47ed-8c75-d5cd948ce11c_16-9-aspect-ratio_default_0_x600y225.jpg",
-      "fecha": "2026-06-30T01:57:29.000Z",
-      "fuenteId": "el-periodico-extremadura",
-      "fuenteTitle": "El Periódico Extremadura",
-      "categorias": [
-        "local"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Trump exige una bajada inmediata de la gasolina y fija un objetivo: 2,50 dólares por galón",
-      "url": "https://www.huffingtonpost.es/global/trump-exige-bajada-inmediata-gasolina-fija-objetivo-250-dolares-galon-f202606.html",
-      "imagen": "",
-      "fecha": "2026-06-30T01:54:27.000Z",
-      "fuenteId": "huffpost-espana",
-      "fuenteTitle": "HuffPost España",
-      "categorias": [
-        "actualidad",
-        "entretenimiento"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Curbline Properties fija una oferta de acciones por 308,5 millones de dólares",
-      "url": "https://es.investing.com/news/company-news/curbline-properties-fija-una-oferta-de-acciones-por-3085-millones-de-dolares-93CH-3721611",
-      "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "fecha": "2026-06-30T01:52:07.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El presidente de Paraguay decreta feriado para celebrar la clasificación de a octavos de final",
-      "url": "https://www.cope.es/programas/tiempo-de-juego/noticias/presidente-paraguay-decreta-feriado-celebrar-clasificacion-octavos-final-20260630_3394052.html",
-      "imagen": "https://imagenes.cope.es/files/og_thumbnail/uploads/2026/06/30/6a43207749c94.jpeg",
-      "fecha": "2026-06-30T01:49:44.000Z",
-      "fuenteId": "cope-extremadura",
-      "fuenteTitle": "COPE Extremadura",
-      "categorias": [
-        "local"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El uso que Barrabés hizo de las palabras de Sánchez añade un elemento clave a la influencia que Begoña ejerció a su favor",
-      "url": "https://www.elespanol.com/espana/tribunales/20260630/uso-barrabes-hizo-palabras-sanchez-anade-elemento-clave-influencia-begona-ejercio-favor/1003744304387_0.html",
-      "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11304849.jpg?p=w:1706/h:960&h=nEIcTIKQ",
-      "fecha": "2026-06-30T01:48:13.000Z",
-      "fuenteId": "el-espanol",
-      "fuenteTitle": "El Español",
-      "categorias": [
-        "actualidad"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Diego Lorenzo, el español de 15 años fallecido en el terremoto de Venezuela: \"Murió con dos amigos, estaban abrazados\"",
-      "url": "https://www.elespanol.com/reportajes/20260630/diego-lorenzo-espanol-anos-fallecido-terremoto-venezuela-murio-amigos-abrazados/1003744304235_0.html",
-      "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11304799.jpg?p=w:1706/h:960&h=1uzGegY7",
-      "fecha": "2026-06-30T01:48:13.000Z",
-      "fuenteId": "el-espanol",
-      "fuenteTitle": "El Español",
-      "categorias": [
-        "actualidad"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Extranjería tenía razón: las solicitudes de regularización de migrantes rozan los 1,3 M frente a los 500.000 que dijo Sánchez",
-      "url": "https://www.elespanol.com/espana/20260630/extranjeria-razon-solicitudes-regularizacion-migrantes-rozan-frente-dijo-sanchez/1003744304190_0.html",
-      "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11304788.jpg?p=w:1706/h:960&h=7zMLk95P",
-      "fecha": "2026-06-30T01:48:11.000Z",
-      "fuenteId": "el-espanol",
-      "fuenteTitle": "El Español",
-      "categorias": [
-        "actualidad"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "SpaceX, boicot demócrata y una vaca llamada Melania: así es la feria MAGA con la que Trump celebra los 250 años de EEUU",
-      "url": "https://www.elespanol.com/mundo/america/eeuu/20260630/spacex-boicot-democrata-vaca-llamada-melania-feria-maga-trump-celebra-anos-eeuu/1003744304189_0.html",
-      "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11304736.jpg?p=c:3997:2254:nowe:0:0/w:1706/h:960&h=TByHmYXd",
-      "fecha": "2026-06-30T01:48:11.000Z",
-      "fuenteId": "el-espanol",
-      "fuenteTitle": "El Español",
-      "categorias": [
-        "actualidad"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Belén Gualda, la otra protegida de María Jesús Montero: tras los pasos de Vicente Fernández con 258.785€ de sueldo",
-      "url": "https://www.elespanol.com/reportajes/20260630/belen-gualda-protegida-maria-jesus-montero-pasos-vicente-fernandez-sueldo/1003744304182_0.html",
-      "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11304773.jpg?p=w:1706/h:960&h=bDexbBqB",
-      "fecha": "2026-06-30T01:48:10.000Z",
-      "fuenteId": "el-espanol",
-      "fuenteTitle": "El Español",
-      "categorias": [
-        "actualidad"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Vox enfría las expectativas de Juanma Moreno tras la primera sesión de investidura sin guiños a la \"prioridad nacional\"",
-      "url": "https://www.elespanol.com/espana/andalucia/20260630/vox-enfria-expectativas-juanma-moreno-primera-sesion-investidura-sin-guinos-prioridad-nacional/1003744304045_0.html",
-      "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11304627.jpg?p=w:1706/h:960&h=xeL5PjuD",
-      "fecha": "2026-06-30T01:48:09.000Z",
-      "fuenteId": "el-espanol",
-      "fuenteTitle": "El Español",
-      "categorias": [
-        "actualidad"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Jarillo-Herrero, el físico español en las quinielas para el Nobel: \"Hace falta que nuestra clase política esté mejor educada\"",
-      "url": "https://www.elespanol.com/ciencia/investigacion/20260630/jarillo-herrero-fisico-espanol-quinielas-nobel-hace-falta-clase-politica-mejor-educada/1003744304052_0.html",
-      "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11304675.jpg?p=c:4000:2253:nowe:0:185/w:1706/h:960&h=qdc277OT",
-      "fecha": "2026-06-30T01:48:09.000Z",
-      "fuenteId": "el-espanol-ciencia",
-      "fuenteTitle": "El Español - Ciencia",
-      "categorias": [
-        "ciencia",
-        "salud"
       ],
       "idioma": "es"
     }
