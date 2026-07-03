@@ -1,8 +1,21 @@
 {
-  "generado": "2026-07-03T00:40:20.340Z",
+  "generado": "2026-07-03T01:00:19.132Z",
   "limitePorCategoria": 20,
   "categorias": {
     "actualidad": [
+      {
+        "titulo": "Trump sostiene que Irán ha aceptado «prácticamente todo» lo que EEUU necesita",
+        "url": "https://theobjective.com/internacional/2026-07-03/trump-iran-practicamente-todo-eeuu/",
+        "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/07/qaribabadi-iran-ormuz-469x317.jpg",
+        "fecha": "2026-07-03T00:44:30.000Z",
+        "fuenteId": "the-objective",
+        "fuenteTitle": "The Objective",
+        "categorias": [
+          "actualidad",
+          "politica"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Dodge apunta a celebrar los 60 años del Charger anunciando su retorno a la NASCAR Cup Series",
         "url": "https://www.diariomotor.com/competicion/noticia/dodge-60-anos-charger-nascar-cup-series/",
@@ -12,6 +25,18 @@
         "fuenteTitle": "Diariomotor",
         "categorias": [
           "tecnologia",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "La orca Gladis blanca sorprende al 'regalar' una cabeza de atún a un barco",
+        "url": "https://www.abc.es/sociedad/orca-gladis-blanca-sorprende-regalar-cabeza-atun-20260702142842-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/07/02/orca-gladis-RQWWjjUkQuILs9P8k4SIZpO-1200x840@diario_abc.jpg",
+        "fecha": "2026-07-03T00:23:48.000Z",
+        "fuenteId": "abc",
+        "fuenteTitle": "ABC",
+        "categorias": [
           "actualidad"
         ],
         "idioma": "es"
@@ -222,30 +247,6 @@
         "fuenteTitle": "ABC - Internacional",
         "categorias": [
           "internacional",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El Gobierno deriva a las agencias de viajes las 13.000 plazas del Imserso gestionadas por los ayuntamientos",
-        "url": "https://www.abc.es/economia/gobierno-deriva-agencias-viajes-13000-plazas-viajes-20260702012433-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/07/02/1431185752-RiY3GRFqGQFgo96yKXnogCM-1200x840@diario_abc.JPG",
-        "fecha": "2026-07-02T23:25:21.000Z",
-        "fuenteId": "abc",
-        "fuenteTitle": "ABC",
-        "categorias": [
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El fascismo cósmico de Rosa León",
-        "url": "https://www.abc.es/opinion/fascismo-cosmico-rosa-leon-20260702012417-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2026/07/02/rosaleon-R2GOsOl3ligmF7OLzeT7pXP-1200x840@diario_abc.jpg",
-        "fecha": "2026-07-02T23:24:17.000Z",
-        "fuenteId": "abc",
-        "fuenteTitle": "ABC",
-        "categorias": [
           "actualidad"
         ],
         "idioma": "es"
@@ -1042,6 +1043,30 @@
     ],
     "deportes": [
       {
+        "titulo": "Se mantiene el misterio con Salah",
+        "url": "https://www.mundodeportivo.com/otros-deportes/20260703/1004202248/mantiene-misterio-salah.html",
+        "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/07/03/6a46fecf3d4ce.jpeg",
+        "fecha": "2026-07-03T00:17:07.000Z",
+        "fuenteId": "mundo-deportivo",
+        "fuenteTitle": "Mundo Deportivo",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "¡Empata Cristiano de penalti!",
+        "url": "https://www.mundodeportivo.com/futbol/mundial/20260703/1004201956/portugal-croacia-directo-dieciseisavos-mundial-2026-resultado-goles-marcador-ultima-hora.html",
+        "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/07/03/6a46feccd2618.jpeg",
+        "fecha": "2026-07-03T00:14:20.000Z",
+        "fuenteId": "mundo-deportivo",
+        "fuenteTitle": "Mundo Deportivo",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Valverde rompe su silencio tras el fracaso de Uruguay: \"No estuve a la altura\"",
         "url": "https://www.mundodeportivo.com/futbol/mundial/20260703/1004202243/valverde-rompe-silencio-fracaso-uruguay-no-estuve-altura.html",
         "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/07/03/6a46f7e2e90cc.jpeg",
@@ -1256,33 +1281,177 @@
           "deportes"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "Koundé responde a Lamine: \"Dice las cosas como las piensa y como las ve\"",
-        "url": "https://www.mundodeportivo.com/futbol/mundial/20260703/1004202226/kounde-responde-lamine-dice-cosas-piensa-ve.html",
-        "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/07/03/6a46e5da4c29b.jpeg",
-        "fecha": "2026-07-02T22:29:25.000Z",
-        "fuenteId": "mundo-deportivo",
-        "fuenteTitle": "Mundo Deportivo",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Oyarzabal: \"Hemos dado motivos para creer y confiar\"",
-        "url": "https://www.mundodeportivo.com/futbol/mundial/20260703/1004202231/oyarzabal-hemos-dado-motivos-creer-confiar.html",
-        "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/07/03/6a46e58ac9529.jpeg",
-        "fecha": "2026-07-02T22:26:28.000Z",
-        "fuenteId": "mundo-deportivo",
-        "fuenteTitle": "Mundo Deportivo",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
       }
     ],
     "economia": [
+      {
+        "titulo": "Retención de acciones de Forney en MarketWise por 13.608 dólares para impuestos",
+        "url": "https://es.investing.com/news/insider-trading-news/retencion-de-acciones-de-forney-en-marketwise-por-13608-dolares-para-impuestos-93CH-3727492",
+        "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+        "fecha": "2026-07-03T00:34:47.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El director de información de Marketwise, Marco Galsim, cede 63.047 dólares en acciones por impuestos",
+        "url": "https://es.investing.com/news/insider-trading-news/el-director-de-informacion-de-marketwise-marco-galsim-cede-63047-dolares-en-acciones-por-impuestos-93CH-3727491",
+        "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+        "fecha": "2026-07-03T00:34:34.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Retención de acciones del CFO de Marketwise totaliza 76.043 dólares",
+        "url": "https://es.investing.com/news/insider-trading-news/retencion-de-acciones-del-cfo-de-marketwise-totaliza-76043-dolares-93CH-3727490",
+        "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+        "fecha": "2026-07-03T00:34:28.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "La cerveza de Toledo que lucha por competir con las grandes",
+        "url": "https://www.expansion.com/empresas/distribucion/2026/07/03/6a43b6c3468aeb05638b458f.html",
+        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/06/30/17828225248580.jpg",
+        "fecha": "2026-07-03T00:33:06.000Z",
+        "fuenteId": "expansion",
+        "fuenteTitle": "Expansión",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El modelo de IA de Meta ha alcanzado a OpenAI, según Wang",
+        "url": "https://es.investing.com/news/stock-market-news/el-modelo-de-ia-de-meta-ha-alcanzado-a-openai-segun-wang-3727489",
+        "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+        "fecha": "2026-07-03T00:31:22.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Zuckerberg admite que el progreso de los agentes de IA de Meta es más lento de lo esperado",
+        "url": "https://es.investing.com/news/stock-market-news/zuckerberg-admite-que-el-avance-de-los-agentes-de-ia-de-meta-es-mas-lento-de-lo-esperado-3727487",
+        "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+        "fecha": "2026-07-03T00:29:09.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El 'retail' busca su sitio ante el avance de la inteligencia artificial",
+        "url": "https://www.expansion.com/economia/2026/07/03/6a47004ee5fdeafb138b456d.html",
+        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/07/03/17830382178047.jpg",
+        "fecha": "2026-07-03T00:24:34.000Z",
+        "fuenteId": "expansion",
+        "fuenteTitle": "Expansión",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El co-director ejecutivo de Warby Parker vende acciones por 6,4 millones de dólares",
+        "url": "https://es.investing.com/news/insider-trading-news/el-codirector-ejecutivo-de-warby-parker-vende-acciones-por-64-millones-de-dolares-93CH-3727485",
+        "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+        "fecha": "2026-07-03T00:23:19.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Abhinav Shukla, director técnico de Shattuck Labs, vende 166.131 dólares en acciones",
+        "url": "https://es.investing.com/news/insider-trading-news/abhinav-shukla-director-tecnico-de-shattuck-labs-vende-166131-dolares-en-acciones-93CH-3727484",
+        "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+        "fecha": "2026-07-03T00:23:15.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El codirector ejecutivo de Warby Parker, David Gilboa, vende acciones por 7,19 millones de dólares",
+        "url": "https://es.investing.com/news/insider-trading-news/el-codirector-ejecutivo-de-warby-parker-david-gilboa-vende-acciones-por-719-millones-de-dolares-93CH-3727483",
+        "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+        "fecha": "2026-07-03T00:20:20.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El director ejecutivo de CrowdStrike, George Kurtz, vende 1.940 millones de dólares en acciones CRWD",
+        "url": "https://es.investing.com/news/insider-trading-news/el-director-ejecutivo-de-crowdstrike-george-kurtz-vende-1940-millones-de-dolares-en-acciones-crwd-93CH-3727482",
+        "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+        "fecha": "2026-07-03T00:20:10.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "La directora médica de Shattuck Labs vende acciones por 210.300 dólares",
+        "url": "https://es.investing.com/news/insider-trading-news/la-directora-medica-de-shattuck-labs-vende-acciones-por-210300-dolares-93CH-3727481",
+        "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+        "fecha": "2026-07-03T00:19:50.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Javier Botín impulsa Palacios con la adquisición de Ñaming",
+        "url": "https://www.expansion.com/empresas/2026/07/03/6a4699f6e5fdea0b7e8b45a4.html",
+        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/07/02/17830117816980.jpg",
+        "fecha": "2026-07-03T00:09:44.000Z",
+        "fuenteId": "expansion",
+        "fuenteTitle": "Expansión",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Santander reorganiza sus filiales tecnológicas para ganar eficiencia",
+        "url": "https://www.expansion.com/empresas/banca/2026/07/03/6a4684d1468aeb55728b45a1.html",
+        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2023/01/19/16741499897530.jpg",
+        "fecha": "2026-07-03T00:09:43.000Z",
+        "fuenteId": "expansion",
+        "fuenteTitle": "Expansión",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Kevin Tang compra 268.880 dólares en acciones de Boundless Bio (NASDAQ:BOLD)",
         "url": "https://es.investing.com/news/insider-trading-news/kevin-tang-compra-268880-dolares-en-acciones-de-boundless-bio-nasdaqbold-93CH-3727463",
@@ -1296,12 +1465,36 @@
         "idioma": "es"
       },
       {
+        "titulo": "Bruselas se compromete con la banca a luchar contra la injerencia política en fusiones",
+        "url": "https://www.expansion.com/empresas/banca/2026/07/03/6a46eeaee5fdea9b098b45a5.html",
+        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/07/03/17830362239322.jpg",
+        "fecha": "2026-07-02T23:52:01.000Z",
+        "fuenteId": "expansion",
+        "fuenteTitle": "Expansión",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Hacienda desautorizó hasta en seis asuntos clave a la jefa de la Agencia Tributaria",
         "url": "https://www.abc.es/economia/hacienda-desautorizo-seis-asuntos-clave-jefa-agencia-20260703015030-nt.html",
         "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/07/03/Soledad%20Tania%20Sieira-Ril8e2XUeYMCWmGCAB3ltEK-1200x840@diario_abc.jpg",
         "fecha": "2026-07-02T23:50:31.000Z",
         "fuenteId": "abc-economia",
         "fuenteTitle": "ABC - Economía",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El desinterés por la Defensa",
+        "url": "https://www.expansion.com/opinion/2026/07/03/6a46f16de5fdea48458b458b.html",
+        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/07/03/17830357682864.jpg",
+        "fecha": "2026-07-02T23:44:04.000Z",
+        "fuenteId": "expansion",
+        "fuenteTitle": "Expansión",
         "categorias": [
           "economia"
         ],
@@ -1330,201 +1523,22 @@
           "economia"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "Director de Astera Labs Stefan Dyckerhoff vende 5,6 millones de dólares en acciones",
-        "url": "https://es.investing.com/news/insider-trading-news/director-de-astera-labs-stefan-dyckerhoff-vende-56-millones-de-dolares-en-acciones-93CH-3727460",
-        "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-        "fecha": "2026-07-02T23:34:51.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El vicepresidente ejecutivo de Metropolitan Bank vende acciones por 190.470 dólares",
-        "url": "https://es.investing.com/news/insider-trading-news/el-vicepresidente-ejecutivo-de-metropolitan-bank-vende-acciones-por-190470-dolares-93CH-3727459",
-        "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-        "fecha": "2026-07-02T23:34:49.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La presidenta de Tango Therapeutics vende acciones por 798.908 dólares",
-        "url": "https://es.investing.com/news/insider-trading-news/la-presidenta-de-tango-therapeutics-vende-acciones-por-798908-dolares-93CH-3727458",
-        "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-        "fecha": "2026-07-02T23:32:01.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El COO de Grid Dynamics, Yury Gryzlov, vende 7.831 dólares en acciones de la empresa",
-        "url": "https://es.investing.com/news/insider-trading-news/el-coo-de-grid-dynamics-yury-gryzlov-vende-7831-dolares-en-acciones-de-la-empresa-93CH-3727457",
-        "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-        "fecha": "2026-07-02T23:31:32.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La directora jurídica de Cerus Corp, Chrystal Jensen, vende acciones por 71.597 dólares",
-        "url": "https://es.investing.com/news/insider-trading-news/la-directora-juridica-de-cerus-corp-chrystal-jensen-vende-acciones-por-71597-dolares-93CH-3727454",
-        "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-        "fecha": "2026-07-02T23:26:37.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El CFO de Cerus, Kevin Green, vende acciones de CERS por 99.105 dólares",
-        "url": "https://es.investing.com/news/insider-trading-news/el-cfo-de-cerus-kevin-green-vende-acciones-de-cers-por-99105-dolares-93CH-3727453",
-        "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-        "fecha": "2026-07-02T23:25:39.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La paga extra para el Estado en verano: recibe más de 170 millones en dividendos del Ibex 35",
-        "url": "https://www.abc.es/economia/paga-extra-estado-verano-recibe-170-millones-20260703012503-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/07/03/Sepi%20sede-RWw7tsmFiLO76gJQrmXAThM-1200x840@diario_abc.jpg",
-        "fecha": "2026-07-02T23:25:03.000Z",
-        "fuenteId": "abc-economia",
-        "fuenteTitle": "ABC - Economía",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El COO de Cerus, Vivek Jayaraman, vende acciones por 124.658 dólares para cubrir impuestos",
-        "url": "https://es.investing.com/news/insider-trading-news/el-coo-de-cerus-vivek-jayaraman-vende-acciones-por-124658-dolares-para-cubrir-impuestos-93CH-3727452",
-        "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-        "fecha": "2026-07-02T23:22:59.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Director de Block Anthony Eisen vende 3,8 millones de dólares en acciones",
-        "url": "https://es.investing.com/news/insider-trading-news/director-de-block-anthony-eisen-vende-38-millones-de-dolares-en-acciones-93CH-3727451",
-        "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-        "fecha": "2026-07-02T23:22:51.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Director de RingCentral Robert Theis vende 101.908 dólares en acciones",
-        "url": "https://es.investing.com/news/insider-trading-news/director-de-ringcentral-robert-theis-vende-101908-dolares-en-acciones-93CH-3727450",
-        "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-        "fecha": "2026-07-02T23:22:30.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La directora de RingCentral Amy Shenkan vende 51.350 dólares en acciones",
-        "url": "https://es.investing.com/news/insider-trading-news/la-directora-de-ringcentral-amy-shenkan-vende-51350-dolares-en-acciones-93CH-3727449",
-        "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-        "fecha": "2026-07-02T23:22:25.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El director ejecutivo de Cerus vende acciones por valor de 299.937 dólares",
-        "url": "https://es.investing.com/news/insider-trading-news/el-director-ejecutivo-de-cerus-vende-acciones-por-valor-de-299937-dolares-93CH-3727448",
-        "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-        "fecha": "2026-07-02T23:19:42.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Directora de Micron Tecnología Lynn Dugle vende 1,5 millones de dólares en acciones",
-        "url": "https://es.investing.com/news/insider-trading-news/directora-de-micron-tecnologia-lynn-dugle-vende-15-millones-de-dolares-en-acciones-93CH-3727447",
-        "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-        "fecha": "2026-07-02T23:16:51.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Las hipotecas no se salvan de una nueva subida pese a que el euríbor se modera",
-        "url": "https://www.abc.es/economia/cuentas-corrientes/hipotecas-salvan-nueva-subida-pese-euribor-modera-20260703011244-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/07/03/hipotecas-euribor--758x531.jpg",
-        "fecha": "2026-07-02T23:12:44.000Z",
-        "fuenteId": "abc-economia",
-        "fuenteTitle": "ABC - Economía",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Cuánto cuesta llenar hoy el depósito: el precio sube en plena operación salida y tras las medidas del Gobierno",
-        "url": "https://www.abc.es/economia/cuentas-corrientes/cuesta-llenar-hoy-deposito-precio-sube-plena-20260703011233-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/07/02/gasolinas--758x531.jpg",
-        "fecha": "2026-07-02T23:12:33.000Z",
-        "fuenteId": "abc-economia",
-        "fuenteTitle": "ABC - Economía",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Entidad dirigida por ejecutivos de Big Digital Energy compra acciones preferentes por 16,7 millones de dólares",
-        "url": "https://es.investing.com/news/insider-trading-news/entidad-dirigida-por-ejecutivos-de-big-digital-energy-compra-acciones-preferentes-por-167-millones-de-dolares-93CH-3727442",
-        "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-        "fecha": "2026-07-02T23:10:45.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
       }
     ],
     "entretenimiento": [
+      {
+        "titulo": "Hacer llorar a Dixie Kong sí que puede resultar útil en Donkey Kong Country 3",
+        "url": "https://www.nintenderos.com/2026/07/hacer-llorar-a-dixie-kong-si-que-puede-resultar-util-en-donkey-kong-country-3/",
+        "imagen": "",
+        "fecha": "2026-07-03T00:45:45.000Z",
+        "fuenteId": "nintenderos",
+        "fuenteTitle": "Nintenderos",
+        "categorias": [
+          "tecnologia",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Estela Grande tiene la camisa de Zara que convierte un básico en una pieza de tendencia",
         "url": "https://www.elespanol.com/corazon/estilo/20260703/estela-grande-camisa-zara-convierte-basico-pieza-tendencia/1003744298773_0.html",
@@ -1764,19 +1778,6 @@
         "categorias": [
           "tecnologia",
           "ciencia",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Rosalía aparece en el España-Austria y es curioso de ver a quién tiene justo al lado",
-        "url": "https://www.huffingtonpost.es/virales/rosalia-aparece-espanaaustria-curioso-ver-justo-lado-f202607.html",
-        "imagen": "",
-        "fecha": "2026-07-02T20:58:25.000Z",
-        "fuenteId": "huffpost-espana",
-        "fuenteTitle": "HuffPost España",
-        "categorias": [
-          "actualidad",
           "entretenimiento"
         ],
         "idioma": "es"
@@ -2300,6 +2301,19 @@
     ],
     "internacional": [
       {
+        "titulo": "Delcy libera, como \"medida humanitaria\", al militar Adrián de Gouveia",
+        "url": "https://www.elmundo.es/internacional/2026/07/03/6a470352e4d4d877648b4596.html",
+        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/07/03/17830387058314.jpg",
+        "fecha": "2026-07-03T00:33:32.000Z",
+        "fuenteId": "el-mundo-internacional",
+        "fuenteTitle": "El Mundo - Internacional",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "La fractura de los Bolsonaro: ¿un tsunami para las presidenciales de Brasil?",
         "url": "https://www.france24.com/es/am%C3%A9rica-latina/20260702-la-fractura-del-clan-bolsonaro-un-tsunami-para-las-presidenciales-de-brasil",
         "imagen": "https://s.france24.com/media/display/b83b18e8-766a-11f1-9500-005056bf30b7/w:1024/p:16x9/23e8f867e8a1814a69f9f0bf20fc1f59a4ae1764w.jpg",
@@ -2544,22 +2558,129 @@
           "internacional"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "Terremotos en Venezuela: se mantiene viva la esperanza de encontrar vida bajo los escombros",
-        "url": "https://www.france24.com/es/video/20260702-terremotos-en-venezuela-se-mantiene-viva-la-esperanza-de-encontrar-vida-bajo-los-escombros",
-        "imagen": "https://s.france24.com/media/display/50a486aa-7652-11f1-9ee9-005056bfb2b6/w:1024/p:16x9/Labores-de-rescate-no-se-detienen-una-semana-despue%CC%81s-del-desastre.png",
-        "fecha": "2026-07-02T20:19:31.000Z",
-        "fuenteId": "france24-espanol",
-        "fuenteTitle": "France 24 Español",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
       }
     ],
     "local": [
+      {
+        "titulo": "Lady Nazca",
+        "url": "https://www.elperiodicoextremadura.com/ocio/cine/lady-nazca-132072275.html",
+        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/637fade6-ce39-4191-a9a0-c0bdbe016ccc_16-9-aspect-ratio_default_0_x87y83.jpg",
+        "fecha": "2026-07-03T00:36:21.000Z",
+        "fuenteId": "el-periodico-extremadura",
+        "fuenteTitle": "El Periódico Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Amor apocalipsis",
+        "url": "https://www.elperiodicoextremadura.com/ocio/cine/amor-apocalipsis-132072268.html",
+        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/40afecfc-5483-4534-85a3-e95c7cd91a6a_16-9-aspect-ratio_default_0_x87y83.jpg",
+        "fecha": "2026-07-03T00:36:16.000Z",
+        "fuenteId": "el-periodico-extremadura",
+        "fuenteTitle": "El Periódico Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Día de caza",
+        "url": "https://www.elperiodicoextremadura.com/ocio/cine/dia-caza-132072261.html",
+        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/8a6e750f-2591-4fc6-9ee1-ac3b8b93da7d_16-9-aspect-ratio_default_0_x87y83.jpg",
+        "fecha": "2026-07-03T00:36:12.000Z",
+        "fuenteId": "el-periodico-extremadura",
+        "fuenteTitle": "El Periódico Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Los músicos",
+        "url": "https://www.elperiodicoextremadura.com/ocio/cine/musicos-132072255.html",
+        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/6096d7ed-62de-4164-8669-2adcdc345fc1_16-9-aspect-ratio_default_0_x87y83.jpg",
+        "fecha": "2026-07-03T00:35:55.000Z",
+        "fuenteId": "el-periodico-extremadura",
+        "fuenteTitle": "El Periódico Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Cosas que no olvidaré",
+        "url": "https://www.elperiodicoextremadura.com/ocio/cine/cosas-olvidare-132072248.html",
+        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/b3001797-324c-478f-a6b8-3b2480f56d71_16-9-aspect-ratio_default_0_x87y83.jpg",
+        "fecha": "2026-07-03T00:35:48.000Z",
+        "fuenteId": "el-periodico-extremadura",
+        "fuenteTitle": "El Periódico Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Hermanos",
+        "url": "https://www.elperiodicoextremadura.com/ocio/cine/hermanos-132072241.html",
+        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/4d0af25f-96de-4b8f-8d11-e0818809c710_16-9-aspect-ratio_default_0_x87y83.jpg",
+        "fecha": "2026-07-03T00:35:39.000Z",
+        "fuenteId": "el-periodico-extremadura",
+        "fuenteTitle": "El Periódico Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "9 lunas",
+        "url": "https://www.elperiodicoextremadura.com/ocio/cine/9-lunas-132072229.html",
+        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/f3873bca-fd6d-4de3-9737-a2eade58b5b2_16-9-aspect-ratio_default_0_x87y83.jpg",
+        "fecha": "2026-07-03T00:35:29.000Z",
+        "fuenteId": "el-periodico-extremadura",
+        "fuenteTitle": "El Periódico Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Bella",
+        "url": "https://www.elperiodicoextremadura.com/ocio/cine/bella-132072222.html",
+        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/ac0ef0d0-d9a8-46ee-bb51-f611b95ad4b0_16-9-aspect-ratio_default_0_x87y83.jpg",
+        "fecha": "2026-07-03T00:35:23.000Z",
+        "fuenteId": "el-periodico-extremadura",
+        "fuenteTitle": "El Periódico Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Call Me by Your Name",
+        "url": "https://www.elperiodicoextremadura.com/ocio/cine/call-by-your-name-132072215.html",
+        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/5f740b23-67c4-44d5-86a2-de17c851a65e_16-9-aspect-ratio_default_0_x87y83.jpg",
+        "fecha": "2026-07-03T00:35:18.000Z",
+        "fuenteId": "el-periodico-extremadura",
+        "fuenteTitle": "El Periódico Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "01:00 | 03 JUL 2026 | TIEMPO DE JUEGO",
+        "url": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/01-00-03-jul-2026-juego-20260703_3397352.html",
+        "imagen": "",
+        "fecha": "2026-07-03T00:26:38.000Z",
+        "fuenteId": "cope-extremadura",
+        "fuenteTitle": "COPE Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "El sorprendente 'maleficio' que arrastraba España en los últimos mundiales y que ha roto tras golear a Austria",
         "url": "https://www.cope.es/programas/tiempo-de-juego/noticias/sorprendente-maleficio-arrastraba-espana-ultimos-mundiales-roto-golear-austria-20260703_3397348.html",
@@ -2673,126 +2794,6 @@
         "url": "https://www.elperiodicoextremadura.com/espana/2026/07/02/mandos-guardia-civil-piden-dimision-directora-dao-132070143.html",
         "imagen": "https://estaticos-cdn.prensaiberica.es/clip/eca36016-3ccb-43e5-a7b0-dd4c2072eef5_16-9-aspect-ratio_default_0_x450y200.jpg",
         "fecha": "2026-07-02T21:51:22.000Z",
-        "fuenteId": "el-periodico-extremadura",
-        "fuenteTitle": "El Periódico Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "España aplasta a Austria para pasar a octavos",
-        "url": "https://www.elperiodicoextremadura.com/deportes/2026/07/02/espana-aplasta-austria-pasar-octavos-132069915.html",
-        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/7a75a408-ebcf-4ecc-aa3f-865c65fb2449_16-9-aspect-ratio_default_0_x1000y444.jpg",
-        "fecha": "2026-07-02T21:31:11.000Z",
-        "fuenteId": "el-periodico-extremadura",
-        "fuenteTitle": "El Periódico Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Alfredo Relaño se rinde ante el momento de Oyarzabal y el juego de España ante Austria: \"Vuelve a tener cara de aspirante serio\"",
-        "url": "https://www.cope.es/programas/tiempo-de-juego/noticias/alfredo-relano-rinde-momento-oyarzabal-juego-espana-austria-vuelve-cara-aspirante-serio-20260702_3397329.html",
-        "imagen": "https://imagenes.cope.es/files/og_thumbnail/uploads/2026/07/02/6a46d6062edb6.png",
-        "fecha": "2026-07-02T21:29:20.000Z",
-        "fuenteId": "cope-extremadura",
-        "fuenteTitle": "COPE Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "España hace vía blindado en defensa y rompiendo un récord de Iker Casillas",
-        "url": "https://www.elperiodicoextremadura.com/deportes/2026/07/02/blindados-defensa-contracronica-espana-austria-132069884.html",
-        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/3ba148eb-aab2-4d00-8d5b-e65bcff58785_16-9-aspect-ratio_default_0_x1000y423.jpg",
-        "fecha": "2026-07-02T21:28:42.000Z",
-        "fuenteId": "el-periodico-extremadura",
-        "fuenteTitle": "El Periódico Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "22:00 | 02 JUL 2026 | TIEMPO DE JUEGO",
-        "url": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/22-00-02-jul-2026-juego-20260702_3397330.html",
-        "imagen": "",
-        "fecha": "2026-07-02T21:27:55.000Z",
-        "fuenteId": "cope-extremadura",
-        "fuenteTitle": "COPE Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "España llega a la fase seria del Mundial",
-        "url": "https://www.elperiodicoextremadura.com/deportes/2026/07/02/espana-llega-fase-seria-mundial-132069677.html",
-        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/2e36391e-f1ee-4d72-87b1-eae758641a4f_16-9-aspect-ratio_default_0_x1000y465.jpg",
-        "fecha": "2026-07-02T21:21:40.000Z",
-        "fuenteId": "el-periodico-extremadura",
-        "fuenteTitle": "El Periódico Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El 1x1 de España contra Austria",
-        "url": "https://www.elperiodicoextremadura.com/deportes/2026/07/02/1x1-espana-austria-mundial-2026-132069393.html",
-        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/0f932d96-2b48-4630-87ff-5e4261eefe5d_16-9-aspect-ratio_default_0_x1000y444.jpg",
-        "fecha": "2026-07-02T21:11:38.000Z",
-        "fuenteId": "el-periodico-extremadura",
-        "fuenteTitle": "El Periódico Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Unai Simón supera el récord de imbatibilidad en la historia de los Mundiales",
-        "url": "https://www.cope.es/programas/tiempo-de-juego/noticias/unai-simon-supera-record-imbatibilidad-historia-mundiales-20260702_3397323.html",
-        "imagen": "https://imagenes.cope.es/files/og_thumbnail/uploads/2026/07/02/6a46d2b29107e.jpeg",
-        "fecha": "2026-07-02T21:07:49.000Z",
-        "fuenteId": "cope-extremadura",
-        "fuenteTitle": "COPE Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Consulta la portada correspondiente al día 3 de julio de 2026",
-        "url": "https://www.elperiodicoextremadura.com/sociedad/2026/07/02/consulta-portada-correspondiente-dia-3-132068434.html",
-        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/ab681006-6af5-49a5-931e-53f6cec41212_16-9-aspect-ratio_default_0_x853y728.jpg",
-        "fecha": "2026-07-02T21:06:36.000Z",
-        "fuenteId": "el-periodico-extremadura",
-        "fuenteTitle": "El Periódico Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Oyarzabal castiga, Lamine se divierte ¡y Pedro Porro marca!",
-        "url": "https://www.elperiodicoextremadura.com/deportes/2026/07/02/espana-austria-resultado-resumen-mundial-2026-futbol-132069260.html",
-        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/a465bd80-cf2b-4378-8cf7-3dbc9b6fa283_16-9-aspect-ratio_default_0_x1088y483.jpg",
-        "fecha": "2026-07-02T21:04:31.000Z",
-        "fuenteId": "el-periodico-extremadura",
-        "fuenteTitle": "El Periódico Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Los posibles rivales de España en los octavos de final del Mundial 2026",
-        "url": "https://www.elperiodicoextremadura.com/deportes/2026/07/02/posibles-rivales-espana-octavos-final-132069062.html",
-        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/e9e227e2-f7b8-4c69-b7b1-21d101fcc5de_16-9-aspect-ratio_default_0_x600y225.jpg",
-        "fecha": "2026-07-02T20:55:46.000Z",
         "fuenteId": "el-periodico-extremadura",
         "fuenteTitle": "El Periódico Extremadura",
         "categorias": [
@@ -3320,6 +3321,32 @@
     ],
     "politica": [
       {
+        "titulo": "Trump sostiene que Irán ha aceptado «prácticamente todo» lo que EEUU necesita",
+        "url": "https://theobjective.com/internacional/2026-07-03/trump-iran-practicamente-todo-eeuu/",
+        "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/07/qaribabadi-iran-ormuz-469x317.jpg",
+        "fecha": "2026-07-03T00:44:30.000Z",
+        "fuenteId": "the-objective",
+        "fuenteTitle": "The Objective",
+        "categorias": [
+          "actualidad",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Delcy libera, como \"medida humanitaria\", al militar Adrián de Gouveia",
+        "url": "https://www.elmundo.es/internacional/2026/07/03/6a470352e4d4d877648b4596.html",
+        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/07/03/17830387058314.jpg",
+        "fecha": "2026-07-03T00:33:32.000Z",
+        "fuenteId": "el-mundo-internacional",
+        "fuenteTitle": "El Mundo - Internacional",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "La fractura de los Bolsonaro: ¿un tsunami para las presidenciales de Brasil?",
         "url": "https://www.france24.com/es/am%C3%A9rica-latina/20260702-la-fractura-del-clan-bolsonaro-un-tsunami-para-las-presidenciales-de-brasil",
         "imagen": "https://s.france24.com/media/display/b83b18e8-766a-11f1-9500-005056bf30b7/w:1024/p:16x9/23e8f867e8a1814a69f9f0bf20fc1f59a4ae1764w.jpg",
@@ -3545,32 +3572,6 @@
         "url": "https://theobjective.com/sociedad/ciencia/2026-07-02/cerebro-primates-cuerpo/",
         "imagen": "https://theobjective.com/wp-content/uploads/2026/07/cerebro-primates.jpg",
         "fecha": "2026-07-02T21:28:47.000Z",
-        "fuenteId": "the-objective",
-        "fuenteTitle": "The Objective",
-        "categorias": [
-          "actualidad",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El 4 de julio: ¿qué tan unido está el EE. UU. de Trump en la celebración de sus 250 años?",
-        "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260702-el-4-de-julio-qu%C3%A9-tan-unido-est%C3%A1-el-ee-uu-de-trump-en-la-celebraci%C3%B3n-de-sus-250-a%C3%B1os",
-        "imagen": "https://s.france24.com/media/display/8474e134-7641-11f1-b149-005056a90284/w:1024/p:16x9/AP26183491347689.jpg",
-        "fecha": "2026-07-02T21:23:22.000Z",
-        "fuenteId": "france24-espanol",
-        "fuenteTitle": "France 24 Español",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "España pasa por encima de Austria y rompe la maldición que arrastraba desde 2010",
-        "url": "https://theobjective.com/deportes/futbol/mundial/2026-07-02/espana-austria-rompe-maldicion-2010/",
-        "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/07/goles-kane-469x317.jpg",
-        "fecha": "2026-07-02T21:12:31.000Z",
         "fuenteId": "the-objective",
         "fuenteTitle": "The Objective",
         "categorias": [
@@ -4107,6 +4108,19 @@
     ],
     "tecnologia": [
       {
+        "titulo": "Hacer llorar a Dixie Kong sí que puede resultar útil en Donkey Kong Country 3",
+        "url": "https://www.nintenderos.com/2026/07/hacer-llorar-a-dixie-kong-si-que-puede-resultar-util-en-donkey-kong-country-3/",
+        "imagen": "",
+        "fecha": "2026-07-03T00:45:45.000Z",
+        "fuenteId": "nintenderos",
+        "fuenteTitle": "Nintenderos",
+        "categorias": [
+          "tecnologia",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Dodge apunta a celebrar los 60 años del Charger anunciando su retorno a la NASCAR Cup Series",
         "url": "https://www.diariomotor.com/competicion/noticia/dodge-60-anos-charger-nascar-cup-series/",
         "imagen": "https://www.diariomotor.com/imagenes/2026/07/Dodge_Charger_NASCAR_Cup_Series_2026_R3_26-6a46608991a4a.jpg?class=XL",
@@ -4116,6 +4130,18 @@
         "categorias": [
           "tecnologia",
           "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Google quiere que saludes a la cámara para demostrar que no eres un bot",
+        "url": "https://www.larazon.es/tecnologia-consumo/google/google-quiere-saludes-camara-demostrar-no-eres-bot_202607036a46f92c403b9f2792e55003.html",
+        "imagen": "https://fotografias-2.larazon.es/clipping/cmsimages02/2026/07/03/45D44E6B-5024-43A1-9ADB-3D8A578DD388/google-quiere-que-demuestres-que-eres-bot_96.jpg?crop=1900,1069,x0,y0&amp;width=1200&amp;height=675&amp;optimize=low&amp;format=webply",
+        "fecha": "2026-07-03T00:30:00.000Z",
+        "fuenteId": "andro4all",
+        "fuenteTitle": "Andro4all",
+        "categorias": [
+          "tecnologia"
         ],
         "idioma": "es"
       },
@@ -4337,33 +4363,6 @@
         "fuenteId": "andro4all",
         "fuenteTitle": "Andro4all",
         "categorias": [
-          "tecnologia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La Plaza de Colón, a la caza del sueño de una nueva selección de leyenda",
-        "url": "https://elpais.com/deportes/mundial-futbol/2026-07-02/la-plaza-de-colon-a-la-caza-del-sueno-de-una-seleccion-nueva-leyenda.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/WMOMF5P2TBOVPH226D7WWGRF44.jpg?auth=b314be83853bf45585f10282b88be35ac4f7b4ce5b97d55a7f58c60771fd2972",
-        "fecha": "2026-07-02T22:03:48.000Z",
-        "fuenteId": "el-pais",
-        "fuenteTitle": "El País",
-        "categorias": [
-          "actualidad",
-          "tecnologia",
-          "ciencia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Desarticulada una banda que robaba patinetes y bicicletas por encargo del dueño de una peluquería de Fuenlabrada",
-        "url": "https://www.elmundo.es/madrid/2026/07/03/6a46a318e85ecefe108b457c.html",
-        "imagen": "http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&cg=rss-elmundo&ci=es-widgetueditorial&si=http://www.elmundo.es/rss/index.xml",
-        "fecha": "2026-07-02T22:02:38.000Z",
-        "fuenteId": "el-mundo",
-        "fuenteTitle": "El Mundo",
-        "categorias": [
-          "actualidad",
           "tecnologia"
         ],
         "idioma": "es"
