@@ -1,5 +1,5 @@
 {
-  "generado": "2026-07-04T01:11:38.224Z",
+  "generado": "2026-07-04T01:28:51.722Z",
   "limitePorCategoria": 20,
   "categorias": {
     "actualidad": [
@@ -13,6 +13,19 @@
         "categorias": [
           "actualidad",
           "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Fabián, el presunto violador de la residencia de esclerosis múltiple",
+        "url": "https://www.abc.es/espana/madrid/fabian-presunto-violador-residencia-esclerosis-multiple-20260702023003-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/07/02/1514229944-RF9pdyQE111pjFbWI2lNg9O-1200x840@diario_abc.jpg",
+        "fecha": "2026-07-04T00:30:04.000Z",
+        "fuenteId": "abc-espana",
+        "fuenteTitle": "ABC - España",
+        "categorias": [
+          "politica",
+          "actualidad"
         ],
         "idioma": "es"
       },
@@ -228,18 +241,6 @@
         "url": "https://www.abc.es/play/cine/noticias/musicos-musica-triunfa-pelicula-palabras-fracasan-20260703013327-nt.html",
         "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/07/03/musi_20260703185019-RFkm2fodGhaizJTyWu759kO-1200x840@diario_abc.jpg",
         "fecha": "2026-07-03T23:33:27.000Z",
-        "fuenteId": "abc",
-        "fuenteTitle": "ABC",
-        "categorias": [
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "«¡Pero si todo el mundo conduce....!»: el miedo a coger el coche frena a tres de cada diez españoles con carnet",
-        "url": "https://www.abc.es/bienestar/sabe-conducir-20260701013309-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/bienestar/2026/07/01/1514113354-RkguYi35WzYQeKbKGN5vwaJ-1200x840@diario_abc.JPG",
-        "fecha": "2026-07-03T23:33:09.000Z",
         "fuenteId": "abc",
         "fuenteTitle": "ABC",
         "categorias": [
@@ -1041,6 +1042,126 @@
     ],
     "deportes": [
       {
+        "titulo": "Colombia - Ghana, fútbol hoy en directo: resultado, goleadores y estadísticas en vivo del partido del Mundial",
+        "url": "https://www.elespanol.com/deportes/futbol/mundial/20260704/colombia-ghana-futbol-hoy-directo-resultado-goleadores-estadisticas-vivo-partido-mundial/1003744310044_22.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11307476.jpg?p=w:1706/h:960&h=4e-Uc4kF",
+        "fecha": "2026-07-04T00:58:08.000Z",
+        "fuenteId": "el-espanol-deportes",
+        "fuenteTitle": "El Español - Deportes",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Lo que hace aquí la mujer de Simeone explica mejor que nada lo que ha hecho Cabo Verde con Argentina",
+        "url": "https://as.com/futbol/videos/lo-que-hace-aqui-la-mujer-de-simeone-explica-mejor-que-nada-lo-que-ha-hecho-cabo-verde-con-argentina-f202607-v/",
+        "imagen": "https://vdmedia.as.com/mcv/diarioas/multimedia/20260704/1191186_004853_video_1200.mp4",
+        "fecha": "2026-07-04T00:49:39.000Z",
+        "fuenteId": "as",
+        "fuenteTitle": "AS",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Cabo Verde es Messiana",
+        "url": "https://www.mundodeportivo.com/futbol/mundial/20260704/1004202617/cabo-verde-messiana.html",
+        "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/07/04/6a4858642cfa0.jpeg",
+        "fecha": "2026-07-04T00:49:36.000Z",
+        "fuenteId": "mundo-deportivo",
+        "fuenteTitle": "Mundo Deportivo",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Argentina evita en la prórroga el drama nacional ante la revelación Cabo Verde y sufre para acceder a octavos de final",
+        "url": "https://www.elespanol.com/deportes/futbol/mundial/20260704/argentina-evita-prorroga-drama-nacional-revelacion-cabo-verde-sufre-acceder-octavos-final/1003744310022_0.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11308393.jpg?p=w:1706/h:960&h=1GPKlaxf",
+        "fecha": "2026-07-04T00:44:55.000Z",
+        "fuenteId": "el-espanol-deportes",
+        "fuenteTitle": "El Español - Deportes",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Cabo Verde anota el gol del Mundial en la prórroga ante Argentina: ¡Menuda barbaridad!",
+        "url": "https://www.mundodeportivo.com/futbol/mundial/20260704/1004202616/cabo-verde-anota-gol-mundial-prorroga-argentina-menuda-barbaridad.html",
+        "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/07/04/6a48548d69e39.jpeg",
+        "fecha": "2026-07-04T00:34:38.000Z",
+        "fuenteId": "mundo-deportivo",
+        "fuenteTitle": "Mundo Deportivo",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "¿Lo de Vozinha, qué es? Le paró sobrado a Messi la que Courtois se ‘tragó’ entera de ‘La Pulga’",
+        "url": "https://as.com/futbol/videos/lo-de-vozinha-que-es-le-paro-sobrado-a-messi-la-que-courtois-se-trago-entera-de-la-pulga-f202607-v/",
+        "imagen": "https://vdmedia.as.com/mcv/diarioas/multimedia/20260704/1191178_001015_video_1200.mp4",
+        "fecha": "2026-07-04T00:32:32.000Z",
+        "fuenteId": "as",
+        "fuenteTitle": "AS",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El dato más 'random' del Mundial: ¡Vozinha lleva más regates que Cristiano!",
+        "url": "https://www.marca.com/futbol/mundial/2026/07/04/dato-random-mundial-vozinha-lleva-regates-cristiano.html",
+        "imagen": "https://e01-xlk-ue-marca.uecdn.es/files/article_main_microformat/uploads/2026/07/04/6a4852cb029f0.jpeg",
+        "fecha": "2026-07-04T00:26:12.000Z",
+        "fuenteId": "marca",
+        "fuenteTitle": "Marca",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El entrenador de Justin Gaethje alaba a Aleksandre Topuria: «Fue un momento muy especial»",
+        "url": "https://www.abc.es/deportes/mma/entrenador-justin-gaethje-alaba-aleksandre-topuria-momento-20260704022406-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/07/04/ilia-topuria-aleksandre-RATMPv7PTAf9xvuUg4eorPP-1200x840@diario_abc.JPG",
+        "fecha": "2026-07-04T00:24:07.000Z",
+        "fuenteId": "abc-deportes",
+        "fuenteTitle": "ABC - Deportes",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Merab Dvalishvili, amigo de Topuria, confiesa cómo vivió su derrota ante Gaethje: «No pude dormir en dos semanas»",
+        "url": "https://www.abc.es/deportes/mma/merab-dvalishvili-amigo-topuria-confiesa-vivio-derrota-20260704022358-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/07/04/ilia-merab-dormir_20260630162944-RYbAEjCUS6r9543yEBBe1yH-1200x840@diario_abc.PNG",
+        "fecha": "2026-07-04T00:23:58.000Z",
+        "fuenteId": "abc-deportes",
+        "fuenteTitle": "ABC - Deportes",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Sidny Lopes Cabral, el gol mas loco del Mundial: ¡es para echarse las manos a la cabeza y mucho más!",
+        "url": "https://www.marca.com/futbol/mundial/2026/07/04/sidny-lopes-cabral-jugador-cabo-verde-marcado-golazo-mundial-argentina.html",
+        "imagen": "https://e01-xlk-ue-marca.uecdn.es/files/article_main_microformat/uploads/2026/06/06/6a243da2903ad.jpeg",
+        "fecha": "2026-07-04T00:23:38.000Z",
+        "fuenteId": "marca",
+        "fuenteTitle": "Marca",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "El Mundial, en datos: ¿Quién es el jugador más rápido? ¿Y el futbolista que más balones roba?",
         "url": "https://www.abc.es/deportes/futbol/mundial/mundial-datos-jugador-rapido-futbolista-balones-roba-20260704021013-ntrc.html",
         "imagen": "https://s1.abcstatics.com/rc/www/multimedia/ciencia/2026/04/01/bc-1920-100--1200x672.jpg",
@@ -1059,6 +1180,30 @@
         "fecha": "2026-07-04T00:09:18.000Z",
         "fuenteId": "abc-deportes",
         "fuenteTitle": "ABC - Deportes",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "\"O no han jugado nunca a fútbol o se inventan las cosas\"",
+        "url": "https://www.marca.com/radio/2026/07/04/mate-bilic-explota-polemico-pase-portugal-han-jugado-nunca-futbol-inventan-cosas.html",
+        "imagen": "https://www.dailymotion.com/crawler/video/xakvyyq",
+        "fecha": "2026-07-04T00:04:50.000Z",
+        "fuenteId": "marca",
+        "fuenteTitle": "Marca",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Jhon Córdoba se mantiene en el once cafetero",
+        "url": "https://www.marca.com/futbol/mundial/2026/07/04/01-0117-20260704-832-1219.html",
+        "imagen": "https://e01-xlk-ue-marca.uecdn.es/files/article_main_microformat/uploads/2026/07/02/6a469d5b3e2d4.jpeg",
+        "fecha": "2026-07-03T23:53:31.000Z",
+        "fuenteId": "marca",
+        "fuenteTitle": "Marca",
         "categorias": [
           "deportes"
         ],
@@ -1101,6 +1246,18 @@
         "idioma": "es"
       },
       {
+        "titulo": "La FIFA recula con el México-Inglaterra",
+        "url": "https://www.marca.com/futbol/mundial/2026/07/04/fifa-recula-mexico-e-inglaterra-frenan-cambio-horario-mundial.html",
+        "imagen": "https://e01-xlk-ue-marca.uecdn.es/files/article_main_microformat/uploads/2026/07/04/6a48436968a23.jpeg",
+        "fecha": "2026-07-03T23:19:54.000Z",
+        "fuenteId": "marca",
+        "fuenteTitle": "Marca",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Messi marca el camino",
         "url": "https://www.mundodeportivo.com/futbol/mundial/20260703/1004202173/argentina-cabo-verde-directo-mundial-2026-futbol-dieciseisavos.html",
         "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/07/04/6a483eb629f7c.jpeg",
@@ -1123,165 +1280,153 @@
           "deportes"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "Messi es inalcanzable y lo demuestra con otro golazo ante Cabo Verde",
-        "url": "https://www.mundodeportivo.com/futbol/mundial/20260704/1004202611/messi-inalcanzable-demuestra-golazo-cabo-verde.html",
-        "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/07/04/6a483ad6811f2.jpeg",
-        "fecha": "2026-07-03T22:48:12.000Z",
-        "fuenteId": "mundo-deportivo",
-        "fuenteTitle": "Mundo Deportivo",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El robo de guante blanco",
-        "url": "https://www.lavanguardia.com/deportes/20260704/11584242/robo-guante-blanco.html",
-        "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
-        "fecha": "2026-07-03T22:45:44.000Z",
-        "fuenteId": "la-vanguardia-deportes",
-        "fuenteTitle": "La Vanguardia - Deportes",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Boniek, a Lewandowski: \"Cambiar la maravillosa Barcelona por Chicago no es fácil\"",
-        "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260704/1004202601/boniek-lewandowski-cambiar-maravillosa-barcelona-chicago-dificil.html",
-        "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/07/03/6a482bcc8dd78.jpeg",
-        "fecha": "2026-07-03T22:24:27.000Z",
-        "fuenteId": "mundo-deportivo",
-        "fuenteTitle": "Mundo Deportivo",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Salah, MVP: \"He llorado mucho este año, ahora disfruto\"",
-        "url": "https://www.mundodeportivo.com/futbol/mundial/20260704/1004202605/salah-he-llorado-ano-disfruto.html",
-        "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/07/04/6a483602223f2.jpeg",
-        "fecha": "2026-07-03T22:23:07.000Z",
-        "fuenteId": "mundo-deportivo",
-        "fuenteTitle": "Mundo Deportivo",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Argentina - Cabo Verde hoy, en directo: partido de dieciseisavos de final del Mundial 2026, en vivo",
-        "url": "https://as.com/futbol/mundial/argentina-cabo-verde-hoy-en-directo-partido-de-dieciseisavos-de-final-del-mundial-2026-en-vivo-f202607-d/",
-        "imagen": "https://img.asmedia.epimg.net/resizer/v2/MDOWDYABQBI2RHJ4C4TRFXD6ZM.jpg?auth=386f53cb07b68b94a4ced5240fd1ae88095d2e219d23f48d06a50df1e8a59de7",
-        "fecha": "2026-07-03T22:22:20.000Z",
-        "fuenteId": "as",
-        "fuenteTitle": "AS",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Vídeo resumen y goles del Australia-Egipto",
-        "url": "https://www.abc.es/deportes/futbol/mundial/video-resumen-goles-australia-egipto-mundial-2026-20260703001901-ntrc.html",
-        "imagen": "https://s1.abcstatics.com/rc/www/multimedia/deportes/2026/06/12/australia-egipto-k4sG-U302149305080ME-1200x840@RC.jpg",
-        "fecha": "2026-07-03T22:19:02.000Z",
-        "fuenteId": "abc-deportes",
-        "fuenteTitle": "ABC - Deportes",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Stephen Eustáquio, el otro '7' de Portugal que lidera el sueño de Canadá",
-        "url": "https://www.abc.es/deportes/futbol/mundial/stephen-eustaquio-portugal-lidera-sueno-canada-20260703001113-ntrc.html",
-        "imagen": "https://s1.abcstatics.com/rc/www/multimedia/deportes/2026/07/03/StephenEustaquio2-reuters-RHrKuID4flES9QOXH7n1ahI-1200x840@RC.jpg",
-        "fecha": "2026-07-03T22:11:15.000Z",
-        "fuenteId": "abc-deportes",
-        "fuenteTitle": "ABC - Deportes",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Argentina - Cabo Verde, en directo: sigue el resultado, ganador y goles del partido del Mundial 2026 hoy, en vivo",
-        "url": "https://www.abc.es/deportes/futbol/mundial/argentina-cabo-verde-directo-sigue-resultado-ganador-20260704144200-di.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/07/04/partido-U20658981798adG-RgTn5BvgzLpicBri409V54L-1200x840@diario_abc.jpg",
-        "fecha": "2026-07-03T22:09:42.000Z",
-        "fuenteId": "abc-deportes",
-        "fuenteTitle": "ABC - Deportes",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Los 11 españoles en el Tour de Francia 2026",
-        "url": "https://as.com/ciclismo/fotorrelato/los-11-espanoles-en-el-tour-de-francia-2026-f202607-f/",
-        "imagen": "https://img.asmedia.epimg.net/resizer/v2/SCJXKHPNT5C5XPCEDVXITNI6UA.jpg?auth=fb1a6135e41cd16bfdd38c13087f51b20e8adcea7e0767083d8ad6ade6eea442",
-        "fecha": "2026-07-03T22:08:26.000Z",
-        "fuenteId": "as",
-        "fuenteTitle": "AS",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El récord imbatido de Unai Simón le catapulta al Guante de Oro del Mundial",
-        "url": "https://as.com/futbol/mundial/el-record-imbatido-de-unai-simon-le-catapulta-al-guante-de-oro-del-mundial-f202607-n/",
-        "imagen": "https://img.asmedia.epimg.net/resizer/v2/S4HKZ4Y4SNIPLE36JBTYGNQVC4.jpg?auth=e6b6b939c782c9ea2fd9aa3b5ddf8c103147d690f6be64ad6010c550e4d4af9a",
-        "fecha": "2026-07-03T22:08:14.000Z",
-        "fuenteId": "as",
-        "fuenteTitle": "AS",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Tour de Francia 2026. Las 21 etapas, kilómetro a kilómetro",
-        "url": "https://www.lavanguardia.com/deportes/20260704/11582064/tour-francia-2026-21-etapas-kilometro-kilometro.html",
-        "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/07/02/6a4652c77a3fd.jpeg",
-        "fecha": "2026-07-03T22:05:00.000Z",
-        "fuenteId": "la-vanguardia-deportes",
-        "fuenteTitle": "La Vanguardia - Deportes",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "España: lo mejor está por llegar",
-        "url": "https://as.com/futbol/seleccion/espana-lo-mejor-esta-por-llegar-f202607-n/",
-        "imagen": "https://img.asmedia.epimg.net/resizer/v2/NV6FQA52UBCEPBU6KRK743NBQM.jpg?auth=7daa60a03025bf51df8d8050da118887a9e2ce80d09a7591660126a64dd4990c",
-        "fecha": "2026-07-03T22:02:04.000Z",
-        "fuenteId": "as",
-        "fuenteTitle": "AS",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Un 'influencer' es el arma secreta de Paraguay para repetir el milagro frente a Francia",
-        "url": "https://www.abc.es/deportes/futbol/mundial/influencer-arma-secreta-paraguay-repetir-milagro-frente-20260703235753-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/07/03/gill-Rta4P4gs4beYFwoQKvnklMP-1200x840@diario_abc.jpg",
-        "fecha": "2026-07-03T21:57:54.000Z",
-        "fuenteId": "abc-deportes",
-        "fuenteTitle": "ABC - Deportes",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
       }
     ],
     "economia": [
+      {
+        "titulo": "La factura del gas de los hogares con la TUR se encarece un 14% anual por la crisis de Ormuz y la subida al 21% del IVA",
+        "url": "https://www.elespanol.com/invertia/empresas/energia/20260704/factura-gas-hogares-tur-encarece-anual-crisis-ormuz-subida-iva/1003744309018_0.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/7159431.jpg?p=w:1706/h:960&h=CHKdLkMM",
+        "fecha": "2026-07-04T00:39:05.000Z",
+        "fuenteId": "el-espanol-economia",
+        "fuenteTitle": "El Español - Economía",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El Ibex acaricia los soñados 20.000 puntos: sube más que Europa y Wall Street pese a la guerra y la crisis de la IA",
+        "url": "https://www.elespanol.com/invertia/mercados/20260704/ibex-acaricia-sonados-puntos-sube-europa-wall-street-pese-guerra-crisis-ia/1003744309796_0.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11308360.jpg?p=c:1214:683:nowe:482:427/w:1706/h:960&h=xxKSIUYi",
+        "fecha": "2026-07-04T00:39:05.000Z",
+        "fuenteId": "el-espanol-economia",
+        "fuenteTitle": "El Español - Economía",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Un 65% de los hogares españoles no pueden pagar el precio de un piso sin correr el riesgo de quedarse arruinados",
+        "url": "https://www.elespanol.com/invertia/observatorios/vivienda/20260704/hogares-espanoles-no-pueden-pagar-precio-piso-sin-correr-riesgo-quedarse-arruinados/1003744308994_0.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11307084.jpg?p=w:1706/h:960&h=wLlggHOQ",
+        "fecha": "2026-07-04T00:39:04.000Z",
+        "fuenteId": "el-espanol-economia",
+        "fuenteTitle": "El Español - Economía",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "La nueva TDT de los rebeldes de Prisa invertirá 10 millones en su primer año y tendrá una plantilla de 300 trabajadores",
+        "url": "https://www.elespanol.com/invertia/medios/20260704/nueva-tdt-rebeldes-prisa-invertira-millones-primer-ano-plantilla-trabajadores/1003744308805_0.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11308259.jpg?p=w:1706/h:960&h=RvmhALH7",
+        "fecha": "2026-07-04T00:39:04.000Z",
+        "fuenteId": "el-espanol-economia",
+        "fuenteTitle": "El Español - Economía",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El dominio de EEUU a los 250 años",
+        "url": "https://www.elespanol.com/invertia/opinion/20260704/dominio-eeuu-anos/1003744308771_13.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11307709.jpg?p=w:1706/h:960&h=_6qgFHwa",
+        "fecha": "2026-07-04T00:39:04.000Z",
+        "fuenteId": "el-espanol-economia",
+        "fuenteTitle": "El Español - Economía",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El Parlamento Europeo presentará en septiembre su plan para vetar a Huawei con la oposición del PSOE español",
+        "url": "https://www.elespanol.com/invertia/empresas/tecnologia/20260704/parlamento-europeo-presentara-septiembre-plan-vetar-huawei-oposicion-psoe-espanol/1003744308755_0.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11241696.jpg?p=w:1706/h:960&h=YuIIWVdQ",
+        "fecha": "2026-07-04T00:39:03.000Z",
+        "fuenteId": "el-espanol-economia",
+        "fuenteTitle": "El Español - Economía",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Sánchez copia al chavismo. Cambiar el censo para perpetuarse en el poder",
+        "url": "https://www.elespanol.com/invertia/opinion/20260704/sanchez-copia-chavismo-cambiar-censo-perpetuarse-poder/1003744308724_13.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11307913.jpg?p=w:1706/h:960&h=6ILmEMLF",
+        "fecha": "2026-07-04T00:39:03.000Z",
+        "fuenteId": "el-espanol-economia",
+        "fuenteTitle": "El Español - Economía",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Comienza el funeral del líder supremo de Irán mientras el estrecho de Ormuz centra la atención",
+        "url": "https://es.investing.com/news/economy-news/comienza-el-funeral-del-lider-supremo-de-iran-mientras-el-estrecho-de-ormuz-centra-la-atencion-3727969",
+        "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+        "fecha": "2026-07-04T00:27:22.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Sanidad quiere poner coto a las caídas en personas mayores: son la primera causa de muerte externa y crecen un 8% al año",
+        "url": "https://www.elespanol.com/invertia/observatorios/sanidad/20260704/sanidad-quiere-poner-coto-caidas-personas-mayores-primera-causa-muerte-externa-crecen-ano/1003744309673_0.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11308234.jpg?p=w:1706/h:960&h=L5l3zTXE",
+        "fecha": "2026-07-04T00:10:00.000Z",
+        "fuenteId": "el-espanol-economia",
+        "fuenteTitle": "El Español - Economía",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "La contribución militar de España fue clave para que EEUU pueda celebrar el 250 de su Declaración de Independencia",
+        "url": "https://www.elespanol.com/observatorio-defensa/20260704/contribucion-militar-espana-clave-eeuu-pueda-celebrar-declaracion-independencia/1003744309007_0.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11307739.jpg?p=w:1706/h:960&h=IWz7FZc2",
+        "fecha": "2026-07-04T00:10:00.000Z",
+        "fuenteId": "el-espanol-economia",
+        "fuenteTitle": "El Español - Economía",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Rusia, obligada a reconfigurar el armamento de su caza Su-57 para hacer frente a los drones y misiles de crucero de Ucrania",
+        "url": "https://www.elespanol.com/observatorio-defensa/20260704/rusia-obligada-reconfigurar-armamento-caza-su-57-hacer-frente-drones-misiles-crucero-ucrania/1003744309040_0.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11307847.jpg?p=w:1706/h:960&h=_qjOGTnp",
+        "fecha": "2026-07-04T00:10:00.000Z",
+        "fuenteId": "el-espanol-economia",
+        "fuenteTitle": "El Español - Economía",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "La OTAN se prepara para sustituir a los E-3 'Sentry', los aviones de alerta temprana, por unidades del Saab GlobalEye",
+        "url": "https://www.elespanol.com/observatorio-defensa/20260704/otan-prepara-sustituir-e-3-sentry-aviones-alerta-temprana-unidades-saab-globaleye/1003744309497_0.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11152107.jpg?p=w:1706/h:960&h=laNV6IC5",
+        "fecha": "2026-07-04T00:10:00.000Z",
+        "fuenteId": "el-espanol-economia",
+        "fuenteTitle": "El Español - Economía",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Tarjetas de crédito: cómo conseguirlas sin comisiones",
         "url": "https://www.abc.es/economia/guia-financiera/tarjetas-credito-sin-comisiones-20251112015546-nt.html",
@@ -1355,6 +1500,18 @@
         "idioma": "es"
       },
       {
+        "titulo": "Las tribulaciones de dos empresas chinas en el mundo del 'soberanismo' del dato",
+        "url": "https://www.elespanol.com/invertia/disruptores/grandes-actores/tecnologicas/20260704/tribulaciones-empresas-chinas-mundo-soberanismo-dato/1003744306487_0.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11306176.jpg?p=c:3284:1849:nowe:373:0/w:1706/h:960&h=XyEArhuQ",
+        "fecha": "2026-07-03T23:34:00.000Z",
+        "fuenteId": "el-espanol-economia",
+        "fuenteTitle": "El Español - Economía",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Binance pasa a ser ilegal y deja a miles de usuarios en el limbo: cómo recuperar la inversión en criptomonedas",
         "url": "https://www.abc.es/economia/cuentas-corrientes/binance-pasa-ilegal-deja-miles-usuarios-limbo-20260703013347-nt.html",
         "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/07/03/1492130932-RGkdvSiabX2yzugSDVDddDM-1200x840@diario_abc.jpg",
@@ -1365,169 +1522,22 @@
           "economia"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "No solo pagarás más por comprar en Shein: los otros casos que también te costarán tres euros",
-        "url": "https://www.abc.es/economia/cuentas-corrientes/solo-pagaras-comprar-shein-casos-pagaras-tres-20260701011921-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/07/01/shein--758x531.jpg",
-        "fecha": "2026-07-03T23:19:22.000Z",
-        "fuenteId": "abc-economia",
-        "fuenteTitle": "ABC - Economía",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Naturgy revoluciona con IA su negocio comercial en plena guerra por captar clientes",
-        "url": "https://www.abc.es/economia/naturgy-revoluciona-ia-negocio-comercial-plena-guerra-20260704010917-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/07/04/Naturgy%20sede-Rcj5JzlCGae0g8IryrWsf9O-1200x840@diario_abc.jpg",
-        "fecha": "2026-07-03T23:09:18.000Z",
-        "fuenteId": "abc-economia",
-        "fuenteTitle": "ABC - Economía",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Fuerzas rusas afirman haber capturado Kostiantynivka en el este de Ucrania",
-        "url": "https://es.investing.com/news/economy-news/fuerzas-rusas-afirman-haber-capturado-kostiantynivka-en-el-este-de-ucrania-3727963",
-        "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-        "fecha": "2026-07-03T23:03:12.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Cómo Bezos aprendió a apreciar a Trump y a conseguir más contratos para Blue Origin",
-        "url": "https://www.elmundo.es/economia/2026/07/04/6a47de9b21efa077388b4570.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/07/03/17830970568359.jpg",
-        "fecha": "2026-07-03T22:06:10.000Z",
-        "fuenteId": "el-mundo-economia",
-        "fuenteTitle": "El Mundo - Economía",
-        "categorias": [
-          "economia",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La adrenalina de ganar más de un 100% en bolsa conduce al inversor a deshacerse de sus bitcoins para sostener la 'gran burbuja' de la IA",
-        "url": "https://www.elmundo.es/economia/dinero-inversion/2026/07/04/6a479649fdddff33648b45a7.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/07/03/17830859028554.jpg",
-        "fecha": "2026-07-03T22:06:08.000Z",
-        "fuenteId": "el-mundo-economia",
-        "fuenteTitle": "El Mundo - Economía",
-        "categorias": [
-          "economia",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Preguntas y respuestas sobre el caso del testigo protegido que denuncia a Garamendi: quién acusa, qué se investiga y cómo afecta a las elecciones de la CEOE",
-        "url": "https://www.elmundo.es/economia/2026/07/04/6a478be921efa0a37e8b45bd.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/07/03/17830737389320.jpg",
-        "fecha": "2026-07-03T22:06:05.000Z",
-        "fuenteId": "el-mundo-economia",
-        "fuenteTitle": "El Mundo - Economía",
-        "categorias": [
-          "economia",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El super acelera su salto digital: la alimentación ya pisa fuerte en un ecommerce que roza los 115.000 millones",
-        "url": "https://www.elmundo.es/economia/2026/07/04/6a47db9cfc6c837f558b459e.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/07/03/17831029889373.jpg",
-        "fecha": "2026-07-03T22:06:04.000Z",
-        "fuenteId": "el-mundo-economia",
-        "fuenteTitle": "El Mundo - Economía",
-        "categorias": [
-          "economia",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Canfor completa la adquisición de la planta de vigas I-joist de PinkWood",
-        "url": "https://es.investing.com/news/company-news/canfor-completa-la-adquisicion-de-la-planta-de-vigas-ijoist-de-pinkwood-93CH-3727960",
-        "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-        "fecha": "2026-07-03T22:05:43.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Meridia recupera a Juan Barba para su nuevo fondo de 500 millones de euros",
-        "url": "https://www.expansion.com/catalunya/2026/07/03/6a47f6f9468aeb591e8b4581.html",
-        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/07/03/17831014074735.jpg",
-        "fecha": "2026-07-03T21:42:13.000Z",
-        "fuenteId": "expansion",
-        "fuenteTitle": "Expansión",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Álex Márquez: \"Gestionar las expectativas es más difícil que ganar\"",
-        "url": "https://www.expansion.com/directivos/2026/07/03/6a47b406e5fdeafa078b4577.html",
-        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/07/03/17831144152678.jpg",
-        "fecha": "2026-07-03T21:32:20.000Z",
-        "fuenteId": "expansion",
-        "fuenteTitle": "Expansión",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Carrefour, Dia y Lidl aceleran sus aperturas para tratar de arañar cuota",
-        "url": "https://www.expansion.com/empresas/distribucion/2026/07/03/6a47fcf1468aebf4528b45ad.html",
-        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/07/03/17831027283724.jpg",
-        "fecha": "2026-07-03T21:26:10.000Z",
-        "fuenteId": "expansion",
-        "fuenteTitle": "Expansión",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Monica Defend (Amundi): \"El mercado está completamente obsesionado con la inteligencia artificial\"",
-        "url": "https://www.expansion.com/mercados/2026/07/03/6a47fac1468aebe21e8b4589.html",
-        "imagen": "http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&cg=rss-expansion&ci=es-widgetueditorial&si=https://www.expansion.com/rss/portada.xml",
-        "fecha": "2026-07-03T21:18:12.000Z",
-        "fuenteId": "expansion",
-        "fuenteTitle": "Expansión",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El musical de 'Sonrisas y lágrimas' sigue vivo",
-        "url": "https://www.expansion.com/directivos/estilo-vida/cultura/2026/07/03/6a47924ee5fdeae8068b457f.html",
-        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/07/03/17830757265107.jpg",
-        "fecha": "2026-07-03T21:17:15.000Z",
-        "fuenteId": "expansion",
-        "fuenteTitle": "Expansión",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
       }
     ],
     "entretenimiento": [
+      {
+        "titulo": "La edición occidental de la novela Final Fantasy VII Rebirth: Dear Destiny confirma fecha y más detalles",
+        "url": "https://www.nintenderos.com/nintendo-switch-2/la-edicion-occidental-de-la-novela-final-fantasy-vii-rebirth-dear-destiny-confirma-fecha-y-mas-detalles/",
+        "imagen": "https://fyre.cdn.sewest.net/manga-books/6a3bfba4da56b86d46950735/9798899100826-d-20398084280623012.jpg?quality=85&width=768",
+        "fecha": "2026-07-04T00:45:11.000Z",
+        "fuenteId": "nintenderos",
+        "fuenteTitle": "Nintenderos",
+        "categorias": [
+          "tecnologia",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "'Tu cara me suena 13' elige sin sorpresas a su primer finalista y se rinde al corazón con doble 'boda' de Jesulín y Campanario",
         "url": "https://www.eldiario.es/vertele/noticias/tu-cara-me-suena-13-elige-primer-finalista-cantado-j-kbello-entrega-corazon-doble-boda-jesulin-campanario-maria-parrado-ganadora-gala-12-semifinal_1_13352309.html",
@@ -1766,19 +1776,6 @@
         "categorias": [
           "corazon",
           "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "RTVE prepara una ambiciosa docuserie sobre Federico García Lorca con Ángel Ruiz como protagonista",
-        "url": "https://www.culturaenserie.com/rtve-docuserie-federico-garcia-lorca-angel-ruiz.html",
-        "imagen": "https://www.culturaenserie.com/wp-content/uploads/2026/07/lorca-angel-ruiz.jpg",
-        "fecha": "2026-07-03T20:52:15.000Z",
-        "fuenteId": "cultura-en-serie",
-        "fuenteTitle": "Cultura en Serie",
-        "categorias": [
-          "entretenimiento",
-          "cultura"
         ],
         "idioma": "es"
       }
@@ -2392,6 +2389,45 @@
         "idioma": "es"
       },
       {
+        "titulo": "Iraníes lloran la muerte de Alí Jamenei: honras fúnebres durarán una semana",
+        "url": "https://www.france24.com/es/video/20260703-iran%C3%ADes-lloran-la-muerte-de-al%C3%AD-jamenei-honras-f%C3%BAnebres-durar%C3%A1n-una-semana",
+        "imagen": "https://s.france24.com/media/display/c8b85300-7716-11f1-9673-005056a90284/w:1024/p:16x9/ES-20260703-130151-130341-CS.jpg",
+        "fecha": "2026-07-03T21:42:01.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "¿Cómo explicar el triunfo de Keiko Fujimori en Perú tras tres intentos fallidos?",
+        "url": "https://www.france24.com/es/video/20260703-c%C3%B3mo-explicar-el-triunfo-de-keiko-fujimori-en-per%C3%BA-tras-tres-intentos-fallidos",
+        "imagen": "https://s.france24.com/media/display/8ef1033c-771c-11f1-9f43-005056a97e36/w:1024/p:16x9/ES-20260703-131532-132604-CS.jpg",
+        "fecha": "2026-07-03T21:39:55.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Informe desde Lima: Jurado Nacional de Elecciones ratifica la victoria de Keiko Fujimori",
+        "url": "https://www.france24.com/es/video/20260703-informe-desde-lima-jurado-nacional-de-elecciones-ratifica-la-victoria-de-keiko-fujimori",
+        "imagen": "https://s.france24.com/media/display/3bd43026-771b-11f1-83b6-005056bfb2b6/w:1024/p:16x9/ES-20260703-130914-131252-CS.jpg",
+        "fecha": "2026-07-03T21:38:08.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Una mujer \"disfrazada de hombre\" con un tatuaje de serpiente: identifican a la sospechosa del atentado con bomba contra un millonario ucraniano en Mónaco",
         "url": "https://www.bbc.com/mundo/articles/cvglzxxxewzo?at_medium=RSS&at_campaign=rss",
         "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/da5c/live/fab66790-76f1-11f1-b9cc-bd5880081b3f.jpg",
@@ -2517,45 +2553,6 @@
         "categorias": [
           "internacional",
           "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El fujimorismo regresa al poder tras 26 años: Keiko Fujimori es proclamada oficialmente presidenta electa de Perú",
-        "url": "https://www.france24.com/es/am%C3%A9rica-latina/20260703-el-fujimorismo-regresa-al-poder-tras-26-a%C3%B1os-keiko-fujimori-es-proclamada-oficialmente-presidenta-electa-de-per%C3%BA",
-        "imagen": "https://s.france24.com/media/display/08b28eea-7711-11f1-92a0-005056a97e36/w:1024/p:16x9/2f6d23f64e70352600101d138a4f054bd13e3376w.jpg",
-        "fecha": "2026-07-03T18:57:48.000Z",
-        "fuenteId": "france24-espanol",
-        "fuenteTitle": "France 24 Español",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Mundial 2026: México, el anfitrión que conquista a la afición",
-        "url": "https://www.dw.com/es/mundial-2026-méxico-el-anfitrión-que-conquista-a-la-afición/a-77825676?maca=spa-rss-sp-all-1122-xml-mrss",
-        "imagen": "",
-        "fecha": "2026-07-03T18:54:00.000Z",
-        "fuenteId": "dw-espanol",
-        "fuenteTitle": "DW Español",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Pesimismo en la búsqueda de un niño de nueve años entre los escombros de La Guaira",
-        "url": "https://www.lavanguardia.com/internacional/20260703/11583996/busqueda-tensa-nino-nueve-anos-escombros-guaira.html",
-        "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/03/6a480011d530b.r_d.1461-1229-0.jpeg",
-        "fecha": "2026-07-03T18:38:30.000Z",
-        "fuenteId": "la-vanguardia-internacional",
-        "fuenteTitle": "La Vanguardia - Internacional",
-        "categorias": [
-          "internacional",
-          "actualidad"
         ],
         "idioma": "es"
       }
@@ -3330,6 +3327,19 @@
         "idioma": "es"
       },
       {
+        "titulo": "Fabián, el presunto violador de la residencia de esclerosis múltiple",
+        "url": "https://www.abc.es/espana/madrid/fabian-presunto-violador-residencia-esclerosis-multiple-20260702023003-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/07/02/1514229944-RF9pdyQE111pjFbWI2lNg9O-1200x840@diario_abc.jpg",
+        "fecha": "2026-07-04T00:30:04.000Z",
+        "fuenteId": "abc-espana",
+        "fuenteTitle": "ABC - España",
+        "categorias": [
+          "politica",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Alemania indaga sobre formación de soldados rusos en China",
         "url": "https://www.dw.com/es/alemania-indaga-sobre-formación-de-soldados-rusos-en-china/a-77827734?maca=spa-rss-sp-all-1122-xml-mrss",
         "imagen": "",
@@ -3417,6 +3427,45 @@
         "categorias": [
           "politica",
           "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Iraníes lloran la muerte de Alí Jamenei: honras fúnebres durarán una semana",
+        "url": "https://www.france24.com/es/video/20260703-iran%C3%ADes-lloran-la-muerte-de-al%C3%AD-jamenei-honras-f%C3%BAnebres-durar%C3%A1n-una-semana",
+        "imagen": "https://s.france24.com/media/display/c8b85300-7716-11f1-9673-005056a90284/w:1024/p:16x9/ES-20260703-130151-130341-CS.jpg",
+        "fecha": "2026-07-03T21:42:01.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "¿Cómo explicar el triunfo de Keiko Fujimori en Perú tras tres intentos fallidos?",
+        "url": "https://www.france24.com/es/video/20260703-c%C3%B3mo-explicar-el-triunfo-de-keiko-fujimori-en-per%C3%BA-tras-tres-intentos-fallidos",
+        "imagen": "https://s.france24.com/media/display/8ef1033c-771c-11f1-9f43-005056a97e36/w:1024/p:16x9/ES-20260703-131532-132604-CS.jpg",
+        "fecha": "2026-07-03T21:39:55.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Informe desde Lima: Jurado Nacional de Elecciones ratifica la victoria de Keiko Fujimori",
+        "url": "https://www.france24.com/es/video/20260703-informe-desde-lima-jurado-nacional-de-elecciones-ratifica-la-victoria-de-keiko-fujimori",
+        "imagen": "https://s.france24.com/media/display/3bd43026-771b-11f1-83b6-005056bfb2b6/w:1024/p:16x9/ES-20260703-130914-131252-CS.jpg",
+        "fecha": "2026-07-03T21:38:08.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
         ],
         "idioma": "es"
       },
@@ -3521,58 +3570,6 @@
         "categorias": [
           "internacional",
           "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La ruta gastronómica que la cantante Anni B Sweet recomienda por O Grove",
-        "url": "https://www.abc.es/espana/galicia/ruta-gastronomica-cantante-anni-sweet-recomienda-grove-20260622220000-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/06/22/DAMBin-Rf2ME9Mzzg6PBjblnI21PfP-1200x840@diario_abc.jpg",
-        "fecha": "2026-07-03T20:00:01.000Z",
-        "fuenteId": "abc-espana",
-        "fuenteTitle": "ABC - España",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Comprobar Eurojackpot: los resultados del sorteo del viernes, 3 de julio de 2026 y premios",
-        "url": "https://theobjective.com/loterias/2026-07-03/eurojackpot-resultados-sorteo-viernes-3-julio/",
-        "imagen": "https://theobjective.com/wp-content/uploads/2025/07/Eurojackpot-The-Objective-cover.jpg",
-        "fecha": "2026-07-03T19:54:06.000Z",
-        "fuenteId": "the-objective",
-        "fuenteTitle": "The Objective",
-        "categorias": [
-          "actualidad",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Venezuela: Delcy Rodríguez defiende respuesta del Gobierno a emergencia generada por terremotos",
-        "url": "https://www.france24.com/es/video/20260703-venezuela-delcy-rodr%C3%ADguez-defiende-respuesta-del-gobierno-a-emergencia-generada-por-terremotos",
-        "imagen": "https://s.france24.com/media/display/2d434a5a-7717-11f1-ae7b-005056bfb2b6/w:1024/p:16x9/ES-20260703-113155-113356-CS.jpg",
-        "fecha": "2026-07-03T19:46:46.000Z",
-        "fuenteId": "france24-espanol",
-        "fuenteTitle": "France 24 Español",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Alarma en Valladolid por la intensa humareda provocada por el incendio en una fábrica de palés",
-        "url": "https://www.abc.es/espana/castilla-leon/alarma-valladolid-intensa-humareda-provocada-incendio-fabrica-20260703213255-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/07/03/EuropaPress_7641001_movilizados_bomberos_policia_incendio_negocio_compraventa_pales_valladolid-R2kMBW0nrtuL3gkGR5aZeoI-1200x840@diario_abc.jpg",
-        "fecha": "2026-07-03T19:36:06.000Z",
-        "fuenteId": "abc-espana",
-        "fuenteTitle": "ABC - España",
-        "categorias": [
-          "politica",
-          "actualidad"
         ],
         "idioma": "es"
       }
@@ -4102,6 +4099,19 @@
     ],
     "tecnologia": [
       {
+        "titulo": "La edición occidental de la novela Final Fantasy VII Rebirth: Dear Destiny confirma fecha y más detalles",
+        "url": "https://www.nintenderos.com/nintendo-switch-2/la-edicion-occidental-de-la-novela-final-fantasy-vii-rebirth-dear-destiny-confirma-fecha-y-mas-detalles/",
+        "imagen": "https://fyre.cdn.sewest.net/manga-books/6a3bfba4da56b86d46950735/9798899100826-d-20398084280623012.jpg?quality=85&width=768",
+        "fecha": "2026-07-04T00:45:11.000Z",
+        "fuenteId": "nintenderos",
+        "fuenteTitle": "Nintenderos",
+        "categorias": [
+          "tecnologia",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Está gastando miles de millones, pero EE UU es incapaz de conseguir las armas futuristas que prometió",
         "url": "https://www.larazon.es/tecnologia-consumo/tecnologia/esta-gastando-miles-millones-ee-uu-es-incapaz-conseguir-armas-futuristas-prometio_202607046a482649403b9f2792e672ec.html",
         "imagen": "https://fotografias-2.larazon.es/clipping/cmsimages02/2026/07/04/A67623F9-DAF4-43B1-AF3B-B137A2329FF2/estados-unidos-esta-gastando-millones-armas-que-aun-llegan_96.jpg?crop=1900,1069,x0,y0&amp;width=1200&amp;height=675&amp;optimize=low&amp;format=webply",
@@ -4342,20 +4352,6 @@
         "categorias": [
           "tecnologia",
           "ciencia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La empresa detrás de Claude quiere desarrollar sus propios medicamentos con inteligencia artificial",
-        "url": "https://hipertextual.com/inteligencia-artificial/anthropic-desarrollo-farmacos-inteligencia-artificial/",
-        "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/medicamentos-ia-anthropic.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
-        "fecha": "2026-07-03T21:55:00.000Z",
-        "fuenteId": "hipertextual",
-        "fuenteTitle": "Hipertextual",
-        "categorias": [
-          "tecnologia",
-          "ciencia",
-          "entretenimiento"
         ],
         "idioma": "es"
       }
