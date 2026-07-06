@@ -1,5 +1,5 @@
 {
-  "generado": "2026-07-06T02:06:57.461Z",
+  "generado": "2026-07-06T02:10:18.283Z",
   "limitePorCategoria": 20,
   "categorias": {
     "actualidad": [
@@ -13,6 +13,32 @@
         "categorias": [
           "actualidad",
           "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Once detenidos y 2,8 kilos de cocaína incautados en el norte de Madrid",
+        "url": "https://www.abc.es/espana/madrid/once-detenidos-kilos-cocaina-incautados-norte-madrid-20260705031406-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/07/05/WhatsApp%20Image%202026-07-05%20at%2017.17.50-R0x3SgYIm8xKuTmql7njMJL-1200x840@diario_abc.jpg",
+        "fecha": "2026-07-06T01:14:07.000Z",
+        "fuenteId": "abc-espana",
+        "fuenteTitle": "ABC - España",
+        "categorias": [
+          "politica",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "«Me apuntaron a la cabeza para simular una ejecución», denuncia el preso político cubano Alexander Díaz Rodríguez",
+        "url": "https://www.abc.es/internacional/apuntaron-cabeza-simular-ejecucion-denuncia-preso-politico-20260704031117-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/07/04/cuba-RvplzxXSb5t6tveD67s0TYM-1200x840@diario_abc.jpg",
+        "fecha": "2026-07-06T01:11:17.000Z",
+        "fuenteId": "abc-internacional",
+        "fuenteTitle": "ABC - Internacional",
+        "categorias": [
+          "internacional",
+          "actualidad"
         ],
         "idioma": "es"
       },
@@ -229,32 +255,6 @@
         "fuenteId": "abc",
         "fuenteTitle": "ABC",
         "categorias": [
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Ferraz busca nuevo contable en plena investigación judicial sobre sus cuentas",
-        "url": "https://www.abc.es/espana/ferraz-busca-nuevo-contable-plena-investigacion-judicial-20260707021331-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/07/07/1497978431-RL4WXsdc1m9QHWtzP90FEQK-1200x840@diario_abc.jpg",
-        "fecha": "2026-07-06T00:13:59.000Z",
-        "fuenteId": "abc-espana",
-        "fuenteTitle": "ABC - España",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Sánchez no dejará caer ningún peón: «Que pierdan toda esperanza»",
-        "url": "https://www.abc.es/espana/sanchez-dejara-caer-ningun-peon-pierdan-esperanza-20260706021320-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/07/06/1514054275-RpIj5PFeDow3uNQMOYlrWJO-1200x840@diario_abc.jpg",
-        "fecha": "2026-07-06T00:13:30.000Z",
-        "fuenteId": "abc-espana",
-        "fuenteTitle": "ABC - España",
-        "categorias": [
-          "politica",
           "actualidad"
         ],
         "idioma": "es"
@@ -1057,6 +1057,42 @@
     ],
     "deportes": [
       {
+        "titulo": "Brasil no es lo que fue",
+        "url": "https://as.com/opinion/brasil-no-es-lo-que-fue-f202607-n/",
+        "imagen": "https://img.asmedia.epimg.net/resizer/v2/EWKKULTXVZJX7CMZH4NQVPBHOA.jpg?auth=88155049d9f096df27fbe745408edcbb8f36f9e07f61bfd01fc925ea8bd948ca",
+        "fecha": "2026-07-06T01:20:36.000Z",
+        "fuenteId": "as",
+        "fuenteTitle": "AS",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Esto de Vinicius se les va a grabar en la retina: su gesto con Haaland en plena zona mixta tras el batacazo histórico",
+        "url": "https://as.com/futbol/mundial/esto-de-vinicius-se-les-va-a-grabar-en-la-retina-su-gesto-con-haaland-en-plena-zona-mixta-tras-el-batacazo-historico-f202607-v/",
+        "imagen": "https://vdmedia.as.com/mcv/diarioas/multimedia/20260706/1191695_011526_video_1200.mp4",
+        "fecha": "2026-07-06T01:18:20.000Z",
+        "fuenteId": "as",
+        "fuenteTitle": "AS",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "\"Con Neymar en el campo Brasil arriesgaba demasiado\"",
+        "url": "https://www.mundodeportivo.com/futbol/mundial/20260706/1004203266/neymar-campo-brasil-arriesgaba-demasiado.html",
+        "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2026/07/06/6a4b002dc93be.r_d.1499-1000-0.jpeg",
+        "fecha": "2026-07-06T01:09:24.000Z",
+        "fuenteId": "mundo-deportivo",
+        "fuenteTitle": "Mundo Deportivo",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Luxemburgo destruye a Ancelotti: “Si fuese brasileño pedirían su cabeza”",
         "url": "https://as.com/futbol/mundial/luxemburgo-destruye-a-ancelotti-si-fuese-brasileno-pedirian-su-cabeza-f202607-n/",
         "imagen": "https://img.asmedia.epimg.net/resizer/v2/B77ZFT2ENFILHP6VWLPUWLW5NI.jpg?auth=df99e10763298dfa605007e3d14dbfca956c8ead897644ac5e0c99146f754c67",
@@ -1259,45 +1295,33 @@
           "deportes"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "El inicio del México-Inglaterra se retrasa por amenaza de tormenta eléctrica",
-        "url": "https://www.mundodeportivo.com/futbol/mundial/20260706/1004203257/inicio-mexico-inglaterra-retrasa-amenaza-tormenta-electrica.html",
-        "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/07/06/6a4ae96c8137f.jpeg",
-        "fecha": "2026-07-05T23:29:41.000Z",
-        "fuenteId": "mundo-deportivo",
-        "fuenteTitle": "Mundo Deportivo",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Entrevista a Víctor Muñoz: «Puedo ayudar a revolucionar los partidos»",
-        "url": "https://www.abc.es/deportes/futbol/mundial/entrevista-victor-munoz-puedo-ayudar-revolucionar-partidos-20260705012937-ntrc.html",
-        "imagen": "https://s1.abcstatics.com/rc/www/multimedia/deportes/2026/07/05/victor%20munoz.%20a%20matinez-RSAT7IN4asfNYtdzYI7U5xH-1200x840@RC.jpg",
-        "fecha": "2026-07-05T23:29:38.000Z",
-        "fuenteId": "abc-deportes",
-        "fuenteTitle": "ABC - Deportes",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "México - Inglaterra, fútbol hoy en directo: resultado, goleadores y estadísticas en vivo del partido del Mundial",
-        "url": "https://www.elespanol.com/deportes/futbol/mundial/20260706/mexico-inglaterra-futbol-hoy-directo-resultado-goleadores-estadisticas-vivo-partido-mundial/1003744311069_22.html",
-        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11295838.jpg?p=c:2205:1241:nowe:774:186/w:1706/h:960&h=gZozmyKk",
-        "fecha": "2026-07-05T23:25:00.000Z",
-        "fuenteId": "el-espanol-deportes",
-        "fuenteTitle": "El Español - Deportes",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
       }
     ],
     "economia": [
+      {
+        "titulo": "Los precios del petróleo caen ante el aumento de producción de la OPEP+",
+        "url": "https://es.investing.com/news/commodities-news/los-precios-del-petroleo-caen-ante-el-aumento-de-produccion-de-la-opep-3728196",
+        "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+        "fecha": "2026-07-06T01:28:38.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Primer semestre",
+        "url": "https://www.abc.es/economia/primer-semestre-20260706031140-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/07/06/1511108630-RUXRwaHDrriut7UHDbkYs1J-1200x840@diario_abc.JPG",
+        "fecha": "2026-07-06T01:11:41.000Z",
+        "fuenteId": "abc-economia",
+        "fuenteTitle": "ABC - Economía",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Anthropic planea comprar 1,4 GW de capacidad en centros de datos en Australia",
         "url": "https://es.investing.com/news/stock-market-news/anthropic-planea-comprar-14-gw-de-capacidad-en-centros-de-datos-en-australia-3728194",
@@ -1508,30 +1532,6 @@
         "url": "https://www.elespanol.com/invertia/observatorios/sanidad/20260706/fondos-inversion-compras-espana-objetivo-sanidad-privada/1003744309828_0.html",
         "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11308261.jpg?p=w:1706/h:960&h=3AqyBGFK",
         "fecha": "2026-07-05T23:25:17.000Z",
-        "fuenteId": "el-espanol-economia",
-        "fuenteTitle": "El Español - Economía",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Europa pide retirar del mercado un medicamento de Amgen por datos \"incorrectos y engañosos\" y EEUU baraja hacerlo",
-        "url": "https://www.elespanol.com/invertia/observatorios/sanidad/20260706/europa-pide-retirar-mercado-medicamento-amgen-datos-incorrectos-enganosos-eeuu-baraja-hacerlo/1003744309876_0.html",
-        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/10545029.jpg?p=w:1706/h:960&h=j4qS3vfY",
-        "fecha": "2026-07-05T23:24:30.000Z",
-        "fuenteId": "el-espanol-economia",
-        "fuenteTitle": "El Español - Economía",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Las CCAA rechazarán la senda de estabilidad del Gobierno a no ser que el Estado les ceda la mayor parte del déficit",
-        "url": "https://www.elespanol.com/invertia/economia/macroeconomia/20260706/ccaa-rechazaran-senda-estabilidad-gobierno-no-ceda-mayor-parte-deficit/1003744307879_0.html",
-        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11307926.jpg?p=c:3963:2232:nowe:34:81/w:1706/h:960&h=dDB2ctCe",
-        "fecha": "2026-07-05T23:23:49.000Z",
         "fuenteId": "el-espanol-economia",
         "fuenteTitle": "El Español - Economía",
         "categorias": [
@@ -2311,6 +2311,19 @@
     ],
     "internacional": [
       {
+        "titulo": "«Me apuntaron a la cabeza para simular una ejecución», denuncia el preso político cubano Alexander Díaz Rodríguez",
+        "url": "https://www.abc.es/internacional/apuntaron-cabeza-simular-ejecucion-denuncia-preso-politico-20260704031117-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/07/04/cuba-RvplzxXSb5t6tveD67s0TYM-1200x840@diario_abc.jpg",
+        "fecha": "2026-07-06T01:11:17.000Z",
+        "fuenteId": "abc-internacional",
+        "fuenteTitle": "ABC - Internacional",
+        "categorias": [
+          "internacional",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "De Soros a Musk pasando por la viuda del magnate de Eurovegas y los gemelos de Facebook: ellos pagan a los candidatos en EEUU",
         "url": "https://www.elespanol.com/mundo/america/eeuu/20260706/soros-musk-pasando-viuda-magnate-eurovegas-gemelos-facebook-pagan-candidatos-eeuu/1003744305150_0.html",
         "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11305284.jpg?p=w:1706/h:960&h=WUEsfMpP",
@@ -2551,19 +2564,6 @@
         "fecha": "2026-07-05T20:30:00.000Z",
         "fuenteId": "dw-espanol",
         "fuenteTitle": "DW Español",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Brasil y Noruega buscan su lugar en los cuartos de final del Mundial 2026",
-        "url": "https://www.france24.com/es/deportes/20260705-brasil-y-noruega-buscan-su-lugar-en-los-cuartos-de-final-del-mundial-2026",
-        "imagen": "https://s.france24.com/media/display/a46f16a0-78ab-11f1-adce-005056a97e36/w:1024/p:16x9/2026-07-05T195322Z-2024122322-UP1EM751J8W7L-RTRMADP-3-SOCCER-WORLDCUP-BRA-NOR.jpg",
-        "fecha": "2026-07-05T20:02:15.000Z",
-        "fuenteId": "france24-espanol",
-        "fuenteTitle": "France 24 Español",
         "categorias": [
           "internacional",
           "politica"
@@ -3337,6 +3337,19 @@
         "idioma": "es"
       },
       {
+        "titulo": "Once detenidos y 2,8 kilos de cocaína incautados en el norte de Madrid",
+        "url": "https://www.abc.es/espana/madrid/once-detenidos-kilos-cocaina-incautados-norte-madrid-20260705031406-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/07/05/WhatsApp%20Image%202026-07-05%20at%2017.17.50-R0x3SgYIm8xKuTmql7njMJL-1200x840@diario_abc.jpg",
+        "fecha": "2026-07-06T01:14:07.000Z",
+        "fuenteId": "abc-espana",
+        "fuenteTitle": "ABC - España",
+        "categorias": [
+          "politica",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Adiós a perder dinero al repostar: este es el precio del litro de gasolina hoy lunes, 6 de julio de 2026 en Costco, Alcampo, Plenergy, Ballenoil o Petroprix",
         "url": "https://theobjective.com/economia/transporte/2026-07-06/precio-gasolina-diesel-lunes-6-julio-2026/",
         "imagen": "https://theobjective.com/wp-content/uploads/2025/07/precio-combustible-gasolina-diesel-hoy.jpg",
@@ -3567,19 +3580,6 @@
         "categorias": [
           "internacional",
           "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Compraventa de propiedades, oro y joyas desde paraísos fiscales al servicio del narco: así operaba en la Costa del Sol Joakim Broberg, hijastro de la alcaldesa de Marbella",
-        "url": "https://www.elmundo.es/andalucia/2026/07/06/6a48d66de9cf4abf5b8b4577.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/07/05/17832426235660.jpg",
-        "fecha": "2026-07-05T22:13:39.000Z",
-        "fuenteId": "el-mundo-espana",
-        "fuenteTitle": "El Mundo - España",
-        "categorias": [
-          "politica",
-          "actualidad"
         ],
         "idioma": "es"
       }
