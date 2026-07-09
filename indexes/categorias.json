@@ -1,8 +1,21 @@
 {
-  "generado": "2026-07-09T02:56:46.023Z",
+  "generado": "2026-07-09T03:05:22.470Z",
   "limitePorCategoria": 20,
   "categorias": {
     "actualidad": [
+      {
+        "titulo": "El giro de Trump que no vimos venir con España tras la cumbre de la OTAN: \"Se redimió por completo\"",
+        "url": "https://www.huffingtonpost.es/global/el-giro-trump-vimos-venir-espana-cumbre-otan-se-redimio-completo-f202607.html",
+        "imagen": "",
+        "fecha": "2026-07-09T02:05:10.000Z",
+        "fuenteId": "huffpost-espana",
+        "fuenteTitle": "HuffPost España",
+        "categorias": [
+          "actualidad",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Muere un motorista tras colisionar con un coche en la M-45, en Getafe",
         "url": "https://www.20minutos.es/nacional/muere-un-motorista-tras-colisionar-con-un-coche-m-45-getafe_7012447_0.html",
@@ -229,18 +242,6 @@
         "url": "https://www.elespanol.com/opinion/editoriales/20260709/trump-sanchez-hace-debilidad-virtud/1003744314974_14.html",
         "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11311615.jpg?p=w:1706/h:960&h=5VlOlMqX",
         "fecha": "2026-07-09T00:36:47.000Z",
-        "fuenteId": "el-espanol",
-        "fuenteTitle": "El Español",
-        "categorias": [
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Las empresas de EEUU han desinvertido 7.800M en España en los primeros 15 meses de Trump y la tendencia se acelera",
-        "url": "https://www.elespanol.com/invertia/economia/macroeconomia/20260709/empresas-eeuu-desinvertido-espana-primeros-meses-trump-tendencia-acelera/1003744314860_0.html",
-        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11311652.jpg?p=w:1706/h:960&h=nUS-w3fe",
-        "fecha": "2026-07-09T00:36:45.000Z",
         "fuenteId": "el-espanol",
         "fuenteTitle": "El Español",
         "categorias": [
@@ -1278,6 +1279,30 @@
     ],
     "economia": [
       {
+        "titulo": "Nvidia invertirá 500 millones de dólares en la startup australiana Firmus",
+        "url": "https://es.investing.com/news/stock-market-news/nvidia-invertira-500-millones-de-dolares-en-la-startup-australiana-firmus-3734318",
+        "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+        "fecha": "2026-07-09T02:20:55.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "¿Por qué se dispara hoy la acción de Kioxia?",
+        "url": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-kioxia-93CH-3734316",
+        "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+        "fecha": "2026-07-09T02:17:34.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Los precios del petróleo extienden ganancias tras nuevos ataques de EE.UU. contra Irán",
         "url": "https://es.investing.com/news/commodities-news/los-precios-del-petroleo-extienden-ganancias-tras-nuevos-ataques-de-eeuu-contra-iran-3734313",
         "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
@@ -1493,33 +1518,22 @@
           "economia"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "Más población y más presión fiscal para sostener unos Presupuestos expansivos",
-        "url": "https://www.elespanol.com/invertia/opinion/20260709/poblacion-presion-fiscal-sostener-presupuestos-expansivos/1003744314289_12.html",
-        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11311138.jpg?p=w:1706/h:960&h=BRTyYgJK",
-        "fecha": "2026-07-09T00:36:42.000Z",
-        "fuenteId": "el-espanol-economia",
-        "fuenteTitle": "El Español - Economía",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La montaña rusa de las relaciones UE-China se dirige ahora decididamente cuesta abajo",
-        "url": "https://www.elespanol.com/invertia/opinion/20260709/montana-rusa-relaciones-ue-china-dirige-ahora-decididamente-cuesta-abajo/1003744314060_12.html",
-        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11311091.jpg?p=w:1706/h:960&h=scn-6Pg7",
-        "fecha": "2026-07-09T00:36:42.000Z",
-        "fuenteId": "el-espanol-economia",
-        "fuenteTitle": "El Español - Economía",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
       }
     ],
     "entretenimiento": [
+      {
+        "titulo": "El giro de Trump que no vimos venir con España tras la cumbre de la OTAN: \"Se redimió por completo\"",
+        "url": "https://www.huffingtonpost.es/global/el-giro-trump-vimos-venir-espana-cumbre-otan-se-redimio-completo-f202607.html",
+        "imagen": "",
+        "fecha": "2026-07-09T02:05:10.000Z",
+        "fuenteId": "huffpost-espana",
+        "fuenteTitle": "HuffPost España",
+        "categorias": [
+          "actualidad",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "La inesperada reacción de Trump al ser preguntado por una amenaza de Irán contra su avión: \"Yo soy el número uno\"",
         "url": "https://www.huffingtonpost.es/virales/la-inesperada-reaccion-trump-preguntado-amenazaan-avion-yo-numero-f202607.html",
@@ -1759,20 +1773,6 @@
         "fuenteTitle": "Nintenderos",
         "categorias": [
           "tecnologia",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "‘Dune 3’ lanza su nuevo (y muy intenso) tráiler oficial",
-        "url": "https://hipertextual.com/cine-television/nuevo-trailer-dune-3-julio-2026/",
-        "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/Dune-3-scaled.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
-        "fecha": "2026-07-08T20:17:41.000Z",
-        "fuenteId": "hipertextual",
-        "fuenteTitle": "Hipertextual",
-        "categorias": [
-          "tecnologia",
-          "ciencia",
           "entretenimiento"
         ],
         "idioma": "es"
@@ -2300,6 +2300,71 @@
     ],
     "internacional": [
       {
+        "titulo": "ICE de nuevo en la mira: tiroteo mortal de un migrante en Houston activa al Gobierno mexicano",
+        "url": "https://www.france24.com/es/am%C3%A9rica-latina/20260709-ice-de-nuevo-en-la-mira-tiroteo-mortal-de-un-migrante-en-houston-activa-al-gobierno-mexicano",
+        "imagen": "https://s.france24.com/media/display/6542c912-7b3b-11f1-ada2-005056a90284/w:1024/p:16x9/2026-07-09T003445Z-1378734876-RC20AMA36B0F-RTRMADP-3-USA-MIGRATION-TEXAS-SHOOTING.jpg",
+        "fecha": "2026-07-09T02:42:32.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Irán ataca bases estadounidenses en Kuwait y Bahrein; Guardia Revolucionaria amenaza con ampliar la ofensiva",
+        "url": "https://www.france24.com/es/minuto-a-minuto/20260709-ir%C3%A1n-ataca-bases-estadounidenses-en-kuwait-y-bahrein-guardia-revolucionaria-amenaza-con-ampliar-la-ofensiva",
+        "imagen": "",
+        "fecha": "2026-07-09T02:35:29.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Rusia prohíbe exportar diésel para contener una creciente escasez de combustible",
+        "url": "https://www.france24.com/es/programas/econom%C3%ADa/20260709-rusia-proh%C3%ADbe-exportar-di%C3%A9sel-para-contener-una-creciente-escasez-de-combustible",
+        "imagen": "https://s.france24.com/media/display/5d0713a8-7b3a-11f1-9721-005056a97e36/w:1024/p:16x9/AP26121421625339.jpg",
+        "fecha": "2026-07-09T02:14:50.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Un refugio rescata a cientos de mascotas tras el doble terremoto en Venezuela",
+        "url": "https://www.france24.com/es/video/20260709-un-refugio-rescata-a-cientos-de-mascotas-tras-el-doble-terremoto-en-venezuela",
+        "imagen": "https://s.france24.com/media/display/4e8fc242-7b3b-11f1-8020-005056a97e36/w:1024/p:16x9/ES-20260708-201151-201338-CS.jpg",
+        "fecha": "2026-07-09T02:13:01.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "¿La condena contra Marine Le Pen en Francia fue un trato privilegiado?",
+        "url": "https://www.france24.com/es/video/20260709-la-condena-contra-marine-le-pen-en-francia-fue-un-trato-privilegiado",
+        "imagen": "https://s.france24.com/media/display/365afc74-7b3a-11f1-9309-005056a97e36/w:1024/p:16x9/ES-20260707-082727-083112-CS.jpg",
+        "fecha": "2026-07-09T02:10:59.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "La reconstrucción: a dos semanas del doblete sísmico, Venezuela busca opciones para resurgir",
         "url": "https://www.france24.com/es/am%C3%A9rica-latina/20260709-la-reconstrucci%C3%B3n-a-dos-semanas-del-doblete-s%C3%ADsmico-venezuela-busca-opciones-para-resurgir",
         "imagen": "https://s.france24.com/media/display/e288db6e-7b27-11f1-9be5-005056a97e36/w:1024/p:16x9/2026-07-08T204250Z-1687471194-RC2L9MADFYKY-RTRMADP-3-VENEZUELA-QUAKE.jpg",
@@ -2493,74 +2558,189 @@
           "politica"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "Directo Mundial: Colombia cae por penales y quedan definidos los cuartos de final",
-        "url": "https://www.france24.com/es/video/20260708-directo-mundial-colombia-cae-por-penales-y-quedan-definidos-los-cuartos-de-final",
-        "imagen": "https://s.france24.com/media/display/e552af92-7b17-11f1-b46a-005056a90284/w:1024/p:16x9/ES-20260708-124331-125253-CS.jpg",
-        "fecha": "2026-07-08T23:34:19.000Z",
-        "fuenteId": "france24-espanol",
-        "fuenteTitle": "France 24 Español",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Estados Unidos lanza nuevos ataques contra Irán",
-        "url": "https://www.dw.com/es/estados-unidos-lanza-nuevos-ataques-contra-irán/a-77882621?maca=spa-rss-sp-all-1122-xml-mrss",
-        "imagen": "",
-        "fecha": "2026-07-08T22:56:00.000Z",
-        "fuenteId": "dw-espanol",
-        "fuenteTitle": "DW Español",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "¿Qué significa el anuncio de Trump de que venderá cazas F-35 a Turquía y por qué preocupa a Netanyahu?",
-        "url": "https://www.france24.com/es/medio-oriente/20260708-qu%C3%A9-significa-el-anuncio-de-trump-de-que-vender%C3%A1-cazas-f-35-a-turqu%C3%ADa-y-por-qu%C3%A9-preocupa-a-netanyahu",
-        "imagen": "https://s.france24.com/media/display/827a8f82-7aa6-11f1-a6c7-005056a97e36/w:1024/p:16x9/2026-07-07T144705Z-1313766941-RC209MA38SS9-RTRMADP-3-NATO-SUMMIT-TRUMP.jpg",
-        "fecha": "2026-07-08T22:30:29.000Z",
-        "fuenteId": "france24-espanol",
-        "fuenteTitle": "France 24 Español",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "\"Es una causa perdida, un socio terrible en la OTAN\": Trump carga contra España y amenaza con una ruptura comercial",
-        "url": "https://www.bbc.com/mundo/articles/ckg8xn3mnk5o?at_medium=RSS&at_campaign=rss",
-        "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/90d1/live/aade5000-7b12-11f1-994a-0f37fa57a855.jpg",
-        "fecha": "2026-07-08T22:25:13.000Z",
-        "fuenteId": "bbc-mundo",
-        "fuenteTitle": "BBC News Mundo",
-        "categorias": [
-          "internacional",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Un ataque ruso contra la ciudad ucraniana de Odesa deja cuatro muertos y seis heridos",
-        "url": "https://www.elconfidencial.com/mundo/2026-07-08/ataque-ruso-odesa-cuatro-muertos-seis-heridos_4386911/",
-        "imagen": "https://images.ecestaticos.com/OSVz2KfthVX_gVQJGD8ln2pGjlM=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F3b5%2F74b%2F2d0%2F3b574b2d04a1c33390874f649a8297f9.jpg",
-        "fecha": "2026-07-08T21:46:00.000Z",
-        "fuenteId": "el-confidencial-mundo",
-        "fuenteTitle": "El Confidencial - Mundo",
-        "categorias": [
-          "internacional",
-          "actualidad"
-        ],
-        "idioma": "es"
       }
     ],
     "local": [
+      {
+        "titulo": "El tiempo en Llerena: previsión meteorológica para hoy, jueves 9 de julio",
+        "url": "https://www.elperiodicoextremadura.com/tiempo/2026/07/09/tiempo-llerena-prevision-meteorologica-hoy-132274416.html",
+        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/885d5d28-02d1-4c6f-a05e-e7cb6ba103f3_16-9-aspect-ratio_default_0_x600y225.jpg",
+        "fecha": "2026-07-09T02:39:39.000Z",
+        "fuenteId": "el-periodico-extremadura",
+        "fuenteTitle": "El Periódico Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El tiempo en Jerez de los Caballeros: previsión meteorológica para hoy, jueves 9 de julio",
+        "url": "https://www.elperiodicoextremadura.com/tiempo/2026/07/09/tiempo-jerez-caballeros-prevision-meteorologica-132274401.html",
+        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/67fbd17d-14df-47e1-807f-beb490930a91_16-9-aspect-ratio_default_0_x600y225.jpg",
+        "fecha": "2026-07-09T02:38:25.000Z",
+        "fuenteId": "el-periodico-extremadura",
+        "fuenteTitle": "El Periódico Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El tiempo en Jaraíz de la Vera: previsión meteorológica para hoy, jueves 9 de julio",
+        "url": "https://www.elperiodicoextremadura.com/tiempo/2026/07/09/tiempo-jaraiz-vera-prevision-meteorologica-132274394.html",
+        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/6c83cd03-9238-4484-b18e-5abfca8eb296_16-9-aspect-ratio_default_0_x600y225.jpg",
+        "fecha": "2026-07-09T02:37:54.000Z",
+        "fuenteId": "el-periodico-extremadura",
+        "fuenteTitle": "El Periódico Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El tiempo en Hervás: previsión meteorológica para hoy, jueves 9 de julio",
+        "url": "https://www.elperiodicoextremadura.com/tiempo/2026/07/09/tiempo-hervas-prevision-meteorologica-hoy-132274372.html",
+        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/4108ba51-d5ec-4e36-9487-04fdf4846eae_16-9-aspect-ratio_default_0_x600y225.jpg",
+        "fecha": "2026-07-09T02:36:05.000Z",
+        "fuenteId": "el-periodico-extremadura",
+        "fuenteTitle": "El Periódico Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El tiempo en Guareña: previsión meteorológica para hoy, jueves 9 de julio",
+        "url": "https://www.elperiodicoextremadura.com/tiempo/2026/07/09/tiempo-guarena-prevision-meteorologica-hoy-132274358.html",
+        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/6f294179-b3bb-4702-a039-48071fccfaae_16-9-aspect-ratio_default_0_x600y225.jpg",
+        "fecha": "2026-07-09T02:34:51.000Z",
+        "fuenteId": "el-periodico-extremadura",
+        "fuenteTitle": "El Periódico Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El tiempo en Fuente del Maestre: previsión meteorológica para hoy, jueves 9 de julio",
+        "url": "https://www.elperiodicoextremadura.com/tiempo/2026/07/09/tiempo-fuente-maestre-prevision-meteorologica-132274318.html",
+        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/6b878b10-ae2a-423f-bec4-c53474cb5582_16-9-aspect-ratio_default_0_x600y225.jpg",
+        "fecha": "2026-07-09T02:31:25.000Z",
+        "fuenteId": "el-periodico-extremadura",
+        "fuenteTitle": "El Periódico Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El tiempo en Fuente de Cantos: previsión meteorológica para hoy, jueves 9 de julio",
+        "url": "https://www.elperiodicoextremadura.com/tiempo/2026/07/09/tiempo-fuente-cantos-prevision-meteorologica-132274315.html",
+        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/9bcfa684-d9f3-4515-b0c6-19e2fbe93798_16-9-aspect-ratio_default_0_x600y225.jpg",
+        "fecha": "2026-07-09T02:31:14.000Z",
+        "fuenteId": "el-periodico-extremadura",
+        "fuenteTitle": "El Periódico Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El tiempo en Fregenal de la Sierra: previsión meteorológica para hoy, jueves 9 de julio",
+        "url": "https://www.elperiodicoextremadura.com/tiempo/2026/07/09/tiempo-fregenal-sierra-prevision-meteorologica-132274305.html",
+        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/2f350df3-339d-486d-9969-e02fb21cfb0e_16-9-aspect-ratio_default_0_x600y225.jpg",
+        "fecha": "2026-07-09T02:30:19.000Z",
+        "fuenteId": "el-periodico-extremadura",
+        "fuenteTitle": "El Periódico Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El tiempo en Don Benito: previsión meteorológica para hoy, jueves 9 de julio",
+        "url": "https://www.elperiodicoextremadura.com/tiempo/2026/07/09/tiempo-don-benito-prevision-meteorologica-132274253.html",
+        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/4ff3d287-be93-4612-8000-88f138f645df_16-9-aspect-ratio_default_0_x600y225.jpg",
+        "fecha": "2026-07-09T02:25:38.000Z",
+        "fuenteId": "el-periodico-extremadura",
+        "fuenteTitle": "El Periódico Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El tiempo en Cáceres: previsión meteorológica para hoy, jueves 9 de julio",
+        "url": "https://www.elperiodicoextremadura.com/tiempo/2026/07/09/tiempo-caceres-prevision-meteorologica-hoy-132274243.html",
+        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/1733e120-b76b-496f-8003-e3ce3aeb874a_16-9-aspect-ratio_default_0_x600y225.jpg",
+        "fecha": "2026-07-09T02:24:45.000Z",
+        "fuenteId": "el-periodico-extremadura",
+        "fuenteTitle": "El Periódico Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El tiempo en Coria: previsión meteorológica para hoy, jueves 9 de julio",
+        "url": "https://www.elperiodicoextremadura.com/tiempo/2026/07/09/tiempo-coria-prevision-meteorologica-hoy-132274219.html",
+        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/abd2a6c9-fdea-4df4-b8cd-45deb99940dd_16-9-aspect-ratio_default_0_x600y225.jpg",
+        "fecha": "2026-07-09T02:22:34.000Z",
+        "fuenteId": "el-periodico-extremadura",
+        "fuenteTitle": "El Periódico Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El tiempo en Castuera: previsión meteorológica para hoy, jueves 9 de julio",
+        "url": "https://www.elperiodicoextremadura.com/tiempo/2026/07/09/tiempo-castuera-prevision-meteorologica-hoy-132274183.html",
+        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/c6d67eea-c90b-488f-b5fa-12db13d10363_16-9-aspect-ratio_default_0_x600y225.jpg",
+        "fecha": "2026-07-09T02:19:35.000Z",
+        "fuenteId": "el-periodico-extremadura",
+        "fuenteTitle": "El Periódico Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El tiempo en Casar de Cáceres: previsión meteorológica para hoy, jueves 9 de julio",
+        "url": "https://www.elperiodicoextremadura.com/tiempo/2026/07/09/tiempo-casar-caceres-prevision-meteorologica-132274171.html",
+        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/f8bcdd82-43a8-4f1a-a0dc-d010a71da08e_16-9-aspect-ratio_default_0_x600y225.jpg",
+        "fecha": "2026-07-09T02:18:31.000Z",
+        "fuenteId": "el-periodico-extremadura",
+        "fuenteTitle": "El Periódico Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El tiempo en Campanario: previsión meteorológica para hoy, jueves 9 de julio",
+        "url": "https://www.elperiodicoextremadura.com/tiempo/2026/07/09/tiempo-campanario-prevision-meteorologica-hoy-132274140.html",
+        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/2d77298e-2504-4b24-a472-01f3d095cc2e_16-9-aspect-ratio_default_0_x600y225.jpg",
+        "fecha": "2026-07-09T02:16:01.000Z",
+        "fuenteId": "el-periodico-extremadura",
+        "fuenteTitle": "El Periódico Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El tiempo en Calamonte: previsión meteorológica para hoy, jueves 9 de julio",
+        "url": "https://www.elperiodicoextremadura.com/tiempo/2026/07/09/tiempo-calamonte-prevision-meteorologica-hoy-132274113.html",
+        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/72df472a-c89d-4bf4-a780-3eb8b0b67c25_16-9-aspect-ratio_default_0_x600y225.jpg",
+        "fecha": "2026-07-09T02:14:02.000Z",
+        "fuenteId": "el-periodico-extremadura",
+        "fuenteTitle": "El Periódico Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "El tiempo en Cabeza del Buey: previsión meteorológica para hoy, jueves 9 de julio",
         "url": "https://www.elperiodicoextremadura.com/tiempo/2026/07/09/tiempo-cabeza-buey-prevision-meteorologica-132274103.html",
@@ -2614,186 +2794,6 @@
         "url": "https://www.elperiodicoextremadura.com/tiempo/2026/07/09/tiempo-arroyo-san-servan-prevision-132273991.html",
         "imagen": "https://estaticos-cdn.prensaiberica.es/clip/46b5b00b-7f46-4cb2-aba4-70f8a2cbd438_16-9-aspect-ratio_default_0_x600y225.jpg",
         "fecha": "2026-07-09T02:04:48.000Z",
-        "fuenteId": "el-periodico-extremadura",
-        "fuenteTitle": "El Periódico Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El tiempo en Almendralejo: previsión meteorológica para hoy, jueves 9 de julio",
-        "url": "https://www.elperiodicoextremadura.com/tiempo/2026/07/09/tiempo-almendralejo-prevision-meteorologica-hoy-132273946.html",
-        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/4cf2e9c5-448c-4035-80a4-74aa7409548a_16-9-aspect-ratio_default_0_x600y225.jpg",
-        "fecha": "2026-07-09T02:01:12.000Z",
-        "fuenteId": "el-periodico-extremadura",
-        "fuenteTitle": "El Periódico Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El tiempo en Alburquerque: previsión meteorológica para hoy, jueves 9 de julio",
-        "url": "https://www.elperiodicoextremadura.com/tiempo/2026/07/09/tiempo-alburquerque-prevision-meteorologica-hoy-132273912.html",
-        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/70d7308c-d2f1-4a45-9117-70ad4ada6212_16-9-aspect-ratio_default_0_x600y225.jpg",
-        "fecha": "2026-07-09T01:58:18.000Z",
-        "fuenteId": "el-periodico-extremadura",
-        "fuenteTitle": "El Periódico Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El tiempo en Aceuchal: previsión meteorológica para hoy, jueves 9 de julio",
-        "url": "https://www.elperiodicoextremadura.com/tiempo/2026/07/09/tiempo-aceuchal-prevision-meteorologica-hoy-132273891.html",
-        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/c075f27b-2547-41f7-acfd-6f4925f44530_16-9-aspect-ratio_default_0_x600y225.jpg",
-        "fecha": "2026-07-09T01:56:30.000Z",
-        "fuenteId": "el-periodico-extremadura",
-        "fuenteTitle": "El Periódico Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La soberanía digital no consiste en elegir Washington por encima de Pekín",
-        "url": "https://www.elperiodicoextremadura.com/economia/2026/07/09/soberania-digital-consiste-elegir-washington-132273572.html",
-        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/ec641d76-41a2-4a42-b582-901930272e27_16-9-aspect-ratio_default_0_x886y325.jpg",
-        "fecha": "2026-07-08T23:01:05.000Z",
-        "fuenteId": "el-periodico-extremadura",
-        "fuenteTitle": "El Periódico Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Consulta la portada correspondiente al día 9 de julio de 2026",
-        "url": "https://www.elperiodicoextremadura.com/sociedad/2026/07/09/consulta-portada-correspondiente-dia-9-132271924.html",
-        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/635fa02d-1256-48d1-98c4-8cabe9305c1c_16-9-aspect-ratio_default_0_x514y439.jpg",
-        "fecha": "2026-07-08T22:02:57.000Z",
-        "fuenteId": "el-periodico-extremadura",
-        "fuenteTitle": "El Periódico Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Tchouaméni renovará con el Real Madrid hasta 2031",
-        "url": "https://www.cope.es/programas/tiempo-de-juego/noticias/tchouameni-renovara-real-madrid-2031-20260708_3401501.html",
-        "imagen": "https://imagenes.cope.es/files/og_thumbnail/files/fp/uploads/2026/07/08/6a4ec56d6a65e.r_d.1572-616-0.jpeg",
-        "fecha": "2026-07-08T21:48:15.000Z",
-        "fuenteId": "cope-extremadura",
-        "fuenteTitle": "COPE Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "España, a la final del Europeo sub-19 contra Alemania después de vencer 3-0 a Croacia",
-        "url": "https://www.cope.es/programas/tiempo-de-juego/noticias/espana-final-europeo-sub-19-alemania-vencer-3-0-croacia-20260708_3401491.html",
-        "imagen": "https://imagenes.cope.es/files/og_thumbnail/uploads/2026/07/08/6a4ebb6b122aa.jpeg",
-        "fecha": "2026-07-08T21:26:05.000Z",
-        "fuenteId": "cope-extremadura",
-        "fuenteTitle": "COPE Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Fotogalería | Los Premios Empresario Extremeño, en imágenes (I)",
-        "url": "https://www.elperiodicoextremadura.com/fotos/extremadura/2026/07/08/fotogaleria-premios-empresario-extremeno-imagenes-132273030.html",
-        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/819aa688-7c49-42df-b398-442fe14e10db_16-9-aspect-ratio_default_0_x640y284.jpg",
-        "fecha": "2026-07-08T21:15:04.000Z",
-        "fuenteId": "el-periodico-extremadura",
-        "fuenteTitle": "El Periódico Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Los Premios Empresario Extremeño del Año reconoce el impulso de una economía en transformación",
-        "url": "https://www.elperiodicoextremadura.com/extremadura/2026/07/08/premios-empresario-reconoce-ano-extremeno-132271727.html",
-        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/819aa688-7c49-42df-b398-442fe14e10db_16-9-aspect-ratio_default_0_x640y284.jpg",
-        "fecha": "2026-07-08T21:11:50.000Z",
-        "fuenteId": "el-periodico-extremadura",
-        "fuenteTitle": "El Periódico Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Los galardones distinguen a quienes impulsan la innovación y el territorio",
-        "url": "https://www.elperiodicoextremadura.com/extremadura/2026/07/08/galardones-distinguen-impulsan-innovacion-territorio-132273008.html",
-        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/2a0a9cea-e2f6-427b-9201-479970016bcc_16-9-aspect-ratio_default_0_x640y284.jpg",
-        "fecha": "2026-07-08T21:11:40.000Z",
-        "fuenteId": "el-periodico-extremadura",
-        "fuenteTitle": "El Periódico Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Rafa Márquez releva a Javier Aguirre como seleccionador de México",
-        "url": "https://www.cope.es/programas/tiempo-de-juego/noticias/rafa-marquez-releva-javier-aguirre-seleccionador-mexico-20260708_3401490.html",
-        "imagen": "https://imagenes.cope.es/files/og_thumbnail/uploads/2026/07/08/6a4eba61dbeff.jpeg",
-        "fecha": "2026-07-08T21:09:05.000Z",
-        "fuenteId": "cope-extremadura",
-        "fuenteTitle": "COPE Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Un empleado de seguridad de Maradona dice en el juicio que en la mañana del día de su muerte \"estaba bien\"",
-        "url": "https://www.cope.es/programas/tiempo-de-juego/noticias/empleado-seguridad-maradona-dice-juicio-manana-dia-muerte-20260708_3401488.html",
-        "imagen": "https://imagenes.cope.es/files/og_thumbnail/uploads/2025/04/01/67ec530220adb.jpeg",
-        "fecha": "2026-07-08T21:05:11.000Z",
-        "fuenteId": "cope-extremadura",
-        "fuenteTitle": "COPE Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "EEUU bombardea de nuevo a Irán",
-        "url": "https://www.elperiodicoextremadura.com/internacional/2026/07/08/ee-uu-bombardea-nuevo-iran-132272774.html",
-        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/503a170e-dd30-4e16-b9bb-33cdc9738d3e_16-9-aspect-ratio_default_0_x800y800.jpg",
-        "fecha": "2026-07-08T20:45:36.000Z",
-        "fuenteId": "el-periodico-extremadura",
-        "fuenteTitle": "El Periódico Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Pedri: \"Seguimos siendo favoritos: vamos a por el Mundial\"",
-        "url": "https://www.elperiodicoextremadura.com/deportes/2026/07/08/pedri-seguimos-favoritos-mundial-132272571.html",
-        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/44f1c480-4e69-4677-8a13-564ec79e9177_16-9-aspect-ratio_default_0_x480y180.jpg",
-        "fecha": "2026-07-08T20:28:11.000Z",
-        "fuenteId": "el-periodico-extremadura",
-        "fuenteTitle": "El Periódico Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "En imágenes | Los reyes Felipe VI y Letizia, junto a la princesa Leonor, arropan a la infanta Sofía en su primer discurso en solitario en Zaragoza",
-        "url": "https://www.elperiodicoextremadura.com/fotos/2026/07/08/imagenes-reyes-felipe-vi-letizia-132272092.html",
-        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/ef321a5f-e88c-4cf8-9554-ab2f4e80af34_16-9-aspect-ratio_default_0_x790y350.jpg",
-        "fecha": "2026-07-08T20:06:19.000Z",
         "fuenteId": "el-periodico-extremadura",
         "fuenteTitle": "El Periódico Extremadura",
         "categorias": [
@@ -3312,6 +3312,71 @@
     ],
     "politica": [
       {
+        "titulo": "ICE de nuevo en la mira: tiroteo mortal de un migrante en Houston activa al Gobierno mexicano",
+        "url": "https://www.france24.com/es/am%C3%A9rica-latina/20260709-ice-de-nuevo-en-la-mira-tiroteo-mortal-de-un-migrante-en-houston-activa-al-gobierno-mexicano",
+        "imagen": "https://s.france24.com/media/display/6542c912-7b3b-11f1-ada2-005056a90284/w:1024/p:16x9/2026-07-09T003445Z-1378734876-RC20AMA36B0F-RTRMADP-3-USA-MIGRATION-TEXAS-SHOOTING.jpg",
+        "fecha": "2026-07-09T02:42:32.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Irán ataca bases estadounidenses en Kuwait y Bahrein; Guardia Revolucionaria amenaza con ampliar la ofensiva",
+        "url": "https://www.france24.com/es/minuto-a-minuto/20260709-ir%C3%A1n-ataca-bases-estadounidenses-en-kuwait-y-bahrein-guardia-revolucionaria-amenaza-con-ampliar-la-ofensiva",
+        "imagen": "",
+        "fecha": "2026-07-09T02:35:29.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Rusia prohíbe exportar diésel para contener una creciente escasez de combustible",
+        "url": "https://www.france24.com/es/programas/econom%C3%ADa/20260709-rusia-proh%C3%ADbe-exportar-di%C3%A9sel-para-contener-una-creciente-escasez-de-combustible",
+        "imagen": "https://s.france24.com/media/display/5d0713a8-7b3a-11f1-9721-005056a97e36/w:1024/p:16x9/AP26121421625339.jpg",
+        "fecha": "2026-07-09T02:14:50.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Un refugio rescata a cientos de mascotas tras el doble terremoto en Venezuela",
+        "url": "https://www.france24.com/es/video/20260709-un-refugio-rescata-a-cientos-de-mascotas-tras-el-doble-terremoto-en-venezuela",
+        "imagen": "https://s.france24.com/media/display/4e8fc242-7b3b-11f1-8020-005056a97e36/w:1024/p:16x9/ES-20260708-201151-201338-CS.jpg",
+        "fecha": "2026-07-09T02:13:01.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "¿La condena contra Marine Le Pen en Francia fue un trato privilegiado?",
+        "url": "https://www.france24.com/es/video/20260709-la-condena-contra-marine-le-pen-en-francia-fue-un-trato-privilegiado",
+        "imagen": "https://s.france24.com/media/display/365afc74-7b3a-11f1-9309-005056a97e36/w:1024/p:16x9/ES-20260707-082727-083112-CS.jpg",
+        "fecha": "2026-07-09T02:10:59.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Muere un motorista tras colisionar con un coche en la M-45, en Getafe",
         "url": "https://www.20minutos.es/nacional/muere-un-motorista-tras-colisionar-con-un-coche-m-45-getafe_7012447_0.html",
         "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/06/18/6a338eaa4aa5a0-72997490.jpeg",
@@ -3498,71 +3563,6 @@
         "url": "https://www.dw.com/es/ee-uu-destina-más-de-usd-386-millones-en-ayuda-a-venezuela/a-77882705?maca=spa-rss-sp-all-1122-xml-mrss",
         "imagen": "",
         "fecha": "2026-07-08T23:44:00.000Z",
-        "fuenteId": "dw-espanol",
-        "fuenteTitle": "DW Español",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Cuando vivir en garajes de 30 metros cuadrados es la mejor opción en Orcasur: «Es inhumano»",
-        "url": "https://www.abc.es/espana/madrid/orcasur-viven-garajes-habitan-jovenes-hijos-20260701014358-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/07/01/garaje-vivienda-RHXf6MsOh5rfyqHfwv8TneN-1200x840@diario_abc.jpg",
-        "fecha": "2026-07-08T23:43:59.000Z",
-        "fuenteId": "abc-espana",
-        "fuenteTitle": "ABC - España",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Nicanor Briceño, la revolución de un Villaverde hasta el cuello de burro",
-        "url": "https://www.abc.es/espana/madrid/nicanor-briceno-revolucion-villaverde-cuello-burro-20260708014302-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/07/08/1465752124-R77Di7QDtNuP1iSkDxWMHxK-1200x840@diario_abc.jpg",
-        "fecha": "2026-07-08T23:43:02.000Z",
-        "fuenteId": "abc-espana",
-        "fuenteTitle": "ABC - España",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Trump cierra la cumbre de la OTAN con un tono conciliador tras atacar a España",
-        "url": "https://www.france24.com/es/video/20260708-trump-cierra-la-cumbre-de-la-otan-con-un-tono-conciliador-tras-atacar-a-espa%C3%B1a",
-        "imagen": "https://s.france24.com/media/display/b224e3a8-7b1f-11f1-a2c2-005056a97e36/w:1024/p:16x9/ES-20260708-143216-143648-CS.jpg",
-        "fecha": "2026-07-08T23:36:51.000Z",
-        "fuenteId": "france24-espanol",
-        "fuenteTitle": "France 24 Español",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Directo Mundial: Colombia cae por penales y quedan definidos los cuartos de final",
-        "url": "https://www.france24.com/es/video/20260708-directo-mundial-colombia-cae-por-penales-y-quedan-definidos-los-cuartos-de-final",
-        "imagen": "https://s.france24.com/media/display/e552af92-7b17-11f1-b46a-005056a90284/w:1024/p:16x9/ES-20260708-124331-125253-CS.jpg",
-        "fecha": "2026-07-08T23:34:19.000Z",
-        "fuenteId": "france24-espanol",
-        "fuenteTitle": "France 24 Español",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Estados Unidos lanza nuevos ataques contra Irán",
-        "url": "https://www.dw.com/es/estados-unidos-lanza-nuevos-ataques-contra-irán/a-77882621?maca=spa-rss-sp-all-1122-xml-mrss",
-        "imagen": "",
-        "fecha": "2026-07-08T22:56:00.000Z",
         "fuenteId": "dw-espanol",
         "fuenteTitle": "DW Español",
         "categorias": [
