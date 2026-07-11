@@ -1,5 +1,5 @@
 {
-  "generado": "2026-07-11T03:01:43.577Z",
+  "generado": "2026-07-11T03:10:21.931Z",
   "limitePorCategoria": 20,
   "categorias": {
     "actualidad": [
@@ -1288,6 +1288,18 @@
     ],
     "economia": [
       {
+        "titulo": "La Administración Trump respalda la recuperación de Intel con nuevos clientes",
+        "url": "https://es.investing.com/news/company-news/la-administracion-trump-respalda-la-recuperacion-de-intel-con-nuevos-clientes-3738006",
+        "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+        "fecha": "2026-07-11T02:17:41.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "MGM Resorts estudia la propuesta de adquisición de Barry Diller",
         "url": "https://es.investing.com/news/company-news/mgm-resorts-estudia-la-propuesta-de-adquisicion-de-barry-diller-3738004",
         "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
@@ -1508,18 +1520,6 @@
         "url": "https://es.investing.com/news/company-news/ark-de-cathie-wood-registra-grandes-movimientos-en-coinbase-y-spacex-93CH-3737992",
         "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
         "fecha": "2026-07-11T00:05:56.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Banzai lanza una oferta pública de acciones por 1 millón de dólares",
-        "url": "https://es.investing.com/news/company-news/banzai-lanza-una-oferta-publica-de-acciones-por-1-millon-de-dolares-93CH-3737991",
-        "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-        "fecha": "2026-07-11T00:05:33.000Z",
         "fuenteId": "investing-es-noticias",
         "fuenteTitle": "Investing.com España - Noticias",
         "categorias": [
@@ -2306,6 +2306,19 @@
     ],
     "internacional": [
       {
+        "titulo": "\"Un clima que ya no existe\": el calor extremo pone a prueba los límites de Europa",
+        "url": "https://www.france24.com/es/europa/20260711-un-clima-que-ya-no-existe-el-calor-extremo-pone-a-prueba-los-l%C3%ADmites-de-europa",
+        "imagen": "https://s.france24.com/media/display/2983bf96-6ff9-11f1-b363-005056bfb2b6/w:1024/p:16x9/2026-05-26T140539Z-1616417152-RC21HLAX9PFT-RTRMADP-3-EUROPE-WEATHER-BRITAIN.jpg",
+        "fecha": "2026-07-11T02:43:50.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Trump debilita protección de hábitats de especies en peligro",
         "url": "https://www.dw.com/es/trump-debilita-protección-de-hábitats-de-especies-en-peligro/a-77913348?maca=spa-rss-sp-all-1122-xml-mrss",
         "imagen": "",
@@ -2328,6 +2341,32 @@
         "categorias": [
           "internacional",
           "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Sudáfrica: migrantes van y vienen en la frontera con Zimbabue",
+        "url": "https://www.france24.com/es/video/20260711-sud%C3%A1frica-migrantes-van-y-vienen-en-la-frontera-con-zimbabue",
+        "imagen": "https://s.france24.com/media/display/aa53975a-7cc8-11f1-ae56-005056bfb2b6/w:1024/p:16x9/ES-20260710-201159-201345-CS.jpg",
+        "fecha": "2026-07-11T01:36:50.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Funerales masivos de Alí Jameneí: ciudadanos opositores se niegan a asistir a las ceremonias",
+        "url": "https://www.france24.com/es/video/20260711-funerales-masivos-de-al%C3%AD-jamene%C3%AD-ciudadanos-opositores-se-niegan-a-asistir-a-las-ceremonias",
+        "imagen": "https://s.france24.com/media/display/7084f596-7cbe-11f1-940c-005056a97e36/w:1024/p:16x9/ES-20260710-190650-190819-CS.jpg",
+        "fecha": "2026-07-11T01:35:24.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
         ],
         "idioma": "es"
       },
@@ -2520,45 +2559,6 @@
         "fecha": "2026-07-10T23:02:12.000Z",
         "fuenteId": "france24-espanol",
         "fuenteTitle": "France 24 Español",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Incendios en España: al menos 12 muertos por fuego incontrolable en Almería",
-        "url": "https://www.france24.com/es/video/20260710-incendios-en-espa%C3%B1a-al-menos-12-muertos-por-fuego-incontrolable-en-almer%C3%ADa",
-        "imagen": "https://s.france24.com/media/display/02b7fd4a-7c9d-11f1-98c6-005056a97e36/w:1024/p:16x9/ES-20260710-120935-121133-CS.jpg",
-        "fecha": "2026-07-10T22:58:54.000Z",
-        "fuenteId": "france24-espanol",
-        "fuenteTitle": "France 24 Español",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Informe desde Lima: informe de la ONU pide la liberación del expresidente Pedro Castillo",
-        "url": "https://www.france24.com/es/video/20260710-informe-desde-lima-informe-de-la-onu-pide-la-liberaci%C3%B3n-del-expresidente-pedro-castillo",
-        "imagen": "https://s.france24.com/media/display/d81fd518-7c9b-11f1-9932-005056bf30b7/w:1024/p:16x9/ES-20260710-120224-120521-CS.jpg",
-        "fecha": "2026-07-10T22:56:47.000Z",
-        "fuenteId": "france24-espanol",
-        "fuenteTitle": "France 24 Español",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La entrevista al nieto de Raúl Castro en el 'USA Today' desata un alud de críticas en Cuba: \"No sacrificaré la revolución\"",
-        "url": "https://www.elmundo.es/internacional/2026/07/11/6a511d7a21efa05b2b8b459f.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/07/10/17837009096326.jpg",
-        "fecha": "2026-07-10T22:20:08.000Z",
-        "fuenteId": "el-mundo-internacional",
-        "fuenteTitle": "El Mundo - Internacional",
         "categorias": [
           "internacional",
           "politica"
@@ -3325,12 +3325,51 @@
     ],
     "politica": [
       {
+        "titulo": "\"Un clima que ya no existe\": el calor extremo pone a prueba los límites de Europa",
+        "url": "https://www.france24.com/es/europa/20260711-un-clima-que-ya-no-existe-el-calor-extremo-pone-a-prueba-los-l%C3%ADmites-de-europa",
+        "imagen": "https://s.france24.com/media/display/2983bf96-6ff9-11f1-b363-005056bfb2b6/w:1024/p:16x9/2026-05-26T140539Z-1616417152-RC21HLAX9PFT-RTRMADP-3-EUROPE-WEATHER-BRITAIN.jpg",
+        "fecha": "2026-07-11T02:43:50.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Trump debilita protección de hábitats de especies en peligro",
         "url": "https://www.dw.com/es/trump-debilita-protección-de-hábitats-de-especies-en-peligro/a-77913348?maca=spa-rss-sp-all-1122-xml-mrss",
         "imagen": "",
         "fecha": "2026-07-11T02:07:00.000Z",
         "fuenteId": "dw-espanol",
         "fuenteTitle": "DW Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Sudáfrica: migrantes van y vienen en la frontera con Zimbabue",
+        "url": "https://www.france24.com/es/video/20260711-sud%C3%A1frica-migrantes-van-y-vienen-en-la-frontera-con-zimbabue",
+        "imagen": "https://s.france24.com/media/display/aa53975a-7cc8-11f1-ae56-005056bfb2b6/w:1024/p:16x9/ES-20260710-201159-201345-CS.jpg",
+        "fecha": "2026-07-11T01:36:50.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Funerales masivos de Alí Jameneí: ciudadanos opositores se niegan a asistir a las ceremonias",
+        "url": "https://www.france24.com/es/video/20260711-funerales-masivos-de-al%C3%AD-jamene%C3%AD-ciudadanos-opositores-se-niegan-a-asistir-a-las-ceremonias",
+        "imagen": "https://s.france24.com/media/display/7084f596-7cbe-11f1-940c-005056a97e36/w:1024/p:16x9/ES-20260710-190650-190819-CS.jpg",
+        "fecha": "2026-07-11T01:35:24.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
         "categorias": [
           "internacional",
           "politica"
@@ -3539,45 +3578,6 @@
         "fecha": "2026-07-10T23:10:34.000Z",
         "fuenteId": "abc-espana",
         "fuenteTitle": "ABC - España",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Chile: Kast lanza plan para afrontar la crisis de baja natalidad",
-        "url": "https://www.france24.com/es/video/20260710-chile-kast-lanza-plan-para-afrontar-la-crisis-de-baja-natalidad",
-        "imagen": "https://s.france24.com/media/display/3153c906-7cb4-11f1-b1cc-005056a90284/w:1024/p:16x9/AP26181645139612.jpg",
-        "fecha": "2026-07-10T23:09:31.000Z",
-        "fuenteId": "france24-espanol",
-        "fuenteTitle": "France 24 Español",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Colapso sanitario en Cuba: apagones y escasez golpean hospitales",
-        "url": "https://www.france24.com/es/video/20260710-colapso-sanitario-en-cuba-apagones-y-escasez-golpean-hospitales",
-        "imagen": "https://s.france24.com/media/display/c87294a8-7c9f-11f1-a5c3-005056bf30b7/w:1024/p:16x9/ES-20260710-130723-130855-CS.jpg",
-        "fecha": "2026-07-10T23:06:04.000Z",
-        "fuenteId": "france24-espanol",
-        "fuenteTitle": "France 24 Español",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "¿Cómo pudo originar el fuego de Los Gallardos un cable \"sin electricidad desde 2009\" según la compañía Endesa?",
-        "url": "https://www.elmundo.es/espana/2026/07/11/6a5144ec21efa0dc658b4585.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/07/10/17837082681607.jpg",
-        "fecha": "2026-07-10T23:03:34.000Z",
-        "fuenteId": "el-mundo-espana",
-        "fuenteTitle": "El Mundo - España",
         "categorias": [
           "politica",
           "actualidad"
@@ -4112,6 +4112,18 @@
     ],
     "tecnologia": [
       {
+        "titulo": "Steam supera los 11.000 millones de dólares en ingresos durante la primera mitad de 2026",
+        "url": "https://www.profesionalreview.com/2026/07/11/steam-supera-11-000-millones-ingresos-2026/",
+        "imagen": "https://www.profesionalreview.com/wp-content/uploads/2025/09/SteamFork.jpg",
+        "fecha": "2026-07-11T02:36:01.000Z",
+        "fuenteId": "profesional-review",
+        "fuenteTitle": "Profesional Review",
+        "categorias": [
+          "tecnologia"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Steam Deck añade límite de 59.94 fps para el Remote Play",
         "url": "https://www.profesionalreview.com/2026/07/11/steam-deck-limite-59-94-fps-remote-play/",
         "imagen": "https://www.profesionalreview.com/wp-content/uploads/2026/02/Steam-Deck.jpg",
@@ -4349,20 +4361,6 @@
         "url": "https://elpais.com/deportes/mundial-futbol/2026-07-10/espana-contiene-la-respiracion-y-celebra-al-fin-tras-apagar-la-voz-del-espacio-belga.html",
         "imagen": "https://imagenes.elpais.com/resizer/v2/5MPCOWBXDVOAHD4K3NSB4WWWBM.jpg?auth=d20c44055a8979dc21bb78eb1aac824dc54ff4ded41b3dd860bea7b662b4c1e4",
         "fecha": "2026-07-10T22:10:13.000Z",
-        "fuenteId": "el-pais",
-        "fuenteTitle": "El País",
-        "categorias": [
-          "actualidad",
-          "tecnologia",
-          "ciencia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Sin Courtois, Bélgica se descompone: “Sentía que no me harían un segundo gol”",
-        "url": "https://elpais.com/deportes/mundial-futbol/2026-07-10/sin-courtois-belgica-se-descompone-sentia-que-no-me-harian-un-segundo-gol.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/JCVSC5X6XFILDFSED3VZ7S6R4E.jpg?auth=69b7050903d067286cbd85945594429d7fcaec3fe385b4640da3879ba1b54bad",
-        "fecha": "2026-07-10T22:04:57.000Z",
         "fuenteId": "el-pais",
         "fuenteTitle": "El País",
         "categorias": [
