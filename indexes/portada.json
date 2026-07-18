@@ -1,8 +1,566 @@
 {
-  "generado": "2026-07-18T03:17:21.029Z",
+  "generado": "2026-07-18T03:37:55.932Z",
   "limite": 50,
-  "total": 119537,
+  "total": 119583,
   "noticias": [
+    {
+      "titulo": "Fallout 3 y New Vegas tendrán remasterizaciones para PC",
+      "url": "https://www.profesionalreview.com/2026/07/18/bethesda-remasterizaciones-fallout-3-new-vegas/",
+      "imagen": "https://www.profesionalreview.com/wp-content/uploads/2026/07/Bethesda-confirma-las-remasterizaciones-de-Fallout-3-y-New-Vegas.jpg",
+      "fecha": "2026-07-18T03:06:53.000Z",
+      "fuenteId": "profesional-review",
+      "fuenteTitle": "Profesional Review",
+      "categorias": [
+        "tecnologia"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "La natación y el ‘running’ lideran la práctica deportiva entre las mujeres en España",
+      "url": "https://palco23.mundodeportivo.com/entorno/la-natacion-y-el-running-lideran-la-practica-deportiva-entre-las-mujeres-en-espana",
+      "imagen": "",
+      "fecha": "2026-07-18T03:05:30.275Z",
+      "fuenteId": "palco23",
+      "fuenteTitle": "Palco23",
+      "categorias": [
+        "deportes",
+        "economia"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Precio de la luz hoy 18 de julio: las franjas más baratas y más caras poner la lavadora, el lavavajillas o el horno",
+      "url": "https://theobjective.com/economia/energia/2026-07-18/precio-luz-sabado-18-julio-2026/",
+      "imagen": "https://theobjective.com/wp-content/uploads/2024/06/Precio-de-la-luz-hoy-jueves-20-de-junio.jpg",
+      "fecha": "2026-07-18T03:01:15.000Z",
+      "fuenteId": "the-objective",
+      "fuenteTitle": "The Objective",
+      "categorias": [
+        "actualidad",
+        "politica"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Hoy No Circula sabatino: qué autos pueden circular y cuáles descansan el 18 de julio",
+      "url": "https://www.xataka.com/mexico/hoy-no-circula-sabatino-que-autos-pueden-circular-cuales-descansan-18-julio",
+      "imagen": "https://i.blogs.es/53a794/silas-lundquist-dibo63k4k1g-unsplash/1024_2000.jpeg",
+      "fecha": "2026-07-18T03:00:07.000Z",
+      "fuenteId": "xataka",
+      "fuenteTitle": "Xataka",
+      "categorias": [
+        "tecnologia",
+        "ciencia"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "¿Merece la pena invertir en Europa cuando Estados Unidos sigue creciendo más?",
+      "url": "https://www.20minutos.es/lainformacion/economia-y-finanzas/merece-pena-invertir-europa-cuando-estados-unidos-sigue-creciendo-mas_7016016_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/06/28/europa-se-queda-atras-en-inversion-y-competitividad-ante-el-avance-de-estados-unidos-y-china.jpeg",
+      "fecha": "2026-07-18T03:00:00.000Z",
+      "fuenteId": "20minutos-economia",
+      "fuenteTitle": "20minutos - Economía",
+      "categorias": [
+        "economia",
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "El automóvil reclama un impulso urgente al Plan España Auto 2030 para recuperar terreno en la electrificación y revitalizar la industria española",
+      "url": "https://www.20minutos.es/lainformacion/economia-y-finanzas/automovil-reclama-un-impulso-urgente-plan-espana-auto-2030-para-recuperar-terreno-electrificacion-revitalizar-industria-espanola_7015012_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/11/19/691de04f275e50-15019348.jpeg",
+      "fecha": "2026-07-18T03:00:00.000Z",
+      "fuenteId": "20minutos-economia",
+      "fuenteTitle": "20minutos - Economía",
+      "categorias": [
+        "economia",
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Sergio Roitberg, CEO de Newlink: \"La comunicación es la vía, el 'engagement' es el fin\"",
+      "url": "https://www.20minutos.es/lainformacion/economia-y-finanzas/sergio-roitberg-ceo-newlink-comunicacion-via-engagement-fin_7015840_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/07/14/6a55fe2c554341-93007704.r_d.926-587-10000.jpeg",
+      "fecha": "2026-07-18T03:00:00.000Z",
+      "fuenteId": "20minutos-economia",
+      "fuenteTitle": "20minutos - Economía",
+      "categorias": [
+        "economia",
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "¿Cuánto cuesta ganar un Mundial? Los datos que explican quién tuvo el camino más duro hasta la final",
+      "url": "https://www.elconfidencial.com/deportes/futbol/mundial/2026-07-18/cuanto-cuesta-ganar-un-mundial-los-datos-que-explican-quien-tuvo-el-camino-mas-duro-hasta-la-final_4391926/",
+      "imagen": "https://images.ecestaticos.com/7YrL0nIE3oZM63QMRVEJHrNf5Zw=/0x0:2272x1492/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ff86%2F714%2F994%2Ff867149945966b934c315c579ad0e5e5.jpg",
+      "fecha": "2026-07-18T03:00:00.000Z",
+      "fuenteId": "el-confidencial",
+      "fuenteTitle": "El Confidencial",
+      "categorias": [
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Por qué la FIFA ha aceptado que el descanso de la final del Mundial se acerque al de la Super Bowl",
+      "url": "https://www.elconfidencial.com/deportes/futbol/mundial/2026-07-18/mundial-patrocinadores-espana-estados-unidos-final_4390417/",
+      "imagen": "https://images.ecestaticos.com/I2PE_-Az1vHzZ-uBQkmsX6XrXmw=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F9a9%2Fb54%2Fbe5%2F9a9b54be52cdb1d21ab07db7c596fb9d.jpg",
+      "fecha": "2026-07-18T03:00:00.000Z",
+      "fuenteId": "el-confidencial",
+      "fuenteTitle": "El Confidencial",
+      "categorias": [
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Descodificando a Dani Olmo: la estrella sin foco que empezó de suplente y acabó siendo el mejor atacante",
+      "url": "https://www.elconfidencial.com/deportes/futbol/mundial/2026-07-18/mundial-espana-argentina-dani-olmo-leo-messi-final_4391616/",
+      "imagen": "https://images.ecestaticos.com/IL0De3_x2q272vIbowxmxgozNdI=/0x55:2272x1333/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F93e%2F59e%2Fc66%2F93e59ec66dde5651cea5aad749b2cf16.jpg",
+      "fecha": "2026-07-18T03:00:00.000Z",
+      "fuenteId": "el-confidencial",
+      "fuenteTitle": "El Confidencial",
+      "categorias": [
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "El boom del \"only adults\": así ha descubierto la hostelería un nuevo filón de negocio",
+      "url": "https://www.elconfidencial.com/espana/2026-07-18/hoteles-solo-adultos-tranquilidad-exclusividad-1hms_4390398/",
+      "imagen": "https://images.ecestaticos.com/jsHEZX7yJjvn7-NFnCQVN897vFY=/0x0:1906x1266/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fc22%2Fa83%2F4da%2Fc22a834daa6a5b536c1c22b14b316ba6.jpg",
+      "fecha": "2026-07-18T03:00:00.000Z",
+      "fuenteId": "el-confidencial",
+      "fuenteTitle": "El Confidencial",
+      "categorias": [
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "De The Doors a Sinatra: la 'playlist' definitiva para hacer tus viajes de verano más placenteros y olvidarte del trabajo",
+      "url": "https://www.elconfidencial.com/cultura/2026-07-18/playlist-de-verano-viaje-turismo-canciones-musica_4390586/",
+      "imagen": "https://images.ecestaticos.com/umaHVfE4SrVnIDLl_pEtbKYkAZg=/0x0:1800x1012/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F980%2F5dd%2Fe34%2F9805dde346876c56cead680ef7fe2b76.jpg",
+      "fecha": "2026-07-18T03:00:00.000Z",
+      "fuenteId": "el-confidencial-cultura",
+      "fuenteTitle": "El Confidencial - Cultura",
+      "categorias": [
+        "cultura"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "¿Ya no existen canciones del verano como las de antes? Crónica del auge y caída del \"hit\" estival",
+      "url": "https://www.elconfidencial.com/cultura/2026-07-18/cancion-del-verano-historia-musica-cultura_4382937/",
+      "imagen": "https://images.ecestaticos.com/JxkI9QurueNwk2cAAAZFxA2MKmE=/0x0:2272x1278/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F67d%2Fe80%2F45b%2F67de8045bf766e44618eb156dc476da7.jpg",
+      "fecha": "2026-07-18T03:00:00.000Z",
+      "fuenteId": "el-confidencial-cultura",
+      "fuenteTitle": "El Confidencial - Cultura",
+      "categorias": [
+        "cultura"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Cortes de tráfico en Madrid, este domingo, por manifestaciones y la final del Mundial: horarios, calles y zonas afectadas",
+      "url": "https://www.elconfidencial.com/espana/madrid/2026-07-18/1qrt-cortes-trafico-madrid-hoy-domingo-manifestacion-mundial-horario-calles_4391702/",
+      "imagen": "https://images.ecestaticos.com/z-fI3d6eSsJJhfqBuBt4A-10iu0=/0x237:2272x1515/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fb30%2F280%2Fe7b%2Fb30280e7b0b94ab60b458c02a2b53dd9.jpg",
+      "fecha": "2026-07-18T03:00:00.000Z",
+      "fuenteId": "el-confidencial-espana",
+      "fuenteTitle": "El Confidencial - España",
+      "categorias": [
+        "politica",
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "La Generalitat eleva el tono con la prórroga de la nuclear de Cofrentes tras el aval del CSN a Almaraz",
+      "url": "https://www.elconfidencial.com/espana/comunidad-valenciana/2026-07-18/generalitat-tono-nuclear-cofrentes-almaraz_4391832/",
+      "imagen": "https://images.ecestaticos.com/C8uOJMUdJTUOYMiyQOCAAt11K_U=/0x0:2272x1517/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F5f6%2Fff9%2F0ed%2F5f6ff90ede4c135bb081a0f0a6ecc03b.jpg",
+      "fecha": "2026-07-18T03:00:00.000Z",
+      "fuenteId": "el-confidencial-espana",
+      "fuenteTitle": "El Confidencial - España",
+      "categorias": [
+        "politica",
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Renault rompe su alianza comercial con Nissan Ávila, que deja en riesgo la mitad de su producción",
+      "url": "https://www.elconfidencial.com/espana/castilla-y-leon/2026-07-18/renault-rompe-tres-decadas-de-alianza-comercial-con-nissan-avila-y-pone-en-riesgo-la-mitad-de-su-produccion_4391919/",
+      "imagen": "https://images.ecestaticos.com/Jq74411EMBkFf-r834NTPYWD218=/0x0:1500x1000/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F2cf%2F407%2Fec0%2F2cf407ec0669656cae179219fbb2cc24.jpg",
+      "fecha": "2026-07-18T03:00:00.000Z",
+      "fuenteId": "el-confidencial-espana",
+      "fuenteTitle": "El Confidencial - España",
+      "categorias": [
+        "politica",
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Brambila, el pintor que se adelantó a Goya y rescató la memoria de los Reales Sitios tras la invasión francesa",
+      "url": "https://www.elconfidencial.com/espana/madrid/2026-07-18/brambila-el-pintor-que-se-adelanto-a-goya-y-rescato-la-memoria-de-los-reales-sitios-tras-la-barbarie-de-las-tropas-francesas_4391828/",
+      "imagen": "https://images.ecestaticos.com/aMQ7Ne6lbH0XNtjTgPhNAnSHYOI=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ff17%2F099%2F0e3%2Ff170990e32b81065b525cc6db3841189.jpg",
+      "fecha": "2026-07-18T03:00:00.000Z",
+      "fuenteId": "el-confidencial-espana",
+      "fuenteTitle": "El Confidencial - España",
+      "categorias": [
+        "politica",
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Eclipse solar del 12 de agosto de 2026: horario, recorrido y dónde se verá en España",
+      "url": "https://www.elconfidencial.com/espana/2026-07-18/eclipse-solar-del-12-de-agosto-de-2026-horario-recorrido-y-donde-se-vera-en-espana_4391626/",
+      "imagen": "https://images.ecestaticos.com/pleOw585hEHfskQOKv2rQH0DOB0=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ffa4%2F7c7%2Fe43%2Ffa47c7e43b9a8906846e3503b874e006.jpg",
+      "fecha": "2026-07-18T03:00:00.000Z",
+      "fuenteId": "el-confidencial-espana",
+      "fuenteTitle": "El Confidencial - España",
+      "categorias": [
+        "politica",
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "PP y Vox vuelven a las armas contra la ley de nietos y abren la puerta a la vía judicial",
+      "url": "https://www.elconfidencial.com/espana/2026-07-18/pp-vox-ley-de-nietos-abren-puerta-via-judicial_4391744/",
+      "imagen": "https://images.ecestaticos.com/oHfNxI0fLC-O-qReo3R8nsx1fWA=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fc61%2F87e%2Fc89%2Fc6187ec894b62dc2057acda070ee8ca1.jpg",
+      "fecha": "2026-07-18T03:00:00.000Z",
+      "fuenteId": "el-confidencial-espana",
+      "fuenteTitle": "El Confidencial - España",
+      "categorias": [
+        "politica",
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "La CNMC contrata por 40.000 euros a rastreadores de influencers para encontrar anuncios ocultos",
+      "url": "https://www.elconfidencial.com/espana/2026-07-18/la-cnmc-contrata-por-40-000-euros-a-rastreadores-de-influencers-para-encontrar-anuncios-ocultos_4391710/",
+      "imagen": "https://images.ecestaticos.com/pxI8kryHcAmHkjZI3hJZXhPQmH8=/0x0:2133x1354/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F976%2F0a3%2F0fa%2F9760a30fa201e57c77ee34e9a0f34bc0.jpg",
+      "fecha": "2026-07-18T03:00:00.000Z",
+      "fuenteId": "el-confidencial-espana",
+      "fuenteTitle": "El Confidencial - España",
+      "categorias": [
+        "politica",
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Arabia Saudí retiene incomunicados y sin cargos a 3 ingenieros colombianos tras 'capturarlos' en Yemen",
+      "url": "https://www.elconfidencial.com/mundo/2026-07-18/cargos-abogados-contacto-tres-ingenieros-colombianos-presos-arabia-saudi_4390611/",
+      "imagen": "https://images.ecestaticos.com/K-GynqnkVen0MrHxGp2fP3l8qbk=/0x0:1920x963/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ff33%2Fa4d%2F8fd%2Ff33a4d8fd25eb56c47da1510d987499d.jpg",
+      "fecha": "2026-07-18T03:00:00.000Z",
+      "fuenteId": "el-confidencial-mundo",
+      "fuenteTitle": "El Confidencial - Mundo",
+      "categorias": [
+        "internacional",
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Ni un 'famoso' salva al pueblo: los colonos crean un problema de imagen (y diplomático) a Israel",
+      "url": "https://www.elconfidencial.com/mundo/2026-07-18/colonizacion-palestina-colonos-massafer-yatta-1hms_4388918/",
+      "imagen": "https://images.ecestaticos.com/X8m4IjYWZWgpC8SY05ke-n1aOC0=/0x0:2272x1514/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ff1b%2F2ca%2Feb9%2Ff1b2caeb992a5bd3ae0e3c7d1b173643.jpg",
+      "fecha": "2026-07-18T03:00:00.000Z",
+      "fuenteId": "el-confidencial-mundo",
+      "fuenteTitle": "El Confidencial - Mundo",
+      "categorias": [
+        "internacional",
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Canadá se sumerge a 400 metros frente a Groenlandia y reconstruye en 3D el barco en el que murió Shackleton",
+      "url": "https://www.elconfidencial.com/tecnologia/2026-07-18/canada-recrea-3d-ultimo-barco-shackleton-1qrt_4391660/",
+      "imagen": "https://images.ecestaticos.com/nXC0KiONxuP6rKnyFHf8ysveoYc=/0x0:2000x1102/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fd88%2F7ca%2F6cd%2Fd887ca6cdfbe97f5022ccbbc5ce50e7d.jpg",
+      "fecha": "2026-07-18T03:00:00.000Z",
+      "fuenteId": "el-confidencial-tecnologia",
+      "fuenteTitle": "El Confidencial - Tecnología",
+      "categorias": [
+        "tecnologia"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "China adelanta al Neuralink de Elon Musk y aprueba el primer implante comercial de un chip cerebral del mundo",
+      "url": "https://www.elconfidencial.com/tecnologia/novaceno/2026-07-18/china-implante-cerebro-aprobado-exito-neuralink-elon-musk_4391997/",
+      "imagen": "https://images.ecestaticos.com/Y1g3z8u4Yn4FZj3JVJqJXjGyjk4=/0x0:2272x1459/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ff6d%2F994%2Fc53%2Ff6d994c53bab27b510626720a568f110.jpg",
+      "fecha": "2026-07-18T03:00:00.000Z",
+      "fuenteId": "el-confidencial-tecnologia",
+      "fuenteTitle": "El Confidencial - Tecnología",
+      "categorias": [
+        "tecnologia"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "VÍDEO | La Finalissima que nunca se jugó se convierte en la final del Mundial",
+      "url": "https://theobjective.com/videos/deportes/2026-07-18/finalissima-final-mundial/",
+      "imagen": "https://theobjective.com/wp-content/uploads/2026/07/espan-a-argentina-mundial-2026-1.webp",
+      "fecha": "2026-07-18T03:00:00.000Z",
+      "fuenteId": "the-objective",
+      "fuenteTitle": "The Objective",
+      "categorias": [
+        "actualidad",
+        "politica"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "El tiempo en Malpartida de Plasencia: previsión meteorológica para hoy, sábado 18 de julio",
+      "url": "https://www.elperiodicoextremadura.com/tiempo/2026/07/18/tiempo-malpartida-plasencia-prevision-meteorologica-132572746.html",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/98116379-064e-484d-aaab-6b01915c1949_16-9-aspect-ratio_default_0_x600y225.jpg",
+      "fecha": "2026-07-18T02:59:47.000Z",
+      "fuenteId": "el-periodico-extremadura",
+      "fuenteTitle": "El Periódico Extremadura",
+      "categorias": [
+        "local"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "El tiempo en Malpartida de CÃ¡ceres: previsión meteorológica para hoy, sábado 18 de julio",
+      "url": "https://www.elperiodicoextremadura.com/tiempo/2026/07/18/tiempo-malpartida-ca-ceres-prevision-132572744.html",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/77ee9ce9-5d63-47d5-a3d6-8afc77d9e682_16-9-aspect-ratio_default_0_x600y225.jpg",
+      "fecha": "2026-07-18T02:59:36.000Z",
+      "fuenteId": "el-periodico-extremadura",
+      "fuenteTitle": "El Periódico Extremadura",
+      "categorias": [
+        "local"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "El tiempo en Llerena: previsión meteorológica para hoy, sábado 18 de julio",
+      "url": "https://www.elperiodicoextremadura.com/tiempo/2026/07/18/tiempo-llerena-prevision-meteorologica-hoy-132572715.html",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/2b89f638-7e0d-4990-99bb-8c1a2b029e8c_16-9-aspect-ratio_default_0_x600y225.jpg",
+      "fecha": "2026-07-18T02:57:08.000Z",
+      "fuenteId": "el-periodico-extremadura",
+      "fuenteTitle": "El Periódico Extremadura",
+      "categorias": [
+        "local"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "El tiempo en Jerez de los Caballeros: previsión meteorológica para hoy, sábado 18 de julio",
+      "url": "https://www.elperiodicoextremadura.com/tiempo/2026/07/18/tiempo-jerez-caballeros-prevision-meteorologica-132572700.html",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/a9113ee8-a70f-4163-9f52-38bb3f0437ab_16-9-aspect-ratio_default_0_x600y225.jpg",
+      "fecha": "2026-07-18T02:55:52.000Z",
+      "fuenteId": "el-periodico-extremadura",
+      "fuenteTitle": "El Periódico Extremadura",
+      "categorias": [
+        "local"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "El tiempo en JaraÃ­z de la Vera: previsión meteorológica para hoy, sábado 18 de julio",
+      "url": "https://www.elperiodicoextremadura.com/tiempo/2026/07/18/tiempo-jaraa-z-vera-prevision-132572694.html",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/7b52ac2c-131a-4959-8666-f4c4326557be_16-9-aspect-ratio_default_0_x600y225.jpg",
+      "fecha": "2026-07-18T02:55:19.000Z",
+      "fuenteId": "el-periodico-extremadura",
+      "fuenteTitle": "El Periódico Extremadura",
+      "categorias": [
+        "local"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Raisin se suma al ahorro con su cuenta sin comisiones que remunera un 2,12 % TAE",
+      "url": "https://www.finanzas.com/finanzas-personales/raisin-ahorro-cuenta-212-tae.html",
+      "imagen": "",
+      "fecha": "2026-07-18T02:55:00.000Z",
+      "fuenteId": "finanzas-com",
+      "fuenteTitle": "Finanzas.com",
+      "categorias": [
+        "economia"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Ferrovial: UBS encuentra más gasolina para impulsar el rally alcista",
+      "url": "https://www.finanzas.com/ibex-35/ferrovial-autopistas-texas-potencial-peajes-ebitda.html",
+      "imagen": "",
+      "fecha": "2026-07-18T02:55:00.000Z",
+      "fuenteId": "finanzas-com",
+      "fuenteTitle": "Finanzas.com",
+      "categorias": [
+        "economia"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "El tiempo en HervÃ¡s: previsión meteorológica para hoy, sábado 18 de julio",
+      "url": "https://www.elperiodicoextremadura.com/tiempo/2026/07/18/tiempo-herva-s-prevision-meteorologica-132572665.html",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/0b3804fd-0794-42ba-aabd-6dcd72fdbd9d_16-9-aspect-ratio_default_0_x600y225.jpg",
+      "fecha": "2026-07-18T02:53:30.000Z",
+      "fuenteId": "el-periodico-extremadura",
+      "fuenteTitle": "El Periódico Extremadura",
+      "categorias": [
+        "local"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "El tiempo en GuareÃ±a: previsión meteorológica para hoy, sábado 18 de julio",
+      "url": "https://www.elperiodicoextremadura.com/tiempo/2026/07/18/tiempo-guarea-prevision-meteorologica-hoy-132572634.html",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/03deb373-e95d-4d80-afb2-96b5bda0beb1_16-9-aspect-ratio_default_0_x600y225.jpg",
+      "fecha": "2026-07-18T02:52:16.000Z",
+      "fuenteId": "el-periodico-extremadura",
+      "fuenteTitle": "El Periódico Extremadura",
+      "categorias": [
+        "local"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "¿Sirve la crema solar del verano pasado? Esto es lo que debes comprobar antes de usarla",
+      "url": "https://www.elperiodicoextremadura.com/salud/guia/2026/07/18/reutilizar-crema-solar-peligroso-piel-73092496.html",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/0431eca1-0f22-49a2-86ba-4742fc985b4b_16-9-aspect-ratio_default_0.jpg",
+      "fecha": "2026-07-18T02:50:00.000Z",
+      "fuenteId": "el-periodico-extremadura",
+      "fuenteTitle": "El Periódico Extremadura",
+      "categorias": [
+        "local"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "El tiempo en Fuente del Maestre: previsión meteorológica para hoy, sábado 18 de julio",
+      "url": "https://www.elperiodicoextremadura.com/tiempo/2026/07/18/tiempo-fuente-maestre-prevision-meteorologica-132572587.html",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/650ec15c-38c7-457a-b0a7-e51ed56709d8_16-9-aspect-ratio_default_0_x600y225.jpg",
+      "fecha": "2026-07-18T02:48:50.000Z",
+      "fuenteId": "el-periodico-extremadura",
+      "fuenteTitle": "El Periódico Extremadura",
+      "categorias": [
+        "local"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "El tiempo en Fuente de Cantos: previsión meteorológica para hoy, sábado 18 de julio",
+      "url": "https://www.elperiodicoextremadura.com/tiempo/2026/07/18/tiempo-fuente-cantos-prevision-meteorologica-132572585.html",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/ce431d5b-c3fd-4cad-8584-11c94720d77c_16-9-aspect-ratio_default_0_x600y225.jpg",
+      "fecha": "2026-07-18T02:48:39.000Z",
+      "fuenteId": "el-periodico-extremadura",
+      "fuenteTitle": "El Periódico Extremadura",
+      "categorias": [
+        "local"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "De la Fuente: “Tengo una gran admiración por la selección argentina”",
+      "url": "https://elpais.com/deportes/mundial-futbol/2026-07-18/de-la-fuente-tengo-una-gran-admiracion-por-la-seleccion-argentina.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/QB6ODNHREJIR5C6XJEAIROUKH4.jpg?auth=aea8c509a6c189f90977971ee78b546214f56299a6e7cec96c0a2a1b259c52b6",
+      "fecha": "2026-07-18T02:48:01.000Z",
+      "fuenteId": "el-pais",
+      "fuenteTitle": "El País",
+      "categorias": [
+        "actualidad",
+        "tecnologia",
+        "ciencia"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "El tiempo en Fregenal de la Sierra: previsión meteorológica para hoy, sábado 18 de julio",
+      "url": "https://www.elperiodicoextremadura.com/tiempo/2026/07/18/tiempo-fregenal-sierra-prevision-meteorologica-132572571.html",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/508f7880-11cf-4845-ad26-65bf9ff24570_16-9-aspect-ratio_default_0_x600y225.jpg",
+      "fecha": "2026-07-18T02:47:48.000Z",
+      "fuenteId": "el-periodico-extremadura",
+      "fuenteTitle": "El Periódico Extremadura",
+      "categorias": [
+        "local"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "El tiempo en Don Benito: previsión meteorológica para hoy, sábado 18 de julio",
+      "url": "https://www.elperiodicoextremadura.com/tiempo/2026/07/18/tiempo-don-benito-prevision-meteorologica-132572515.html",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/7ca317bd-41f8-4228-aaff-f6385d60c525_16-9-aspect-ratio_default_0_x600y225.jpg",
+      "fecha": "2026-07-18T02:43:08.000Z",
+      "fuenteId": "el-periodico-extremadura",
+      "fuenteTitle": "El Periódico Extremadura",
+      "categorias": [
+        "local"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "El tiempo en CÃ¡ceres: previsión meteorológica para hoy, sábado 18 de julio",
+      "url": "https://www.elperiodicoextremadura.com/tiempo/2026/07/18/tiempo-ca-ceres-prevision-meteorologica-132572505.html",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/9a2902dd-bc2f-42bf-85e1-030d857b83b1_16-9-aspect-ratio_default_0_x600y225.jpg",
+      "fecha": "2026-07-18T02:42:14.000Z",
+      "fuenteId": "el-periodico-extremadura",
+      "fuenteTitle": "El Periódico Extremadura",
+      "categorias": [
+        "local"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "El tiempo en Coria: previsión meteorológica para hoy, sábado 18 de julio",
+      "url": "https://www.elperiodicoextremadura.com/tiempo/2026/07/18/tiempo-coria-prevision-meteorologica-hoy-132572478.html",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/3991cd60-e9a6-4c1a-b3be-8bdf1bec3916_16-9-aspect-ratio_default_0_x600y225.jpg",
+      "fecha": "2026-07-18T02:40:06.000Z",
+      "fuenteId": "el-periodico-extremadura",
+      "fuenteTitle": "El Periódico Extremadura",
+      "categorias": [
+        "local"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "EE.UU. amplía los ataques contra Irán mientras cae el tráfico en Ormuz",
+      "url": "https://es.investing.com/news/economy-news/eeuu-amplia-los-ataques-contra-iran-mientras-cae-el-trafico-en-ormuz-3748128",
+      "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "fecha": "2026-07-18T02:39:23.000Z",
+      "fuenteId": "investing-es-noticias",
+      "fuenteTitle": "Investing.com España - Noticias",
+      "categorias": [
+        "economia"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "El tiempo en Castuera: previsión meteorológica para hoy, sábado 18 de julio",
+      "url": "https://www.elperiodicoextremadura.com/tiempo/2026/07/18/tiempo-castuera-prevision-meteorologica-hoy-132572440.html",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/a9592461-3eb2-4294-826f-2104fc9c2943_16-9-aspect-ratio_default_0_x600y225.jpg",
+      "fecha": "2026-07-18T02:37:05.000Z",
+      "fuenteId": "el-periodico-extremadura",
+      "fuenteTitle": "El Periódico Extremadura",
+      "categorias": [
+        "local"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "El tiempo en Casar de CÃ¡ceres: previsión meteorológica para hoy, sábado 18 de julio",
+      "url": "https://www.elperiodicoextremadura.com/tiempo/2026/07/18/tiempo-casar-ca-ceres-prevision-132572425.html",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/5e10b89a-c73c-4b9f-b75c-140bc20df18d_16-9-aspect-ratio_default_0_x600y225.jpg",
+      "fecha": "2026-07-18T02:36:00.000Z",
+      "fuenteId": "el-periodico-extremadura",
+      "fuenteTitle": "El Periódico Extremadura",
+      "categorias": [
+        "local"
+      ],
+      "idioma": "es"
+    },
     {
       "titulo": "El tiempo en Campanario: previsión meteorológica para hoy, sábado 18 de julio",
       "url": "https://www.elperiodicoextremadura.com/tiempo/2026/07/18/tiempo-campanario-prevision-meteorologica-hoy-132572387.html",
@@ -28,6 +586,19 @@
       "idioma": "es"
     },
     {
+      "titulo": "Miles de ucranianos protestan por segundo día contra la destitución del ministro de Defensa Fedorov",
+      "url": "https://www.france24.com/es/europa/20260718-miles-de-ucranianos-protestan-por-segundo-d%C3%ADa-contra-la-destituci%C3%B3n-del-ministro-de-defensa-fedorov",
+      "imagen": "https://s.france24.com/media/display/8595d74c-821e-11f1-95ce-005056a97e36/w:1024/p:16x9/AP26198678736122.jpg",
+      "fecha": "2026-07-18T02:30:58.000Z",
+      "fuenteId": "france24-espanol",
+      "fuenteTitle": "France 24 Español",
+      "categorias": [
+        "internacional",
+        "politica"
+      ],
+      "idioma": "es"
+    },
+    {
       "titulo": "El tiempo en Cabeza del Buey: previsión meteorológica para hoy, sábado 18 de julio",
       "url": "https://www.elperiodicoextremadura.com/tiempo/2026/07/18/tiempo-cabeza-buey-prevision-meteorologica-132572347.html",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/c144f3e2-7451-4036-9fae-172c66b467c8_16-9-aspect-ratio_default_0_x600y225.jpg",
@@ -48,566 +619,6 @@
       "fuenteTitle": "El Periódico Extremadura",
       "categorias": [
         "local"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El tiempo en Azuaga: previsión meteorológica para hoy, sábado 18 de julio",
-      "url": "https://www.elperiodicoextremadura.com/tiempo/2026/07/18/tiempo-azuaga-prevision-meteorologica-hoy-132572269.html",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/3f6603f7-75aa-48da-b033-a7e65defe410_16-9-aspect-ratio_default_0_x600y225.jpg",
-      "fecha": "2026-07-18T02:23:59.000Z",
-      "fuenteId": "el-periodico-extremadura",
-      "fuenteTitle": "El Periódico Extremadura",
-      "categorias": [
-        "local"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El tiempo en Arroyo de la Luz: previsión meteorológica para hoy, sábado 18 de julio",
-      "url": "https://www.elperiodicoextremadura.com/tiempo/2026/07/18/tiempo-arroyo-luz-prevision-meteorologica-132572245.html",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/d1650623-c59a-4254-bba5-2c9833c7f248_16-9-aspect-ratio_default_0_x600y225.jpg",
-      "fecha": "2026-07-18T02:22:33.000Z",
-      "fuenteId": "el-periodico-extremadura",
-      "fuenteTitle": "El Periódico Extremadura",
-      "categorias": [
-        "local"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El tiempo en Arroyo de San ServÃ¡n: previsión meteorológica para hoy, sábado 18 de julio",
-      "url": "https://www.elperiodicoextremadura.com/tiempo/2026/07/18/tiempo-arroyo-san-serva-n-132572241.html",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/0925e024-4d06-4a89-b4bf-f32e0feba0c5_16-9-aspect-ratio_default_0_x600y225.jpg",
-      "fecha": "2026-07-18T02:22:23.000Z",
-      "fuenteId": "el-periodico-extremadura",
-      "fuenteTitle": "El Periódico Extremadura",
-      "categorias": [
-        "local"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "La infraestructura civil: ¿el renovado blanco de la guerra entre Estados Unidos e Irán?",
-      "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260718-la-infraestructura-civil-el-renovado-blanco-de-la-guerra-entre-estados-unidos-e-ir%C3%A1n",
-      "imagen": "https://s.france24.com/media/display/b877af6c-824d-11f1-bca6-005056a97e36/w:1024/p:16x9/dd39d2087ce04c44b6935a5831083473ad76aaeew.jpg",
-      "fecha": "2026-07-18T02:21:05.000Z",
-      "fuenteId": "france24-espanol",
-      "fuenteTitle": "France 24 Español",
-      "categorias": [
-        "internacional",
-        "politica"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Él es J Kbello, ganador de 'Tu cara me suena 13'",
-      "url": "https://www.mundodeportivo.com/elotromundo/television/20260718/1004207661/asi-j-kbello-ganador-cara-me-suena-13-galeria-dct.html",
-      "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/07/18/6a5ad5e66c3ee.jpeg",
-      "fecha": "2026-07-18T02:19:37.000Z",
-      "fuenteId": "mundo-deportivo",
-      "fuenteTitle": "Mundo Deportivo",
-      "categorias": [
-        "deportes"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El tiempo en Almendralejo: previsión meteorológica para hoy, sábado 18 de julio",
-      "url": "https://www.elperiodicoextremadura.com/tiempo/2026/07/18/tiempo-almendralejo-prevision-meteorologica-hoy-132572170.html",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/1b2470ac-d191-4bc5-81de-867fcfb35c33_16-9-aspect-ratio_default_0_x600y225.jpg",
-      "fecha": "2026-07-18T02:18:50.000Z",
-      "fuenteId": "el-periodico-extremadura",
-      "fuenteTitle": "El Periódico Extremadura",
-      "categorias": [
-        "local"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "¿Quién paga la electrificación y la inteligencia artificial?",
-      "url": "https://es.investing.com/news/economy-news/quien-paga-la-electrificacion-y-la-inteligencia-artificial-3748125",
-      "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "fecha": "2026-07-18T02:16:18.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El tiempo en Alburquerque: previsión meteorológica para hoy, sábado 18 de julio",
-      "url": "https://www.elperiodicoextremadura.com/tiempo/2026/07/18/tiempo-alburquerque-prevision-meteorologica-hoy-132572130.html",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/692d5b66-2c5b-4c77-a56a-0626210ae266_16-9-aspect-ratio_default_0_x600y225.jpg",
-      "fecha": "2026-07-18T02:16:01.000Z",
-      "fuenteId": "el-periodico-extremadura",
-      "fuenteTitle": "El Periódico Extremadura",
-      "categorias": [
-        "local"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El tiempo en Aceuchal: previsión meteorológica para hoy, sábado 18 de julio",
-      "url": "https://www.elperiodicoextremadura.com/tiempo/2026/07/18/tiempo-aceuchal-prevision-meteorologica-hoy-132572097.html",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/3588e829-5c65-4eaf-bc07-5b58634a53b0_16-9-aspect-ratio_default_0_x600y225.jpg",
-      "fecha": "2026-07-18T02:14:14.000Z",
-      "fuenteId": "el-periodico-extremadura",
-      "fuenteTitle": "El Periódico Extremadura",
-      "categorias": [
-        "local"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Abde marcó en Pamplona su único gol como blaugrana",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/barca-goles/20260718/1004206515/abde-marco-pamplona-unico-gol-blaugrana.html",
-      "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2024/01/25/65b2a03ee7da9.jpeg",
-      "fecha": "2026-07-18T02:00:00.000Z",
-      "fuenteId": "mundo-deportivo",
-      "fuenteTitle": "Mundo Deportivo",
-      "categorias": [
-        "deportes"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Vozinha: “Sé que mi vida ha cambiado, pero sigo siendo el mismo”",
-      "url": "https://as.com/futbol/mundial/vozinha-se-que-mi-vida-ha-cambiado-pero-sigo-siendo-el-mismo-f202607-n/",
-      "imagen": "https://img.asmedia.epimg.net/resizer/v2/VNZTDLABSZMR5BUSMCL7HUEKZQ.jpg?auth=1de5922a86f08865c55784cf866405f4aff8a9242a464f560801ef920a1d5e36",
-      "fecha": "2026-07-18T01:55:59.000Z",
-      "fuenteId": "as",
-      "fuenteTitle": "AS",
-      "categorias": [
-        "deportes"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "David Thomson, vicepresidente ejecutivo de MannKind, vende 97.641 dólares en acciones",
-      "url": "https://es.investing.com/news/insider-trading-news/david-thomson-vicepresidente-ejecutivo-de-mannkind-vende-97641-dolares-en-acciones-93CH-3748122",
-      "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "fecha": "2026-07-18T01:52:58.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El director ejecutivo de MapLight Therapeutics vende 5,44 millones de dólares en acciones",
-      "url": "https://es.investing.com/news/insider-trading-news/el-director-ejecutivo-de-maplight-therapeutics-vende-544-millones-de-dolares-en-acciones-93CH-3748121",
-      "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "fecha": "2026-07-18T01:52:48.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "La directora científica de MapLight Therapeutics vende acciones por 673.000 dólares",
-      "url": "https://es.investing.com/news/insider-trading-news/la-directora-cientifica-de-maplight-therapeutics-vende-acciones-por-673000-dolares-93CH-3748120",
-      "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "fecha": "2026-07-18T01:49:56.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El consejero general de MapLight Therapeutics vende acciones por 607.870 dólares",
-      "url": "https://es.investing.com/news/insider-trading-news/el-consejero-general-de-maplight-therapeutics-vende-acciones-por-607870-dolares-93CH-3748119",
-      "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "fecha": "2026-07-18T01:49:49.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Innovative Cellular Therapeutics vende 137 dólares en acciones de Lyell Immunopharma",
-      "url": "https://es.investing.com/news/insider-trading-news/innovative-cellular-therapeutics-vende-137-dolares-en-acciones-de-lyell-immunopharma-93CH-3748118",
-      "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "fecha": "2026-07-18T01:49:43.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Director de MannKind Steven Binder vende 213.089 dólares en acciones",
-      "url": "https://es.investing.com/news/insider-trading-news/director-de-mannkind-steven-binder-vende-213089-dolares-en-acciones-93CH-3748117",
-      "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "fecha": "2026-07-18T01:47:19.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "La directora médica de MapLight Therapeutics vende acciones por 1,73 millones de dólares",
-      "url": "https://es.investing.com/news/insider-trading-news/la-directora-medica-de-maplight-therapeutics-vende-acciones-por-173-millones-de-dolares-93CH-3748116",
-      "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "fecha": "2026-07-18T01:47:04.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "¿Pragmatismo o ideología? Lo que revela el giro de De la Espriella hacia Israel",
-      "url": "https://www.france24.com/es/am%C3%A9rica-latina/20260718-pragmatismo-o-ideolog%C3%ADa-lo-que-revela-el-giro-de-de-la-espriella-hacia-israel",
-      "imagen": "https://s.france24.com/media/display/21a876cc-7a26-11f1-918b-005056bfb2b6/w:1024/p:16x9/2026-06-25T170555Z-1339407776-RC241MAWRHWF-RTRMADP-3-COLOMBIA-ELECTION.jpg",
-      "fecha": "2026-07-18T01:27:44.000Z",
-      "fuenteId": "france24-espanol",
-      "fuenteTitle": "France 24 Español",
-      "categorias": [
-        "internacional",
-        "politica"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Mario Kart Wii llega a PC de forma nativa con un recompilado con IA",
-      "url": "https://www.profesionalreview.com/2026/07/18/mario-kart-wii-llega-pc-nativa-recompilado-ia/",
-      "imagen": "https://www.youtube.com/embed/3ndObfBmqGc",
-      "fecha": "2026-07-18T01:27:42.000Z",
-      "fuenteId": "profesional-review",
-      "fuenteTitle": "Profesional Review",
-      "categorias": [
-        "tecnologia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "GameStop acumula el 9,8% de eBay tras el rechazo de su oferta de adquisición",
-      "url": "https://es.investing.com/news/company-news/gamestop-acumula-el-98-de-ebay-tras-el-rechazo-de-su-oferta-de-adquisicion-3748114",
-      "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "fecha": "2026-07-18T01:26:54.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Cofundadora de Natera, Sheena Jonathan, vende acciones NTRA por 410.825 dólares",
-      "url": "https://es.investing.com/news/insider-trading-news/cofundadora-de-natera-sheena-jonathan-vende-acciones-ntra-por-410825-dolares-93CH-3748111",
-      "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "fecha": "2026-07-18T01:11:38.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Director de Natera Rowan Chapman vende 37.100 dólares en acciones",
-      "url": "https://es.investing.com/news/insider-trading-news/director-de-natera-rowan-chapman-vende-37100-dolares-en-acciones-93CH-3748110",
-      "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "fecha": "2026-07-18T01:11:14.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El director de Airbnb, Joseph Gebbia, vende acciones por 35,5 millones de dólares",
-      "url": "https://es.investing.com/news/insider-trading-news/el-director-de-airbnb-joseph-gebbia-vende-acciones-por-355-millones-de-dolares-93CH-3748109",
-      "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "fecha": "2026-07-18T01:11:12.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Leo Messi, el ‘Que viva España’ de Manolo Escobar y la queja de Luis de la Fuente: “A mí me han enseñado a tener respeto”",
-      "url": "https://elpais.com/deportes/mundial-futbol/2026-07-18/leo-messi-el-que-viva-espana-de-manolo-escobar-y-la-queja-de-luis-de-la-fuente-a-mi-me-han-ensenado-a-tener-respeto.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/DNCX53XCB5LOXMQW56EXDCYR7I.jpg?auth=71e835f2dc45fa63c9647accd7610cbd18c0f0c0c4ff3f99ce2e83a4d67c759a",
-      "fecha": "2026-07-18T01:06:10.000Z",
-      "fuenteId": "el-pais",
-      "fuenteTitle": "El País",
-      "categorias": [
-        "actualidad",
-        "tecnologia",
-        "ciencia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Cubarsí, una aparición a lo Maldini, y Laporte, el mejor 'fichaje' español: la creación de la gran pareja del Mundial",
-      "url": "https://www.elespanol.com/deportes/futbol/mundial/20260718/cubarsi-aparicion-maldini-laporte-mejor-fichaje-espanol-creacion-gran-pareja-mundial/1003744324738_0.html",
-      "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11318549.jpg?p=c:3590:2021:nowe:0:120/w:1706/h:960&h=bv-Ct-fF",
-      "fecha": "2026-07-18T01:02:00.000Z",
-      "fuenteId": "el-espanol-deportes",
-      "fuenteTitle": "El Español - Deportes",
-      "categorias": [
-        "deportes"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Cómo hemos cambiado: el cara a cara de los héroes de España en 2010 y los que buscan hacer historia en el Mundial 2026",
-      "url": "https://www.elespanol.com/deportes/futbol/mundial/20260718/cambiado-cara-heroes-espana-buscan-hacer-historia-mundial/1003744324939_3.html",
-      "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11317755.jpg?p=w:1706/h:960&h=4lpu5QtA",
-      "fecha": "2026-07-18T01:01:00.000Z",
-      "fuenteId": "el-espanol-deportes",
-      "fuenteTitle": "El Español - Deportes",
-      "categorias": [
-        "deportes"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Adiós a perder dinero al repostar: este es el precio del litro de gasolina hoy sábado, 18 de julio de 2026 en Costco, Alcampo, Plenergy, Ballenoil o Petroprix",
-      "url": "https://theobjective.com/economia/transporte/2026-07-18/precio-gasolina-diesel-sabado-18-julio-2026/",
-      "imagen": "https://theobjective.com/wp-content/uploads/2025/07/precio-combustible-hoy-martes-8-julio.jpg",
-      "fecha": "2026-07-18T01:00:21.000Z",
-      "fuenteId": "the-objective",
-      "fuenteTitle": "The Objective",
-      "categorias": [
-        "actualidad",
-        "politica"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Incendio en Fontainebleau: uno de los pulmones de Francia",
-      "url": "https://www.france24.com/es/incendio-en-fontainebleau-uno-de-los-pulmones-de-francia",
-      "imagen": "https://s.france24.com/media/display/abcc1ff6-8242-11f1-a7dd-005056bf30b7/w:1024/p:16x9/750396787-18379868137166644-7287347558115411470-n.jpg",
-      "fecha": "2026-07-18T00:56:24.000Z",
-      "fuenteId": "france24-espanol",
-      "fuenteTitle": "France 24 Español",
-      "categorias": [
-        "internacional",
-        "politica"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "¿El \"token shock\" frena la adopción de la IA?",
-      "url": "https://es.investing.com/news/economy-news/el-token-shock-frena-la-adopcion-de-la-ia-3748108",
-      "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "fecha": "2026-07-18T00:52:10.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El caso del operador del teleprompter de Trump señalado por apostar sobre los discursos del presidente",
-      "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260718-el-caso-del-operador-del-teleprompter-de-trump-se%C3%B1alado-por-apostar-sobre-los-discursos-del-presidente",
-      "imagen": "https://s.france24.com/media/display/8e903f56-8230-11f1-a141-005056bfb2b6/w:1024/p:16x9/2026-07-16T193130Z-1998498407-HP1EKB60KEE5F-RTRMADP-3-USA-ELECTION-TRUMP.jpg",
-      "fecha": "2026-07-18T00:51:28.000Z",
-      "fuenteId": "france24-espanol",
-      "fuenteTitle": "France 24 Español",
-      "categorias": [
-        "internacional",
-        "politica"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "La directora de Tecnología de MediaAlpha vende acciones de MAX por 186.930 dólares",
-      "url": "https://es.investing.com/news/insider-trading-news/la-directora-de-tecnologia-de-mediaalpha-vende-acciones-de-max-por-186930-dolares-93CH-3748105",
-      "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "fecha": "2026-07-18T00:50:51.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El director ejecutivo de MediaAlpha, Steven Yi, vende 1,36 millones de dólares en acciones",
-      "url": "https://es.investing.com/news/insider-trading-news/el-director-ejecutivo-de-mediaalpha-steven-yi-vende-136-millones-de-dolares-en-acciones-93CH-3748104",
-      "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "fecha": "2026-07-18T00:50:51.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El día que Messi le metió cuatro goles a De la Fuente",
-      "url": "https://www.mundodeportivo.com/seleccion-espanola/20260718/1004207657/dia-messi-le-metio-cuatro-goles-fuente.html",
-      "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2026/07/18/6a5accfebd5f8.r_d.1562-1399-0.jpeg",
-      "fecha": "2026-07-18T00:50:23.000Z",
-      "fuenteId": "mundo-deportivo",
-      "fuenteTitle": "Mundo Deportivo",
-      "categorias": [
-        "deportes"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El incendio de Orés ya es el peor de España: ha arrasado más de una sexta parte de las 75.000 hectáreas calcinadas este 2026",
-      "url": "https://www.elespanol.com/aragon/actualidad/20260718/incendio-ores-peor-espana-arrasado-sexta-parte-hectareas-calcinadas-dl/1003744325723_0.html",
-      "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11318578.jpg?p=w:1706/h:960&h=-Rat5Nv7",
-      "fecha": "2026-07-18T00:50:11.000Z",
-      "fuenteId": "el-espanol",
-      "fuenteTitle": "El Español",
-      "categorias": [
-        "actualidad"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Mercedes González admite que Leire le denunció filtraciones de la UCO la víspera de que el DAO expedientara a los agentes",
-      "url": "https://www.elespanol.com/espana/tribunales/20260718/mercedes-gonzalez-admite-leire-denuncio-filtraciones-uco-vispera-dao-expedientara-agentes/1003744325919_0.html",
-      "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11318526.jpg?p=w:1706/h:960&h=UiU97RRg",
-      "fecha": "2026-07-18T00:50:01.000Z",
-      "fuenteId": "el-espanol",
-      "fuenteTitle": "El Español",
-      "categorias": [
-        "actualidad"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Moncloa puso en el hipódromo de nº2 a la amiga de Cerdán y su mujer que vio con ellos el piso que iba a comprar Servinabar",
-      "url": "https://www.elespanol.com/espana/politica/20260718/moncloa-puso-hipodromo-n2-amiga-cerdan-mujer-vio-piso-iba-comprar-servinabar/1003744325890_0.html",
-      "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11318563.jpg?p=c:465:262:nowe:136:0/w:1706/h:960&h=wo8d3H03",
-      "fecha": "2026-07-18T00:50:00.000Z",
-      "fuenteId": "el-espanol",
-      "fuenteTitle": "El Español",
-      "categorias": [
-        "actualidad"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Cerdán tuvo \"plena disposición\" de los fondos de Servinabar durante 9 años y usó al menos 323.000€ para sus gastos",
-      "url": "https://www.elespanol.com/espana/20260718/cerdan-plena-disposicion-fondos-servinabar-anos-uso-gastos/1003744325841_0.html",
-      "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11318574.jpg?p=w:1706/h:960&h=7jy2dN2V",
-      "fecha": "2026-07-18T00:49:57.000Z",
-      "fuenteId": "el-espanol",
-      "fuenteTitle": "El Español",
-      "categorias": [
-        "actualidad"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Bruselas afea el reparto de la publicidad institucional en España y su \"influencia política\" con opacidad y \"discriminación\"",
-      "url": "https://www.elespanol.com/espana/politica/20260718/bruselas-afea-reparto-publicidad-institucional-espana-influencia-politica-opacidad-discriminacion/1003744325720_0.html",
-      "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11134588.jpg?p=w:1706/h:960&h=jHweWZpg",
-      "fecha": "2026-07-18T00:49:55.000Z",
-      "fuenteId": "el-espanol",
-      "fuenteTitle": "El Español",
-      "categorias": [
-        "actualidad"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Zelenski abre un cisma en el frente tras cesar a Fédorov, el visionario de los drones: \"Es como pegarse un tiro en el pie\"",
-      "url": "https://www.elespanol.com/mundo/europa/20260718/zelenski-abre-cisma-frente-cesar-fedorov-visionario-drones-pegarse-tiro-pie/1003744325690_0.html",
-      "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11318589.jpg?p=w:1706/h:960&h=xGFrfDfg",
-      "fecha": "2026-07-18T00:49:54.000Z",
-      "fuenteId": "el-espanol",
-      "fuenteTitle": "El Español",
-      "categorias": [
-        "actualidad"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Burnham despide con honores a Starmer pero promete \"laborismo sin complejos\" en su camino hacia Downing Street",
-      "url": "https://www.elespanol.com/mundo/europa/20260718/burnham-despide-honores-starmer-promete-laborismo-sin-complejos-camino-downing-street/1003744325623_0.html",
-      "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11318384.jpg?p=c:3999:2248:nowe:0:0/w:1706/h:960&h=wcclZMga",
-      "fecha": "2026-07-18T00:49:54.000Z",
-      "fuenteId": "el-espanol",
-      "fuenteTitle": "El Español",
-      "categorias": [
-        "actualidad"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Un mes después, Zapatero sigue sin explicar al juez el origen de las joyas de 1,3 millones que prometió aclarar en diez días",
-      "url": "https://www.elespanol.com/espana/politica/20260718/mes-despues-zapatero-sigue-sin-explicar-juez-origen-joyas-millones-prometio-aclarar-dias/1003744322972_0.html",
-      "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11289213.jpg?p=w:1706/h:960&h=dcvvvk5g",
-      "fecha": "2026-07-18T00:49:53.000Z",
-      "fuenteId": "el-espanol",
-      "fuenteTitle": "El Español",
-      "categorias": [
-        "actualidad"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El canciller de Orbán regó a la gigante china BYD con el dinero de los húngaros: Pekín le premia con un puesto en la empresa",
-      "url": "https://www.elespanol.com/mundo/europa/20260718/canciller-orban-rego-gigante-china-byd-dinero-hungaros-pekin-premia-puesto-empresa/1003744323500_0.html",
-      "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11317090.jpg?p=w:1706/h:960&h=rHuPPWrO",
-      "fecha": "2026-07-18T00:49:53.000Z",
-      "fuenteId": "el-espanol",
-      "fuenteTitle": "El Español",
-      "categorias": [
-        "actualidad"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El peor temporal en décadas afecta a Chile: inundaciones, cortes de luz y cientos de evacuados",
-      "url": "https://www.france24.com/es/video/20260718-el-peor-temporal-en-d%C3%A9cadas-afecta-a-chile-inundaciones-cortes-de-luz-y-cientos-de-evacuados",
-      "imagen": "https://s.france24.com/media/display/6a113850-8240-11f1-acc6-005056a90284/w:1024/p:16x9/ES-20260717-191314-191452-CS.jpg",
-      "fecha": "2026-07-18T00:47:02.000Z",
-      "fuenteId": "france24-espanol",
-      "fuenteTitle": "France 24 Español",
-      "categorias": [
-        "internacional",
-        "politica"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Lo de Jimena, gratis",
-      "url": "https://www.abc.es/cultura/perder-20260722024207-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/07/22/verbena-sanjuan-Rtw0CID4OFrnDzmmVO3PvGL-1200x840@diario_abc.jpg",
-      "fecha": "2026-07-18T00:42:07.000Z",
-      "fuenteId": "abc-cultura",
-      "fuenteTitle": "ABC - Cultura",
-      "categorias": [
-        "cultura"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "J Kbello, ganador de 'Tu Cara Me Suena 13': “Es un camino que termina, pero que abre una puerta nueva”",
-      "url": "https://www.lavanguardia.com/television/20260718/11595312/j-kbello-ganador-cara-me-suena-13-camino-termina-abre-puerta-nueva.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/18/6a5acaa63f1eb.r_d.3260-2173-0.jpeg",
-      "fecha": "2026-07-18T00:41:06.000Z",
-      "fuenteId": "lavanguardia-television",
-      "fuenteTitle": "La Vanguardia - Televisión",
-      "categorias": [
-        "entretenimiento"
       ],
       "idioma": "es"
     }
