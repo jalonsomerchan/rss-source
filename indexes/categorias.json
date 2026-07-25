@@ -1,8 +1,20 @@
 {
-  "generado": "2026-07-25T22:42:58.273Z",
+  "generado": "2026-07-25T23:02:50.334Z",
   "limitePorCategoria": 20,
   "categorias": {
     "actualidad": [
+      {
+        "titulo": "Me arrepiento profundamente",
+        "url": "https://www.abc.es/cultura/jaime-bayly-arrepiento-profundamente-20260726002055-nt.html",
+        "imagen": "",
+        "fecha": "2026-07-25T22:20:55.000Z",
+        "fuenteId": "abc",
+        "fuenteTitle": "ABC",
+        "categorias": [
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "El avance de los incendios que asolan España, en directo | El fuego en Madrid y Ávila deja ya más de 90.000 evacuados y confinados",
         "url": "https://theobjective.com/sociedad/suceso/2026-07-26/directo-avance-incendio-madrid/directo/",
@@ -13,6 +25,19 @@
         "categorias": [
           "actualidad",
           "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Mercadona abierto hoy domingo: horario especial el 26 de julio en algunos supermercados",
+        "url": "https://www.abc.es/espana/comunidad-valenciana/mercadona-abierto-hoy-domingo-horario-especial-julio-20260726000500-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/07/26/mercadona-domingo-RtfKyvVc2CdEtpmWygKmcSP-1200x840@diario_abc.jpg",
+        "fecha": "2026-07-25T22:05:00.000Z",
+        "fuenteId": "abc-espana",
+        "fuenteTitle": "ABC - España",
+        "categorias": [
+          "politica",
+          "actualidad"
         ],
         "idioma": "es"
       },
@@ -225,10 +250,26 @@
         "idioma": "es"
       },
       {
-        "titulo": "Cuando “evacuación” es la palabra del día: niños, vecinos discapacitados, perros y también autoridades",
-        "url": "https://elpais.com/espana/madrid/2026-07-26/cuando-evacuacion-es-la-palabra-del-dia-ninos-vecinos-sin-piernas-perros-y-tambien-autoridades.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/7N4JWOONDVEWTNBV777KPKQ5Y4.JPG?auth=23a419bf74993bb5de82769bf11485d172bb9efcf0c65cde2d6cd5ea2c736383",
-        "fecha": "2026-07-25T21:52:00.000Z",
+        "titulo": "Al menos un muerto y una quincena de heridos por un atropello durante el Día del Orgullo en Berlín",
+        "url": "https://elpais.com/internacional/2026-07-25/varios-heridos-por-un-atropello-durante-el-dia-del-orgullo-en-berlin.html",
+        "imagen": "https://imagenes.elpais.com/resizer/v2/KSDJLBEV5VIQ7L5QWLTNVE32VQ.jpg?auth=3e8e898a5f2f674630f3cefa1fbfc4940aa7abc5f0c1fd0ac9229bb599762899",
+        "fecha": "2026-07-25T21:53:23.000Z",
+        "fuenteId": "el-pais",
+        "fuenteTitle": "El País",
+        "categorias": [
+          "actualidad",
+          "tecnologia",
+          "ciencia"
+        ],
+        "idioma": "es"
+      }
+    ],
+    "ciencia": [
+      {
+        "titulo": "Al menos un muerto y una quincena de heridos por un atropello durante el Día del Orgullo en Berlín",
+        "url": "https://elpais.com/internacional/2026-07-25/varios-heridos-por-un-atropello-durante-el-dia-del-orgullo-en-berlin.html",
+        "imagen": "https://imagenes.elpais.com/resizer/v2/KSDJLBEV5VIQ7L5QWLTNVE32VQ.jpg?auth=3e8e898a5f2f674630f3cefa1fbfc4940aa7abc5f0c1fd0ac9229bb599762899",
+        "fecha": "2026-07-25T21:53:23.000Z",
         "fuenteId": "el-pais",
         "fuenteTitle": "El País",
         "categorias": [
@@ -238,34 +279,6 @@
         ],
         "idioma": "es"
       },
-      {
-        "titulo": "Dimite el ministro de Educación de India tras las fuertes protestas por la filtración de exámenes",
-        "url": "https://theobjective.com/internacional/2026-07-25/dimite-ministro-educacion-india-protestas-filtracion-examenes/",
-        "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/06/meta-india-estados-unidos-469x317.jpg",
-        "fecha": "2026-07-25T21:45:33.000Z",
-        "fuenteId": "the-objective",
-        "fuenteTitle": "The Objective",
-        "categorias": [
-          "actualidad",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Al menos un muerto y varios heridos en Berlín por un atropello múltiple en la fiesta del Día del Orgullo LGTBI",
-        "url": "https://www.lavanguardia.com/vida/20260725/11601142/heridos-berlin-atropello-multiple-fiesta-dia-orgullo-lgtbi.html",
-        "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/07/25/6a652c62eb6ed.jpeg",
-        "fecha": "2026-07-25T21:38:04.000Z",
-        "fuenteId": "la-vanguardia-vida",
-        "fuenteTitle": "La Vanguardia - Vida",
-        "categorias": [
-          "actualidad",
-          "salud"
-        ],
-        "idioma": "es"
-      }
-    ],
-    "ciencia": [
       {
         "titulo": "Cuando “evacuación” es la palabra del día: niños, vecinos discapacitados, perros y también autoridades",
         "url": "https://elpais.com/espana/madrid/2026-07-26/cuando-evacuacion-es-la-palabra-del-dia-ninos-vecinos-sin-piernas-perros-y-tambien-autoridades.html",
@@ -522,19 +535,6 @@
           "tecnologia",
           "ciencia",
           "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Los incendios forestales obligan a la ESA y a la NASA a evacuar sus estaciones de espacio profundo en Cebreros y Robledo de Chavela",
-        "url": "http://www.microsiervos.com/archivo/espacio/incendios-forestales-evacuar-estrack-esa-cebreros-dsn-nasa-robledo-chavela.html",
-        "imagen": "https://img.microsiervos.com/images2026/LlamasRobledoDeChavela.webp",
-        "fecha": "2026-07-25T16:00:00.000Z",
-        "fuenteId": "microsiervos",
-        "fuenteTitle": "Microsiervos",
-        "categorias": [
-          "tecnologia",
-          "ciencia"
         ],
         "idioma": "es"
       }
@@ -1160,6 +1160,18 @@
         "idioma": "es"
       },
       {
+        "titulo": "Sara Gallego firma su victoria más emotiva en el Nacional de Málaga",
+        "url": "https://www.mundodeportivo.com/running/20260725/1004210199/sara-gallego-firma-victoria-emotiva-nacional-malaga.html",
+        "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/07/25/6a652fd604f16.jpeg",
+        "fecha": "2026-07-25T21:53:04.000Z",
+        "fuenteId": "mundo-deportivo",
+        "fuenteTitle": "Mundo Deportivo",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Blanca Hervás gana por una centésima a Paula Sevilla en la cumbre de los 400 metros",
         "url": "https://www.elmundo.es/deportes/mas-deporte/2026/07/25/6a652bc4e4d4d82d218b4574.html",
         "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/07/25/17850155960321.jpg",
@@ -1286,18 +1298,6 @@
         "fecha": "2026-07-25T21:00:57.000Z",
         "fuenteId": "el-mundo-deportes",
         "fuenteTitle": "El Mundo - Deportes",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Rodri es superación",
-        "url": "https://as.com/futbol/seleccion/rodri-es-superacion-f202607-n/",
-        "imagen": "https://img.asmedia.epimg.net/resizer/v2/GFGSXQT2C5MX3E4UVYGKV2EOPY.jpg?auth=758af7529e6eae741cfef11314f12ee00e37c9260e81e489c9bdf1f1bb572f47",
-        "fecha": "2026-07-25T21:00:18.000Z",
-        "fuenteId": "as",
-        "fuenteTitle": "AS",
         "categorias": [
           "deportes"
         ],
@@ -2327,6 +2327,19 @@
     ],
     "internacional": [
       {
+        "titulo": "Al menos cinco palestinos muertos en jornada de ataques israelíes en Gaza pese al alto el fuego",
+        "url": "https://www.france24.com/es/medio-oriente/20260725-al-menos-cinco-palestinos-muertos-en-jornada-de-ataques-israel%C3%ADes-en-gaza-pese-al-alto-el-fuego",
+        "imagen": "https://s.france24.com/media/display/034f1bf0-7935-11f1-9c31-005056a90284/w:1024/p:16x9/2026-07-04T144551Z-1840957235-RC207MAF2O6D-RTRMADP-3-ISRAEL-PALESTINIANS-GAZA.jpg",
+        "fecha": "2026-07-25T22:05:05.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Al menos un muerto y varios heridos en un atropello múltiple en la fiesta del Orgullo en Berlín",
         "url": "https://www.abc.es/internacional/varios-heridos-atropello-multiple-fiesta-orgullo-berlin-20260725232421-nt.html",
         "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/07/25/1515243814-U20609936686gPD-U30100986923900H-1200x840@diario_abc.jpg",
@@ -2336,19 +2349,6 @@
         "categorias": [
           "internacional",
           "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Al menos un muerto y varios heridos por un atropello durante el Día del Orgullo en Berlín",
-        "url": "https://elpais.com/internacional/2026-07-25/varios-heridos-por-un-atropello-durante-el-dia-del-orgullo-en-berlin.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/KSDJLBEV5VIQ7L5QWLTNVE32VQ.jpg?auth=3e8e898a5f2f674630f3cefa1fbfc4940aa7abc5f0c1fd0ac9229bb599762899",
-        "fecha": "2026-07-25T21:53:23.000Z",
-        "fuenteId": "el-pais-internacional",
-        "fuenteTitle": "El País - Internacional",
-        "categorias": [
-          "internacional",
-          "politica"
         ],
         "idioma": "es"
       },
@@ -2375,6 +2375,19 @@
         "categorias": [
           "internacional",
           "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Incendios siguen avanzando en Francia y España mientras aumenta el número de evacuados",
+        "url": "https://www.france24.com/es/video/20260725-incendios-siguen-avanzando-en-francia-y-espa%C3%B1a-mientras-aumenta-el-n%C3%BAmero-de-evacuados",
+        "imagen": "https://s.france24.com/media/display/38300692-886a-11f1-b9e0-005056bf30b7/w:1024/p:16x9/ES-20260725-150137-150344-CS.jpg",
+        "fecha": "2026-07-25T21:12:53.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
         ],
         "idioma": "es"
       },
@@ -2572,22 +2585,21 @@
           "politica"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "Choque entre dos buses deja al menos 35 muertos en Siria",
-        "url": "https://www.dw.com/es/choque-entre-dos-buses-deja-al-menos-35-muertos-en-siria/a-78114892?maca=spa-rss-sp-all-1122-xml-mrss",
-        "imagen": "",
-        "fecha": "2026-07-25T16:30:00.000Z",
-        "fuenteId": "dw-espanol",
-        "fuenteTitle": "DW Español",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
       }
     ],
     "local": [
+      {
+        "titulo": "1ª PARTE | 25 JUL 2026 | TIEMPO DE JUEGO",
+        "url": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/1a-parte-25-jul-2026-juego-20260726_3410650.html",
+        "imagen": "",
+        "fecha": "2026-07-25T22:07:50.000Z",
+        "fuenteId": "cope-extremadura",
+        "fuenteTitle": "COPE Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "El Extremadura abre el verano con una goleada en Torremejía",
         "url": "https://www.elperiodicoextremadura.com/deportes/2026/07/25/extremadura-abre-verano-goleada-torremejia-amistoso-pretemporada-132812339.html",
@@ -2811,18 +2823,6 @@
         "fecha": "2026-07-25T18:32:07.000Z",
         "fuenteId": "cope-extremadura",
         "fuenteTitle": "COPE Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Rodri, a la espera de firmar por el Madrid",
-        "url": "https://www.elperiodicoextremadura.com/deportes/2026/07/25/rodri-espera-firmar-real-madrid-132809600.html",
-        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/4863e757-de00-48ff-9f6f-98a10c88fca1_16-9-aspect-ratio_default_0_x1000y444.jpg",
-        "fecha": "2026-07-25T18:31:34.000Z",
-        "fuenteId": "el-periodico-extremadura",
-        "fuenteTitle": "El Periódico Extremadura",
         "categorias": [
           "local"
         ],
@@ -3350,6 +3350,32 @@
         "idioma": "es"
       },
       {
+        "titulo": "Al menos cinco palestinos muertos en jornada de ataques israelíes en Gaza pese al alto el fuego",
+        "url": "https://www.france24.com/es/medio-oriente/20260725-al-menos-cinco-palestinos-muertos-en-jornada-de-ataques-israel%C3%ADes-en-gaza-pese-al-alto-el-fuego",
+        "imagen": "https://s.france24.com/media/display/034f1bf0-7935-11f1-9c31-005056a90284/w:1024/p:16x9/2026-07-04T144551Z-1840957235-RC207MAF2O6D-RTRMADP-3-ISRAEL-PALESTINIANS-GAZA.jpg",
+        "fecha": "2026-07-25T22:05:05.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Mercadona abierto hoy domingo: horario especial el 26 de julio en algunos supermercados",
+        "url": "https://www.abc.es/espana/comunidad-valenciana/mercadona-abierto-hoy-domingo-horario-especial-julio-20260726000500-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/07/26/mercadona-domingo-RtfKyvVc2CdEtpmWygKmcSP-1200x840@diario_abc.jpg",
+        "fecha": "2026-07-25T22:05:00.000Z",
+        "fuenteId": "abc-espana",
+        "fuenteTitle": "ABC - España",
+        "categorias": [
+          "politica",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Éxodo de los caballos entre las llamas: \"Venían muy alterados, relinchando como locos\"",
         "url": "https://www.elmundo.es/espana/2026/07/26/6a65039ce9cf4a4b498b4587.html",
         "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/07/25/17850044767078.jpg",
@@ -3389,19 +3415,6 @@
         "idioma": "es"
       },
       {
-        "titulo": "Al menos un muerto y varios heridos por un atropello durante el Día del Orgullo en Berlín",
-        "url": "https://elpais.com/internacional/2026-07-25/varios-heridos-por-un-atropello-durante-el-dia-del-orgullo-en-berlin.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/KSDJLBEV5VIQ7L5QWLTNVE32VQ.jpg?auth=3e8e898a5f2f674630f3cefa1fbfc4940aa7abc5f0c1fd0ac9229bb599762899",
-        "fecha": "2026-07-25T21:53:23.000Z",
-        "fuenteId": "el-pais-internacional",
-        "fuenteTitle": "El País - Internacional",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
         "titulo": "Dimite el ministro de Educación de India tras las fuertes protestas por la filtración de exámenes",
         "url": "https://theobjective.com/internacional/2026-07-25/dimite-ministro-educacion-india-protestas-filtracion-examenes/",
         "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/06/meta-india-estados-unidos-469x317.jpg",
@@ -3421,6 +3434,19 @@
         "fecha": "2026-07-25T21:45:00.000Z",
         "fuenteId": "dw-espanol",
         "fuenteTitle": "DW Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Incendios siguen avanzando en Francia y España mientras aumenta el número de evacuados",
+        "url": "https://www.france24.com/es/video/20260725-incendios-siguen-avanzando-en-francia-y-espa%C3%B1a-mientras-aumenta-el-n%C3%BAmero-de-evacuados",
+        "imagen": "https://s.france24.com/media/display/38300692-886a-11f1-b9e0-005056bf30b7/w:1024/p:16x9/ES-20260725-150137-150344-CS.jpg",
+        "fecha": "2026-07-25T21:12:53.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
         "categorias": [
           "internacional",
           "politica"
@@ -3567,32 +3593,6 @@
         "categorias": [
           "actualidad",
           "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Incendios en aumento: ¿es el cerebro humano el responsable de la negación climática?",
-        "url": "https://www.france24.com/es/medio-ambiente/20260725-incendios-en-aumento-es-el-cerebro-humano-el-responsable-de-la-negaci%C3%B3n-clim%C3%A1tica",
-        "imagen": "https://s.france24.com/media/display/1d9eed2e-8839-11f1-b608-005056a90284/w:1024/p:16x9/d0e0cbf64b85a8d27e8809556fe36bbead003331.jpg",
-        "fecha": "2026-07-25T20:28:05.000Z",
-        "fuenteId": "france24-espanol",
-        "fuenteTitle": "France 24 Español",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El Córdoba CF avanza con paso firme en su pretemporada con una victoria trabajada sobre el Cádiz (0-1)",
-        "url": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-avanza-paso-firme-pretemporada-victoria-trabajada-20260725222516-nts.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/07/25/bri-gol-amistoso-RNzhxcq4LaO50IVcaMMdYTI-1200x840@diario_abc.jpeg",
-        "fecha": "2026-07-25T20:25:16.000Z",
-        "fuenteId": "abc-espana",
-        "fuenteTitle": "ABC - España",
-        "categorias": [
-          "politica",
-          "actualidad"
         ],
         "idioma": "es"
       }
@@ -4141,6 +4141,20 @@
         "idioma": "es"
       },
       {
+        "titulo": "Al menos un muerto y una quincena de heridos por un atropello durante el Día del Orgullo en Berlín",
+        "url": "https://elpais.com/internacional/2026-07-25/varios-heridos-por-un-atropello-durante-el-dia-del-orgullo-en-berlin.html",
+        "imagen": "https://imagenes.elpais.com/resizer/v2/KSDJLBEV5VIQ7L5QWLTNVE32VQ.jpg?auth=3e8e898a5f2f674630f3cefa1fbfc4940aa7abc5f0c1fd0ac9229bb599762899",
+        "fecha": "2026-07-25T21:53:23.000Z",
+        "fuenteId": "el-pais",
+        "fuenteTitle": "El País",
+        "categorias": [
+          "actualidad",
+          "tecnologia",
+          "ciencia"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Cuando “evacuación” es la palabra del día: niños, vecinos discapacitados, perros y también autoridades",
         "url": "https://elpais.com/espana/madrid/2026-07-26/cuando-evacuacion-es-la-palabra-del-dia-ninos-vecinos-sin-piernas-perros-y-tambien-autoridades.html",
         "imagen": "https://imagenes.elpais.com/resizer/v2/7N4JWOONDVEWTNBV777KPKQ5Y4.JPG?auth=23a419bf74993bb5de82769bf11485d172bb9efcf0c65cde2d6cd5ea2c736383",
@@ -4371,18 +4385,6 @@
         "categorias": [
           "tecnologia",
           "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Microsoft va a eliminar dos funciones clave de Copilot: desaparecerán el próximo mes",
-        "url": "https://computerhoy.20minutos.es/software/microsoft-va-eliminar-dos-funciones-clave-copilot-desapareceran-proximo-mes_7018971_0.html",
-        "imagen": "https://imagenes.computerhoy.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/07/25/6a650108ba4af9-40006855.jpeg",
-        "fecha": "2026-07-25T18:35:00.000Z",
-        "fuenteId": "computer-hoy",
-        "fuenteTitle": "Computer Hoy",
-        "categorias": [
-          "tecnologia"
         ],
         "idioma": "es"
       }
