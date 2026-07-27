@@ -1,8 +1,20 @@
 {
-  "generado": "2026-07-27T02:58:06.900Z",
+  "generado": "2026-07-27T03:05:47.934Z",
   "limitePorCategoria": 20,
   "categorias": {
     "actualidad": [
+      {
+        "titulo": "\"Múltiples víctimas\" deja un tiroteo en un festival en Seattle",
+        "url": "https://www.20minutos.es/internacional/multiples-victimas-deja-un-tiroteo-un-festival-seattle_7019155_0.html",
+        "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2019/08/21/1038773.jpg",
+        "fecha": "2026-07-27T02:22:33.000Z",
+        "fuenteId": "20minutos",
+        "fuenteTitle": "20minutos",
+        "categorias": [
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Rusia mata a dos personas, entre ellas un niño de 10 años, al bombardear un supermercado en Chernígov",
         "url": "https://www.huffingtonpost.es/global/rusia-mata-dos-personasno-10nos-bombardear-supermercado-chernigov-f202607.html",
@@ -228,18 +240,6 @@
         "fecha": "2026-07-26T23:57:10.000Z",
         "fuenteId": "20minutos",
         "fuenteTitle": "20minutos",
-        "categorias": [
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El general que denunció al 'dos' del DAO recurre el archivo por «indefensión»",
-        "url": "https://www.abc.es/espana/general-denuncio-dos-dao-recurre-archivo-indefension-20260727014850-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/07/27/1514828918-RsoaiEpbnWGaa2QKcY2wb5L-1200x840@diario_abc.jpg",
-        "fecha": "2026-07-26T23:52:17.000Z",
-        "fuenteId": "abc",
-        "fuenteTitle": "ABC",
         "categorias": [
           "actualidad"
         ],
@@ -1289,6 +1289,30 @@
     ],
     "economia": [
       {
+        "titulo": "CXMT se dispara un 470% en su debut en Shanghái tras el mayor IPO de Asia en 2026",
+        "url": "https://es.investing.com/news/stock-market-news/cxmt-se-dispara-un-470-en-su-debut-en-shanghai-tras-el-mayor-ipo-de-asia-en-2026-3759646",
+        "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+        "fecha": "2026-07-27T02:17:20.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Naver sube a máximos de un mes tras inversión de 1.000 millones de dólares de Nvidia",
+        "url": "https://es.investing.com/news/stock-market-news/naver-sube-a-maximos-de-un-mes-tras-inversion-de-1000-millones-de-dolares-de-nvidia-3759643",
+        "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+        "fecha": "2026-07-27T02:07:06.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "El banco central de Singapur sorprende con su segundo endurecimiento consecutivo de política monetaria",
         "url": "https://es.investing.com/news/economy-news/el-banco-central-de-singapur-sorprende-con-su-segundo-endurecimiento-consecutivo-de-politica-monetaria-3759640",
         "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
@@ -1497,30 +1521,6 @@
         "url": "https://www.abc.es/economia/cirugia-robotica-afianza-descubre-nicho-tecnologico-industrial-20260727011633-nt.html",
         "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/07/27/badalona1%20(1)-RDUcHeTa6NAgfdxwfWUbjQO-1200x840@diario_abc.jpg",
         "fecha": "2026-07-26T23:16:33.000Z",
-        "fuenteId": "abc-economia",
-        "fuenteTitle": "ABC - Economía",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El fin del dolor de cabeza del aprovisionamiento tecnológico en las empresas sin fronteras",
-        "url": "https://www.abc.es/economia/fin-dolor-cabeza-aprovisionamiento-tecnologico-empresas-fronteras-20260727011622-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/07/27/walter-R4QNVg17xy4QZbeCyQzYiLJ-1200x840@diario_abc.jpg",
-        "fecha": "2026-07-26T23:16:22.000Z",
-        "fuenteId": "abc-economia",
-        "fuenteTitle": "ABC - Economía",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Los ascensores elevan su apuesta por la modernización",
-        "url": "https://www.abc.es/economia/ascensores-elevan-apuesta-modernizacion-20260727011612-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/07/27/kone-RTt6mNDzkP0mWEL9IdTEFHI-1200x840@diario_abc.jpg",
-        "fecha": "2026-07-26T23:16:12.000Z",
         "fuenteId": "abc-economia",
         "fuenteTitle": "ABC - Economía",
         "categorias": [
@@ -2302,6 +2302,19 @@
     ],
     "internacional": [
       {
+        "titulo": "Hermana de Kim rechaza llamados regionales a la desnuclearización",
+        "url": "https://www.dw.com/es/hermana-de-kim-rechaza-llamados-regionales-a-la-desnuclearización/a-78123271?maca=spa-rss-sp-all-1122-xml-mrss",
+        "imagen": "",
+        "fecha": "2026-07-27T02:27:00.000Z",
+        "fuenteId": "dw-espanol",
+        "fuenteTitle": "DW Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Un millar de nuevos casos de ébola en 10 días en RD Congo",
         "url": "https://www.dw.com/es/un-millar-de-nuevos-casos-de-ébola-en-10-días-en-rd-congo/a-78123251?maca=spa-rss-sp-all-1122-xml-mrss",
         "imagen": "",
@@ -2542,19 +2555,6 @@
         "fecha": "2026-07-26T21:52:00.000Z",
         "fuenteId": "dw-espanol",
         "fuenteTitle": "DW Español",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Israel allana el camino al despliegue de una fuerza internacional en parte de Gaza",
-        "url": "https://www.france24.com/es/medio-oriente/20260726-israel-allana-el-camino-al-despliegue-de-una-fuerza-internacional-en-parte-de-gaza",
-        "imagen": "https://s.france24.com/media/display/68eeaa68-8928-11f1-a10c-005056a97e36/w:1024/p:16x9/2026-07-19T181847Z-44209871-RC25HMA3BO2Z-RTRMADP-3-ISRAEL-PALESTINIANS-GAZA-MARCH.jpg",
-        "fecha": "2026-07-26T21:29:57.000Z",
-        "fuenteId": "france24-espanol",
-        "fuenteTitle": "France 24 Español",
         "categorias": [
           "internacional",
           "politica"
@@ -3058,6 +3058,18 @@
     ],
     "moda": [
       {
+        "titulo": "Horóscopo diario de hoy, lunes 27 de julio de 2026: predicción para todos los signos del Zodíaco",
+        "url": "https://www.marie-claire.es/horoscopo/horoscopo-diario-27-julio-2026.html",
+        "imagen": "",
+        "fecha": "2026-07-27T02:00:00.000Z",
+        "fuenteId": "marie-claire-espana",
+        "fuenteTitle": "Marie Claire España",
+        "categorias": [
+          "moda"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Horóscopo de hoy, lunes 27 de julio, consulta tu horóscopo diario gratis",
         "url": "https://www.hola.com/horoscopo/20260726914144/horoscopo-de-hoy-lunes-27-de-julio/",
         "imagen": "https://www.hola.com/horizon/landscape/d2f3a0ef34b3-horoscopo-lunes-1.png",
@@ -3296,22 +3308,22 @@
           "moda"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "6 sandalias de piel por menos de 40 euros en Zara que hacen que hasta tu look de playa se vea más sofisticado",
-        "url": "https://www.hola.com/moda/20260726914388/sandalias-planas-piel-zara-menos-40-euros/",
-        "imagen": "https://www.hola.com/horizon/landscape/22101352afb6-sandalias-piel-verano-zara.jpg",
-        "fecha": "2026-07-26T16:01:00.000Z",
-        "fuenteId": "hola",
-        "fuenteTitle": "¡Hola!",
-        "categorias": [
-          "corazon",
-          "moda"
-        ],
-        "idioma": "es"
       }
     ],
     "politica": [
+      {
+        "titulo": "Hermana de Kim rechaza llamados regionales a la desnuclearización",
+        "url": "https://www.dw.com/es/hermana-de-kim-rechaza-llamados-regionales-a-la-desnuclearización/a-78123271?maca=spa-rss-sp-all-1122-xml-mrss",
+        "imagen": "",
+        "fecha": "2026-07-27T02:27:00.000Z",
+        "fuenteId": "dw-espanol",
+        "fuenteTitle": "DW Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Un millar de nuevos casos de ébola en 10 días en RD Congo",
         "url": "https://www.dw.com/es/un-millar-de-nuevos-casos-de-ébola-en-10-días-en-rd-congo/a-78123251?maca=spa-rss-sp-all-1122-xml-mrss",
@@ -3556,19 +3568,6 @@
         "categorias": [
           "politica",
           "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Decenas de miles de hectáreas en llamas en Francia y España",
-        "url": "https://www.france24.com/es/video/20260726-decenas-de-miles-de-hect%C3%A1reas-en-llamas-en-francia-y-espa%C3%B1a",
-        "imagen": "https://s.france24.com/media/display/d3b5a38c-8938-11f1-8721-005056bf30b7/w:1024/p:16x9/Espan%CC%83a-y-Francia.png",
-        "fecha": "2026-07-26T22:31:36.000Z",
-        "fuenteId": "france24-espanol",
-        "fuenteTitle": "France 24 Español",
-        "categorias": [
-          "internacional",
-          "politica"
         ],
         "idioma": "es"
       }
