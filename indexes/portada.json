@@ -1,17 +1,311 @@
 {
-  "generado": "2026-07-28T01:17:57.437Z",
+  "generado": "2026-07-28T01:25:41.617Z",
   "limite": 50,
-  "total": 154309,
+  "total": 154340,
   "noticias": [
+    {
+      "titulo": "Estados Unidos abandona una reunión del Consejo de Seguridad de la ONU en plena disputa con Francia",
+      "url": "https://www.france24.com/es/francia/20260728-estados-unidos-abandona-una-reuni%C3%B3n-del-consejo-de-seguridad-de-la-onu-en-plena-disputa-con-francia",
+      "imagen": "https://s.france24.com/media/display/9f2c75fc-89f9-11f1-8838-005056bf30b7/w:1024/p:16x9/000-C3B374C.jpg",
+      "fecha": "2026-07-28T01:03:11.000Z",
+      "fuenteId": "france24-espanol",
+      "fuenteTitle": "France 24 Español",
+      "categorias": [
+        "internacional",
+        "politica"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Adiós a perder dinero al repostar: este es el precio del litro de gasolina hoy martes, 28 de julio de 2026 en Costco, Alcampo, Plenergy, Ballenoil o Petroprix",
+      "url": "https://theobjective.com/economia/transporte/2026-07-28/precio-gasolina-diesel-martes-28-julio-2026/",
+      "imagen": "https://theobjective.com/wp-content/uploads/2025/07/precio-combustible-gasolina-diesel-hoy.jpg",
+      "fecha": "2026-07-28T01:00:18.000Z",
+      "fuenteId": "the-objective",
+      "fuenteTitle": "The Objective",
+      "categorias": [
+        "actualidad",
+        "politica"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Griegos, portugueses e italianos, las 'brigadas internacionales' que combaten al fuego en Ávila: \"España nos ayudó a nosotros\"",
+      "url": "https://www.elespanol.com/reportajes/20260728/griegos-portugueses-italianos-brigadas-internacionales-combaten-fuego-avila-espana-ayudo/1003744335882_0.html",
+      "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11324921.jpg?p=w:1706/h:960&h=boig19x1",
+      "fecha": "2026-07-28T00:47:38.000Z",
+      "fuenteId": "el-espanol",
+      "fuenteTitle": "El Español",
+      "categorias": [
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "La directora financiera de SentinelOne, Sonalee Parekh, vende 237.064 dólares en acciones",
+      "url": "https://es.investing.com/news/insider-trading-news/la-directora-financiera-de-sentinelone-sonalee-parekh-vende-237064-dolares-en-acciones-93CH-3761842",
+      "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "fecha": "2026-07-28T00:47:31.000Z",
+      "fuenteId": "investing-es-noticias",
+      "fuenteTitle": "Investing.com España - Noticias",
+      "categorias": [
+        "economia"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "El PP responde en las Cortes a la Ley de Integridad 'sanchista' con 15 medidas contra la corrupción \"económica, política y moral\"",
+      "url": "https://www.elespanol.com/espana/politica/20260728/pp-responde-cortes-ley-integridad-sanchista-medidas-corrupcion-economica-politica-moral/1003744335937_0.html",
+      "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11324919.jpg?p=g:fp:0.54:0.2/w:1706/h:960&h=8N0EwJx-",
+      "fecha": "2026-07-28T00:47:11.000Z",
+      "fuenteId": "el-espanol",
+      "fuenteTitle": "El Español",
+      "categorias": [
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "La lucha heroica contra el fuego de Miguel Ángel y un centenar de vecinos del pueblo de Ayuso: \"Lo hemos librado de las llamas\"",
+      "url": "https://www.elespanol.com/reportajes/20260728/lucha-heroica-fuego-miguel-angel-centenar-vecinos-pueblo-ayuso-librado-llamas/1003744335913_0.html",
+      "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11324916.jpg?p=w:1706/h:960&h=s0vKO1Hc",
+      "fecha": "2026-07-28T00:47:10.000Z",
+      "fuenteId": "el-espanol",
+      "fuenteTitle": "El Español",
+      "categorias": [
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "El audio del DAO Llamas: \"Me llama el ministro Marlaska alterado por la filtración del correo de Begoña Gómez\"",
+      "url": "https://www.elespanol.com/espana/tribunales/20260728/audio-dao-llamas-llama-ministro-marlaska-alterado-filtracion-correo-begona-gomez/1003744335926_0.html",
+      "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11317587.jpg?p=w:1706/h:960&h=Tl-DZMR4",
+      "fecha": "2026-07-28T00:47:10.000Z",
+      "fuenteId": "el-espanol",
+      "fuenteTitle": "El Español",
+      "categorias": [
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Puente utiliza la Emergencia para erigirse en repuesto de Sánchez contra el PP: 'Tengo derecho a alzar la voz, no callaré'",
+      "url": "https://www.elespanol.com/espana/politica/20260728/puente-utiliza-emergencia-erigirse-repuesto-sanchez-pp-derecho-alzar-voz-no-callare/1003744335779_0.html",
+      "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11324883.jpg?p=w:1706/h:960&h=zPXh6GkQ",
+      "fecha": "2026-07-28T00:47:09.000Z",
+      "fuenteId": "el-espanol",
+      "fuenteTitle": "El Español",
+      "categorias": [
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Bomberos, brigadistas y militares luchan a destajo sin contener el fuego cuando llega otra tremenda ola de calor",
+      "url": "https://www.elespanol.com/espana/20260728/bomberos-brigadistas-militares-luchan-destajo-sin-contener-fuego-llega-tremenda-ola-calor/1003744335730_0.html",
+      "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11324859.jpg?p=w:1706/h:960&h=b4GLVLZ6",
+      "fecha": "2026-07-28T00:47:08.000Z",
+      "fuenteId": "el-espanol",
+      "fuenteTitle": "El Español",
+      "categorias": [
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Cuatro de los cinco mayores incendios de la historia de España han ocurrido en los últimos dos años",
+      "url": "https://www.elespanol.com/espana/20260728/mayores-incendios-historia-espana-ocurrido-ultimos-anos/1003744335738_0.html",
+      "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11324872.jpg?p=c:1919:1081:nowe:0:188/w:1706/h:960&h=xxLfTlQM",
+      "fecha": "2026-07-28T00:47:08.000Z",
+      "fuenteId": "el-espanol-espana",
+      "fuenteTitle": "El Español - España",
+      "categorias": [
+        "politica",
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Las guerras de Irán y Ucrania se cruzan en el Caspio: Teherán acusa a Zelenski de atacar a su buque y aleja a Putin de Trump",
+      "url": "https://www.elespanol.com/mundo/oriente-proximo/20260728/guerras-iran-ucrania-cruzan-caspio-teheran-acusa-zelenski-atacar-buque-aleja-putin-trump/1003744335695_0.html",
+      "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11324909.jpg?p=w:1706/h:960&h=D98Jyy_C",
+      "fecha": "2026-07-28T00:47:07.000Z",
+      "fuenteId": "el-espanol",
+      "fuenteTitle": "El Español",
+      "categorias": [
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "María Corina Machado y Edmundo González descartan participar en las negociaciones entre el chavismo y la oposición",
+      "url": "https://www.elespanol.com/mundo/america/20260728/maria-corina-machado-edmundo-gonzalez-descartan-participar-negociaciones-chavismo-oposicion/1003744335721_0.html",
+      "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/10705602.jpg?p=c:4000:2251:nowe:0:76/w:1706/h:960&h=ZltVqHeX",
+      "fecha": "2026-07-28T00:47:07.000Z",
+      "fuenteId": "el-espanol",
+      "fuenteTitle": "El Español",
+      "categorias": [
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Yan Diomande, un regateador obrero para Mourinho: diseccionando a la próxima estrella que ficha el Madrid",
+      "url": "https://www.elespanol.com/deportes/futbol/20260728/yan-diomande-regateador-obrero-mourinho-diseccionando-proxima-estrella-ficha-madrid/1003744335729_0.html",
+      "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11304814.jpg?p=c:4000:2251:nowe:0:27/w:1706/h:960&h=ebvd2Xuy",
+      "fecha": "2026-07-28T00:47:07.000Z",
+      "fuenteId": "el-espanol-deportes",
+      "fuenteTitle": "El Español - Deportes",
+      "categorias": [
+        "deportes"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "El audio de la directora de la Guardia Civil: \"Leire me dijo 'los mensajes de Sánchez y Ábalos los ha filtrado la UCO'\"",
+      "url": "https://www.elespanol.com/espana/tribunales/20260728/audio-directora-guardia-civil-leire-dijo-mensajes-sanchez-abalos-filtrado-uco/1003744335434_0.html",
+      "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11324917.jpg?p=w:1706/h:960&h=Q3hZ9zUw",
+      "fecha": "2026-07-28T00:47:06.000Z",
+      "fuenteId": "el-espanol",
+      "fuenteTitle": "El Español",
+      "categorias": [
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Independentistas, ecologistas y partidarios de la regularización masiva: radiografía del movimiento antiturismo balear",
+      "url": "https://www.elespanol.com/reportajes/20260728/independentistas-ecologistas-partidarios-regularizacion-masiva-radiografia-movimiento-antiturismo-balear/1003744335675_0.html",
+      "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11324860.jpg?p=w:1706/h:960&h=SD6CZvGH",
+      "fecha": "2026-07-28T00:47:06.000Z",
+      "fuenteId": "el-espanol",
+      "fuenteTitle": "El Español",
+      "categorias": [
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Los megaincendios simultáneos en España y Francia llevan al límite el mecanismo de protección civil de la UE",
+      "url": "https://www.elespanol.com/mundo/europa/20260728/megaincendios-simultaneos-espana-francia-llevan-limite-mecanismo-proteccion-civil-ue/1003744335170_0.html",
+      "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11324461.jpg?p=w:1706/h:960&h=1eZpknJi",
+      "fecha": "2026-07-28T00:47:06.000Z",
+      "fuenteId": "el-espanol",
+      "fuenteTitle": "El Español",
+      "categorias": [
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Sin valla entre Marruecos y España: un partido de Melilla quiere derribarla siguiendo los pasos de Gibraltar",
+      "url": "https://www.elespanol.com/espana/20260728/sin-valla-marruecos-espana-partido-melilla-quiere-derribarla-siguiendo-pasos-gibraltar/1003744333673_0.html",
+      "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11323494.jpg?p=w:1706/h:960&h=pT-5-84-",
+      "fecha": "2026-07-28T00:47:05.000Z",
+      "fuenteId": "el-espanol",
+      "fuenteTitle": "El Español",
+      "categorias": [
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Milei insulta a Lula en el acto de lanzamiento de la candidatura del hijo de Bolsonaro y abre una crisis diplomática con Brasil",
+      "url": "https://www.elespanol.com/mundo/america/20260728/milei-insulta-lula-acto-lanzamiento-candidatura-hijo-bolsonaro-abre-crisis-diplomatica-brasil/1003744331068_0.html",
+      "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11324803.jpg?p=w:1706/h:960&h=ZnJv-Stg",
+      "fecha": "2026-07-28T00:47:04.000Z",
+      "fuenteId": "el-espanol",
+      "fuenteTitle": "El Español",
+      "categorias": [
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "¿A qué se debe la fiebre de las 'plumas' para perder peso en Brasil?",
+      "url": "https://www.france24.com/es/am%C3%A9rica-latina/20260728-a-qu%C3%A9-se-debe-la-fiebre-de-las-plumas-para-perder-peso-en-brasil",
+      "imagen": "https://s.france24.com/media/display/401ff440-7e5e-11f1-b9b2-005056bfb2b6/w:1024/p:16x9/AP26077515184180.jpg",
+      "fecha": "2026-07-28T00:43:07.000Z",
+      "fuenteId": "france24-espanol",
+      "fuenteTitle": "France 24 Español",
+      "categorias": [
+        "internacional",
+        "politica"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Lula se burla de Milei, que redobla los insultos, mientras interviene China: \"¿Quién es ese tipo?\"",
+      "url": "https://www.elmundo.es/internacional/2026/07/28/6a67fae4e85ece12238b4594.html",
+      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/07/28/17851991671963.jpg",
+      "fecha": "2026-07-28T00:42:17.000Z",
+      "fuenteId": "el-mundo",
+      "fuenteTitle": "El Mundo",
+      "categorias": [
+        "actualidad",
+        "tecnologia"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "\"Escalada sin precedentes\": cómo colonos y soldados de Israel expanden la violencia sin freno en Cisjordania",
+      "url": "https://www.france24.com/es/medio-oriente/20260728-escalada-sin-precedentes-c%C3%B3mo-colonos-y-soldados-de-israel-expanden-la-violencia-sin-freno-en-cisjordania",
+      "imagen": "https://s.france24.com/media/display/1435df14-89f5-11f1-9801-005056bf30b7/w:1024/p:16x9/FOTO-PORTADA-CISJORDANIA-MEZQUITA-INCENDIADA.jpg",
+      "fecha": "2026-07-28T00:38:20.000Z",
+      "fuenteId": "france24-espanol",
+      "fuenteTitle": "France 24 Español",
+      "categorias": [
+        "internacional",
+        "politica"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Los futuros de las acciones se estabilizan antes de la Fed y resultados tecnológicos",
+      "url": "https://es.investing.com/news/stock-market-news/los-futuros-de-las-acciones-se-estabilizan-antes-de-la-fed-y-resultados-tecnologicos-3761839",
+      "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "fecha": "2026-07-28T00:38:04.000Z",
+      "fuenteId": "investing-es-noticias",
+      "fuenteTitle": "Investing.com España - Noticias",
+      "categorias": [
+        "economia"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Los tres focos claves para que el incendio no avance a norte, sur y oeste: \"En el Pantano de San Juan la situación es endiablada\"",
+      "url": "https://www.elespanol.com/madrid/comunidad/20260728/focos-claves-incendio-no-avance-norte-sur-oeste-pantano-san-juan-situacion-endiablada/1003744335897_0.html",
+      "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11324925.jpg?p=w:1706/h:1280&h=Sqr-Sk5n",
+      "fecha": "2026-07-28T00:29:44.000Z",
+      "fuenteId": "el-espanol",
+      "fuenteTitle": "El Español",
+      "categorias": [
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Humedeciendo árboles o con cortafuegos: así defienden los bomberos como Patxi a los pueblos de las llamas",
+      "url": "https://www.elespanol.com/madrid/comunidad/20260728/humedeciendo-arboles-cortafuegos-defienden-bomberos-patxi-pueblos-llamas/1003744335760_0.html",
+      "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11324876.jpg?p=w:1706/h:960&h=X3pAOioe",
+      "fecha": "2026-07-28T00:29:43.000Z",
+      "fuenteId": "el-espanol",
+      "fuenteTitle": "El Español",
+      "categorias": [
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
     {
       "titulo": "La factura de extinguir la ola de incendios que arrasa España en 2026 ya supera los 3.362 millones y no deja de subir",
       "url": "https://www.elespanol.com/invertia/economia/macroeconomia/20260728/factura-extinguir-ola-incendios-arrasa-espana-supera-millones-no-deja-subir/1003744335677_0.html",
       "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11324764.jpg?p=w:1706/h:960&h=zP9UaCJX",
       "fecha": "2026-07-28T00:28:31.000Z",
-      "fuenteId": "el-espanol-economia",
-      "fuenteTitle": "El Español - Economía",
+      "fuenteId": "el-espanol",
+      "fuenteTitle": "El Español",
       "categorias": [
-        "economia"
+        "actualidad"
       ],
       "idioma": "es"
     },
@@ -56,10 +350,10 @@
       "url": "https://www.elespanol.com/invertia/economia/20260728/gobierno-solo-gastado-cuarta-parte-millones-fondos-ue-prevencion-incendios-gestion-forestal/1003744335628_0.html",
       "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11324743.jpg?p=w:1706/h:960&h=y3rOSsJB",
       "fecha": "2026-07-28T00:28:17.000Z",
-      "fuenteId": "el-espanol-economia",
-      "fuenteTitle": "El Español - Economía",
+      "fuenteId": "el-espanol",
+      "fuenteTitle": "El Español",
       "categorias": [
-        "economia"
+        "actualidad"
       ],
       "idioma": "es"
     },
@@ -108,6 +402,18 @@
       "fuenteTitle": "El Español - Economía",
       "categorias": [
         "economia"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "\"No hace falta hacer nada porque se hace así de bien\": el secreto de Ramón García tras 30 años en el 'Grand Prix'",
+      "url": "https://www.20minutos.es/television/no-hace-falta-hacer-nada-porque-se-hace-asi-bien-secreto-ramon-garcia-tras-30-anos-grand-prix_7019630_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/07/28/6a67f65d932266-49520676.png",
+      "fecha": "2026-07-28T00:26:13.000Z",
+      "fuenteId": "20minutos",
+      "fuenteTitle": "20minutos",
+      "categorias": [
+        "actualidad"
       ],
       "idioma": "es"
     },
@@ -232,6 +538,19 @@
       "idioma": "es"
     },
     {
+      "titulo": "Tercer día sin bombardeos en Irán: ¿tregua o nueva fase de la ofensiva?",
+      "url": "https://www.france24.com/es/video/20260728-tercer-d%C3%ADa-sin-bombardeos-en-ir%C3%A1n-tregua-o-nueva-fase-de-la-ofensiva",
+      "imagen": "https://s.france24.com/media/display/d0410ddc-8a18-11f1-b07f-005056a90284/w:1024/p:16x9/ES-20260727-180446-180636-CS.jpg",
+      "fecha": "2026-07-28T00:14:29.000Z",
+      "fuenteId": "france24-espanol",
+      "fuenteTitle": "France 24 Español",
+      "categorias": [
+        "internacional",
+        "politica"
+      ],
+      "idioma": "es"
+    },
+    {
       "titulo": "Apple lanza una actualización clave para el iPhone antes de la llegada de iOS 27",
       "url": "https://hipertextual.com/apple/ios-26-6-disponible-iphone-novedades/",
       "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/ios-26-6.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
@@ -242,6 +561,32 @@
         "tecnologia",
         "ciencia",
         "entretenimiento"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Proyecto de ley llevaría a que funcionarios públicos sean destituídos por consumo de drogas en Chile",
+      "url": "https://www.france24.com/es/video/20260728-proyecto-de-ley-llevar%C3%ADa-a-que-funcionarios-p%C3%BAblicos-sean-destitu%C3%ADdos-por-consumo-de-drogas-en-chile",
+      "imagen": "https://s.france24.com/media/display/f9c0e43c-8a15-11f1-951e-005056a97e36/w:1024/p:16x9/ES-20260727-161310-161456-CS.jpg",
+      "fecha": "2026-07-28T00:13:10.000Z",
+      "fuenteId": "france24-espanol",
+      "fuenteTitle": "France 24 Español",
+      "categorias": [
+        "internacional",
+        "politica"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Los efectos de la guerra en Irán afectan a trabajadores de todo el mundo",
+      "url": "https://www.france24.com/es/video/20260728-los-efectos-de-la-guerra-en-ir%C3%A1n-afectan-a-trabajadores-de-todo-el-mundo",
+      "imagen": "https://s.france24.com/media/display/ebe88a06-8a18-11f1-a292-005056a97e36/w:1024/p:16x9/capture-16771575616a67f3c1302fb2-39722489.jpg",
+      "fecha": "2026-07-28T00:12:38.000Z",
+      "fuenteId": "france24-espanol",
+      "fuenteTitle": "France 24 Español",
+      "categorias": [
+        "internacional",
+        "politica"
       ],
       "idioma": "es"
     },
@@ -266,345 +611,6 @@
       "fuenteTitle": "Investing.com España - Noticias",
       "categorias": [
         "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El vicepresidente ejecutivo de ZipRecruiter, Ryan Sakamoto, vende 13.882 dólares en acciones de la empresa",
-      "url": "https://es.investing.com/news/insider-trading-news/el-vicepresidente-ejecutivo-de-ziprecruiter-ryan-sakamoto-vende-13882-dolares-en-acciones-de-la-empresa-93CH-3761826",
-      "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "fecha": "2026-07-28T00:02:51.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "CVP de Micron Tecnología Scott Allen vende 879.000 dólares en acciones",
-      "url": "https://es.investing.com/news/insider-trading-news/cvp-de-micron-tecnologia-scott-allen-vende-879000-dolares-en-acciones-93CH-3761825",
-      "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "fecha": "2026-07-28T00:02:38.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Glenda León, una retrospectiva llena de misticismo y polvo de mariposa en Bilbao",
-      "url": "https://www.elespanol.com/el-cultural/arte/20260728/glenda-leon-retrospectiva-llena-misticismo-polvo-mariposa-bilbao/1003744330838_0.html",
-      "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11321730.jpg?p=w:1706/h:960&h=jI8ueToj",
-      "fecha": "2026-07-27T23:55:00.000Z",
-      "fuenteId": "el-cultural",
-      "fuenteTitle": "El Cultural",
-      "categorias": [
-        "cultura"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Maestros de resiliencia: reflexiones de un estoico ante los incendios",
-      "url": "https://www.elespanol.com/el-cultural/blogs/entreclasicos/20260728/maestros-resiliencia-reflexiones-estoico-incendios/1003744335471_12.html",
-      "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11324664.jpg?p=w:1706/h:960&h=7Ua7PRlW",
-      "fecha": "2026-07-27T23:55:00.000Z",
-      "fuenteId": "el-cultural",
-      "fuenteTitle": "El Cultural",
-      "categorias": [
-        "cultura"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "David Lowery estrena 'Mother Mary': \"Cuando voy a un gran concierto pop, lo siento como una experiencia religiosa\"",
-      "url": "https://www.elespanol.com/el-cultural/cine/20260728/david-lowery-estrena-mother-mary-voy-gran-concierto-pop-siento-experiencia-religiosa/1003744335601_0.html",
-      "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11324762.jpg?p=c:982:553:nowe:140:31/w:1706/h:960&h=89O9G-Qc",
-      "fecha": "2026-07-27T23:55:00.000Z",
-      "fuenteId": "el-cultural",
-      "fuenteTitle": "El Cultural",
-      "categorias": [
-        "cultura"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "¿Eres o no un cultureta? Pon a prueba tus conocimientos con el test del verano n.º 4",
-      "url": "https://www.elespanol.com/el-cultural/20260728/no-cultureta-pon-prueba-conocimientos-test-verano/1003744329434_0.html",
-      "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11324721.jpg?p=w:1706/h:960&h=Z-CyM3_Q",
-      "fecha": "2026-07-27T23:55:00.000Z",
-      "fuenteId": "el-cultural",
-      "fuenteTitle": "El Cultural",
-      "categorias": [
-        "cultura"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El Paréntesis Gutenberg",
-      "url": "https://www.elespanol.com/el-cultural/opinion/puerta-abierta/20260728/parentesis-gutenberg/1003744324431_13.html",
-      "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11320383.jpg?p=w:1706/h:960&h=OznO_SLK",
-      "fecha": "2026-07-27T23:55:00.000Z",
-      "fuenteId": "el-cultural",
-      "fuenteTitle": "El Cultural",
-      "categorias": [
-        "cultura"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Muere Betye Saar, la artista que convirtió objetos cotidianos en un símbolo contra el racismo, a los 99 años",
-      "url": "https://www.huffingtonpost.es/sociedad/muere-betye-saar-artista-convirtio-objetos-cotidianosmbolo-racismo-99nos-f202607.html",
-      "imagen": "",
-      "fecha": "2026-07-27T23:53:42.000Z",
-      "fuenteId": "huffpost-espana",
-      "fuenteTitle": "HuffPost España",
-      "categorias": [
-        "actualidad",
-        "entretenimiento"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Materion declara un dividendo trimestral de 0,145 dólares por acción",
-      "url": "https://es.investing.com/news/company-news/materion-declara-un-dividendo-trimestral-de-0145-dolares-por-accion-93CH-3761823",
-      "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "fecha": "2026-07-27T23:52:50.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Emily Wilson, traductora de 'La odisea', critica con dureza la película de Christopher Nolan: \"Me daría vergüenza haber escrito ese guion\"",
-      "url": "https://www.espinof.com/estrenos/emily-wilson-traductora-odisea-critica-dureza-pelicula-christopher-nolan-me-daria-verguenza-haber-escrito-ese-guion",
-      "imagen": "https://i.blogs.es/15b460/fotojet-2026-07-22t104148.169/1024_2000.jpeg",
-      "fecha": "2026-07-27T23:48:01.000Z",
-      "fuenteId": "espinof",
-      "fuenteTitle": "Espinof",
-      "categorias": [
-        "entretenimiento"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Gary Strong, director de Oak Valley Bancorp, compra 65.000 dólares en acciones",
-      "url": "https://es.investing.com/news/insider-trading-news/gary-strong-director-de-oak-valley-bancorp-compra-65000-dolares-en-acciones-93CH-3761822",
-      "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "fecha": "2026-07-27T23:47:16.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El director de gobernanza de Stonex vende acciones por 1,53 millones de dólares",
-      "url": "https://es.investing.com/news/insider-trading-news/el-director-de-gobernanza-de-stonex-vende-acciones-por-153-millones-de-dolares-93CH-3761821",
-      "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "fecha": "2026-07-27T23:47:04.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El CFO de Viant Technology, Larry Madden, vende acciones por 30.069 dólares",
-      "url": "https://es.investing.com/news/insider-trading-news/el-cfo-de-viant-technology-larry-madden-vende-acciones-por-30069-dolares-93CH-3761820",
-      "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "fecha": "2026-07-27T23:47:03.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El EVP de First United Corp Keith Sanders vende 218.397 dólares en acciones",
-      "url": "https://es.investing.com/news/insider-trading-news/el-evp-de-first-united-corp-keith-sanders-vende-218397-dolares-en-acciones-93CH-3761819",
-      "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "fecha": "2026-07-27T23:47:00.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "\"Los últimos de la lista\": la batalla por salvar a cientos de animales cercados por el fuego en España",
-      "url": "https://www.france24.com/es/medio-ambiente/20260727-los-%C3%BAltimos-de-la-lista-la-batalla-por-salvar-a-200-animales-cercados-por-el-fuego-en-espa%C3%B1a",
-      "imagen": "https://s.france24.com/media/display/f4b5fbda-8a15-11f1-8a1f-005056a90284/w:1024/p:16x9/994f2a0bba1ef220a0a2359c42d19bcb484afa65w.jpg",
-      "fecha": "2026-07-27T23:45:36.000Z",
-      "fuenteId": "france24-espanol",
-      "fuenteTitle": "France 24 Español",
-      "categorias": [
-        "internacional",
-        "politica"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "BlackRock aconseja la gestión activa en renta fija",
-      "url": "https://www.expansion.com/mercados/renta-fija/2026/07/28/6a6791d1468aeb2e1e8b458e.html",
-      "imagen": "http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&cg=rss-expansion&ci=es-widgetueditorial&si=https://www.expansion.com/rss/portada.xml",
-      "fecha": "2026-07-27T23:42:54.000Z",
-      "fuenteId": "expansion",
-      "fuenteTitle": "Expansión",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "¿Puede Japón detonar una corrección veraniega en las Bolsas?",
-      "url": "https://www.expansion.com/mercados/2026/07/28/6a67acb5e5fdea91748b45a8.html",
-      "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/07/27/17851791041472.jpg",
-      "fecha": "2026-07-27T23:42:54.000Z",
-      "fuenteId": "expansion-mercados",
-      "fuenteTitle": "Expansión - Mercados",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Las inversiones con más rentabilidad esperada hasta fin de año",
-      "url": "https://www.expansion.com/mercados/2026/07/28/6a674ed2468aeb93558b457a.html",
-      "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2021/03/16/16158857886125.jpg",
-      "fecha": "2026-07-27T23:42:53.000Z",
-      "fuenteId": "expansion",
-      "fuenteTitle": "Expansión",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El mercado descuenta que la Fed mantenga tipos pese al alza del crudo",
-      "url": "https://www.expansion.com/mercados/2026/07/28/6a67b0a7468aebff738b4591.html",
-      "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/07/27/17851803059952.jpg",
-      "fecha": "2026-07-27T23:42:47.000Z",
-      "fuenteId": "expansion",
-      "fuenteTitle": "Expansión",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "La gestora lusa Square AM compra la sede de Carrefour y Samsung",
-      "url": "https://www.expansion.com/inmobiliario/mercado/2026/07/28/6a679feee5fdea800a8b45ae.html",
-      "imagen": "http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&cg=rss-expansion&ci=es-widgetueditorial&si=https://www.expansion.com/rss/portada.xml",
-      "fecha": "2026-07-27T23:42:46.000Z",
-      "fuenteId": "expansion",
-      "fuenteTitle": "Expansión",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Amancio Ortega supera los 3.000 millones en activos en Reino Unido",
-      "url": "https://www.expansion.com/inmobiliario/2026/07/28/6a679e7b468aeb2e1e8b4596.html",
-      "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/04/23/17769627896517.jpg",
-      "fecha": "2026-07-27T23:42:45.000Z",
-      "fuenteId": "expansion",
-      "fuenteTitle": "Expansión",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Conmoción total en 'Hoy en día' que se convierte en un mar de lágrimas por el adiós a uno de sus rostros más queridos",
-      "url": "https://www.abc.es/play/television/noticias/conmocion-total-hoy-dia-convierte-mar-lagrimas-20260727112319-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/07/27/despedida-ana-hinestrosa-llanto-hoy-dia-RaNDLtzTPkj9ttGhnZkthAK-1200x840@diario_abc.jpg",
-      "fecha": "2026-07-27T23:41:12.000Z",
-      "fuenteId": "abc",
-      "fuenteTitle": "ABC",
-      "categorias": [
-        "actualidad"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Johnson & Johnson pagará 5.500 millones de dólares para resolver demandas por talco",
-      "url": "https://es.investing.com/news/stock-market-news/johnson--johnson-pagara-5500-millones-de-dolares-para-resolver-demandas-por-talco-3761817",
-      "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "fecha": "2026-07-27T23:37:26.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El último regalo de Paddy McNally a Sarah Ferguson: el magnate de la Fórmula 1 que podría protegerla incluso después de muerto",
-      "url": "https://www.abc.es/gente/ultimo-regalo-paddy-mcnally-sarah-ferguson-magnate-20260727011514-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gente/2026/07/27/paddy-sarah-RN1YgxnlEg4PU2UoyNkXq4J-1200x840@diario_abc.png",
-      "fecha": "2026-07-27T23:36:02.000Z",
-      "fuenteId": "abc",
-      "fuenteTitle": "ABC",
-      "categorias": [
-        "actualidad"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Akapo: “Mi mejor partido fue contra Vinicius, fue el momento que todo niño sueña”",
-      "url": "https://as.com/futbol/primera/akapo-mi-mejor-partido-fue-contra-vinicius-fue-el-momento-que-todo-nino-suena-f202607-n/",
-      "imagen": "https://img.asmedia.epimg.net/resizer/v2/3YQEM6AEXFIFHLDLSCLKO4DYHY.jpg?auth=9d2d2b4491c1ff2a6ddd2b8033291aa49f31d9e4671c0c0c25aee5ad900ef11e",
-      "fecha": "2026-07-27T23:34:40.000Z",
-      "fuenteId": "as",
-      "fuenteTitle": "AS",
-      "categorias": [
-        "deportes"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Las lagunas legales que dejaron libre al islamista del atentado de Berlín pese a sus condenas por violencia",
-      "url": "https://www.abc.es/internacional/cronica-muerte-anunciada-20260727011923-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/07/27/1515312559-ReXENev1Zti31njytfxECGI-1200x840@diario_abc.JPG",
-      "fecha": "2026-07-27T23:33:34.000Z",
-      "fuenteId": "abc",
-      "fuenteTitle": "ABC",
-      "categorias": [
-        "actualidad"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Parra, el otro ‘Carvajal’: “Marcelo siempre nos intentaba ayudar”",
-      "url": "https://as.com/futbol/primera-rfef/parra-el-otro-carvajal-marcelo-siempre-nos-intentaba-ayudar-f202607-n/",
-      "imagen": "https://img.asmedia.epimg.net/resizer/v2/KU67FMV3SBOTLOIO7TLARRCAXQ.jpg?auth=68abc93ca0ec6cf035e26343528ec30b8874cd3864af665bfb4c466ebad769f0",
-      "fecha": "2026-07-27T23:33:19.000Z",
-      "fuenteId": "as",
-      "fuenteTitle": "AS",
-      "categorias": [
-        "deportes"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Daniella Bustamante ficha por una de las agencias más importantes de España a 21 días de cumplir la mayoría de edad",
-      "url": "https://www.elespanol.com/corazon/famosos/20260728/daniella-bustamante-ficha-agencias-importantes-espana-dias-cumplir-mayoria-edad/1003744335228_0.html",
-      "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11324713.jpg?p=c:1356:763:nowe:288:22/w:1706/h:960&h=6Dd9T8g5",
-      "fecha": "2026-07-27T23:33:00.000Z",
-      "fuenteId": "jaleos",
-      "fuenteTitle": "Jaleos",
-      "categorias": [
-        "corazon",
-        "entretenimiento"
       ],
       "idioma": "es"
     }
