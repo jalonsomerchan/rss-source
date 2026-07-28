@@ -1,8 +1,117 @@
 {
-  "generado": "2026-07-28T01:52:58.402Z",
+  "generado": "2026-07-28T02:00:49.502Z",
   "limite": 50,
-  "total": 154340,
+  "total": 154352,
   "noticias": [
+    {
+      "titulo": "El Futuro de Fedora 45: Instalación remota, Shadow Stack y seguridad en el Kernel",
+      "url": "https://blog.desdelinux.net/fedora-45-novedades-instalacion-remota-shadow-stack/",
+      "imagen": "https://blog.desdelinux.net/wp-content/uploads/2025/01/Fedora-Linux.png",
+      "fecha": "2026-07-28T01:39:48.000Z",
+      "fuenteId": "desde-linux",
+      "fuenteTitle": "Desde Linux",
+      "categorias": [
+        "tecnologia"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Intel y Cadence integran la suite completa de EDA en los nodos 18A-P y 14A",
+      "url": "https://www.profesionalreview.com/2026/07/28/intel-cadence-suite-eda-nodos-18a-p-14a/",
+      "imagen": "https://www.profesionalreview.com/wp-content/uploads/2026/07/Intel-y-Cadence-se-alian-el-nodo-14A-a-la-produccion-de-chips-de-IA.jpg",
+      "fecha": "2026-07-28T01:37:24.000Z",
+      "fuenteId": "profesional-review",
+      "fuenteTitle": "Profesional Review",
+      "categorias": [
+        "tecnologia"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Argentina recibe elogios del FMI, pero el rechazo social no cede",
+      "url": "https://www.france24.com/es/programas/econom%C3%ADa/20260728-argentina-recibe-elogios-del-fmi-pero-el-rechazo-social-no-cede",
+      "imagen": "https://s.france24.com/media/display/0420a1ee-1756-11f0-9dc6-005056a90284/w:1024/p:16x9/000_39RG2ZK.jpg",
+      "fecha": "2026-07-28T01:19:44.000Z",
+      "fuenteId": "france24-espanol",
+      "fuenteTitle": "France 24 Español",
+      "categorias": [
+        "internacional",
+        "politica"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Mi paraíso en Líbano: Beirut, la ciudad mil veces muerta y mil veces renacida",
+      "url": "https://www.abc.es/cultura/paraiso-libano-beirut-ciudad-mil-veces-muerta-20260728031157-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/07/28/PortCoucherSoleil-RVaQ5HJwGj1rNMDc0VdA5zM-1200x840@diario_abc.jpg",
+      "fecha": "2026-07-28T01:11:57.000Z",
+      "fuenteId": "abc-cultura",
+      "fuenteTitle": "ABC - Cultura",
+      "categorias": [
+        "cultura"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "'Chanco', compañero de Makhachev, arremete contra Topuria tras su debut en la UFC: «Nosotros peleamos contra todos»",
+      "url": "https://www.abc.es/deportes/mma/chanco-companero-makhachev-arremete-topuria-tras-debut-20260728031134-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/07/28/POST%20ILIA%20TOPURIA%20MMA%20(76)-R2HIpWyRulA9BvU23zgEY5M-1200x840@diario_abc.jpg",
+      "fecha": "2026-07-28T01:11:34.000Z",
+      "fuenteId": "abc-deportes",
+      "fuenteTitle": "ABC - Deportes",
+      "categorias": [
+        "deportes"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Dana White confirma el peor escenario para Conor McGregor: «Estará fuera un año»",
+      "url": "https://www.abc.es/deportes/mma/dana-white-confirma-peor-escenario-conor-mcgregor-20260730031118-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/07/30/conor-dana-white-RyJGIpoCHhKQwZIkcWpC2HM-1200x840@diario_abc.jpg",
+      "fecha": "2026-07-28T01:11:18.000Z",
+      "fuenteId": "abc-deportes",
+      "fuenteTitle": "ABC - Deportes",
+      "categorias": [
+        "deportes"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "El petróleo extiende su caída mientras las conversaciones entre EE.UU. e Irán generan esperanzas",
+      "url": "https://es.investing.com/news/stock-market-news/el-petroleo-extiende-su-caida-mientras-las-conversaciones-entre-eeuu-e-iran-generan-esperanzas-3761848",
+      "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "fecha": "2026-07-28T01:11:07.000Z",
+      "fuenteId": "investing-es-noticias",
+      "fuenteTitle": "Investing.com España - Noticias",
+      "categorias": [
+        "economia"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Microbiota, el ejército invisible que te defiende desde dentro",
+      "url": "https://www.abc.es/salud/enfermedades/microbiota-ejercito-invisible-defiende-dentro-20260709030746-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/salud/2026/07/09/nieto-intestinos-k3Y-Rr28slB9QQUVDB3UXQS5ZyI-1200x840@diario_abc.jpg",
+      "fecha": "2026-07-28T01:07:46.000Z",
+      "fuenteId": "abc-salud",
+      "fuenteTitle": "ABC - Salud",
+      "categorias": [
+        "salud"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "ARK de Cathie Wood vende acciones de Deere & Co y compra SpaceX",
+      "url": "https://es.investing.com/news/company-news/ark-de-cathie-wood-vende-acciones-de-deere--co-y-compra-spacex-93CH-3761846",
+      "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "fecha": "2026-07-28T01:05:20.000Z",
+      "fuenteId": "investing-es-noticias",
+      "fuenteTitle": "Investing.com España - Noticias",
+      "categorias": [
+        "economia"
+      ],
+      "idioma": "es"
+    },
     {
       "titulo": "Estados Unidos abandona una reunión del Consejo de Seguridad de la ONU en plena disputa con Francia",
       "url": "https://www.france24.com/es/francia/20260728-estados-unidos-abandona-una-reuni%C3%B3n-del-consejo-de-seguridad-de-la-onu-en-plena-disputa-con-francia",
@@ -13,6 +122,18 @@
       "categorias": [
         "internacional",
         "politica"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "La FAA propone inspecciones en aviones Boeing 737 MAX por asientos mal instalados",
+      "url": "https://es.investing.com/news/stock-market-news/la-faa-propone-inspecciones-en-aviones-boeing-737-max-por-asientos-mal-instalados-3761845",
+      "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "fecha": "2026-07-28T01:02:43.000Z",
+      "fuenteId": "investing-es-noticias",
+      "fuenteTitle": "Investing.com España - Noticias",
+      "categorias": [
+        "economia"
       ],
       "idioma": "es"
     },
@@ -482,131 +603,6 @@
       "url": "https://es.investing.com/news/earnings/udr-no-alcanza-por-002-las-previsiones-de-bpa-en-el-segundo-trimestre-del-ano-3761832",
       "imagen": "https://i-invdn-com.investing.com/news/LYNXNPEB6U08A_M.jpg",
       "fecha": "2026-07-28T00:17:13.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Opko Health supera por 0,07$ las previsiones de BPA en el segundo trimestre del año",
-      "url": "https://es.investing.com/news/earnings/opko-health-supera-por-007-las-previsiones-de-bpa-en-el-segundo-trimestre-del-ano-3761831",
-      "imagen": "",
-      "fecha": "2026-07-28T00:17:12.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Champions Oncology supera por 0,06$ las previsiones de BPA en el primer trimestre del año",
-      "url": "https://es.investing.com/news/earnings/champions-oncology-supera-por-006-las-previsiones-de-bpa-en-el-primer-trimestre-del-ano-3761830",
-      "imagen": "",
-      "fecha": "2026-07-28T00:17:12.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Ranger Energy Services no alcanza por las previsiones de BPA en el segundo trimestre del año",
-      "url": "https://es.investing.com/news/earnings/ranger-energy-services-no-alcanza-por--las-previsiones-de-bpa-en-el-segundo-trimestre-del-ano-3761829",
-      "imagen": "https://i-invdn-com.investing.com/news/LYNXMPEB3R08Z_M.jpg",
-      "fecha": "2026-07-28T00:16:42.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Principal Financial supera por 0,09$ las previsiones de BPA en el segundo trimestre del año",
-      "url": "https://es.investing.com/news/earnings/principal-financial-supera-por-009-las-previsiones-de-bpa-en-el-segundo-trimestre-del-ano-3761828",
-      "imagen": "https://i-invdn-com.investing.com/news/LYNXNPEB65083_M.jpg",
-      "fecha": "2026-07-28T00:14:44.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Tercer día sin bombardeos en Irán: ¿tregua o nueva fase de la ofensiva?",
-      "url": "https://www.france24.com/es/video/20260728-tercer-d%C3%ADa-sin-bombardeos-en-ir%C3%A1n-tregua-o-nueva-fase-de-la-ofensiva",
-      "imagen": "https://s.france24.com/media/display/d0410ddc-8a18-11f1-b07f-005056a90284/w:1024/p:16x9/ES-20260727-180446-180636-CS.jpg",
-      "fecha": "2026-07-28T00:14:29.000Z",
-      "fuenteId": "france24-espanol",
-      "fuenteTitle": "France 24 Español",
-      "categorias": [
-        "internacional",
-        "politica"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Apple lanza una actualización clave para el iPhone antes de la llegada de iOS 27",
-      "url": "https://hipertextual.com/apple/ios-26-6-disponible-iphone-novedades/",
-      "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/ios-26-6.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
-      "fecha": "2026-07-28T00:14:14.000Z",
-      "fuenteId": "hipertextual",
-      "fuenteTitle": "Hipertextual",
-      "categorias": [
-        "tecnologia",
-        "ciencia",
-        "entretenimiento"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Proyecto de ley llevaría a que funcionarios públicos sean destituídos por consumo de drogas en Chile",
-      "url": "https://www.france24.com/es/video/20260728-proyecto-de-ley-llevar%C3%ADa-a-que-funcionarios-p%C3%BAblicos-sean-destitu%C3%ADdos-por-consumo-de-drogas-en-chile",
-      "imagen": "https://s.france24.com/media/display/f9c0e43c-8a15-11f1-951e-005056a97e36/w:1024/p:16x9/ES-20260727-161310-161456-CS.jpg",
-      "fecha": "2026-07-28T00:13:10.000Z",
-      "fuenteId": "france24-espanol",
-      "fuenteTitle": "France 24 Español",
-      "categorias": [
-        "internacional",
-        "politica"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Los efectos de la guerra en Irán afectan a trabajadores de todo el mundo",
-      "url": "https://www.france24.com/es/video/20260728-los-efectos-de-la-guerra-en-ir%C3%A1n-afectan-a-trabajadores-de-todo-el-mundo",
-      "imagen": "https://s.france24.com/media/display/ebe88a06-8a18-11f1-a292-005056a97e36/w:1024/p:16x9/capture-16771575616a67f3c1302fb2-39722489.jpg",
-      "fecha": "2026-07-28T00:12:38.000Z",
-      "fuenteId": "france24-espanol",
-      "fuenteTitle": "France 24 Español",
-      "categorias": [
-        "internacional",
-        "politica"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El déficit comercial farmacéutico de España se triplica en sólo un año y supera los 4.439 millones",
-      "url": "https://www.elespanol.com/invertia/observatorios/sanidad/20260728/deficit-comercial-farmaceutico-espana-triplica-solo-ano-supera-millones/1003744334985_0.html",
-      "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11142318.jpg?p=w:1706/h:960&h=BOohriY1",
-      "fecha": "2026-07-28T00:10:00.000Z",
-      "fuenteId": "el-espanol-economia",
-      "fuenteTitle": "El Español - Economía",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El director de Olema Pharmaceuticals, Cyrus Harmon, vende 291.000 dólares en acciones",
-      "url": "https://es.investing.com/news/insider-trading-news/el-director-de-olema-pharmaceuticals-cyrus-harmon-vende-291000-dolares-en-acciones-93CH-3761827",
-      "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "fecha": "2026-07-28T00:03:00.000Z",
       "fuenteId": "investing-es-noticias",
       "fuenteTitle": "Investing.com España - Noticias",
       "categorias": [
