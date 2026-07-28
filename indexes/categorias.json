@@ -1,5 +1,5 @@
 {
-  "generado": "2026-07-28T00:26:03.729Z",
+  "generado": "2026-07-28T00:47:36.835Z",
   "limitePorCategoria": 20,
   "categorias": {
     "actualidad": [
@@ -13,6 +13,18 @@
         "categorias": [
           "actualidad",
           "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Conmoción total en 'Hoy en día' que se convierte en un mar de lágrimas por el adiós a uno de sus rostros más queridos",
+        "url": "https://www.abc.es/play/television/noticias/conmocion-total-hoy-dia-convierte-mar-lagrimas-20260727112319-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/07/27/despedida-ana-hinestrosa-llanto-hoy-dia-RaNDLtzTPkj9ttGhnZkthAK-1200x840@diario_abc.jpg",
+        "fecha": "2026-07-27T23:41:12.000Z",
+        "fuenteId": "abc",
+        "fuenteTitle": "ABC",
+        "categorias": [
+          "actualidad"
         ],
         "idioma": "es"
       },
@@ -236,21 +248,23 @@
           "actualidad"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "El 'respiro familiar', uno de los recursos asistenciales que más crece en verano",
-        "url": "https://www.abc.es/espana/residencia-rompe-familia-20260728011534-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/07/23/WhatsAppImage2026-07-23at20.56.11-RtfG3sxoHpQTq0x8SRW2zeI-1200x840@diario_abc.jpeg",
-        "fecha": "2026-07-27T23:15:56.000Z",
-        "fuenteId": "abc",
-        "fuenteTitle": "ABC",
-        "categorias": [
-          "actualidad"
-        ],
-        "idioma": "es"
       }
     ],
     "ciencia": [
+      {
+        "titulo": "Apple lanza una actualización clave para el iPhone antes de la llegada de iOS 27",
+        "url": "https://hipertextual.com/apple/ios-26-6-disponible-iphone-novedades/",
+        "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/ios-26-6.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
+        "fecha": "2026-07-28T00:14:14.000Z",
+        "fuenteId": "hipertextual",
+        "fuenteTitle": "Hipertextual",
+        "categorias": [
+          "tecnologia",
+          "ciencia",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "La batería del Samsung Galaxy S27 Ultra traerá una mejora muy esperada",
         "url": "https://hipertextual.com/mobile/bateria-galaxy-s27-ultra-mejora-muy-esperada/",
@@ -506,20 +520,6 @@
         "fuenteId": "xataka",
         "fuenteTitle": "Xataka",
         "categorias": [
-          "tecnologia",
-          "ciencia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Organizarse por WhatsApp para volver a los pueblos afectados por incendios: “Nos tienen que dejar pasar, los pueblos se están quemando”",
-        "url": "https://elpais.com/espana/2026-07-27/organizarse-por-whatsapp-para-volver-a-los-pueblos-afectados-por-incendios-nos-tienen-que-dejar-pasar-los-pueblos-se-estan-quemando.html",
-        "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260727/1199402_172633_video_1800.mp4",
-        "fecha": "2026-07-27T17:55:30.000Z",
-        "fuenteId": "el-pais",
-        "fuenteTitle": "El País",
-        "categorias": [
-          "actualidad",
           "tecnologia",
           "ciencia"
         ],
@@ -1287,6 +1287,42 @@
     ],
     "economia": [
       {
+        "titulo": "El director de Olema Pharmaceuticals, Cyrus Harmon, vende 291.000 dólares en acciones",
+        "url": "https://es.investing.com/news/insider-trading-news/el-director-de-olema-pharmaceuticals-cyrus-harmon-vende-291000-dolares-en-acciones-93CH-3761827",
+        "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+        "fecha": "2026-07-28T00:03:00.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El vicepresidente ejecutivo de ZipRecruiter, Ryan Sakamoto, vende 13.882 dólares en acciones de la empresa",
+        "url": "https://es.investing.com/news/insider-trading-news/el-vicepresidente-ejecutivo-de-ziprecruiter-ryan-sakamoto-vende-13882-dolares-en-acciones-de-la-empresa-93CH-3761826",
+        "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+        "fecha": "2026-07-28T00:02:51.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "CVP de Micron Tecnología Scott Allen vende 879.000 dólares en acciones",
+        "url": "https://es.investing.com/news/insider-trading-news/cvp-de-micron-tecnologia-scott-allen-vende-879000-dolares-en-acciones-93CH-3761825",
+        "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+        "fecha": "2026-07-28T00:02:38.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Materion declara un dividendo trimestral de 0,145 dólares por acción",
         "url": "https://es.investing.com/news/company-news/materion-declara-un-dividendo-trimestral-de-0145-dolares-por-accion-93CH-3761823",
         "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
@@ -1489,45 +1525,23 @@
           "economia"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "Resultados del ensayo de cáncer de vejiga de CG Oncology publicados en Lancet",
-        "url": "https://es.investing.com/news/company-news/resultados-del-ensayo-de-cancer-de-vejiga-de-cg-oncology-publicados-en-lancet-93CH-3761809",
-        "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-        "fecha": "2026-07-27T22:53:21.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El director ejecutivo de PubMatic, Rajeev Goel, vende 617.005 dólares en acciones",
-        "url": "https://es.investing.com/news/insider-trading-news/el-director-ejecutivo-de-pubmatic-rajeev-goel-vende-617005-dolares-en-acciones-93CH-3761808",
-        "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-        "fecha": "2026-07-27T22:47:08.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El director ejecutivo de Cuentas compra 12.860 dólares en acciones",
-        "url": "https://es.investing.com/news/insider-trading-news/el-director-ejecutivo-de-cuentas-compra-12860-dolares-en-acciones-93CH-3761807",
-        "imagen": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-        "fecha": "2026-07-27T22:46:30.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
       }
     ],
     "entretenimiento": [
+      {
+        "titulo": "Apple lanza una actualización clave para el iPhone antes de la llegada de iOS 27",
+        "url": "https://hipertextual.com/apple/ios-26-6-disponible-iphone-novedades/",
+        "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/ios-26-6.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
+        "fecha": "2026-07-28T00:14:14.000Z",
+        "fuenteId": "hipertextual",
+        "fuenteTitle": "Hipertextual",
+        "categorias": [
+          "tecnologia",
+          "ciencia",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Muere Betye Saar, la artista que convirtió objetos cotidianos en un símbolo contra el racismo, a los 99 años",
         "url": "https://www.huffingtonpost.es/sociedad/muere-betye-saar-artista-convirtio-objetos-cotidianosmbolo-racismo-99nos-f202607.html",
@@ -1767,18 +1781,6 @@
         "fuenteTitle": "HuffPost España",
         "categorias": [
           "actualidad",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Cambio excepcional de programación en RTVE con 'El Grand Prix': Redobla su emisión esta semana en La 1",
-        "url": "https://eltelevisero.huffingtonpost.es/2026/07/cambio-excepcional-de-programacion-en-rtve-con-el-grand-prix-redobla-su-emision-esta-semana-en-la-1/",
-        "imagen": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f42e.png",
-        "fecha": "2026-07-27T20:19:36.000Z",
-        "fuenteId": "el-televisero",
-        "fuenteTitle": "El Televisero",
-        "categorias": [
           "entretenimiento"
         ],
         "idioma": "es"
@@ -4109,6 +4111,20 @@
     ],
     "tecnologia": [
       {
+        "titulo": "Apple lanza una actualización clave para el iPhone antes de la llegada de iOS 27",
+        "url": "https://hipertextual.com/apple/ios-26-6-disponible-iphone-novedades/",
+        "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/ios-26-6.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
+        "fecha": "2026-07-28T00:14:14.000Z",
+        "fuenteId": "hipertextual",
+        "fuenteTitle": "Hipertextual",
+        "categorias": [
+          "tecnologia",
+          "ciencia",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "PSOE y PP se culpan de que no haya pacto contra los incendios y esquivan todo acercamiento",
         "url": "https://www.elmundo.es/espana/2026/07/28/6a67a5a5e4d4d83a538b4578.html",
         "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/07/27/17851776894559.jpg",
@@ -4346,19 +4362,6 @@
         "url": "https://www.elmundo.es/espana/2026/07/27/6a67b96621efa061738b4586.html",
         "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/07/27/17851833019387.jpg",
         "fecha": "2026-07-27T20:53:18.000Z",
-        "fuenteId": "el-mundo",
-        "fuenteTitle": "El Mundo",
-        "categorias": [
-          "actualidad",
-          "tecnologia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Chapinería, la 'zona cero': muros negros y objetos abandonados en el jardín entre nubes de ceniza",
-        "url": "https://www.elmundo.es/espana/2026/07/27/6a67b4d121efa027628b4570.html",
-        "imagen": "http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&cg=rss-elmundo&ci=es-widgetueditorial&si=http://www.elmundo.es/rss/index.xml",
-        "fecha": "2026-07-27T20:53:08.000Z",
         "fuenteId": "el-mundo",
         "fuenteTitle": "El Mundo",
         "categorias": [
