@@ -1,8 +1,47 @@
 {
-  "generado": "2026-07-29T22:23:00.104Z",
+  "generado": "2026-07-29T22:25:47.314Z",
   "limitePorCategoria": 20,
   "categorias": {
     "actualidad": [
+      {
+        "titulo": "Para ser asesor de primera, acelera (con GPTadvisor)",
+        "url": "https://www.elmundo.es/economia/empresas/2026/07/30/6a61db21e9cf4abf278b45bd.html",
+        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/07/24/17849059991733.jpg",
+        "fecha": "2026-07-29T22:08:22.000Z",
+        "fuenteId": "el-mundo-economia",
+        "fuenteTitle": "El Mundo - Economía",
+        "categorias": [
+          "economia",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Donde se hospedan las musas",
+        "url": "https://www.elmundo.es/economia/empresas/2026/07/30/6a631aac21efa070518b458b.html",
+        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/07/24/17849069197234.jpg",
+        "fecha": "2026-07-29T22:08:20.000Z",
+        "fuenteId": "el-mundo-economia",
+        "fuenteTitle": "El Mundo - Economía",
+        "categorias": [
+          "economia",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Mueren siete personas al estrellarse un helicóptero que iba a colaborar en un incendio forestal en Argentina",
+        "url": "https://www.huffingtonpost.es/global/mueren-siete-personas-estrellarse-helicoptero-iba-colaborar-incendio-forestal-argentina-f202607.html",
+        "imagen": "",
+        "fecha": "2026-07-29T22:06:37.000Z",
+        "fuenteId": "huffpost-espana",
+        "fuenteTitle": "HuffPost España",
+        "categorias": [
+          "actualidad",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Guardiola destaca la «misión cumplida» tras aprobar los presupuestos en Extremadura",
         "url": "https://theobjective.com/cultura/opera/2026-07-29/guardiola-mision-cumplida-presupuestos-extremadura/",
@@ -222,47 +261,49 @@
           "actualidad"
         ],
         "idioma": "es"
-      },
+      }
+    ],
+    "ciencia": [
       {
-        "titulo": "El volcán Kilauea vuelve a entrar en erupción y lanza lava a 150 m",
-        "url": "https://www.20minutos.es/internacional/volcan-kilauea-vuelve-entrar-erupcion-lanza-lava-150-metros-altura_7020463_0.html",
-        "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/07/29/6a6a12630ff767-10116908.png",
-        "fecha": "2026-07-29T20:38:32.000Z",
-        "fuenteId": "20minutos",
-        "fuenteTitle": "20minutos",
+        "titulo": "Van Gogh: ¿Suicidio o muerte accidental?",
+        "url": "https://historiahoy.com.ar/142107-van-gogh-suicidio-o-muerte-accidental/",
+        "imagen": "https://historiahoy.com.ar/wp-content/uploads/2026/07/7L4P46IX4NEXBBE2UP5TVCXGO4.jpg",
+        "fecha": "2026-07-29T22:06:52.000Z",
+        "fuenteId": "historia-hoy",
+        "fuenteTitle": "Historia Hoy",
         "categorias": [
-          "actualidad"
+          "cultura",
+          "ciencia"
         ],
         "idioma": "es"
       },
       {
-        "titulo": "Desolación en el equipo de Fernando Alonso: muere un operario de Aston Martin",
-        "url": "https://www.20minutos.es/deportes/deportes_motor/formula-1/desolacion-equipo-fernando-alonso-muere-un-operario-aston-martin-tras-gp-hungria_7020590_0.html",
-        "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/07/29/6a6a635e562393-97631765.png",
-        "fecha": "2026-07-29T20:32:47.000Z",
-        "fuenteId": "20minutos",
-        "fuenteTitle": "20minutos",
+        "titulo": "Los temibles misiles Oreshnik rusos tardan minutos en llegar a Ucrania. Su secreto: salen de una ciudad atrapada en el tiempo",
+        "url": "https://www.xataka.com/magnet/temibles-misiles-oreshnik-rusos-tardan-minutos-llegar-a-ucrania-su-secreto-salen-ciudad-atrapada-tiempo",
+        "imagen": "https://i.blogs.es/01ecf4/transporte-misiles-oreshnik/1024_2000.jpeg",
+        "fecha": "2026-07-29T21:56:43.000Z",
+        "fuenteId": "xataka",
+        "fuenteTitle": "Xataka",
         "categorias": [
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Meta incrementa sus beneficios un 22% en el primer semestre por la publicidad de sus redes y la IA",
-        "url": "https://elpais.com/economia/2026-07-29/meta-incrementa-sus-beneficios-un-22-en-el-primer-semestre-por-la-publicidad-de-sus-redes-y-la-ia.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/TPV76T24MZOXRG3HTQHMQADLHU.jpg?auth=0218d2305f8bcd0a1aeba42e705e4fd9a600dac5201e281d0f64c0ef4ecbb381",
-        "fecha": "2026-07-29T20:31:12.000Z",
-        "fuenteId": "el-pais",
-        "fuenteTitle": "El País",
-        "categorias": [
-          "actualidad",
           "tecnologia",
           "ciencia"
         ],
         "idioma": "es"
-      }
-    ],
-    "ciencia": [
+      },
+      {
+        "titulo": "Una IA gestionó un negocio sin supervisión humana y eligió mentir, amenazar y traicionar",
+        "url": "https://hipertextual.com/inteligencia-artificial/claude-opus-5-ia-capitalista-vending-bench/",
+        "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/robots-ia.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
+        "fecha": "2026-07-29T21:52:00.000Z",
+        "fuenteId": "hipertextual",
+        "fuenteTitle": "Hipertextual",
+        "categorias": [
+          "tecnologia",
+          "ciencia",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "VIDEO | Un senador republicano expulsa al abogado del doctor Anthony Fauci durante una audiencia",
         "url": "https://elpais.com/us/2026-07-29/video-un-senador-republicano-expulsa-al-abogado-del-doctor-anthony-fauci-durante-una-audiencia.html",
@@ -496,50 +537,35 @@
           "ciencia"
         ],
         "idioma": "es"
+      }
+    ],
+    "corazon": [
+      {
+        "titulo": "Dalí se encuentra con la dinastía italiana en el Palacio Real de Milán: la histórica exposición que reunirá obras de archivo y un pasado en común",
+        "url": "https://www.hola.com/actualidad/20260729915432/dali-exposicion-palacio-real-milan-vinculos-monarquia-italiana/",
+        "imagen": "https://www.hola.com/horizon/landscape/31ba7194a97a-gettyimages-3240395.jpg",
+        "fecha": "2026-07-29T21:54:37.000Z",
+        "fuenteId": "hola",
+        "fuenteTitle": "¡Hola!",
+        "categorias": [
+          "corazon",
+          "moda"
+        ],
+        "idioma": "es"
       },
       {
-        "titulo": "Gemini para Mac se transforma y añade una función que vas a querer usar todo el tiempo",
-        "url": "https://hipertextual.com/inteligencia-artificial/gemini-mac-controles-voz-pantalla/",
-        "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/gemini-macos.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
-        "fecha": "2026-07-29T17:40:47.000Z",
-        "fuenteId": "hipertextual",
-        "fuenteTitle": "Hipertextual",
+        "titulo": "Gabriela Guillén reacciona a los problemas de salud de Bertín Osborne: \"es el padre de mi hijo y no lo quiero ver mal nunca\"",
+        "url": "https://www.diezminutos.es/famosos-corazon/famosos-espanoles/a73299226/gabriela-guillen-problemas-salud-bertin-osborne/",
+        "imagen": "https://hips.hearstapps.com/hmg-prod/images/gabriela-guille-n-695431f4ad8ef.jpg",
+        "fecha": "2026-07-29T21:38:00.000Z",
+        "fuenteId": "diez-minutos",
+        "fuenteTitle": "Diez Minutos",
         "categorias": [
-          "tecnologia",
-          "ciencia",
+          "corazon",
           "entretenimiento"
         ],
         "idioma": "es"
       },
-      {
-        "titulo": "Bruselas carga contra la FIFA por su proyecto privatizador del Mundial: “Mantengan los intereses privados fuera de nuestro deporte”",
-        "url": "https://elpais.com/deportes/futbol/2026-07-29/bruselas-carga-contra-la-fifa-por-su-proyecto-privatizador-del-mundial-mantengan-los-intereses-privados-fuera-de-nuestro-deporte.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/7MTZ5U2F3VOXRA5L6KMIBXW5D4.jpg?auth=46e34e8faf176814d0384117eec2c1c096f47cf3a56fc8cbeb9fbdc94bf4d109",
-        "fecha": "2026-07-29T17:34:04.000Z",
-        "fuenteId": "el-pais",
-        "fuenteTitle": "El País",
-        "categorias": [
-          "actualidad",
-          "tecnologia",
-          "ciencia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Gibraltar y Galicia están separados por 700 kilómetros, pero comparten algo: la respuesta a cómo pasamos de un idioma a otro",
-        "url": "https://www.xataka.com/magnet/gibraltar-galicia-estan-separados-700-kilometros-comparten-algo-respuesta-como-pasamos-idioma-a-otro",
-        "imagen": "https://i.blogs.es/4fab26/gibraltar5/1024_2000.jpeg",
-        "fecha": "2026-07-29T17:31:36.000Z",
-        "fuenteId": "xataka",
-        "fuenteTitle": "Xataka",
-        "categorias": [
-          "tecnologia",
-          "ciencia"
-        ],
-        "idioma": "es"
-      }
-    ],
-    "corazon": [
       {
         "titulo": "El rey Felipe VI estrena la nueva Almudaina tras su regreso de Perú: así es por dentro el palacio que inaugura el verano real",
         "url": "https://www.hola.com/realeza/casa_espanola/20260729915471/el-rey-felipe-vi-estrena-la-nueva-almudaina-tras-su-regreso-de-peru-asi-es-por-dentro-el-palacio-que-inaugura-el-verano-real/",
@@ -773,35 +799,47 @@
           "entretenimiento"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "Más allá de Marivent: la ruta por Mallorca de la Familia Real con cinco rincones que merece la pena descubrir",
-        "url": "https://www.hola.com/viajes/20260729915446/mallorca-lugares-familia-real-visitas/",
-        "imagen": "https://www.hola.com/horizon/landscape/44aa76bec534-shutterstock1460904899-b.jpg",
-        "fecha": "2026-07-29T17:30:00.000Z",
-        "fuenteId": "hola",
-        "fuenteTitle": "¡Hola!",
-        "categorias": [
-          "corazon",
-          "moda"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Íñigo Onieva, sobre los incendios en Madrid y su proximidad con la finca de Tamara Falcó: ​\"Es un horror\"",
-        "url": "https://www.20minutos.es/gente/inigo-onieva-sobre-los-incendios-madrid-su-proximidad-con-finca-tamara-falco-es-un-horror_7020518_0.html",
-        "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/01/26/69779d61b41e28-67805868.jpeg",
-        "fecha": "2026-07-29T17:22:24.000Z",
-        "fuenteId": "20minutos-gente",
-        "fuenteTitle": "20minutos - Gente",
-        "categorias": [
-          "corazon",
-          "entretenimiento"
-        ],
-        "idioma": "es"
       }
     ],
     "cultura": [
+      {
+        "titulo": "Van Gogh: ¿Suicidio o muerte accidental?",
+        "url": "https://historiahoy.com.ar/142107-van-gogh-suicidio-o-muerte-accidental/",
+        "imagen": "https://historiahoy.com.ar/wp-content/uploads/2026/07/7L4P46IX4NEXBBE2UP5TVCXGO4.jpg",
+        "fecha": "2026-07-29T22:06:52.000Z",
+        "fuenteId": "historia-hoy",
+        "fuenteTitle": "Historia Hoy",
+        "categorias": [
+          "cultura",
+          "ciencia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Día de la Sobrecapacidad de la Tierra 2026: cómo reducir nuestra huella ecológica",
+        "url": "https://www.ecoticias.com/sostenibilidad/dia-de-la-sobrecapacidad-de-la-tierra-2026",
+        "imagen": "https://www.ecoticias.com/wp-content/uploads/2026/07/image-4.jpg",
+        "fecha": "2026-07-29T22:01:00.000Z",
+        "fuenteId": "ecoticias",
+        "fuenteTitle": "Ecoticias",
+        "categorias": [
+          "medio-ambiente",
+          "cultura"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Morrissey en Madrid. 500 noches de verano enarbolando la bandera blanca",
+        "url": "https://www.elconfidencial.com/cultura/2026-07-29/morrissey-madrid-concierto-verano-musica_4398131/",
+        "imagen": "https://images.ecestaticos.com/mtATyYY2oz-HzJbC1D0tQQcky_E=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F153%2Fcf2%2F825%2F153cf2825cb89a2c47c0d520d3a3c2ef.jpg",
+        "fecha": "2026-07-29T21:59:00.000Z",
+        "fuenteId": "el-confidencial-cultura",
+        "fuenteTitle": "El Confidencial - Cultura",
+        "categorias": [
+          "cultura"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Así es el sorprendente cambio de Gonca Cilasun para convertirse en Sadakat en ‘En tierra lejana’",
         "url": "https://www.culturaenserie.com/asi-es-el-sorprendente-cambio-de-gonca-cilasun-para-convertirse-en-sadakat-en-tierra-lejana.html",
@@ -1024,48 +1062,81 @@
           "entretenimiento"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "Capricornio hoy: Horóscopo del jueves, 30 de julio, predicción en amor, salud, trabajo y dinero",
-        "url": "https://www.lavanguardia.com/magazine/horoscopo/20260729/11596775/horoscopo-diario-hoy-capricornio-jueves-30-julio-2026-ctx.html",
-        "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2023/07/10/64abebf72679c.jpeg",
-        "fecha": "2026-07-29T17:00:00.000Z",
-        "fuenteId": "la-vanguardia-magazine",
-        "fuenteTitle": "La Vanguardia - Magazine",
-        "categorias": [
-          "cultura",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Sagitario hoy: Horóscopo del jueves, 30 de julio, predicción en amor, salud, trabajo y dinero",
-        "url": "https://www.lavanguardia.com/magazine/horoscopo/20260729/11596768/horoscopo-diario-hoy-sagitario-jueves-30-julio-2026-ctx.html",
-        "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2023/07/10/64abedd8152b0.jpeg",
-        "fecha": "2026-07-29T17:00:00.000Z",
-        "fuenteId": "la-vanguardia-magazine",
-        "fuenteTitle": "La Vanguardia - Magazine",
-        "categorias": [
-          "cultura",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Escorpio hoy: Horóscopo del jueves, 30 de julio, predicción en amor, salud, trabajo y dinero",
-        "url": "https://www.lavanguardia.com/magazine/horoscopo/20260729/11596761/horoscopo-diario-hoy-escorpio-jueves-30-julio-2026-ctx.html",
-        "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2023/07/10/64abec4e4f9bc.jpeg",
-        "fecha": "2026-07-29T17:00:00.000Z",
-        "fuenteId": "la-vanguardia-magazine",
-        "fuenteTitle": "La Vanguardia - Magazine",
-        "categorias": [
-          "cultura",
-          "entretenimiento"
-        ],
-        "idioma": "es"
       }
     ],
     "deportes": [
+      {
+        "titulo": "Adeyemi: “Hansi Flick me ha traído al mejor club del mundo, le estaré siempre agradecido”",
+        "url": "https://www.lavanguardia.com/deportes/futbol/20260730/11603949/entrevista-karim-adeyemi-fichaje-barca-la-vanguardia-hansi-flick-me-traido-mejor-club-mundo-le-estare-siempre-agradecido.html",
+        "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/07/26/6a653228c5d44.jpeg",
+        "fecha": "2026-07-29T22:00:00.000Z",
+        "fuenteId": "la-vanguardia-deportes",
+        "fuenteTitle": "La Vanguardia - Deportes",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Trent acepta el reto",
+        "url": "https://as.com/futbol/primera/trent-acepta-el-reto-f202607-n/",
+        "imagen": "https://img.asmedia.epimg.net/resizer/v2/QY7HBOH6GNFTBAJKXJ2NCHDEKA.JPG?auth=882fed974b2c695a03ace1f2e2fc058a503bd9bf799373f3549a0d5c3a92e281",
+        "fecha": "2026-07-29T21:56:17.000Z",
+        "fuenteId": "as",
+        "fuenteTitle": "AS",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "2-1: El Sabadell logra su primera victoria de la pretemporada",
+        "url": "https://www.mundodeportivo.com/futbol/liga-segunda-division/20260729/1004211488/2-1-sabadell-logra-primera-victoria-pretemporada.html",
+        "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/07/29/6a6a7609ee5a6.jpeg",
+        "fecha": "2026-07-29T21:52:42.000Z",
+        "fuenteId": "mundo-deportivo",
+        "fuenteTitle": "Mundo Deportivo",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "La belleza de las rondas previas",
+        "url": "https://as.com/opinion/la-belleza-de-las-rondas-previas-f202607-n/",
+        "imagen": "https://img.asmedia.epimg.net/resizer/v2/47H4C5MG5RLUHBV45GWD4ZRL7A.jpg?auth=e21590ee31bf073a009968dac9b20f1aeba9a70a477171b6f0c5934cd00c0b36",
+        "fecha": "2026-07-29T21:51:02.000Z",
+        "fuenteId": "as",
+        "fuenteTitle": "AS",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Diomande llega, alguien sobra",
+        "url": "https://as.com/opinion/diomande-llega-alguien-sobra-f202607-n/",
+        "imagen": "https://img.asmedia.epimg.net/resizer/v2/IVWZY5N2UJHUHI3YY66CUFC7XI.jpg?auth=e608f121cbb1402d561c56c401856fe5b58beeed319494c8dc805dd273f0e75d",
+        "fecha": "2026-07-29T21:50:05.000Z",
+        "fuenteId": "as",
+        "fuenteTitle": "AS",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El Villarreal supera al Como en los penaltis y jugará la final del torneo",
+        "url": "https://www.mundodeportivo.com/futbol/villarreal/20260729/1004211485/villarreal-supera-penaltis-jugara-final-torneo.html",
+        "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/07/29/6a6a72dbb660b.jpeg",
+        "fecha": "2026-07-29T21:38:44.000Z",
+        "fuenteId": "mundo-deportivo",
+        "fuenteTitle": "Mundo Deportivo",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "El Real Madrid, en negociaciones con el escolta Lester Quiñones",
         "url": "https://www.mundodeportivo.com/baloncesto/20260729/1004211482/real-madrid-negociaciones-escolta-lester-quinones.html",
@@ -1127,6 +1198,18 @@
         "idioma": "es"
       },
       {
+        "titulo": "El Espanyol sigue invicto pero con dudas en la otra casa de Pace",
+        "url": "https://www.lavanguardia.com/deportes/20260729/11604013/espanyol-sigue-invicto-casa-pace-burnley-pretemporada.html",
+        "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/29/6a6a6978bd7f0.r_d.857-532-0.jpeg",
+        "fecha": "2026-07-29T21:08:07.000Z",
+        "fuenteId": "la-vanguardia-deportes",
+        "fuenteTitle": "La Vanguardia - Deportes",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Salta la sorpresa en Sudáfrica: la pareja número 6 del mundo, eliminada a las primeras de cambio",
         "url": "https://www.mundodeportivo.com/padel/premier-padel/20260729/1004211469/salta-sorpresa-sudafrica-pareja-numero-6-mundo-eliminada-primeras-cambio.html",
         "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2026/07/29/6a6a60353ac74.r_d.799-1390-0.jpeg",
@@ -1175,6 +1258,18 @@
         "idioma": "es"
       },
       {
+        "titulo": "La guerra Infantino - Ceferin y la amenaza de boicot europeo a los Mundiales: \"Hay una oposición creciente contra la FIFA\"",
+        "url": "https://www.elmundo.es/deportes/futbol/2026/07/29/6a6a1dade9cf4a0c568b4594.html",
+        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/07/29/17853554992348.jpg",
+        "fecha": "2026-07-29T20:50:42.000Z",
+        "fuenteId": "el-mundo-deportes",
+        "fuenteTitle": "El Mundo - Deportes",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "99-66: España se da un festín ante Bulgaria antes de medirse a Grecia en cuartos",
         "url": "https://www.mundodeportivo.com/baloncesto/basket-feb/20260729/1004211449/cronica-espana-s-18.html",
         "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/07/29/6a6a6553cf4af.jpeg",
@@ -1209,105 +1304,155 @@
           "deportes"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "Las imágenes del Atlético-Getafe",
-        "url": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260729/1004211475/imagenes-atletico-getafe.html",
-        "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2026/07/29/6a6a641800058.r_d.956-542-0.jpeg",
-        "fecha": "2026-07-29T20:37:12.000Z",
-        "fuenteId": "mundo-deportivo",
-        "fuenteTitle": "Mundo Deportivo",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Infantino defiende su proyecto: “Hay que fortalecer el fútbol, es un paso natural”",
-        "url": "https://as.com/futbol/internacional/infantino-defiende-su-proyecto-hay-que-fortalecer-el-futbol-es-un-paso-natural-f202607-n/",
-        "imagen": "https://vdmedia.as.com/mcv/diarioas/multimedia/20260729/1200174_203521_video_1200.mp4",
-        "fecha": "2026-07-29T20:29:56.000Z",
-        "fuenteId": "as",
-        "fuenteTitle": "AS",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Fermín supera \"el peor verano\" de su carrera",
-        "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260729/1004211473/fermin-supera-peor-verano-carrera.html",
-        "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/07/28/6a6893ac94118.jpeg",
-        "fecha": "2026-07-29T20:29:27.000Z",
-        "fuenteId": "mundo-deportivo",
-        "fuenteTitle": "Mundo Deportivo",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Lookman y Arnau están muy finos",
-        "url": "https://as.com/futbol/primera/lookman-y-arnau-estan-muy-finos-f202607-n/",
-        "imagen": "https://vdmedia.as.com/mcv/diarioas/multimedia/20260729/1200175_204353_video_1200.mp4",
-        "fecha": "2026-07-29T20:29:07.000Z",
-        "fuenteId": "as",
-        "fuenteTitle": "AS",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "4-1. El Atlético golea al Getafe en el primer amistoso de la pretemporada",
-        "url": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260729/1004211472/4-1-atletico-golea-getafe-primer-amistoso-pretemporada.html",
-        "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2026/07/29/6a6a5a07d39bc.r_d.964-663-0.jpeg",
-        "fecha": "2026-07-29T20:27:29.000Z",
-        "fuenteId": "mundo-deportivo",
-        "fuenteTitle": "Mundo Deportivo",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "4-0: El Betis golea al Olympique de Lyon en La Línea",
-        "url": "https://www.mundodeportivo.com/futbol/betis/20260729/1004211470/4-0-betis-golea-olympique-lyon-linea.html",
-        "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/07/29/6a6a60788d868.jpeg",
-        "fecha": "2026-07-29T20:23:25.000Z",
-        "fuenteId": "mundo-deportivo",
-        "fuenteTitle": "Mundo Deportivo",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La aparición estelar de Lamine en un TikTok de Inés García: atención a sus declaraciones",
-        "url": "https://as.com/tikitakas/videos/la-aparicion-estelar-de-lamine-en-un-tiktok-de-ines-garcia-atencion-a-sus-declaraciones-f202607-v/",
-        "imagen": "https://vdmedia.as.com/mcv/diarioas/multimedia/20260729/1200165_200837_video_1200.mp4",
-        "fecha": "2026-07-29T20:17:36.000Z",
-        "fuenteId": "as",
-        "fuenteTitle": "AS",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "1-0: Aubameyang ya golea con el Dépor",
-        "url": "https://www.mundodeportivo.com/futbol/deportivo-coruna/20260729/1004211467/1-0-aubameyang-golea-depor.html",
-        "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/07/29/6a6a5beecff02.jpeg",
-        "fecha": "2026-07-29T20:01:03.000Z",
-        "fuenteId": "mundo-deportivo",
-        "fuenteTitle": "Mundo Deportivo",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
       }
     ],
     "economia": [
+      {
+        "titulo": "Para ser asesor de primera, acelera (con GPTadvisor)",
+        "url": "https://www.elmundo.es/economia/empresas/2026/07/30/6a61db21e9cf4abf278b45bd.html",
+        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/07/24/17849059991733.jpg",
+        "fecha": "2026-07-29T22:08:22.000Z",
+        "fuenteId": "el-mundo-economia",
+        "fuenteTitle": "El Mundo - Economía",
+        "categorias": [
+          "economia",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Donde se hospedan las musas",
+        "url": "https://www.elmundo.es/economia/empresas/2026/07/30/6a631aac21efa070518b458b.html",
+        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/07/24/17849069197234.jpg",
+        "fecha": "2026-07-29T22:08:20.000Z",
+        "fuenteId": "el-mundo-economia",
+        "fuenteTitle": "El Mundo - Economía",
+        "categorias": [
+          "economia",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Informe de resultados: Fortinet supera las previsiones del Q2 2026 y sus acciones se disparan",
+        "url": "https://es.investing.com/news/transcripts/informe-de-resultados-fortinet-supera-las-previsiones-del-q2-2026-y-sus-acciones-se-disparan-93CH-3767197",
+        "imagen": "https://i-invdn-com.investing.com/news/moved_LYNXMPEM431A2_1200_L.jpg",
+        "fecha": "2026-07-29T21:49:52.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Johnson & Johnson completa la adquisición de Firefly Bio por 1.000 millones de dólares",
+        "url": "https://es.investing.com/news/company-news/johnson--johnson-completa-la-adquisicion-de-firefly-bio-por-1000-millones-de-dolares-93CH-3767194",
+        "imagen": "https://i-invdn-com.investing.com/news/LYNXMPEM5F17R_1200_L.jpg",
+        "fecha": "2026-07-29T21:49:16.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Informe de resultados de Viking Therapeutics: pérdidas del Q2 2026 mejoran previsiones",
+        "url": "https://es.investing.com/news/transcripts/informe-de-resultados-de-viking-therapeutics-perdidas-del-q2-2026-mejoran-previsiones-93CH-3767192",
+        "imagen": "https://i-invdn-com.investing.com/news/moved_LYNXMPEM450ND_1200_L.jpg",
+        "fecha": "2026-07-29T21:46:47.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Microsoft bate las expectativas y sube un 31% sus ganancias",
+        "url": "https://www.expansion.com/economia-digital/2026/07/29/6a6a69a0e5fdea623f8b4578.html",
+        "imagen": "http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&cg=rss-expansion&ci=es-widgetueditorial&si=https://www.expansion.com/rss/portada.xml",
+        "fecha": "2026-07-29T21:40:59.000Z",
+        "fuenteId": "expansion",
+        "fuenteTitle": "Expansión",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Informe de resultados de Qualcomm: supera ingresos en el tercer trimestre de 2026, pero las acciones caen",
+        "url": "https://es.investing.com/news/transcripts/informe-de-resultados-de-qualcomm-supera-ingresos-en-el-tercer-trimestre-de-2026-pero-las-acciones-caen-93CH-3767183",
+        "imagen": "",
+        "fecha": "2026-07-29T21:40:03.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Evercore ISI reitera Mejor Rendimiento en Meta tras superar previsiones en el Q2",
+        "url": "https://es.investing.com/news/analyst-ratings/evercore-isi-reitera-mejor-rendimiento-en-meta-tras-superar-previsiones-en-el-q2-93CH-3767176",
+        "imagen": "",
+        "fecha": "2026-07-29T21:33:49.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Goldman Sachs eleva el precio objetivo de HF Sinclair por su solidez financiera",
+        "url": "https://es.investing.com/news/analyst-ratings/goldman-sachs-eleva-el-precio-objetivo-de-hf-sinclair-por-su-solidez-financiera-93CH-3767175",
+        "imagen": "https://i-invdn-com.investing.com/news/moved_small-LYNXMPEM3Q0V4_1200_L.jpg",
+        "fecha": "2026-07-29T21:33:43.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El vicepresidente de Quest Diagnostics Mark Delaney vende acciones por 376.000 dólares",
+        "url": "https://es.investing.com/news/insider-trading-news/el-vicepresidente-de-quest-diagnostics-mark-delaney-vende-acciones-por-376000-dolares-93CH-3767171",
+        "imagen": "https://i-invdn-com.investing.com/news/moved_LYNXMPEM3Q0WG_1200_L.jpg",
+        "fecha": "2026-07-29T21:31:50.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Informe de resultados: Starbucks supera las estimaciones del tercer trimestre de 2026 y sus acciones suben un 5,1%",
+        "url": "https://es.investing.com/news/transcripts/informe-de-resultados-starbucks-supera-las-estimaciones-del-tercer-trimestre-de-2026-y-sus-acciones-suben-un-51-93CH-3767170",
+        "imagen": "https://i-invdn-com.investing.com/news/LYNXNPEC180BO_M.jpg",
+        "fecha": "2026-07-29T21:31:42.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Ramaco Resources publica evaluación de su proyecto minero en Wyoming",
+        "url": "https://es.investing.com/news/company-news/ramaco-resources-publica-evaluacion-de-su-proyecto-minero-en-wyoming-93CH-3767164",
+        "imagen": "https://i-invdn-com.investing.com/news/LYNXMPEM381B2_1200_L.jpg",
+        "fecha": "2026-07-29T21:29:11.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Goldman Sachs reitera compra en Meta y mantiene precio objetivo de 815 dólares",
         "url": "https://es.investing.com/news/analyst-ratings/goldman-sachs-reitera-compra-en-meta-y-mantiene-precio-objetivo-de-815-dolares-93CH-3767161",
@@ -1403,154 +1548,75 @@
           "economia"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "Marathon Petroleum declara un dividendo trimestral de 1,00 dólar por acción",
-        "url": "https://es.investing.com/news/company-news/marathon-petroleum-declara-un-dividendo-trimestral-de-100-dolar-por-accion-93CH-3767129",
-        "imagen": "https://i-invdn-com.investing.com/news/LYNXMPEM0P15Q_1200_L.jpg",
-        "fecha": "2026-07-29T21:12:59.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "¿Por qué se dispara hoy la acción de Lam Research?",
-        "url": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-lam-research-93CH-3767125",
-        "imagen": "https://i-invdn-com.investing.com/news/LYNXMPEB59082_M.jpg",
-        "fecha": "2026-07-29T21:11:26.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Un caos finalizado a objetivos precisos",
-        "url": "https://www.abc.es/economia/giuseppe-tringali-caos-finalizado-objetivos-precisos-20260729230758-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/07/29/1507342492-kBEH-U301070436992itG-1200x840@diario_abc.jpg",
-        "fecha": "2026-07-29T21:07:58.000Z",
-        "fuenteId": "abc-economia",
-        "fuenteTitle": "ABC - Economía",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Meta reduce su beneficio en un 14% tras disparar un 55% los costes por la IA",
-        "url": "https://www.expansion.com/economia-digital/2026/07/29/6a6a6948e5fdea98528b45a5.html",
-        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/07/29/17853587047011.jpg",
-        "fecha": "2026-07-29T20:58:52.000Z",
-        "fuenteId": "expansion",
-        "fuenteTitle": "Expansión",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Microsoft dispara un 31% sus ganancias hasta los 133.749 millones de dólares al cierre del ejercicio fiscal",
-        "url": "https://elpais.com/economia/2026-07-29/microsoft-dispara-un-31-sus-ganancias-hasta-los-133749-millones-de-dolares-al-cierre-del-ejercicio-fiscal.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/7DTGLFVD35LQHK7LQJEL2U5BYI.jpg?auth=7f0dffd032562e353d9a4458b464ed7ddd2a3f9c18ae9f673963cc52ccb000f5",
-        "fecha": "2026-07-29T20:51:32.000Z",
-        "fuenteId": "el-pais-economia",
-        "fuenteTitle": "El País - Economía",
-        "categorias": [
-          "economia",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Goldman Sachs rebaja el precio objetivo de Mirion Technologies a 23 dólares",
-        "url": "https://es.investing.com/news/analyst-ratings/goldman-sachs-rebaja-el-precio-objetivo-de-mirion-technologies-a-23-dolares-93CH-3767050",
-        "imagen": "https://i-invdn-com.investing.com/news/moved_LYNXMPEM3Q0V4_1200_L.jpg",
-        "fecha": "2026-07-29T20:47:43.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "EVP de Horizon Bancorp DeRuiter vende 161.520 dólares en acciones de HBNC",
-        "url": "https://es.investing.com/news/insider-trading-news/evp-de-horizon-bancorp-deruiter-vende-161520-dolares-en-acciones-de-hbnc-93CH-3767048",
-        "imagen": "https://i-invdn-com.investing.com/news/moved_LYNXMPEM3Q0WG_1200_L.jpg",
-        "fecha": "2026-07-29T20:47:10.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "¿Por qué se dispara hoy la acción de Fortinet?",
-        "url": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-fortinet-93CH-3767046",
-        "imagen": "https://i-invdn-com.investing.com/news/LYNXNPEC0D0AP_M.jpg",
-        "fecha": "2026-07-29T20:46:19.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "¿Por qué caen hoy las acciones de Carvana?",
-        "url": "https://es.investing.com/news/stock-market-news/por-que-caen-hoy-las-acciones-de-carvana-93CH-3767032",
-        "imagen": "https://i-invdn-com.investing.com/news/LYNXMPEDAF0IH_M.jpg",
-        "fecha": "2026-07-29T20:43:53.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Jefferies sube Avantor a mantener tras elevar sus previsiones",
-        "url": "https://es.investing.com/news/analyst-ratings/jefferies-sube-avantor-a-mantener-tras-elevar-sus-previsiones-93CH-3767029",
-        "imagen": "https://i-invdn-com.investing.com/news/moved_LYNXMPEM3Q0WG_1200_L.jpg",
-        "fecha": "2026-07-29T20:43:29.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "¿Por qué las acciones de Chipotle Mexican Grill se disparan hoy?",
-        "url": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-chipotle-mexican-grill-se-disparan-hoy-93CH-3767023",
-        "imagen": "",
-        "fecha": "2026-07-29T20:41:48.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Informa TechTarget reporta caída de ingresos en el primer semestre y reduce pérdidas",
-        "url": "https://es.investing.com/news/company-news/informa-techtarget-reporta-caida-de-ingresos-en-el-primer-semestre-y-reduce-perdidas-93CH-3767022",
-        "imagen": "",
-        "fecha": "2026-07-29T20:41:22.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
       }
     ],
     "entretenimiento": [
+      {
+        "titulo": "Mueren siete personas al estrellarse un helicóptero que iba a colaborar en un incendio forestal en Argentina",
+        "url": "https://www.huffingtonpost.es/global/mueren-siete-personas-estrellarse-helicoptero-iba-colaborar-incendio-forestal-argentina-f202607.html",
+        "imagen": "",
+        "fecha": "2026-07-29T22:06:37.000Z",
+        "fuenteId": "huffpost-espana",
+        "fuenteTitle": "HuffPost España",
+        "categorias": [
+          "actualidad",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Disney Speedstorm celebra el estreno de su Temporada 21 centrada en Encanto",
+        "url": "https://www.nintenderos.com/nintendo-switch-2/disney-speedstorm-celebra-el-estreno-de-su-temporada-21-centrada-en-encanto/",
+        "imagen": "https://i.ytimg.com/vi/j-IXuWcSQQM/hqdefault.jpg",
+        "fecha": "2026-07-29T22:06:03.000Z",
+        "fuenteId": "nintenderos",
+        "fuenteTitle": "Nintenderos",
+        "categorias": [
+          "tecnologia",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Una IA gestionó un negocio sin supervisión humana y eligió mentir, amenazar y traicionar",
+        "url": "https://hipertextual.com/inteligencia-artificial/claude-opus-5-ia-capitalista-vending-bench/",
+        "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/robots-ia.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
+        "fecha": "2026-07-29T21:52:00.000Z",
+        "fuenteId": "hipertextual",
+        "fuenteTitle": "Hipertextual",
+        "categorias": [
+          "tecnologia",
+          "ciencia",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Los mejores juegos de Nintendo Switch por género en 2026",
+        "url": "https://www.nintenderos.com/2026/07/top-100-mejores-juegos-nintendo-switch/",
+        "imagen": "https://www.nintenderos.com/wp-content/uploads/2026/05/tomodachi-life-une-vie-de-reve-e-400x225.jpg",
+        "fecha": "2026-07-29T21:41:27.000Z",
+        "fuenteId": "nintenderos",
+        "fuenteTitle": "Nintenderos",
+        "categorias": [
+          "tecnologia",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Gabriela Guillén reacciona a los problemas de salud de Bertín Osborne: \"es el padre de mi hijo y no lo quiero ver mal nunca\"",
+        "url": "https://www.diezminutos.es/famosos-corazon/famosos-espanoles/a73299226/gabriela-guillen-problemas-salud-bertin-osborne/",
+        "imagen": "https://hips.hearstapps.com/hmg-prod/images/gabriela-guille-n-695431f4ad8ef.jpg",
+        "fecha": "2026-07-29T21:38:00.000Z",
+        "fuenteId": "diez-minutos",
+        "fuenteTitle": "Diez Minutos",
+        "categorias": [
+          "corazon",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Hace 116 años, Hollywood fingió la muerte de una actriz para tener más éxito con sus películas y crear a la primera estrella del cine",
         "url": "https://www.espinof.com/actores-y-actrices/hace-116-anos-hollywood-fingio-muerte-actriz-para-tener-exito-sus-peliculas-crear-a-primera-estrella-cine",
@@ -1739,71 +1805,6 @@
         "fecha": "2026-07-29T19:57:04.000Z",
         "fuenteId": "adslzone",
         "fuenteTitle": "ADSLZone",
-        "categorias": [
-          "tecnologia",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Halo: Campaign Evolved prescinde de los actores originales en la versión francesa, que denuncian haberse visto reemplazados: \"es un doblaje barato\"",
-        "url": "https://www.hobbyconsolas.com/videojuegos/halo-campaign-evolved-prescinde-los-actores-originales-version-francesa-que-denuncian-haberse-visto-reemplazados-es-un-doblaje-barato_7020579_0.html",
-        "imagen": "https://imagenes.hobbyconsolas.com/files/image_1920_1080/uploads/imagenes/2026/07/29/6a6a5782f1d6f0-91277873.jpeg",
-        "fecha": "2026-07-29T19:56:28.000Z",
-        "fuenteId": "hobby-consolas",
-        "fuenteTitle": "Hobby Consolas",
-        "categorias": [
-          "tecnologia",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Michel, agricultor jubilado, alquila su granero a autocaravanas para ganar dinero: \"200 o 300 euros al mes no es poca cosa\"",
-        "url": "https://www.huffingtonpost.es/sociedad/michel-agricultor-jubilado-alquila-granero-autocaravanas-ganar-dinero-200-300-euros-mes-poca-cosa-f202607.html",
-        "imagen": "",
-        "fecha": "2026-07-29T19:54:24.000Z",
-        "fuenteId": "huffpost-espana",
-        "fuenteTitle": "HuffPost España",
-        "categorias": [
-          "actualidad",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Los incendios dan un respiro, pero el calor mantiene en alerta a España: el balance de una jornada marcada por nuevos focos y evacuaciones",
-        "url": "https://www.huffingtonpost.es/sociedad/los-incendios-dan-respiro-calor-mantiene-alerta-espana-balance-jornada-marcada-nuevos-focos-evacuaciones-f202607.html",
-        "imagen": "",
-        "fecha": "2026-07-29T19:43:55.000Z",
-        "fuenteId": "huffpost-espana",
-        "fuenteTitle": "HuffPost España",
-        "categorias": [
-          "actualidad",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Tiene 11 años y tiene su propia empresa de limpieza de contenedores de basura para ganar dinero: ya tiene 40 clientes",
-        "url": "https://www.huffingtonpost.es/sociedad/tiene-11nos-propia-empresa-limpieza-contenedores-basura-ganar-dinero-40-clientes-f202607.html",
-        "imagen": "",
-        "fecha": "2026-07-29T19:35:15.000Z",
-        "fuenteId": "huffpost-espana",
-        "fuenteTitle": "HuffPost España",
-        "categorias": [
-          "actualidad",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Anime Box estrena Dragon Ball: La bella durmiente en el castillo del mal, la segunda película de la serie de Akira Toriyama",
-        "url": "https://www.hobbyconsolas.com/hobbycine/anime-box-estrena-dragon-ball-bella-durmiente-castillo-mal-segunda-pelicula-serie-akira-toriyama_7020575_0.html",
-        "imagen": "https://imagenes.hobbyconsolas.com/files/image_1920_1080/uploads/imagenes/2026/07/29/6a6a51895c0c51-57052301.png",
-        "fecha": "2026-07-29T19:35:10.000Z",
-        "fuenteId": "hobby-consolas",
-        "fuenteTitle": "Hobby Consolas",
         "categorias": [
           "tecnologia",
           "entretenimiento"
@@ -2323,6 +2324,19 @@
     ],
     "internacional": [
       {
+        "titulo": "Zelenski advierte sobre \"alta probabilidad\" de un ataque ruso \"masivo\"",
+        "url": "https://www.dw.com/es/zelenski-advierte-sobre-alta-probabilidad-de-un-ataque-ruso-masivo/a-78166704?maca=spa-rss-sp-all-1122-xml-mrss",
+        "imagen": "",
+        "fecha": "2026-07-29T21:33:00.000Z",
+        "fuenteId": "dw-espanol",
+        "fuenteTitle": "DW Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Jared Leto: qué se sabe de las acusaciones de agresión sexual en contra el artista",
         "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260729-jared-leto-qu%C3%A9-se-sabe-de-las-acusaciones-de-agresi%C3%B3n-sexual-en-contra-el-artista",
         "imagen": "https://s.france24.com/media/display/a787c5dc-8b82-11f1-a5ac-005056a90284/w:1024/p:16x9/0743c09a63a8512dd6a1104252e34f9ed99cb8a4.jpg",
@@ -2565,22 +2579,69 @@
           "internacional"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "Tres bomberos mueren en Grecia en la extinción de dos incendios",
-        "url": "https://elpais.com/internacional/2026-07-29/varios-bomberos-mueren-en-grecia-en-la-extincion-de-dos-incendios.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/M72Q5C5FERK6JCD5KNQMCDIDFE.jpg?auth=06bc0be8c584ebf74e53db2c43d8a35cefb3d5121a8ed6e6a715c66536ef5374",
-        "fecha": "2026-07-29T19:23:40.000Z",
-        "fuenteId": "el-pais-internacional",
-        "fuenteTitle": "El País - Internacional",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
       }
     ],
     "local": [
+      {
+        "titulo": "El incendio de Castellón sigue activo y sin control",
+        "url": "https://www.elperiodicoextremadura.com/videos/sociedad/2026/07/30/incendio-castellon-sigue-activo-control-132938788.html",
+        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/e0ff0b19-be62-4d54-bdae-a789e8a0a603_16-9-aspect-ratio_default_0_x1024y462.jpg",
+        "fecha": "2026-07-29T22:07:06.000Z",
+        "fuenteId": "el-periodico-extremadura",
+        "fuenteTitle": "El Periódico Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Cuatro mujeres denuncian a Jared Leto por agresión sexual",
+        "url": "https://www.elperiodicoextremadura.com/videos/cultura/2026/07/30/cuatro-mujeres-denuncian-jared-leto-132938717.html",
+        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/353679fb-522e-49be-911b-bf3eaa90c168_16-9-aspect-ratio_default_0.jpg",
+        "fecha": "2026-07-29T22:03:41.000Z",
+        "fuenteId": "el-periodico-extremadura",
+        "fuenteTitle": "El Periódico Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "La FIFA abre un procedimiento disciplinario contra Argentina y Gavi por los incidentes en la final",
+        "url": "https://www.elperiodicoextremadura.com/videos/deportes/2026/07/30/fifa-abre-procedimiento-disciplinario-argentina-132938646.html",
+        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/99cc4127-0dd0-4011-9560-1e9a94366cd6_16-9-aspect-ratio_default_0_x1000y444.jpg",
+        "fecha": "2026-07-29T22:00:23.000Z",
+        "fuenteId": "el-periodico-extremadura",
+        "fuenteTitle": "El Periódico Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "José Manuel Pilo, alcalde de Fermoselle (Zamora): \"Estamos reviviendo el incendio terrible de 2017\"",
+        "url": "https://www.elperiodicoextremadura.com/sociedad/2026/07/29/jose-manuel-pilo-alcalde-fermoselle-zamora-estamos-reviviendo-incendio-2017-132938489.html",
+        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/de2f6ab8-eaa1-471a-9abd-610d2da6f99d_16-9-aspect-ratio_default_0_x800y238.jpg",
+        "fecha": "2026-07-29T21:48:52.000Z",
+        "fuenteId": "el-periodico-extremadura",
+        "fuenteTitle": "El Periódico Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "La Justicia ordena inscribir el pazo de Meirás a nombre del Estado",
+        "url": "https://www.elperiodicoextremadura.com/espana/2026/07/29/justicia-ordena-inscribir-pazo-meiras-nombre-estado-132938393.html",
+        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/1727e447-d6e0-4a19-a372-f6568ec705b5_16-9-aspect-ratio_default_0_x1000y444.jpg",
+        "fecha": "2026-07-29T21:41:50.000Z",
+        "fuenteId": "el-periodico-extremadura",
+        "fuenteTitle": "El Periódico Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Meta gana 42.621 millones de dólares en el primer semestre, un 22% más",
         "url": "https://www.elperiodicoextremadura.com/economia/2026/07/29/meta-gana-42-621-millones-dolares-primer-semestre-132938233.html",
@@ -2760,69 +2821,22 @@
           "local"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "Sánchez desvincula el indulto a Laura Borràs de cualquier negociación política: \"Damos cumplimiento a la sentencia del TSJC\"",
-        "url": "https://www.elperiodicoextremadura.com/espana/2026/07/29/sanchez-justifica-indulto-borras-posicion-tribunal-justicia-catalan-niega-guino-junts-132936382.html",
-        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/2367cfda-dc6e-49d1-a887-1ae5f3acbfa8_16-9-aspect-ratio_default_0_x1000y444.jpg",
-        "fecha": "2026-07-29T19:26:49.000Z",
-        "fuenteId": "el-periodico-extremadura",
-        "fuenteTitle": "El Periódico Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Vídeo | La historia de Juan Carlos Vicente, el último maestro de la madera de Guijo de Santa Bárbara",
-        "url": "https://www.elperiodicoextremadura.com/videos/caceres/2026/07/29/video-historia-juan-carlos-vicente-132936130.html",
-        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/875b312e-4235-4bdc-b496-df87d80b8ff8_16-9-aspect-ratio_default_0_x600y533.jpg",
-        "fecha": "2026-07-29T19:18:51.000Z",
-        "fuenteId": "el-periodico-extremadura",
-        "fuenteTitle": "El Periódico Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Óscar López sobre Ayuso: \"La han vuelto a pillar con el carrito del helado\"",
-        "url": "https://www.elperiodicoextremadura.com/videos/espana/2026/07/29/oscar-lopez-ayuso-han-vuelto-pillar-132935941.html",
-        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/321c851b-6f29-4f07-9d22-c61bad2917d2_16-9-aspect-ratio_default_0_x1200y533.jpg",
-        "fecha": "2026-07-29T19:10:16.000Z",
-        "fuenteId": "el-periodico-extremadura",
-        "fuenteTitle": "El Periódico Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "PP y Vox aprueban los presupuestos de Extremadura para 2026 sin enmiendas de la oposición",
-        "url": "https://www.elperiodicoextremadura.com/extremadura/2026/07/29/pp-vox-aprueban-presupuestos-extremadura-132935829.html",
-        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/40f45b1c-b01a-4645-9a11-f6917721e1d2_16-9-aspect-ratio_default_0_x400y177.jpg",
-        "fecha": "2026-07-29T19:06:06.000Z",
-        "fuenteId": "el-periodico-extremadura",
-        "fuenteTitle": "El Periódico Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Vídeo | Así se encuentra el camino de Santa Marta de Magasca",
-        "url": "https://www.elperiodicoextremadura.com/videos/caceres-local/2026/07/29/video-encuentra-camino-santa-marta-132935786.html",
-        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/0b34b79a-8452-4be1-94eb-1ffa49a5867b_16-9-aspect-ratio_default_1492021.jpg",
-        "fecha": "2026-07-29T19:05:00.000Z",
-        "fuenteId": "el-periodico-extremadura",
-        "fuenteTitle": "El Periódico Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
       }
     ],
     "medio-ambiente": [
+      {
+        "titulo": "Día de la Sobrecapacidad de la Tierra 2026: cómo reducir nuestra huella ecológica",
+        "url": "https://www.ecoticias.com/sostenibilidad/dia-de-la-sobrecapacidad-de-la-tierra-2026",
+        "imagen": "https://www.ecoticias.com/wp-content/uploads/2026/07/image-4.jpg",
+        "fecha": "2026-07-29T22:01:00.000Z",
+        "fuenteId": "ecoticias",
+        "fuenteTitle": "Ecoticias",
+        "categorias": [
+          "medio-ambiente",
+          "cultura"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Estabilizados los incendios del centro, uno nuevo en Zamora y noche crítica en Castellón",
         "url": "https://efeverde.com/estabilizados-los-incendios-del-centro/",
@@ -3063,22 +3077,22 @@
           "cultura"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "Euskadi estrena su primer parque eólico en 20 años con apoyo del Banco Europeo de Inversiones",
-        "url": "https://www.ecoticias.com/energias-renovables/euskadi-estrena-su-primer-parque-eolico-en-20-anos",
-        "imagen": "",
-        "fecha": "2026-07-29T12:03:25.000Z",
-        "fuenteId": "ecoticias",
-        "fuenteTitle": "Ecoticias",
-        "categorias": [
-          "medio-ambiente",
-          "cultura"
-        ],
-        "idioma": "es"
       }
     ],
     "moda": [
+      {
+        "titulo": "Dalí se encuentra con la dinastía italiana en el Palacio Real de Milán: la histórica exposición que reunirá obras de archivo y un pasado en común",
+        "url": "https://www.hola.com/actualidad/20260729915432/dali-exposicion-palacio-real-milan-vinculos-monarquia-italiana/",
+        "imagen": "https://www.hola.com/horizon/landscape/31ba7194a97a-gettyimages-3240395.jpg",
+        "fecha": "2026-07-29T21:54:37.000Z",
+        "fuenteId": "hola",
+        "fuenteTitle": "¡Hola!",
+        "categorias": [
+          "corazon",
+          "moda"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "3 perfumes frescos y duraderos que arrasaron en los 2000 (y por qué vuelven a ser tendencia en 2026)",
         "url": "https://www.marie-claire.es/belleza/perfumes-frescos-2000-tendencia-2026.html",
@@ -3317,21 +3331,22 @@
           "moda"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "6 bolsos de satén que son tendencia y combinan con cualquier vestido de invitada para una boda en agosto",
-        "url": "https://www.marie-claire.es/moda/bolso-saten-tendencia-invitadas.html",
-        "imagen": "",
-        "fecha": "2026-07-29T17:09:20.000Z",
-        "fuenteId": "marie-claire-espana",
-        "fuenteTitle": "Marie Claire España",
-        "categorias": [
-          "moda"
-        ],
-        "idioma": "es"
       }
     ],
     "politica": [
+      {
+        "titulo": "Zelenski advierte sobre \"alta probabilidad\" de un ataque ruso \"masivo\"",
+        "url": "https://www.dw.com/es/zelenski-advierte-sobre-alta-probabilidad-de-un-ataque-ruso-masivo/a-78166704?maca=spa-rss-sp-all-1122-xml-mrss",
+        "imagen": "",
+        "fecha": "2026-07-29T21:33:00.000Z",
+        "fuenteId": "dw-espanol",
+        "fuenteTitle": "DW Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Guardiola destaca la «misión cumplida» tras aprobar los presupuestos en Extremadura",
         "url": "https://theobjective.com/cultura/opera/2026-07-29/guardiola-mision-cumplida-presupuestos-extremadura/",
@@ -3571,19 +3586,6 @@
         "url": "https://www.abc.es/espana/canarias/operacion-panmesh-detenido-gran-canaria-delito-libertad-20260729221149-nt.html",
         "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/07/29/policia%20canaria-RAlxLvmU9wOyZfZVag1XL0M-1200x840@diario_abc.png",
         "fecha": "2026-07-29T20:11:49.000Z",
-        "fuenteId": "abc-espana",
-        "fuenteTitle": "ABC - España",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Panorama «muy triste» en la D. O. Cebreros, afectada por tercera vez por el fuego",
-        "url": "https://www.abc.es/espana/castilla-leon/panorama-triste-cebreros-afectada-tercera-vez-fuego-20260729220915-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/07/29/cebreros-RKmeoMr4m4rktUf1dAv3PWJ-1200x840@diario_abc.jpg",
-        "fecha": "2026-07-29T20:09:15.000Z",
         "fuenteId": "abc-espana",
         "fuenteTitle": "ABC - España",
         "categorias": [
@@ -4121,6 +4123,71 @@
     ],
     "tecnologia": [
       {
+        "titulo": "Disney Speedstorm celebra el estreno de su Temporada 21 centrada en Encanto",
+        "url": "https://www.nintenderos.com/nintendo-switch-2/disney-speedstorm-celebra-el-estreno-de-su-temporada-21-centrada-en-encanto/",
+        "imagen": "https://i.ytimg.com/vi/j-IXuWcSQQM/hqdefault.jpg",
+        "fecha": "2026-07-29T22:06:03.000Z",
+        "fuenteId": "nintenderos",
+        "fuenteTitle": "Nintenderos",
+        "categorias": [
+          "tecnologia",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Los temibles misiles Oreshnik rusos tardan minutos en llegar a Ucrania. Su secreto: salen de una ciudad atrapada en el tiempo",
+        "url": "https://www.xataka.com/magnet/temibles-misiles-oreshnik-rusos-tardan-minutos-llegar-a-ucrania-su-secreto-salen-ciudad-atrapada-tiempo",
+        "imagen": "https://i.blogs.es/01ecf4/transporte-misiles-oreshnik/1024_2000.jpeg",
+        "fecha": "2026-07-29T21:56:43.000Z",
+        "fuenteId": "xataka",
+        "fuenteTitle": "Xataka",
+        "categorias": [
+          "tecnologia",
+          "ciencia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Una IA gestionó un negocio sin supervisión humana y eligió mentir, amenazar y traicionar",
+        "url": "https://hipertextual.com/inteligencia-artificial/claude-opus-5-ia-capitalista-vending-bench/",
+        "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/robots-ia.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
+        "fecha": "2026-07-29T21:52:00.000Z",
+        "fuenteId": "hipertextual",
+        "fuenteTitle": "Hipertextual",
+        "categorias": [
+          "tecnologia",
+          "ciencia",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Más allá de la mente: la ciencia demuestra que el sistema digestivo ayuda a fijar recuerdos",
+        "url": "https://www.larazon.es/tecnologia-consumo/ciencia/alla-mente-ciencia-demuestra-sistema-digestivo-ayuda-fijar-recuerdos_202607296a6a6813a046ad6ebc8f6f79.html",
+        "imagen": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/07/29/B7B14654-17FF-49FE-BCAD-27AB0A4FA0C0/ciencia-sistema-digestivo-ayuda-fijar-recuerdos_96.jpg?crop=1900,1069,x0,y0&amp;width=1200&amp;height=675&amp;optimize=low&amp;format=webply",
+        "fecha": "2026-07-29T21:45:00.000Z",
+        "fuenteId": "andro4all",
+        "fuenteTitle": "Andro4all",
+        "categorias": [
+          "tecnologia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Los mejores juegos de Nintendo Switch por género en 2026",
+        "url": "https://www.nintenderos.com/2026/07/top-100-mejores-juegos-nintendo-switch/",
+        "imagen": "https://www.nintenderos.com/wp-content/uploads/2026/05/tomodachi-life-une-vie-de-reve-e-400x225.jpg",
+        "fecha": "2026-07-29T21:41:27.000Z",
+        "fuenteId": "nintenderos",
+        "fuenteTitle": "Nintenderos",
+        "categorias": [
+          "tecnologia",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "VIDEO | Un senador republicano expulsa al abogado del doctor Anthony Fauci durante una audiencia",
         "url": "https://elpais.com/us/2026-07-29/video-un-senador-republicano-expulsa-al-abogado-del-doctor-anthony-fauci-durante-una-audiencia.html",
         "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260729/1200102_164838_video_1800.mp4",
@@ -4131,6 +4198,18 @@
           "actualidad",
           "tecnologia",
           "ciencia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Shaheer Khan, experto en hardware: \"Puedes reducir la temperatura de la GPU de tu PC en hasta 7 grados en cinco minutos sin tocar la pasta térmica\"",
+        "url": "https://computerhoy.20minutos.es/tecnologia/shaheer-khan-experto-hardware-puedes-reducir-temperatura-gpu-tu-pc-hasta-7-grados-cinco-minutos-sin-tocar-pasta-termica_7020288_0.html",
+        "imagen": "https://imagenes.computerhoy.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/07/29/6a6a6d55e98d69-63532950.jpeg",
+        "fecha": "2026-07-29T21:16:35.000Z",
+        "fuenteId": "computer-hoy",
+        "fuenteTitle": "Computer Hoy",
+        "categorias": [
+          "tecnologia"
         ],
         "idioma": "es"
       },
@@ -4299,84 +4378,6 @@
         "categorias": [
           "tecnologia",
           "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Mark Zuckerberg defiende una IA abierta: \"El futuro de la superinteligencia debe ser para todos, no para unos pocos\"",
-        "url": "https://www.larazon.es/tecnologia-consumo/inteligencia-artificial/mark-zuckerberg-defiende-ia-abierta-futuro-superinteligencia-debe-ser-todos-no-pocos_202607296a6a5259a5690f04735876ac.html",
-        "imagen": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/07/29/1FDC7E81-B750-4565-B9B7-5582C458E8B9/mark-zuckerberg-quiere-todos-puedan-acceder-superinteligencia_96.jpg?crop=1900,1069,x0,y0&amp;width=1200&amp;height=675&amp;optimize=low&amp;format=webply",
-        "fecha": "2026-07-29T20:00:00.000Z",
-        "fuenteId": "andro4all",
-        "fuenteTitle": "Andro4all",
-        "categorias": [
-          "tecnologia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Un telescopio en Canarias mira a Venus y descubre unos gigantescos anillos concéntricos que nadie ha vuelto a ver",
-        "url": "https://www.elconfidencial.com/tecnologia/ciencia/2026-07-29/telescopio-canarias-venus-anillos-atmosfera-1qrt_4397105/",
-        "imagen": "https://images.ecestaticos.com/bQz16Vds3dKr403ayE-qyfG1vJY=/0x0:2272x1275/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F3f0%2Fb5a%2F40c%2F3f0b5a40c51ecc5f6adfb69dba5be925.jpg",
-        "fecha": "2026-07-29T20:00:00.000Z",
-        "fuenteId": "el-confidencial-tecnologia",
-        "fuenteTitle": "El Confidencial - Tecnología",
-        "categorias": [
-          "tecnologia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "EL PAÍS se asoma al Palau Robert de Barcelona con las fotos de su 50 aniversario",
-        "url": "https://elpais.com/espana/catalunya/2026-07-29/el-pais-se-asoma-al-palau-robert-con-las-fotos-de-su-50-aniversario.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/LGWV6KJN2RB67F6PSWF237KRB4.jpg?auth=d61861d7d4bf7b2de4105ffc6fb64d68ffcf200c2e250efbefbe41d991894da9",
-        "fecha": "2026-07-29T19:58:36.000Z",
-        "fuenteId": "el-pais",
-        "fuenteTitle": "El País",
-        "categorias": [
-          "actualidad",
-          "tecnologia",
-          "ciencia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Han preguntado a O2 si tiene planes de añadir más plataformas de streaming tras Disney+, y la firma ha sido tajante: “Trabajamos continuamente para mejorar…”",
-        "url": "https://www.adslzone.net/noticias/operadores/planes-o2-incluir-mas-plataformas-streaming/",
-        "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/07/o2-streaming-pcpal-1212-az.jpg",
-        "fecha": "2026-07-29T19:57:04.000Z",
-        "fuenteId": "adslzone",
-        "fuenteTitle": "ADSLZone",
-        "categorias": [
-          "tecnologia",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Halo: Campaign Evolved prescinde de los actores originales en la versión francesa, que denuncian haberse visto reemplazados: \"es un doblaje barato\"",
-        "url": "https://www.hobbyconsolas.com/videojuegos/halo-campaign-evolved-prescinde-los-actores-originales-version-francesa-que-denuncian-haberse-visto-reemplazados-es-un-doblaje-barato_7020579_0.html",
-        "imagen": "https://imagenes.hobbyconsolas.com/files/image_1920_1080/uploads/imagenes/2026/07/29/6a6a5782f1d6f0-91277873.jpeg",
-        "fecha": "2026-07-29T19:56:28.000Z",
-        "fuenteId": "hobby-consolas",
-        "fuenteTitle": "Hobby Consolas",
-        "categorias": [
-          "tecnologia",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "PP y Vox en Extremadura aprueban los Presupuestos para 2026",
-        "url": "https://elpais.com/espana/2026-07-29/pp-y-vox-en-extremadura-aprueban-los-presupuestos-para-2026.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/XDORB25MUFLITEZBAEZTK5JRIE.jpg?auth=3f2fd0f1615a4bed4511dddedd19cf70ab240c59e4ec24bc4b235a132fb6094d",
-        "fecha": "2026-07-29T19:52:23.000Z",
-        "fuenteId": "el-pais",
-        "fuenteTitle": "El País",
-        "categorias": [
-          "actualidad",
-          "tecnologia",
-          "ciencia"
         ],
         "idioma": "es"
       }
