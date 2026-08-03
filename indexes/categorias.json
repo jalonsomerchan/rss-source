@@ -1,8 +1,21 @@
 {
-  "generado": "2026-08-03T02:12:50.188Z",
+  "generado": "2026-08-03T02:20:50.877Z",
   "limitePorCategoria": 20,
   "categorias": {
     "actualidad": [
+      {
+        "titulo": "Sánchez en La Mareta ante el eclipse",
+        "url": "https://www.abc.es/espana/sergi-doria-sanchez-mareta-ante-eclipse-20260803032540-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/03/sanchez-efe-RoWzmx6mOaJE0SopQVVNWeK-1200x840@diario_abc.jpg",
+        "fecha": "2026-08-03T01:25:55.000Z",
+        "fuenteId": "abc-espana",
+        "fuenteTitle": "ABC - España",
+        "categorias": [
+          "politica",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "La India, una superpotencia entre la utopía y la realidad",
         "url": "https://www.abc.es/internacional/india-2047-utopia-realidad-20260710032517-nt.html",
@@ -235,18 +248,6 @@
         "url": "https://www.abc.es/historia/historiadores-opinan-sobre-crisis-ceuta-relacion-marcha-20260803012242-nt.html",
         "imagen": "https://s1.abcstatics.com/abc/www/multimedia/historia/2026/08/01/marchaverde-RSGl3k7gahPCy49lmglWtHK-1200x840@diario_abc.jpg",
         "fecha": "2026-08-02T23:22:42.000Z",
-        "fuenteId": "abc",
-        "fuenteTitle": "ABC",
-        "categorias": [
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Indignación y tristeza de los vecinos: «La ciudad ha sido abandonada por los Gobiernos»",
-        "url": "https://www.abc.es/espana/indignacion-tristeza-vecinos-ceuta-ciudad-abandonada-gobiernos-20260803012221-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/03/WhatsApp%20Image%202026-08-02%20at%2017.43.34-RyzOWGZ1kbLgplaI1oQdC6L-1200x840@diario_abc.jpeg",
-        "fecha": "2026-08-02T23:22:32.000Z",
         "fuenteId": "abc",
         "fuenteTitle": "ABC",
         "categorias": [
@@ -1292,9 +1293,45 @@
     ],
     "economia": [
       {
+        "titulo": "Los futuros de las acciones de EE.UU. suben mientras Trump anuncia negociaciones con Irán",
+        "url": "https://es.investing.com/news/stock-market-news/los-futuros-de-las-acciones-de-eeuu-suben-mientras-trump-anuncia-negociaciones-con-iran-3773203",
+        "imagen": "https://content-media.investing.com/news/LYNXMPEM310T5_1200_L.jpg",
+        "fecha": "2026-08-03T01:25:07.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El oro sube mientras Trump retrasa ataque a Irán y cae el petróleo",
+        "url": "https://es.investing.com/news/commodities-news/el-oro-sube-mientras-trump-retrasa-ataque-a-iran-y-cae-el-petroleo-3773202",
+        "imagen": "https://i-invdn-com.investing.com/news/Gold_800x533_L_1762261755.jpg",
+        "fecha": "2026-08-03T01:23:27.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "¡20.000!",
+        "url": "https://www.abc.es/economia/20000-20260803032312-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/08/03/bolsa-espana-RFgrGjEl5ug2XEeddghSeNI-1200x840@diario_abc.jpg",
+        "fecha": "2026-08-03T01:23:12.000Z",
+        "fuenteId": "abc-economia",
+        "fuenteTitle": "ABC - Economía",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Las ventas de BYD suben casi un 22% en julio por la demanda exterior",
         "url": "https://es.investing.com/news/stock-market-news/las-ventas-de-byd-suben-casi-un-22-en-julio-por-la-demanda-exterior-93CH-3773199",
-        "imagen": "",
+        "imagen": "https://i-invdn-com.investing.com/news/LYNXMPEB2S09I_M.jpg",
         "fecha": "2026-08-03T01:04:15.000Z",
         "fuenteId": "investing-es-noticias",
         "fuenteTitle": "Investing.com España - Noticias",
@@ -1491,42 +1528,6 @@
         "fecha": "2026-08-02T23:21:24.000Z",
         "fuenteId": "abc-economia",
         "fuenteTitle": "ABC - Economía",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Iberdrola y Endesa pagan 360 millones hasta junio en impuestos por sus centrales nucleares",
-        "url": "https://www.abc.es/economia/iberdrola-endesa-pagan-360-millones-junio-impuestos-20260803011722-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/08/03/Central%20Vandellos-RDPg1s1POSUHL1iNzMhi1uK-1200x840@diario_abc.jpg",
-        "fecha": "2026-08-02T23:17:22.000Z",
-        "fuenteId": "abc-economia",
-        "fuenteTitle": "ABC - Economía",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Arval suma 400.000 vehículos con la compra de Athlon",
-        "url": "https://www.expansion.com/empresas/motor/2026/08/03/6a6f8a26e5fdea884c8b4581.html",
-        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/08/02/17856954356938.jpg",
-        "fecha": "2026-08-02T22:03:31.000Z",
-        "fuenteId": "expansion",
-        "fuenteTitle": "Expansión",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Del Moves al Auto+: seis años buscando la fórmula para impulsar la moto eléctrica",
-        "url": "https://www.expansion.com/empresas/motor/2026/08/03/6a67d163468aeb2e1e8b45a8.html",
-        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/07/28/17851929763806.jpg",
-        "fecha": "2026-08-02T22:03:30.000Z",
-        "fuenteId": "expansion",
-        "fuenteTitle": "Expansión",
         "categorias": [
           "economia"
         ],
@@ -3314,6 +3315,19 @@
     ],
     "politica": [
       {
+        "titulo": "Sánchez en La Mareta ante el eclipse",
+        "url": "https://www.abc.es/espana/sergi-doria-sanchez-mareta-ante-eclipse-20260803032540-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/03/sanchez-efe-RoWzmx6mOaJE0SopQVVNWeK-1200x840@diario_abc.jpg",
+        "fecha": "2026-08-03T01:25:55.000Z",
+        "fuenteId": "abc-espana",
+        "fuenteTitle": "ABC - España",
+        "categorias": [
+          "politica",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Reportan explosión cerca de petrolero en estrecho de Ormuz",
         "url": "https://www.dw.com/es/reportan-explosión-cerca-de-petrolero-en-estrecho-de-ormuz/a-78210314?maca=spa-rss-sp-all-1122-xml-mrss",
         "imagen": "",
@@ -3556,19 +3570,6 @@
         "fuenteTitle": "El Mundo - Internacional",
         "categorias": [
           "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Irán anuncia que las conversaciones con Omán sobre Ormuz han entrado en su fase final",
-        "url": "https://theobjective.com/internacional/2026-08-02/iran-anuncia-conversaciones-oman-ormuz-fase-final/",
-        "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/08/trumpetas-469x317.jpg",
-        "fecha": "2026-08-02T21:50:17.000Z",
-        "fuenteId": "the-objective",
-        "fuenteTitle": "The Objective",
-        "categorias": [
-          "actualidad",
           "politica"
         ],
         "idioma": "es"
