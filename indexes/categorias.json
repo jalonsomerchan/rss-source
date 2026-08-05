@@ -1,8 +1,21 @@
 {
-  "generado": "2026-08-05T00:58:25.919Z",
+  "generado": "2026-08-05T01:00:56.640Z",
   "limitePorCategoria": 20,
   "categorias": {
     "actualidad": [
+      {
+        "titulo": "Lo que esta ciudad desértica puede enseñar al mundo sobre cómo combatir las muertes por calor",
+        "url": "https://www.bbc.com/mundo/articles/czdm1e5p2zqo?at_medium=RSS&at_campaign=rss",
+        "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/12d0/live/091a8690-82b9-11f1-87aa-2bcbbeff03e6.jpg",
+        "fecha": "2026-08-05T00:15:02.000Z",
+        "fuenteId": "bbc-mundo",
+        "fuenteTitle": "BBC News Mundo",
+        "categorias": [
+          "internacional",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Pedro García Lario, astrónomo: «En los eclipses se te ponen los pelos de punta y muchos lloran de emoción»",
         "url": "https://www.abc.es/ciencia/pedro-garcia-lario-astronomo-eclipses-lloran-ponen-20260728022652-nt.html",
@@ -229,18 +242,6 @@
         "url": "https://www.abc.es/cultura/zeta-boomers-love-bombing-20260805015108-nt.html",
         "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/08/05/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-RBq4ImMbowOz2YEKs0dUqZI-1200x840@diario_abc.jpg",
         "fecha": "2026-08-04T23:51:08.000Z",
-        "fuenteId": "abc",
-        "fuenteTitle": "ABC",
-        "categorias": [
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El eclipse que dio la razón a Einstein y otros hallazgos en la oscuridad",
-        "url": "https://www.abc.es/ciencia/eclipse-dio-razon-einstein-hallazgos-oscuridad-20260729014954-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/07/29/1919_eclipse-RcFpJhg3O721MO48B6U727K-1200x840@diario_abc.jpg",
-        "fecha": "2026-08-04T23:50:58.000Z",
         "fuenteId": "abc",
         "fuenteTitle": "ABC",
         "categorias": [
@@ -1044,6 +1045,54 @@
     ],
     "deportes": [
       {
+        "titulo": "Carlos Alcaraz no disputará el Masters 1000 de Cincinnati",
+        "url": "https://elpais.com/deportes/tenis/2026-08-05/carlos-alcaraz-no-disputara-el-masters-1000-de-cincinnati.html",
+        "imagen": "https://imagenes.elpais.com/resizer/v2/VESNVL3QMRM37PKDEYE5QCEXPU.jpg?auth=a660706f0a0b9788095e00cfc2eccee7ad6f0efd402f258c6125b1bd12f5e837",
+        "fecha": "2026-08-05T00:29:21.000Z",
+        "fuenteId": "el-pais-deportes",
+        "fuenteTitle": "El País - Deportes",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "La seducción a Arnau Martínez",
+        "url": "https://as.com/futbol/la-seduccion-a-arnau-martinez-f202608-n/",
+        "imagen": "https://img.asmedia.epimg.net/resizer/v2/7OF7ECPDC5PAREIRWCA4CODRUI.jpg?auth=30768b230ca250775b3cc791a5806e355e31dda97ba2681ba61806eae1649357",
+        "fecha": "2026-08-05T00:05:16.000Z",
+        "fuenteId": "as",
+        "fuenteTitle": "AS",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Dani Ceballos ‘resiste’",
+        "url": "https://as.com/futbol/primera/dani-ceballos-resiste-f202608-n/",
+        "imagen": "https://img.asmedia.epimg.net/resizer/v2/5MA7GD4UEVHBZLY3NAQUPYKQEA.jpg?auth=2afda0eeeeb15f257ca543948756254ad84867a122074a39382765a8d5fe26dd",
+        "fecha": "2026-08-05T00:04:34.000Z",
+        "fuenteId": "as",
+        "fuenteTitle": "AS",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Adama Traoré vuelve a empezar",
+        "url": "https://as.com/futbol/internacional/adama-traore-vuelve-a-empezar-f202608-n/",
+        "imagen": "https://img.asmedia.epimg.net/resizer/v2/ZVCHVGNBIZK2XBQG3RH3HFSPPQ.jpg?auth=80f58683bb50b3ad67715ce85a07061aa4593605cb7706171fa14ef3d5502133",
+        "fecha": "2026-08-05T00:01:54.000Z",
+        "fuenteId": "as",
+        "fuenteTitle": "AS",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "El fútbol europeo no es la NBA",
         "url": "https://as.com/opinion/el-futbol-europeo-no-es-la-nba-f202608-n/",
         "imagen": "https://img.asmedia.epimg.net/resizer/v2/YJRFJSUVIFECZOYXOXQMMJ564A.JPG?auth=d54ce2bd5044e563d641c2c4d9d5e3fe7672b336601b682b856b25374a1fcf22",
@@ -1234,57 +1283,69 @@
           "deportes"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "Jódar ilusiona, a la espera de Alcaraz",
-        "url": "https://as.com/opinion/jodar-ilusiona-a-la-espera-de-alcaraz-f202608-n/",
-        "imagen": "https://img.asmedia.epimg.net/resizer/v2/MORZDDTHZJOT7HU2VEQBWGEB64.jpg?auth=7f02a2448e527790d11a93cca9b28d7ef0e5a0fe6dbedd4efdaa50bde03802fd",
-        "fecha": "2026-08-04T20:42:02.000Z",
-        "fuenteId": "as",
-        "fuenteTitle": "AS",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Sin Endrick no hay paraíso",
-        "url": "https://as.com/futbol/internacional/sin-endrick-no-hay-paraiso-f202608-n/",
-        "imagen": "https://img.asmedia.epimg.net/resizer/v2/6HXJK3TSNREFRFUJNVAMTRFGJM.jpg?auth=52aedfdc0433a2bfef2f4eec47eadd4810d8f76045e93104dc077494e4626997",
-        "fecha": "2026-08-04T20:37:45.000Z",
-        "fuenteId": "as",
-        "fuenteTitle": "AS",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El Getafe ficha a Saba Sazonov",
-        "url": "https://www.mundodeportivo.com/futbol/getafe/20260804/1004213209/getafe-ficha-saba-sazonov.html",
-        "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/08/04/6a724c2e33509.jpeg",
-        "fecha": "2026-08-04T20:32:08.000Z",
-        "fuenteId": "mundo-deportivo",
-        "fuenteTitle": "Mundo Deportivo",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Daniel Mérida avanza en Montreal, Carreño se despide y Munar se retira",
-        "url": "https://www.mundodeportivo.com/tenis/20260804/1004213208/daniel-merida-avanza-montreal-carreno-despide-munar-retira.html",
-        "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2026/08/04/6a724bb3a148b.r_d.1500-1000-0.jpeg",
-        "fecha": "2026-08-04T20:30:35.000Z",
-        "fuenteId": "mundo-deportivo",
-        "fuenteTitle": "Mundo Deportivo",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
       }
     ],
     "economia": [
+      {
+        "titulo": "¿Por qué sube la acción de NVIDIA en el mercado fuera de hora?",
+        "url": "https://es.investing.com/news/stock-market-news/por-que-sube-la-accion-de-nvidia-en-el-mercado-fuera-de-hora-93CH-3778475",
+        "imagen": "https://i-invdn-com.investing.com/news/moved_LYNXNPEL0S0UG_L.jpg",
+        "fecha": "2026-08-05T00:24:01.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "ARK de Cathie Wood vende acciones de Palantir y compra GeneDx Holdings",
+        "url": "https://es.investing.com/news/company-news/ark-de-cathie-wood-vende-acciones-de-palantir-y-compra-genedx-holdings-93CH-3778440",
+        "imagen": "",
+        "fecha": "2026-08-05T00:09:23.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Informe de resultados de Coupang Q2 2026: supera el BPA, pero cae tras decepcionar en ingresos",
+        "url": "https://es.investing.com/news/transcripts/informe-de-resultados-de-coupang-q2-2026-supera-el-bpa-pero-cae-tras-decepcionar-en-ingresos-93CH-3778429",
+        "imagen": "",
+        "fecha": "2026-08-04T23:57:11.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Informe de resultados: Kratos supera estimaciones del Q2 2026 y mejora perspectivas",
+        "url": "https://es.investing.com/news/transcripts/informe-de-resultados-kratos-supera-estimaciones-del-q2-2026-y-mejora-perspectivas-93CH-3778427",
+        "imagen": "",
+        "fecha": "2026-08-04T23:53:39.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Informe de resultados de AMD: supera estimaciones del Q2 2026, pero cae en el mercado fuera de hora",
+        "url": "https://es.investing.com/news/transcripts/informe-de-resultados-de-amd-supera-estimaciones-del-q2-2026-pero-cae-en-el-mercado-fuera-de-hora-93CH-3778426",
+        "imagen": "https://i-invdn-com.investing.com/news/LYNXNPEC0E0NG_S.jpg",
+        "fecha": "2026-08-04T23:51:59.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Informe de resultados: Opendoor Q2 2026 decepciona y cae en el mercado fuera de hora",
         "url": "https://es.investing.com/news/transcripts/informe-de-resultados-opendoor-q2-2026-decepciona-y-cae-en-el-mercado-fuera-de-hora-93CH-3778424",
@@ -1396,7 +1457,7 @@
       {
         "titulo": "B&G Foods declara un dividendo trimestral de 0,095 dólares por acción",
         "url": "https://es.investing.com/news/company-news/bg-foods-declara-un-dividendo-trimestral-de-0095-dolares-por-accion-93CH-3778420",
-        "imagen": "",
+        "imagen": "https://i-invdn-com.investing.com/news/LYNXMPEM4C1QN_1200_L.jpg",
         "fecha": "2026-08-04T23:44:58.000Z",
         "fuenteId": "investing-es-noticias",
         "fuenteTitle": "Investing.com España - Noticias",
@@ -1408,7 +1469,7 @@
       {
         "titulo": "Informe de resultados de Mattel Q2 2026: ventas superan previsiones pero el beneficio cae",
         "url": "https://es.investing.com/news/transcripts/informe-de-resultados-de-mattel-q2-2026-ventas-superan-previsiones-pero-el-beneficio-cae-93CH-3778419",
-        "imagen": "",
+        "imagen": "https://i-invdn-com.investing.com/news/LYNXNPEC0Q1B5_M.jpg",
         "fecha": "2026-08-04T23:42:54.000Z",
         "fuenteId": "investing-es-noticias",
         "fuenteTitle": "Investing.com España - Noticias",
@@ -1458,66 +1519,6 @@
         "url": "https://es.investing.com/news/transcripts/informe-de-resultados-de-amd-supera-estimaciones-del-q2-2026-pero-la-accion-cae-en-el-mercado-fuera-de-horario-93CH-3778414",
         "imagen": "https://i-invdn-com.investing.com/news/moved_LYNXMPEM3T1K3_1200_L.jpg",
         "fecha": "2026-08-04T23:30:07.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Informe de resultados de TransMedics Q2 2026: ingresos récord, pero BPA decepciona",
-        "url": "https://es.investing.com/news/transcripts/informe-de-resultados-de-transmedics-q2-2026-ingresos-record-pero-bpa-decepciona-93CH-3778413",
-        "imagen": "https://i-invdn-com.investing.com/news/moved_LYNXMPEM4510G_1200_L.jpg",
-        "fecha": "2026-08-04T23:29:03.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "AMD aumenta sus ingresos un 50% en el segundo trimestre gracias a los centros de datos",
-        "url": "https://www.expansion.com/economia-digital/2026/08/05/6a727227468aeb4e238b4598.html",
-        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/08/05/17858858220142.jpg",
-        "fecha": "2026-08-04T23:24:26.000Z",
-        "fuenteId": "expansion",
-        "fuenteTitle": "Expansión",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Rocket Lab gana un contrato de 397 millones de dólares con la Fuerza Espacial",
-        "url": "https://es.investing.com/news/company-news/rocket-lab-gana-un-contrato-de-397-millones-de-dolares-con-la-fuerza-espacial-93CH-3778411",
-        "imagen": "https://i-invdn-com.investing.com/news/LYNXMPEM380VB_1200_L.jpg",
-        "fecha": "2026-08-04T23:21:24.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El juicio antimonopolio por la fusión de Paramount y Warner Bross comenzará en marzo de 2027",
-        "url": "https://www.expansion.com/empresas/2026/08/05/6a7272db468aeb336b8b4582.html",
-        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/08/05/17858855841222.jpg",
-        "fecha": "2026-08-04T23:20:38.000Z",
-        "fuenteId": "expansion",
-        "fuenteTitle": "Expansión",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Informe de resultados de Mattel: ventas del Q2 2026 superan previsiones, pero el beneficio cae",
-        "url": "https://es.investing.com/news/transcripts/informe-de-resultados-de-mattel-ventas-del-q2-2026-superan-previsiones-pero-el-beneficio-cae-93CH-3778409",
-        "imagen": "https://i-invdn-com.investing.com/news/LYNXNPEB65083_M.jpg",
-        "fecha": "2026-08-04T23:17:28.000Z",
         "fuenteId": "investing-es-noticias",
         "fuenteTitle": "Investing.com España - Noticias",
         "categorias": [
@@ -2310,6 +2311,19 @@
     ],
     "internacional": [
       {
+        "titulo": "Lo que esta ciudad desértica puede enseñar al mundo sobre cómo combatir las muertes por calor",
+        "url": "https://www.bbc.com/mundo/articles/czdm1e5p2zqo?at_medium=RSS&at_campaign=rss",
+        "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/12d0/live/091a8690-82b9-11f1-87aa-2bcbbeff03e6.jpg",
+        "fecha": "2026-08-05T00:15:02.000Z",
+        "fuenteId": "bbc-mundo",
+        "fuenteTitle": "BBC News Mundo",
+        "categorias": [
+          "internacional",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "China está adquiriendo un preocupante conocimiento militar de Rusia",
         "url": "https://www.abc.es/internacional/china-adquiriendo-preocupante-conocimiento-militar-rusia-20260805015253-nt.html",
         "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/08/05/economist_1200x840%20(9)-kznD-U301074342076nfF-1200x840@diario_abc.jpg",
@@ -2550,19 +2564,6 @@
         "fecha": "2026-08-04T21:15:00.000Z",
         "fuenteId": "dw-espanol",
         "fuenteTitle": "DW Español",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El Gobierno de Trump cancela la visa de la embajadora de Brasil en medio de una disputa diplomática",
-        "url": "https://www.france24.com/es/minuto-a-minuto/20260804-el-gobierno-de-trump-cancela-la-visa-de-la-embajadora-de-brasil-en-medio-de-una-disputa-diplom%C3%A1tica",
-        "imagen": "",
-        "fecha": "2026-08-04T20:59:41.000Z",
-        "fuenteId": "france24-espanol",
-        "fuenteTitle": "France 24 Español",
         "categorias": [
           "internacional",
           "politica"
