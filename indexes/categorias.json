@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-06T01:02:59.314Z",
+  "generado": "2026-08-06T01:15:55.556Z",
   "limitePorCategoria": 20,
   "categorias": {
     "actualidad": [
@@ -12,6 +12,31 @@
         "fuenteTitle": "Diariomotor",
         "categorias": [
           "tecnologia",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Las inéditas imágenes del Sol en movimiento que muestran un nivel de detalle jamás visto",
+        "url": "https://www.bbc.com/mundo/articles/c5ywq043ql6o?at_medium=RSS&at_campaign=rss",
+        "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8582/live/7244d890-90de-11f1-9bd2-e326e95c9722.jpg",
+        "fecha": "2026-08-06T00:26:46.000Z",
+        "fuenteId": "bbc-mundo",
+        "fuenteTitle": "BBC News Mundo",
+        "categorias": [
+          "internacional",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El PP pide habilitar el Senado en agosto y las comparecencias de Albares, Robles y Marlaska para «rendir cuentas» por la crisis en Ceuta",
+        "url": "https://www.abc.es/espana/pp-pide-habilitar-senado-agosto-comparecencias-albares-20260805180952-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/05/1515607341-ka5B-U301168337463c2C-1200x840@diario_abc.jpg",
+        "fecha": "2026-08-06T00:14:15.000Z",
+        "fuenteId": "abc",
+        "fuenteTitle": "ABC",
+        "categorias": [
           "actualidad"
         ],
         "idioma": "es"
@@ -221,31 +246,6 @@
         "url": "https://www.abc.es/espana/cataluna/govern-illa-gasta-211000-euros-cuatro-reuniones-20260806013830-nt.html",
         "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/06/mon00-Rvo2u5NR0CPzoYwSePloeHP-1200x840@diario_abc.jpg",
         "fecha": "2026-08-05T23:39:28.000Z",
-        "fuenteId": "abc",
-        "fuenteTitle": "ABC",
-        "categorias": [
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La ministra de Deportes rompe el silencio tras el rumor sobre la final del Mundial 2030: \"La FIFA ha sido muy clara y muy tajante\"",
-        "url": "https://www.huffingtonpost.es/deporte/la-ministra-deportes-rompe-silencio-rumor-sobre-final-mundial-2030-la-fifa-sido-clara-tajante-f202608.html",
-        "imagen": "",
-        "fecha": "2026-08-05T23:38:51.000Z",
-        "fuenteId": "huffpost-espana",
-        "fuenteTitle": "HuffPost España",
-        "categorias": [
-          "actualidad",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Sira Rego también se descuelga del nuevo Sumar y no volverá a ser ministrable",
-        "url": "https://www.abc.es/espana/sira-rego-descuelga-nuevo-sumar-volvera-ministrable-20260806013823-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/06/srego-bdiaz-abc-R1owoJp2KaWslNrqZMub3YO-1200x840@diario_abc.jpg",
-        "fecha": "2026-08-05T23:38:46.000Z",
         "fuenteId": "abc",
         "fuenteTitle": "ABC",
         "categorias": [
@@ -796,6 +796,18 @@
     ],
     "cultura": [
       {
+        "titulo": "Ahora escribirás para mí",
+        "url": "https://www.abc.es/cultura/escribiras-20260805023452-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/08/05/boix-RWwRGpvYgzejOkpjJpKoymI-1200x840@diario_abc.jpg",
+        "fecha": "2026-08-06T00:34:52.000Z",
+        "fuenteId": "abc-cultura",
+        "fuenteTitle": "ABC - Cultura",
+        "categorias": [
+          "cultura"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Daniil Trifonov y Daniel Harding, dupla volcánica a orillas del Cantábrico",
         "url": "https://www.elespanol.com/el-cultural/escenarios/musica/20260806/daniil-trifonov-daniel-harding-dupla-volcanica-orillas-cantabrico/1003744342731_0.html",
         "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11329119.jpg?p=w:1706/h:960&h=45LrgtH1",
@@ -1036,22 +1048,33 @@
           "cultura"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "Descubren en la colina del Celio una de las 7 estaciones de los Vigiles, los bomberos de la antigua Roma",
-        "url": "https://www.labrujulaverde.com/2026/08/descubren-en-la-colina-del-celio-una-de-las-7-estaciones-de-los-vigiles-los-bomberos-de-la-antigua-roma",
-        "imagen": "https://cdn.labrujulaverde.com/wp-content/uploads/2026/08/celio_vigili_1.webp",
-        "fecha": "2026-08-05T17:13:44.000Z",
-        "fuenteId": "la-brujula-verde",
-        "fuenteTitle": "La Brújula Verde",
-        "categorias": [
-          "cultura",
-          "ciencia"
-        ],
-        "idioma": "es"
       }
     ],
     "deportes": [
+      {
+        "titulo": "Islam Makhachev, como Ilia Topuria, abre la puerta a competir en boxeo: «¿Y por qué no?»",
+        "url": "https://www.abc.es/deportes/mma/islam-makhachev-ilia-topuria-abre-puerta-competir-20260806023514-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/08/06/islam-makhachev-boxeo-Rj0UCDkBaCwhJPSEOaq71KK-1200x840@diario_abc.PNG",
+        "fecha": "2026-08-06T00:35:14.000Z",
+        "fuenteId": "abc-deportes",
+        "fuenteTitle": "ABC - Deportes",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Manuel Del Valle 'Mouzid', más cerca que nunca del combate por el cinturón de Cage Warriors: «Lo tengo asegurado al 99%»",
+        "url": "https://www.abc.es/deportes/mma/manuel-valle-mouzid-cerca-nunca-combate-cinturon-20260806023437-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/08/06/mouzid-cage-warriors-Ril5Eq4m6w4DOkhDlr4yvgO-1200x840@diario_abc.jpg",
+        "fecha": "2026-08-06T00:34:37.000Z",
+        "fuenteId": "abc-deportes",
+        "fuenteTitle": "ABC - Deportes",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "La extraña trinchera de Infantino: comercia con Marruecos para salvar el trono de la FIFA",
         "url": "https://www.abc.es/deportes/futbol/infantino-comercia-marruecos-final-mundial-salvar-pescuezo-20260805014711-nt.html",
@@ -1267,37 +1290,145 @@
           "deportes"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "Bellerín: «Estoy contento por cómo estamos jugando al fútbol en esta pretemporada»",
-        "url": "https://www.abc.es/deportes/alfinaldelapalmera/noticias-betis/bellerin-contento-jugando-futbol-pretemporada-20260805231212-nts.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/08/05/bellerin-deossa-reuters-betis-arsenal-R7EGC34OvaG9lLJ4bAIR3ZL-1200x840@diario_abc.jpg",
-        "fecha": "2026-08-05T21:12:20.000Z",
-        "fuenteId": "abc-deportes",
-        "fuenteTitle": "ABC - Deportes",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Batacazo de Stupa y Yanguas en Londres: tres parejas del top-8, eliminadas en su debut",
-        "url": "https://www.mundodeportivo.com/padel/premier-padel/20260805/1004213381/batacazo-stupa-yanguas-londres-tres-parejas-top-8-eliminadas-debut.html",
-        "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2026/08/05/6a73a4d2a6098.r_d.504-476-0.jpeg",
-        "fecha": "2026-08-05T21:09:02.000Z",
-        "fuenteId": "mundo-deportivo",
-        "fuenteTitle": "Mundo Deportivo",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
       }
     ],
     "economia": [
       {
+        "titulo": "De WhatsApp a los think tanks: la red de influencia que Marruecos activó durante la crisis migratoria de Ceuta",
+        "url": "https://www.elespanol.com/observatorio-defensa/20260806/whatsapp-think-tanks-red-influencia-marruecos-activo-crisis-migratoria-ceuta/1003744345005_0.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11330441.jpg?p=c:962:722:nowe:21:27/w:1706/h:1280&h=C0GL1Kwj",
+        "fecha": "2026-08-06T00:21:59.000Z",
+        "fuenteId": "el-espanol-economia",
+        "fuenteTitle": "El Español - Economía",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Los proveedores de 'criptos' necesitarán un informe previo del Sepblac para lograr luz verde de la CNMV y operar en España",
+        "url": "https://www.elespanol.com/invertia/mercados/20260806/proveedores-criptos-necesitaran-informe-previo-sepblac-lograr-luz-verde-cnmv-operar-espana/1003744345014_0.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11330316.jpg?p=w:1706/h:960&h=SD9iQWf3",
+        "fecha": "2026-08-06T00:21:59.000Z",
+        "fuenteId": "el-espanol-economia",
+        "fuenteTitle": "El Español - Economía",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "La fiebre por el eclipse dispara el precio de los alojamientos: 2.000€ por dormir en el pueblo en el que más tiempo se verá",
+        "url": "https://www.elespanol.com/invertia/empresas/turismo/20260806/fiebre-eclipse-dispara-precio-alojamientos-dormir-pueblo-tiempo-vera/1003744344883_0.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11330315.jpg?p=w:1706/h:960&h=_w-u5F4N",
+        "fecha": "2026-08-06T00:21:58.000Z",
+        "fuenteId": "el-espanol-economia",
+        "fuenteTitle": "El Español - Economía",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El oro se ha animado, pero quizá demasiado pronto",
+        "url": "https://www.elespanol.com/invertia/mercados/20260806/oro-animado-demasiado-pronto/1003744344879_12.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11330243.jpg?p=w:1706/h:960&h=oBog0xxb",
+        "fecha": "2026-08-06T00:21:58.000Z",
+        "fuenteId": "el-espanol-economia",
+        "fuenteTitle": "El Español - Economía",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El automóvil europeo reduce las ventas, mantiene los ingresos y recorta su rentabilidad en el primer semestre del año",
+        "url": "https://www.elespanol.com/motor/20260806/automovil-europeo-reduce-ventas-mantiene-ingresos-recorta-rentabilidad-primer-semestre-ano/1003744343571_0.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11193270.jpg?p=w:1706/h:960&h=pIgwEgKJ",
+        "fecha": "2026-08-06T00:21:57.000Z",
+        "fuenteId": "el-espanol-economia",
+        "fuenteTitle": "El Español - Economía",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "La paloma sin defensas: Ceuta no es un fallo humanitario, es un fallo evolutivo",
+        "url": "https://www.elespanol.com/invertia/opinion/20260806/paloma-sin-defensas-ceuta-no-fallo-humanitario-evolutivo/1003744344604_13.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11327175.jpg?p=w:1706/h:960&h=_Binguun",
+        "fecha": "2026-08-06T00:21:57.000Z",
+        "fuenteId": "el-espanol-economia",
+        "fuenteTitle": "El Español - Economía",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Inversión alternativa: cuando el pistacho entra en las carteras",
+        "url": "https://www.elespanol.com/invertia/opinion/20260806/inversion-alternativa-pistacho-entra-carteras/1003744343560_12.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11329661.jpg?p=w:1706/h:960&h=ZlO0576j",
+        "fecha": "2026-08-06T00:21:57.000Z",
+        "fuenteId": "el-espanol-economia",
+        "fuenteTitle": "El Español - Economía",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "La pérdida de poder adquisitivo y las subidas de precios obligan a las familias españolas a recortar sus vacaciones",
+        "url": "https://www.elespanol.com/invertia/economia/macroeconomia/20260806/perdida-poder-adquisitivo-subidas-precios-obligan-familias-espanolas-recortar-vacaciones/1003744339045_0.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11330317.jpg?p=c:3909:2498:nowe:54:121/w:1706/h:1090&h=z1_Q7IKJ",
+        "fecha": "2026-08-06T00:21:56.000Z",
+        "fuenteId": "el-espanol-economia",
+        "fuenteTitle": "El Español - Economía",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Athene venderá 1.000 millones de dólares en bonos sénior con vencimiento en 2036",
+        "url": "https://es.investing.com/news/company-news/athene-vendera-1000-millones-de-dolares-en-bonos-senior-con-vencimiento-en-2036-93CH-3781275",
+        "imagen": "https://i-invdn-com.investing.com/news/LYNXMPEM451H2_1200_L.jpg",
+        "fecha": "2026-08-06T00:18:05.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "De Lilly a AbbVie: las farmacéuticas se lanzan a la compra de psicodélicos para tratar enfermedades mentales",
+        "url": "https://www.elespanol.com/invertia/observatorios/sanidad/20260806/lilly-abbvie-farmaceuticas-lanzan-compra-psicodelicos-tratar-enfermedades-mentales/1003744344882_0.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/10232128.jpg?p=w:1706/h:960&h=5uW76nFd",
+        "fecha": "2026-08-06T00:10:00.000Z",
+        "fuenteId": "el-espanol-economia",
+        "fuenteTitle": "El Español - Economía",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "La Agencia Europea de Defensa elige a cinco compañías para probar munición merodeadora en el ejercicio OPEX26",
+        "url": "https://www.elespanol.com/observatorio-defensa/20260806/agencia-europea-defensa-elige-companias-probar-municion-merodeadora-ejercicio-opex26/1003744341895_0.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11201216.jpg?p=w:1706/h:960&h=Hb5gzK3d",
+        "fecha": "2026-08-06T00:10:00.000Z",
+        "fuenteId": "el-espanol-economia",
+        "fuenteTitle": "El Español - Economía",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "ARK de Cathie Wood vende acciones de Roblox y compra SpaceX",
         "url": "https://es.investing.com/news/company-news/ark-de-cathie-wood-vende-acciones-de-roblox-y-compra-spacex-93CH-3781242",
-        "imagen": "",
+        "imagen": "https://i-invdn-com.investing.com/news/LYNXMPEB1A16P_M.jpg",
         "fecha": "2026-08-06T00:04:54.000Z",
         "fuenteId": "investing-es-noticias",
         "fuenteTitle": "Investing.com España - Noticias",
@@ -1401,141 +1532,22 @@
           "economia"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "Conductores, albañiles, ingenieros, médicos especialistas... los puestos que se quedan desiertos",
-        "url": "https://www.abc.es/economia/cuentas-corrientes/conductores-albaniles-ingenieros-medicos-especialistas-puestos-quedan-20260806014117-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/08/06/1511900034-RixPrPZOVRmrWEPmnwzm9rO-1200x840@diario_abc.JPG",
-        "fecha": "2026-08-05T23:41:17.000Z",
-        "fuenteId": "abc-economia",
-        "fuenteTitle": "ABC - Economía",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "España registra récord de vacantes sin cubrir con más de cuatro millones de demandantes de empleo",
-        "url": "https://www.abc.es/economia/espana-registra-record-vacantes-cubrir-cuatro-millones-20260806014059-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/08/06/1509695238-RwYAaOU1DxL2TYXKhJP882I-1200x840@diario_abc.JPG",
-        "fecha": "2026-08-05T23:41:00.000Z",
-        "fuenteId": "abc-economia",
-        "fuenteTitle": "ABC - Economía",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Informe de resultados de eBay: supera las estimaciones del segundo trimestre de 2026 y mejora sus perspectivas",
-        "url": "https://es.investing.com/news/transcripts/informe-de-resultados-de-ebay-supera-las-estimaciones-del-segundo-trimestre-de-2026-y-mejora-sus-perspectivas-93CH-3781198",
-        "imagen": "https://i-invdn-com.investing.com/news/moved_LYNXMPEM431A2_1200_L.jpg",
-        "fecha": "2026-08-05T23:23:24.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El modelo de IA de Meta hackeó una empresa externa durante pruebas de seguridad",
-        "url": "https://es.investing.com/news/stock-market-news/el-modelo-de-ia-de-meta-hackeo-una-empresa-externa-durante-pruebas-de-seguridad-93CH-3781196",
-        "imagen": "https://i-invdn-com.investing.com/news/facebook_2_M_1440049069.jpg",
-        "fecha": "2026-08-05T23:22:51.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Informe de resultados de NuScale Power: los ingresos del Q2 2026 caen y el valor baja",
-        "url": "https://es.investing.com/news/transcripts/informe-de-resultados-de-nuscale-power-los-ingresos-del-q2-2026-caen-y-el-valor-baja-93CH-3781193",
-        "imagen": "https://i-invdn-com.investing.com/news/LYNXNPEC0E0NG_L.jpg",
-        "fecha": "2026-08-05T23:18:50.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Informe de resultados de eBay: supera las estimaciones del segundo trimestre de 2026 y mejora sus perspectivas",
-        "url": "https://es.investing.com/news/transcripts/informe-de-resultados-de-ebay-supera-las-estimaciones-del-segundo-trimestre-de-2026-y-mejora-sus-perspectivas-93CH-3781192",
-        "imagen": "https://i-invdn-com.investing.com/news/moved_LYNXMPEM431A2_1200_L.jpg",
-        "fecha": "2026-08-05T23:17:03.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Informe de resultados de NuScale Power: los ingresos del Q2 2026 caen y las acciones bajan",
-        "url": "https://es.investing.com/news/transcripts/informe-de-resultados-de-nuscale-power-los-ingresos-del-q2-2026-caen-y-las-acciones-bajan-93CH-3781191",
-        "imagen": "https://i-invdn-com.investing.com/news/LYNXNPEC0E0NG_M.jpg",
-        "fecha": "2026-08-05T23:16:44.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Informe de resultados de Ginkgo Bioworks: los ingresos del Q2 2026 decepcionan",
-        "url": "https://es.investing.com/news/transcripts/informe-de-resultados-de-ginkgo-bioworks-los-ingresos-del-q2-2026-decepcionan-93CH-3781189",
-        "imagen": "https://i-invdn-com.investing.com/news/moved_LYNXMPEM3S10Z_1200_L.jpg",
-        "fecha": "2026-08-05T23:14:34.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Informe de resultados: Axon supera estimaciones del Q2 2026, pero sus acciones caen en el mercado fuera de horario",
-        "url": "https://es.investing.com/news/transcripts/informe-de-resultados-axon-supera-estimaciones-del-q2-2026-pero-sus-acciones-caen-en-el-mercado-fuera-de-horario-93CH-3781188",
-        "imagen": "https://i-invdn-com.investing.com/news/LYNXNPEC0E0NI_S.jpg",
-        "fecha": "2026-08-05T23:14:32.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La FIFA admite errores en su propuesta de privatizar el Mundial",
-        "url": "https://www.expansion.com/directivos/deporte-negocio/2026/08/06/6a73c2ca468aeb717b8b4579.html",
-        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/08/06/17859716081880.jpg",
-        "fecha": "2026-08-05T23:14:11.000Z",
-        "fuenteId": "expansion",
-        "fuenteTitle": "Expansión",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Informe de resultados: Realty Income supera ingresos en el Q2 2026",
-        "url": "https://es.investing.com/news/transcripts/informe-de-resultados-realty-income-supera-ingresos-en-el-q2-2026-93CH-3781187",
-        "imagen": "https://i-invdn-com.investing.com/news/LYNXNPEB5S0BT_M.jpg",
-        "fecha": "2026-08-05T23:14:04.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
       }
     ],
     "entretenimiento": [
+      {
+        "titulo": "Remakes de Danganronpa 1 y V3 en Switch 2: 5 mejoras indispensables que deberían incluir si se hacen realidad",
+        "url": "https://www.nintenderos.com/2026/08/remakes-de-danganronpa-1-y-v3-en-switch-2-5-mejoras-indispensables-que-deberian-incluir-si-se-hacen-realidad/",
+        "imagen": "https://store-images.s-microsoft.com/image/apps.32432.14291162525435146.863a4856-e937-4f6f-81c8-efcb52a1546f.ceab6fa9-0e52-4eb3-9890-3909f6095705",
+        "fecha": "2026-08-06T00:45:00.000Z",
+        "fuenteId": "nintenderos",
+        "fuenteTitle": "Nintenderos",
+        "categorias": [
+          "tecnologia",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Naty Abascal, la modelo que cambió Studio 54 por una vida familiar en Sevilla",
         "url": "https://www.abc.es/gente/naty-abascal-20260610013733-nt.html",
@@ -1778,19 +1790,6 @@
         "fuenteId": "el-televisero",
         "fuenteTitle": "El Televisero",
         "categorias": [
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Anya Taylor-Joy cuestiona el método de interpretación extremo: \"Las mujeres tenemos cosas de lo que ocuparnos\"",
-        "url": "https://www.hobbyconsolas.com/hobbycine/anya-taylor-joy-cuestiona-metodo-interpretacion-extremo-las-mujeres-tenemos-cosas-que-ocuparnos_7023040_0.html",
-        "imagen": "https://imagenes.hobbyconsolas.com/files/image_1920_1080/uploads/imagenes/2023/04/25/69016d0e385b4.jpeg",
-        "fecha": "2026-08-05T19:48:22.000Z",
-        "fuenteId": "hobby-consolas",
-        "fuenteTitle": "Hobby Consolas",
-        "categorias": [
-          "tecnologia",
           "entretenimiento"
         ],
         "idioma": "es"
@@ -2318,6 +2317,32 @@
     ],
     "internacional": [
       {
+        "titulo": "¿Infantino ofreció la final del Mundial 2030 a Marruecos? Esto se sabe de la controversia",
+        "url": "https://www.france24.com/es/deportes/20260806-infantino-ofreci%C3%B3-la-final-del-mundial-2030-a-marruecos-esto-se-sabe-de-la-controversia",
+        "imagen": "https://s.france24.com/media/display/35091b16-9125-11f1-a408-005056bf30b7/w:1024/p:16x9/AP26217825464621.jpg",
+        "fecha": "2026-08-06T00:42:45.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Las inéditas imágenes del Sol en movimiento que muestran un nivel de detalle jamás visto",
+        "url": "https://www.bbc.com/mundo/articles/c5ywq043ql6o?at_medium=RSS&at_campaign=rss",
+        "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8582/live/7244d890-90de-11f1-9bd2-e326e95c9722.jpg",
+        "fecha": "2026-08-06T00:26:46.000Z",
+        "fuenteId": "bbc-mundo",
+        "fuenteTitle": "BBC News Mundo",
+        "categorias": [
+          "internacional",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Por qué la inteligencia china cree que el Mosad puede estar detrás de la crisis migratoria en Ceuta",
         "url": "https://www.elmundo.es/internacional/2026/08/06/6a71ee17e9cf4aa43e8b456e.html",
         "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/05/17859461690227.jpg",
@@ -2547,31 +2572,6 @@
         "fuenteTitle": "Euronews Español",
         "categorias": [
           "internacional"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El demócrata izquierdista Abdul El Sayed derrota a la candidata oficialista Heley Stevens en Míchigan",
-        "url": "http://es.euronews.com/2026/08/05/democrata-izquierdista-abdul-el-sayed-derrota-candidata-oficialista-heley-stevens-michigan",
-        "imagen": "",
-        "fecha": "2026-08-05T19:56:07.000Z",
-        "fuenteId": "euronews-espanol",
-        "fuenteTitle": "Euronews Español",
-        "categorias": [
-          "internacional"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Por qué algunos millonarios piden que les suban los impuestos",
-        "url": "https://www.bbc.com/mundo/articles/czrjkyv5dd1o?at_medium=RSS&at_campaign=rss",
-        "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7494/live/e474a530-9110-11f1-b8ee-9b3c26ad07bb.jpg",
-        "fecha": "2026-08-05T19:42:44.000Z",
-        "fuenteId": "bbc-mundo",
-        "fuenteTitle": "BBC News Mundo",
-        "categorias": [
-          "internacional",
-          "actualidad"
         ],
         "idioma": "es"
       }
@@ -3335,6 +3335,19 @@
     ],
     "politica": [
       {
+        "titulo": "¿Infantino ofreció la final del Mundial 2030 a Marruecos? Esto se sabe de la controversia",
+        "url": "https://www.france24.com/es/deportes/20260806-infantino-ofreci%C3%B3-la-final-del-mundial-2030-a-marruecos-esto-se-sabe-de-la-controversia",
+        "imagen": "https://s.france24.com/media/display/35091b16-9125-11f1-a408-005056bf30b7/w:1024/p:16x9/AP26217825464621.jpg",
+        "fecha": "2026-08-06T00:42:45.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Por qué la inteligencia china cree que el Mosad puede estar detrás de la crisis migratoria en Ceuta",
         "url": "https://www.elmundo.es/internacional/2026/08/06/6a71ee17e9cf4aa43e8b456e.html",
         "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/05/17859461690227.jpg",
@@ -3578,19 +3591,6 @@
         "categorias": [
           "actualidad",
           "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Si todo acaba con militares, algo falla en el Estado",
-        "url": "https://www.elmundo.es/opinion/2026/08/05/6a7374e621efa0ba7f8b4577.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/05/17859517357632.jpg",
-        "fecha": "2026-08-05T21:50:24.000Z",
-        "fuenteId": "el-mundo-espana",
-        "fuenteTitle": "El Mundo - España",
-        "categorias": [
-          "politica",
-          "actualidad"
         ],
         "idioma": "es"
       }
@@ -4127,6 +4127,19 @@
     ],
     "tecnologia": [
       {
+        "titulo": "Remakes de Danganronpa 1 y V3 en Switch 2: 5 mejoras indispensables que deberían incluir si se hacen realidad",
+        "url": "https://www.nintenderos.com/2026/08/remakes-de-danganronpa-1-y-v3-en-switch-2-5-mejoras-indispensables-que-deberian-incluir-si-se-hacen-realidad/",
+        "imagen": "https://store-images.s-microsoft.com/image/apps.32432.14291162525435146.863a4856-e937-4f6f-81c8-efcb52a1546f.ceab6fa9-0e52-4eb3-9890-3909f6095705",
+        "fecha": "2026-08-06T00:45:00.000Z",
+        "fuenteId": "nintenderos",
+        "fuenteTitle": "Nintenderos",
+        "categorias": [
+          "tecnologia",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "A pesar de los resultados, Porsche Motorsport reafirma su compromiso con la clase GTP",
         "url": "https://www.diariomotor.com/competicion/noticia/porsche-motorsport-reafirma-compromiso-imsa/",
         "imagen": "https://www.diariomotor.com/imagenes/2026/08/Porsche_963_IMSA_Team_Penske_GTP_NR2_2026_26-6a73a59305c9a.jpg?class=XL",
@@ -4369,18 +4382,6 @@
         "fecha": "2026-08-05T21:25:00.000Z",
         "fuenteId": "el-confidencial-tecnologia",
         "fuenteTitle": "El Confidencial - Tecnología",
-        "categorias": [
-          "tecnologia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Salva Pérez, electricista especializado en autoconsumo, sobre las subvenciones a las placas solares: \"Son el cáncer de la fotovoltaica en España\"",
-        "url": "https://computerhoy.20minutos.es/tecnologia/salva-perez-electricista-especializado-autoconsumo-sobre-las-subvenciones-las-placas-solares-son-cancer-fotovoltaica-espana_7022777_0.html",
-        "imagen": "https://imagenes.computerhoy.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/08/05/6a73a74ce86ce8-08382461.jpeg",
-        "fecha": "2026-08-05T21:15:40.000Z",
-        "fuenteId": "computer-hoy",
-        "fuenteTitle": "Computer Hoy",
         "categorias": [
           "tecnologia"
         ],
