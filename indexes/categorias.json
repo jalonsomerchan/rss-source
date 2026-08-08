@@ -1,18 +1,31 @@
 {
-  "generado": "2026-08-08T01:33:04.785Z",
+  "generado": "2026-08-08T01:48:04.683Z",
   "limitePorCategoria": 20,
   "categorias": {
     "actualidad": [
+      {
+        "titulo": "Dos años de la segunda fuga de Puigdemont: tres 'mossos' a un paso de juicio mientras él ultima su regreso",
+        "url": "https://www.elmundo.es/cataluna/2026/08/08/6a761951e4d4d8690c8b45a0.html",
+        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/07/17861242437733.jpg",
+        "fecha": "2026-08-08T00:51:50.000Z",
+        "fuenteId": "el-mundo",
+        "fuenteTitle": "El Mundo",
+        "categorias": [
+          "actualidad",
+          "tecnologia"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Europa responsabiliza a España de que las medidas en Ceuta \"no tengan impacto en el espacio Schengen\" en pleno 'divorcio' de Sánchez y Meloni",
         "url": "https://www.elmundo.es/espana/2026/08/08/6a761616e85ece59338b4597.html",
         "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/07/17861236848620.jpg",
         "fecha": "2026-08-08T00:51:49.000Z",
-        "fuenteId": "el-mundo-espana",
-        "fuenteTitle": "El Mundo - España",
+        "fuenteId": "el-mundo",
+        "fuenteTitle": "El Mundo",
         "categorias": [
-          "politica",
-          "actualidad"
+          "actualidad",
+          "tecnologia"
         ],
         "idioma": "es"
       },
@@ -233,19 +246,6 @@
         "url": "https://www.abc.es/espana/policias-guardias-civiles-avisan-refuerzos-enviados-ceuta-20260807010924-nt.html",
         "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/07/1515620354-RHjiNWsV9nJACkzMBCqn25J-1200x840@diario_abc.jpg",
         "fecha": "2026-08-07T23:10:23.000Z",
-        "fuenteId": "abc-espana",
-        "fuenteTitle": "ABC - España",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Semana negra de pateras y naufragios en unas islas Baleares que miran a la crisis de Ceuta",
-        "url": "https://www.abc.es/espana/baleares/semana-negra-pateras-naufragios-islas-baleares-miran-20260808011017-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/08/1515678748-kvlF-U30119438088778G-1200x840@diario_abc.jpg",
-        "fecha": "2026-08-07T23:10:17.000Z",
         "fuenteId": "abc-espana",
         "fuenteTitle": "ABC - España",
         "categorias": [
@@ -1047,6 +1047,54 @@
     ],
     "deportes": [
       {
+        "titulo": "¡Mou, qué gusto verte aquí!",
+        "url": "https://as.com/opinion/mou-que-gusto-verte-aqui-f202608-n/",
+        "imagen": "https://img.asmedia.epimg.net/resizer/v2/PIMP757KEJBAXNPTUSMP4AVSPA.JPG?auth=d239bbf3f487bb2a4984faf9eea0de6891c13c3d36ccf74622586c70353b3136",
+        "fecha": "2026-08-08T01:02:04.000Z",
+        "fuenteId": "as",
+        "fuenteTitle": "AS",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Rodri elige lo sencillo",
+        "url": "https://as.com/opinion/rodri-elige-lo-sencillo-f202608-n/",
+        "imagen": "https://img.asmedia.epimg.net/resizer/v2/2WWCXGWKQBGRRFOF67VQCGBNGE.JPG?auth=cccb3b596266533b09b9643f1e2d232a7f5416f5fff8ab5af14ab760bb0384e0",
+        "fecha": "2026-08-08T01:01:08.000Z",
+        "fuenteId": "as",
+        "fuenteTitle": "AS",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Charles Oliveira llora la muerte de Allan Nascimiento: «Hoy perdí a un hermano, te quiero para siempre»",
+        "url": "https://www.abc.es/deportes/mma/charles-oliveira-llora-muerte-allan-nascimiento-hoy-20260808024043-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/08/08/charles-oliveira-allan-RhiAcCaFBZsUMSvqXzPDH0K-1200x840@diario_abc.JPG",
+        "fecha": "2026-08-08T00:40:43.000Z",
+        "fuenteId": "abc-deportes",
+        "fuenteTitle": "ABC - Deportes",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "La mensaje esperanzador de Conor McGregor tras su operación: «Estoy confiado»",
+        "url": "https://www.abc.es/deportes/mma/mensaje-esperanzador-conor-mcgregor-tras-operacion-confiado-20260806024019-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/08/06/mcgregor-lesion-recuperacion-RrgBYT3TfMmVueD0sNs6ucL-1200x840@diario_abc.jpg",
+        "fecha": "2026-08-08T00:40:20.000Z",
+        "fuenteId": "abc-deportes",
+        "fuenteTitle": "ABC - Deportes",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Telegraph: La UEFA pagó a una supuesta amante de Infantino",
         "url": "https://as.com/futbol/internacional/telegraph-la-uefa-pago-a-una-supuesta-amante-de-infantino-f202608-n/",
         "imagen": "https://img.asmedia.epimg.net/resizer/v2/GV2PDEXBFVIBFCGJ6ZMAH4IDZE.jpg?auth=dd71bdf0bd5d7d6b8350308c3636b581d469db15506e130cdf30ad33185bb61a",
@@ -1237,57 +1285,33 @@
           "deportes"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "El Bayer Leverkusen, un examen de altura para cerrar la pretemporada del Sevilla",
-        "url": "https://www.abc.es/deportes/orgullodenervion/noticias-sevilla-fc/bayer-leverkusen-examen-altura-cerrar-pretemporada-sevilla-20260807222605-nts.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/08/06/HOErBzjWcAAoAKh-RfPH8bobLz5ieFHXoOMpcAL-1200x840@diario_abc.jpg",
-        "fecha": "2026-08-07T20:48:00.000Z",
-        "fuenteId": "abc-deportes",
-        "fuenteTitle": "ABC - Deportes",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "20-21. Cruel derrota de España en una eterna tanda de penaltis de la final del Europeo júnior",
-        "url": "https://www.mundodeportivo.com/waterpolo/20260807/1004214174/20-21-cruel-derrota-espana-eterna-tanda-penaltis-final-europeo-junior.html",
-        "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/08/07/6a7643d2820c6.jpeg",
-        "fecha": "2026-08-07T20:45:45.000Z",
-        "fuenteId": "mundo-deportivo",
-        "fuenteTitle": "Mundo Deportivo",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Morientes vuelve a llamar a la puerta del primer equipo",
-        "url": "https://as.com/futbol/segunda/morientes-vuelve-a-llamar-a-la-puerta-del-primer-equipo-f202608-n/",
-        "imagen": "https://img.asmedia.epimg.net/resizer/v2/47GEM7HNQ5GSPKSNPOGIPHYVS4.jpeg?auth=5dc06dbe4b1e988f6180034297fa567acbc2f49fb9e0be3e9a482cc194157f41",
-        "fecha": "2026-08-07T20:42:18.000Z",
-        "fuenteId": "as",
-        "fuenteTitle": "AS",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El propietario no podrá recuperar su piso si no especificó esta cláusula en el contrato",
-        "url": "https://www.mundodeportivo.com/actualidad/20260807/1004214171/vigor-gobierno-regula-ley-vivienda-partir-propietario-no-podra-recuperar-inmueble-no-especifico-clausula-contrato-finanzas-dct.html",
-        "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/06/24/6a3c017526abe.jpeg",
-        "fecha": "2026-08-07T20:32:58.000Z",
-        "fuenteId": "mundo-deportivo",
-        "fuenteTitle": "Mundo Deportivo",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
       }
     ],
     "economia": [
+      {
+        "titulo": "Director de Lear Corp Mallett vende acciones por 199.742 dólares",
+        "url": "https://es.investing.com/news/insider-trading-news/director-de-lear-corp-mallett-vende-acciones-por-199742-dolares-93CH-3786869",
+        "imagen": "https://i-invdn-com.investing.com/news/moved_LYNXMPEM4519D_1200_L.jpg",
+        "fecha": "2026-08-08T01:02:00.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Director de Coastal Financial, Hovde, compra acciones por 658.000 dólares",
+        "url": "https://es.investing.com/news/insider-trading-news/director-de-coastal-financial-hovde-compra-acciones-por-658000-dolares-93CH-3786868",
+        "imagen": "https://i-invdn-com.investing.com/news/moved_LYNXMPEM3Q0V4_1200_L.jpg",
+        "fecha": "2026-08-08T00:52:07.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Carolyn Schwab-Pomerantz, directora de Charles Schwab, vende 1.999.015 dólares en acciones SCHW",
         "url": "https://es.investing.com/news/insider-trading-news/carolyn-schwabpomerantz-directora-de-charles-schwab-vende-1999015-dolares-en-acciones-schw-93CH-3786867",
@@ -1497,30 +1521,6 @@
         "url": "https://es.investing.com/news/insider-trading-news/la-coo-de-box-olivia-nottebohm-vende-188508-dolares-en-acciones-93CH-3786857",
         "imagen": "https://i-invdn-com.investing.com/news/moved_LYNXMPEM3T1K3_1200_L.jpg",
         "fecha": "2026-08-08T00:17:05.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El presidente de Roku, Gilbert Fuchsberg, vende 1,6 millones de dólares en acciones ROKU",
-        "url": "https://es.investing.com/news/insider-trading-news/el-presidente-de-roku-gilbert-fuchsberg-vende-16-millones-de-dolares-en-acciones-roku-93CH-3786856",
-        "imagen": "https://i-invdn-com.investing.com/news/netflix_M_1440050676.jpg",
-        "fecha": "2026-08-08T00:06:28.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El presidente y COO de SentinelOne, Barry Padgett, vende acciones por 196.000 dólares",
-        "url": "https://es.investing.com/news/insider-trading-news/el-presidente-y-coo-de-sentinelone-barry-padgett-vende-acciones-por-196000-dolares-93CH-3786855",
-        "imagen": "https://i-invdn-com.investing.com/news/SentinelOne_800x533_L_1625122871.jpg",
-        "fecha": "2026-08-08T00:02:39.000Z",
         "fuenteId": "investing-es-noticias",
         "fuenteTitle": "Investing.com España - Noticias",
         "categorias": [
@@ -2311,6 +2311,19 @@
     ],
     "internacional": [
       {
+        "titulo": "\"Viva Cristo Rey\": la religión protagoniza la inusual investidura de De la Espriella en Colombia",
+        "url": "https://www.france24.com/es/am%C3%A9rica-latina/20260808-viva-cristo-rey-la-religi%C3%B3n-protagoniza-la-inusual-investidura-de-de-la-espriella-en-colombia",
+        "imagen": "https://s.france24.com/media/display/26aee61a-92c2-11f1-b59b-005056bfb2b6/w:1024/p:16x9/b64d4a11646adfb61c985e7d82886d8e67e8ed77w.jpg",
+        "fecha": "2026-08-08T01:17:51.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "¿Qué rumbo tomará la relación entre Colombia y EE. UU. tras la posesión de Abelardo de la Espriella?",
         "url": "https://www.france24.com/es/video/20260808-qu%C3%A9-rumbo-tomar%C3%A1-la-relaci%C3%B3n-entre-colombia-y-ee-uu-tras-la-posesi%C3%B3n-de-abelardo-de-la-espriella",
         "imagen": "https://s.france24.com/media/display/b2c2904c-92be-11f1-bbb1-005056bf30b7/w:1024/p:16x9/ES-20260807-185920-190056-CS.jpg",
@@ -2486,19 +2499,6 @@
         "fecha": "2026-08-07T21:04:39.000Z",
         "fuenteId": "france24-espanol",
         "fuenteTitle": "France 24 Español",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "De la Espriella, discípulo del trumpismo en Bogotá",
-        "url": "https://www.elmundo.es/internacional/2026/08/07/6a760fe3fdddfff2158b45bd.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/07/17861098828237.jpg",
-        "fecha": "2026-08-07T20:50:58.000Z",
-        "fuenteId": "el-mundo-internacional",
-        "fuenteTitle": "El Mundo - Internacional",
         "categorias": [
           "internacional",
           "politica"
@@ -3329,15 +3329,15 @@
     ],
     "politica": [
       {
-        "titulo": "Europa responsabiliza a España de que las medidas en Ceuta \"no tengan impacto en el espacio Schengen\" en pleno 'divorcio' de Sánchez y Meloni",
-        "url": "https://www.elmundo.es/espana/2026/08/08/6a761616e85ece59338b4597.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/07/17861236848620.jpg",
-        "fecha": "2026-08-08T00:51:49.000Z",
-        "fuenteId": "el-mundo-espana",
-        "fuenteTitle": "El Mundo - España",
+        "titulo": "\"Viva Cristo Rey\": la religión protagoniza la inusual investidura de De la Espriella en Colombia",
+        "url": "https://www.france24.com/es/am%C3%A9rica-latina/20260808-viva-cristo-rey-la-religi%C3%B3n-protagoniza-la-inusual-investidura-de-de-la-espriella-en-colombia",
+        "imagen": "https://s.france24.com/media/display/26aee61a-92c2-11f1-b59b-005056bfb2b6/w:1024/p:16x9/b64d4a11646adfb61c985e7d82886d8e67e8ed77w.jpg",
+        "fecha": "2026-08-08T01:17:51.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
         "categorias": [
-          "politica",
-          "actualidad"
+          "internacional",
+          "politica"
         ],
         "idioma": "es"
       },
@@ -4123,6 +4123,44 @@
     ],
     "tecnologia": [
       {
+        "titulo": "Fundamentos de Inteligencia Artificial (IA) para Linuxeros – Quinta Parte",
+        "url": "https://blog.desdelinux.net/inteligencia-artificial-ia-para-linuxeros-quinta-parte/",
+        "imagen": "https://blog.desdelinux.net/wp-content/uploads/2026/08/inteligencia-artificial-ia-para-linuxeros-quinta-parte-imagen-destacada-blog-desdelinux.jpg",
+        "fecha": "2026-08-08T01:17:03.000Z",
+        "fuenteId": "desde-linux",
+        "fuenteTitle": "Desde Linux",
+        "categorias": [
+          "tecnologia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Dos años de la segunda fuga de Puigdemont: tres 'mossos' a un paso de juicio mientras él ultima su regreso",
+        "url": "https://www.elmundo.es/cataluna/2026/08/08/6a761951e4d4d8690c8b45a0.html",
+        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/07/17861242437733.jpg",
+        "fecha": "2026-08-08T00:51:50.000Z",
+        "fuenteId": "el-mundo",
+        "fuenteTitle": "El Mundo",
+        "categorias": [
+          "actualidad",
+          "tecnologia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Europa responsabiliza a España de que las medidas en Ceuta \"no tengan impacto en el espacio Schengen\" en pleno 'divorcio' de Sánchez y Meloni",
+        "url": "https://www.elmundo.es/espana/2026/08/08/6a761616e85ece59338b4597.html",
+        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/07/17861236848620.jpg",
+        "fecha": "2026-08-08T00:51:49.000Z",
+        "fuenteId": "el-mundo",
+        "fuenteTitle": "El Mundo",
+        "categorias": [
+          "actualidad",
+          "tecnologia"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Los 8 personajes más fuertes de Dragon Ball: Ranking de poder definitivo",
         "url": "https://www.nintenderos.com/2026/08/los-8-personajes-mas-fuertes-de-dragon-ball-ranking-de-poder-definitivo/",
         "imagen": "https://wallpapers.com/images/featured/dragon-ball-super-broly-dznz07vkati6shws.jpg",
@@ -4340,45 +4378,6 @@
         "fuenteTitle": "Andro4all",
         "categorias": [
           "tecnologia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Detenida una mujer por presuntamente provocar un incendio en Vega de Espinareda (León)",
-        "url": "https://www.elmundo.es/espana/2026/08/07/6a764963e4d4d82c4c8b456f.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/07/17861365729801.jpg",
-        "fecha": "2026-08-07T21:08:54.000Z",
-        "fuenteId": "el-mundo",
-        "fuenteTitle": "El Mundo",
-        "categorias": [
-          "actualidad",
-          "tecnologia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El doble chino de Elon Musk ha recibido ofertas millonarias, pero solo le interesa una cosa",
-        "url": "https://computerhoy.20minutos.es/tendencias/doble-chino-elon-musk-ha-recibido-ofertas-millonarias-pero-solo-le-interesa-una-cosa_7023062_0.html",
-        "imagen": "https://imagenes.computerhoy.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/08/07/6a75adf9e9be41-46139529.jpeg",
-        "fecha": "2026-08-07T21:06:36.000Z",
-        "fuenteId": "computer-hoy",
-        "fuenteTitle": "Computer Hoy",
-        "categorias": [
-          "tecnologia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Google borra las películas de ‘El Señor de los Anillos’ y reabre el debate sobre la propiedad digital",
-        "url": "https://hipertextual.com/cine-television/google-elimina-lotr-comprado-propiedad-digital/",
-        "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/03/El-Senor-de-los-Anillos-pelicula.jpg?fit=1024%2C614&quality=70&strip=all&ssl=1",
-        "fecha": "2026-08-07T21:04:54.000Z",
-        "fuenteId": "hipertextual",
-        "fuenteTitle": "Hipertextual",
-        "categorias": [
-          "tecnologia",
-          "ciencia",
-          "entretenimiento"
         ],
         "idioma": "es"
       }
