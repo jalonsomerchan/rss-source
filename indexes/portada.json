@@ -1,8 +1,524 @@
 {
-  "generado": "2026-08-08T03:52:34.715Z",
+  "generado": "2026-08-08T03:55:52.256Z",
   "limite": 50,
-  "total": 193782,
+  "total": 193828,
   "noticias": [
+    {
+      "titulo": "No más fotos, perfiles o ‘matches’: en el futuro de las ‘apps’ de ligue, la IA elige a tu pareja",
+      "url": "https://elpais.com/icon/2026-08-08/no-mas-fotos-perfiles-o-matches-en-el-futuro-de-las-apps-de-ligue-la-ia-elige-a-tu-pareja.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/G3GQ7XWE3JCDJCSO7SIPVX35EI.jpg?auth=fcf3c92b02f7d4f1880cb670e59e50ac354017932b5a88e8911f00f0004a5a31",
+      "fecha": "2026-08-08T03:30:01.000Z",
+      "fuenteId": "el-pais",
+      "fuenteTitle": "El País",
+      "categorias": [
+        "actualidad",
+        "tecnologia",
+        "ciencia"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Vivir el eclipse en una ‘star-party’ en Guadalajara con un astrónomo local: “Alguno incluso estallará en llanto”",
+      "url": "https://elpais.com/ciencia/2026-08-08/vivir-el-eclipse-en-una-star-party-en-guadalajara-con-un-astronomo-local-alguno-incluso-estallara-en-llanto.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/ISV7DLNUIZBJHLG25SOLXQJJGY.jpg?auth=4a0f5a7dcce12404a4e0cb3bb7663e97bd8fc9fcbb8e69543b592959f5a5a600",
+      "fecha": "2026-08-08T03:30:01.000Z",
+      "fuenteId": "el-pais-ciencia",
+      "fuenteTitle": "El País - Ciencia",
+      "categorias": [
+        "ciencia",
+        "tecnologia"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "El regreso de Pedro Lemebel, para hacer “llorar de ternura con un rifle en la mano” a una nueva generación",
+      "url": "https://elpais.com/cultura/2026-08-08/el-regreso-de-pedro-lemebel-para-hacer-llorar-de-ternura-con-un-rifle-en-la-mano-a-una-nueva-generacion.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/7ISJJ5Z2TZBTPELZCXTC32C6M4.jpg?auth=7a547b5156b150c9b2e8e006f23ae82281e8c45d30137d9e9fc781555addcb03",
+      "fecha": "2026-08-08T03:30:01.000Z",
+      "fuenteId": "el-pais-cultura",
+      "fuenteTitle": "El País - Cultura",
+      "categorias": [
+        "cultura"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "La sequía deja al descubierto un puente romano oculto bajo el Danubio",
+      "url": "https://elpais.com/cultura/2026-08-08/la-sequia-deja-al-descubierto-un-puente-romano-oculto-bajo-el-danubio.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/27INZKCA4FBHHLNGCNL7T2SBQU.JPG?auth=e31e23b074d900991eb0833a5086e3f9915222e280ad591d5de8ab62f9606bca",
+      "fecha": "2026-08-08T03:30:01.000Z",
+      "fuenteId": "el-pais-cultura",
+      "fuenteTitle": "El País - Cultura",
+      "categorias": [
+        "cultura"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Historias del color: del opulento negro de Felipe II al carmín de las cochinillas",
+      "url": "https://elpais.com/cultura/2026-08-08/historias-del-color-del-opulento-negro-de-felipe-ii-al-carmin-de-las-cochinillas.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/AOMDEVZIMFDUBJ4FHGUPVQCPTM.jpg?auth=671d5775b4b080c82a74d0e0dad75c6f67efd82e34cef4cd765e29c95b83b938",
+      "fecha": "2026-08-08T03:30:01.000Z",
+      "fuenteId": "el-pais-cultura",
+      "fuenteTitle": "El País - Cultura",
+      "categorias": [
+        "cultura"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Rodri cambia de dirección: de su acercamiento al Madrid a ultimar su fichaje por el Barça",
+      "url": "https://elpais.com/deportes/futbol/2026-08-08/rodri-cambia-de-direccion-de-su-acercamiento-al-madrid-a-ultimar-su-fichaje-por-el-barca.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/2U4PW2SC25CHNDNGMUJN342BRI.jpg?auth=9f32ddde45076f4770f144282a44959f8479b343ac5d520a8ab5e628058f2f55",
+      "fecha": "2026-08-08T03:30:01.000Z",
+      "fuenteId": "el-pais-deportes",
+      "fuenteTitle": "El País - Deportes",
+      "categorias": [
+        "deportes"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Mourinho y Guardiola, tan cerca y tan lejos",
+      "url": "https://elpais.com/deportes/futbol/2026-08-08/guardiola-y-mourinho-tan-cerca-y-tan-lejos.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/47VUJLQTOZGPZBFPBVUFCT5LW4.jpg?auth=d0cc5b2ae9bb071a356931bc481606a2cf42976d79cfc3bae9277710938aaeb8",
+      "fecha": "2026-08-08T03:30:01.000Z",
+      "fuenteId": "el-pais-deportes",
+      "fuenteTitle": "El País - Deportes",
+      "categorias": [
+        "deportes"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "La escasez de munición del ejército estadounidense desata la ira de Trump",
+      "url": "https://elpais.com/internacional/2026-08-08/la-escasez-de-municion-del-ejercito-estadounidense-desata-la-ira-de-trump.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/FL6MUQTW7ZMGTN4A3MO334MCPM.jpg?auth=39a74e5530f02d27f47fc1bc23722ec2c5855842fdd51b686092cb581626435c",
+      "fecha": "2026-08-08T03:30:01.000Z",
+      "fuenteId": "el-pais-internacional",
+      "fuenteTitle": "El País - Internacional",
+      "categorias": [
+        "internacional",
+        "politica"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "El este de Alemania se rebela contra la reforma de las pensiones de Merz",
+      "url": "https://elpais.com/internacional/2026-08-08/el-este-de-alemania-se-rebela-contra-la-reforma-de-las-pensiones-de-merz.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/LGNWD55NWJNT7DIBWBZMJHYICY.jpg?auth=7a9f2975ecf3909dc04bfcca7badd1bb0b358da0611c0810cc2f95cb1fa5b8b0",
+      "fecha": "2026-08-08T03:30:01.000Z",
+      "fuenteId": "el-pais-internacional",
+      "fuenteTitle": "El País - Internacional",
+      "categorias": [
+        "internacional",
+        "politica"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Pekín respalda la fuerza nuclear de Kim Jong-un",
+      "url": "https://elpais.com/internacional/2026-08-08/pekin-respalda-la-fuerza-nuclear-de-kim-jong-un.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/BLB6YSIXFVCU3AQTN3JLFDWYHY.jpg?auth=59a811140d3415cae67d004bcc238a7978972c77e2e684208ca4ad1d6e8cf756",
+      "fecha": "2026-08-08T03:30:01.000Z",
+      "fuenteId": "el-pais-internacional",
+      "fuenteTitle": "El País - Internacional",
+      "categorias": [
+        "internacional",
+        "politica"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "¿Necesitas mejorar tu WiFi? Estos son los mejores routers que hemos probado según el uso que vayas a darles",
+      "url": "https://elpais.com/escaparate/comparativas/mejores-routers.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/HHRGEVTA2RBGJOU3VDHWORPV4Q.png?auth=45e3195bef21fc492099ab6723da7907b76fae4d02882b8eee3386d429365e6c",
+      "fecha": "2026-08-08T03:30:00.000Z",
+      "fuenteId": "el-pais",
+      "fuenteTitle": "El País",
+      "categorias": [
+        "actualidad",
+        "tecnologia",
+        "ciencia"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "La ciencia de los veranos eternos: ¿por qué los veranos de la infancia parecen no acabar nunca?",
+      "url": "https://elpais.com/ciencia/2026-08-08/la-ciencia-de-los-veranos-eternos-por-que-los-veranos-de-la-infancia-parecen-no-acabar-nunca.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/WTHQED5J7RBENOJYXIPKCEUNFY.jpg?auth=3fbde026fbf4d04b020cb3b5890421504f529101058c9709c99bcad149b12ced",
+      "fecha": "2026-08-08T03:30:00.000Z",
+      "fuenteId": "el-pais-ciencia",
+      "fuenteTitle": "El País - Ciencia",
+      "categorias": [
+        "ciencia",
+        "tecnologia"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "El hombre en España del dinero sudafricano que se está haciendo con los centros comerciales: “Estos espacios han sido denostados, pero no desaparecerán”",
+      "url": "https://elpais.com/economia/negocios/2026-08-08/el-hombre-en-espana-del-dinero-sudafricano-que-se-esta-haciendo-con-los-centros-comerciales-estos-espacios-han-sido-denostados-pero-no-desapareceran.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/FEZJC3FEXRGLPOKLVAWQNBU3IM.jpg?auth=ca67fc3aec0743a6909600e79a7042e5d553e18c272e373cbdf9a6ca8a06bc59",
+      "fecha": "2026-08-08T03:30:00.000Z",
+      "fuenteId": "el-pais-economia",
+      "fuenteTitle": "El País - Economía",
+      "categorias": [
+        "economia",
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "El rey de la patata en España (y proveedor de Mercadona) mira ahora al exterior",
+      "url": "https://elpais.com/economia/negocios/2026-08-08/el-rey-de-la-patata-en-espana-y-proveedor-de-mercadona-mira-ahora-al-exterior.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/DCVJKVOS4RFEXAC6H5WF7VDGIE.jpg?auth=2c036c6b26ba4013f604fbfbfe764c21d250fe402d041b7c7d873fd6d3bf4ffd",
+      "fecha": "2026-08-08T03:30:00.000Z",
+      "fuenteId": "el-pais-economia",
+      "fuenteTitle": "El País - Economía",
+      "categorias": [
+        "economia",
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "El horario de las terrazas es ‘casus belli’ en Berlín",
+      "url": "https://elpais.com/economia/negocios/2026-08-08/el-horario-de-las-terrazas-es-casus-belli-en-berlin.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/D7OKLJGDGNBHDD2MTGGUIAXRSY.jpg?auth=8c928e438a974f1566296dc999c61ba6cca71a3bfcf8102af5f1861a5d98d32e",
+      "fecha": "2026-08-08T03:30:00.000Z",
+      "fuenteId": "el-pais-economia",
+      "fuenteTitle": "El País - Economía",
+      "categorias": [
+        "economia",
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Leanne ten Brinke, psicóloga: “Hay tres veces más personalidades cercanas a la psicopatía en los altos cargos que en la población general”",
+      "url": "https://elpais.com/salud-y-bienestar/2026-08-08/leanne-ten-brinke-psicologa-hay-tres-veces-mas-personalidades-cercanas-a-la-psicopatia-en-los-altos-cargos-que-en-la-poblacion-general.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/QOGD356HOZG2DM5CYK2CMDTONQ.jpg?auth=4c598148fa09f59c640154ef8e22a7a17df102c7ca7992478bd5c12b6ff4df97",
+      "fecha": "2026-08-08T03:30:00.000Z",
+      "fuenteId": "el-pais-salud-bienestar",
+      "fuenteTitle": "El País - Salud y bienestar",
+      "categorias": [
+        "salud",
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "La última denuncia de Laura Cruz: “Tengo tanto miedo a Dámaso porque no le importa a quién llevarse por medio”",
+      "url": "https://elpais.com/sociedad/2026-08-08/la-ultima-denuncia-de-laura-cruz-tengo-tanto-miedo-a-damaso-porque-no-le-importa-a-quien-llevarse-por-medio.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/WTAEBF5R2NGR3FWVQVAJ22H2KU.jpg?auth=b0c471712171b986acdb688e6a470b1ffef8a9faef9448c6872b947619301ca0",
+      "fecha": "2026-08-08T03:30:00.000Z",
+      "fuenteId": "el-pais-sociedad",
+      "fuenteTitle": "El País - Sociedad",
+      "categorias": [
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Contrapuntos de Carlos Franz",
+      "url": "https://theobjective.com/podcasts/contrapuntos-the-objective/contrapuntos-carlos-franz-podcast/",
+      "imagen": "https://theobjective.com/wp-content/uploads/2026/07/carlos_franz_3-1200x675.jpg",
+      "fecha": "2026-08-08T03:25:52.000Z",
+      "fuenteId": "the-objective",
+      "fuenteTitle": "The Objective",
+      "categorias": [
+        "actualidad",
+        "politica"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "VÍDEO | Europol alerta del incremento de la violencia en los grupos radicales independentistas vascos",
+      "url": "https://theobjective.com/videos/espana/pais-vasco/2026-08-08/video-europol-violeciona-radicales-pais-vasco-independentistas/",
+      "imagen": "https://theobjective.com/wp-content/uploads/2026/08/noticias-07-agosto_2-copia-1200x675.jpg",
+      "fecha": "2026-08-08T03:25:33.000Z",
+      "fuenteId": "the-objective",
+      "fuenteTitle": "The Objective",
+      "categorias": [
+        "actualidad",
+        "politica"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Podcast | Entrevista a Esther Martínez",
+      "url": "https://theobjective.com/podcasts/entrevista-politica-podcast/podcast-entrevista-esther-martinez/",
+      "imagen": "https://theobjective.com/wp-content/uploads/2026/07/esther-marti-nez01_3-copia-1200x675.jpg",
+      "fecha": "2026-08-08T03:25:17.000Z",
+      "fuenteId": "the-objective",
+      "fuenteTitle": "The Objective",
+      "categorias": [
+        "actualidad",
+        "politica"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Instrucciones",
+      "url": "https://theobjective.com/elsubjetivo/opinion/2026-08-08/instrucciones-articulo-azua/",
+      "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/07/ilustracion-de-vuelta-469x317.jpg",
+      "fecha": "2026-08-08T03:25:00.000Z",
+      "fuenteId": "the-objective",
+      "fuenteTitle": "The Objective",
+      "categorias": [
+        "actualidad",
+        "politica"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Los gais votan a la derecha",
+      "url": "https://theobjective.com/elsubjetivo/opinion/2026-08-08/gais-votan-derecha-articulo-vilches/",
+      "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/08/ilustracion-subditos-marruecos-469x317.jpg",
+      "fecha": "2026-08-08T03:25:00.000Z",
+      "fuenteId": "the-objective",
+      "fuenteTitle": "The Objective",
+      "categorias": [
+        "actualidad",
+        "politica"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "¿Menores sin fronteras?",
+      "url": "https://theobjective.com/elsubjetivo/opinion/2026-08-08/menores-sin-fronteras-articulo-de-lora/",
+      "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/07/ilustracion-mistica-pertur-469x317.jpg",
+      "fecha": "2026-08-08T03:25:00.000Z",
+      "fuenteId": "the-objective",
+      "fuenteTitle": "The Objective",
+      "categorias": [
+        "actualidad",
+        "politica"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Escondido en la playa",
+      "url": "https://theobjective.com/elsubjetivo/opinion/2026-08-08/escondido-playa-articulo-francisco-sierra/",
+      "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/06/sanche_cg_svriz-469x317.jpg",
+      "fecha": "2026-08-08T03:25:00.000Z",
+      "fuenteId": "the-objective",
+      "fuenteTitle": "The Objective",
+      "categorias": [
+        "actualidad",
+        "politica"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "No molestar a Marruecos",
+      "url": "https://theobjective.com/elsubjetivo/opinion/2026-08-08/no-molestar-marruecos-articulo-dudda/",
+      "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/07/valla-marruecos-collage-469x317.jpg",
+      "fecha": "2026-08-08T03:25:00.000Z",
+      "fuenteId": "the-objective",
+      "fuenteTitle": "The Objective",
+      "categorias": [
+        "actualidad",
+        "politica"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "El Rey da la cara; Sánchez, la espalda",
+      "url": "https://theobjective.com/elsubjetivo/opinion/2026-08-08/rey-cara-sanchez-espalda-articulo-maite-rico/",
+      "imagen": "https://theobjective.com/wp-content/uploads/2026/08/ilustracion-rey-sanchez.jpg",
+      "fecha": "2026-08-08T03:25:00.000Z",
+      "fuenteId": "the-objective",
+      "fuenteTitle": "The Objective",
+      "categorias": [
+        "actualidad",
+        "politica"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Esther Martínez, líder del PP vasco: «Sánchez está intentando corroer el Estado por dentro»",
+      "url": "https://theobjective.com/espana/politica/2026-08-08/esther-martinez-pp-vasco-entrevista/",
+      "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2023/12/04_Javier-de-Andrés_-469x317.jpg",
+      "fecha": "2026-08-08T03:25:00.000Z",
+      "fuenteId": "the-objective",
+      "fuenteTitle": "The Objective",
+      "categorias": [
+        "actualidad",
+        "politica"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "La inteligencia rusa convierte las apps de citas en una trampa mortal para soldados ucranianos",
+      "url": "https://theobjective.com/tecnologia/2026-08-08/aplicaciones-citas-trampa-mortal-soldados-ucranianos/",
+      "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2022/08/atentado-duguina.jpg",
+      "fecha": "2026-08-08T03:25:00.000Z",
+      "fuenteId": "the-objective",
+      "fuenteTitle": "The Objective",
+      "categorias": [
+        "actualidad",
+        "politica"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Cómo reparar un edificio institucional (y IV)",
+      "url": "https://theobjective.com/opinion/2026-08-08/como-reparar-edificio-institucional-iv/",
+      "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/07/contraluz_0108-469x317.jpg",
+      "fecha": "2026-08-08T03:25:00.000Z",
+      "fuenteId": "the-objective",
+      "fuenteTitle": "The Objective",
+      "categorias": [
+        "actualidad",
+        "politica"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Seguridad Nacional alertó en mayo del riesgo de grupos yihadistas en la inmigración irregular",
+      "url": "https://theobjective.com/espana/2026-08-08/seguridad-nacional-riesgo-grupos-yihadistas-migracion-irregular/",
+      "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/08/ccoo-469x317.jpg",
+      "fecha": "2026-08-08T03:25:00.000Z",
+      "fuenteId": "the-objective",
+      "fuenteTitle": "The Objective",
+      "categorias": [
+        "actualidad",
+        "politica"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "La salida de Gustavo Petro amenaza el negocio de Pablo Iglesias en Colombia",
+      "url": "https://theobjective.com/espana/politica/2026-08-08/salida-petro-canal-red-pablo-iglesias-colombia/",
+      "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/08/pablo-iglesias-canal-red-469x317.jpg",
+      "fecha": "2026-08-08T03:25:00.000Z",
+      "fuenteId": "the-objective",
+      "fuenteTitle": "The Objective",
+      "categorias": [
+        "actualidad",
+        "politica"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "La obscena omnisciencia de Sánchez y el desajuste español",
+      "url": "https://theobjective.com/opinion/2026-08-08/obscena-omnisciencia-sanchez-desajuste-espanol/",
+      "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/07/incendios_inmigracio-n_ceuta_madrid_3107-469x317.jpg",
+      "fecha": "2026-08-08T03:25:00.000Z",
+      "fuenteId": "the-objective",
+      "fuenteTitle": "The Objective",
+      "categorias": [
+        "actualidad",
+        "politica"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Eclipses, astros y otras cosas de este mundo",
+      "url": "https://theobjective.com/cultura/2026-08-08/eclipses-astros-cosas-este-mundo/",
+      "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/04/sanchez-china-collage-469x317.jpg",
+      "fecha": "2026-08-08T03:25:00.000Z",
+      "fuenteId": "the-objective",
+      "fuenteTitle": "The Objective",
+      "categorias": [
+        "actualidad",
+        "politica"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "El temor a la ‘okupación’ lleva a algunos ceutíes a acortar o cancelar sus vacaciones",
+      "url": "https://theobjective.com/economia/2026-08-08/temor-ocupacion-ceuties-acortar-cancelar-vacaciones/",
+      "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/07/migrantes-ceuta-31-07-469x317.webp",
+      "fecha": "2026-08-08T03:25:00.000Z",
+      "fuenteId": "the-objective",
+      "fuenteTitle": "The Objective",
+      "categorias": [
+        "actualidad",
+        "politica"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Europol alerta del incremento de la violencia en los grupos radicales independentistas vascos",
+      "url": "https://theobjective.com/espana/2026-08-08/europol-incremento-violencia-radicales-independentistas-vascos/",
+      "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/07/militares-navarra-final-mundial-469x317.jpg",
+      "fecha": "2026-08-08T03:25:00.000Z",
+      "fuenteId": "the-objective",
+      "fuenteTitle": "The Objective",
+      "categorias": [
+        "actualidad",
+        "politica"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Moncloa destina 475.000 euros a la inclusión de discapacitados en Marruecos en el Mundial",
+      "url": "https://theobjective.com/espana/2026-08-08/gobierno-empleo-turismo-marruecos-mundial/",
+      "imagen": "https://theobjective.com/wp-content/uploads/2026/08/mundial.jpeg",
+      "fecha": "2026-08-08T03:25:00.000Z",
+      "fuenteId": "the-objective",
+      "fuenteTitle": "The Objective",
+      "categorias": [
+        "actualidad",
+        "politica"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "La trampa de Marlaska y los informes del CNI sobre Ceuta",
+      "url": "https://theobjective.com/espana/2026-08-08/trampa-marlaska-informes-cni-ceuta/",
+      "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/07/susana-moreno-cup-469x317.jpg",
+      "fecha": "2026-08-08T03:25:00.000Z",
+      "fuenteId": "the-objective",
+      "fuenteTitle": "The Objective",
+      "categorias": [
+        "actualidad",
+        "politica"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Preocupación máxima en Valencia por el riesgo de incendios en el eclipse",
+      "url": "https://www.lavanguardia.com/local/valencia/20260808/11609943/preocupacion-maxima-valencia-riesgo-incendios-eclipse.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/07/6a760090b1e30.r_d.2969-2345-0.jpeg",
+      "fecha": "2026-08-08T03:20:00.000Z",
+      "fuenteId": "la-vanguardia-vida",
+      "fuenteTitle": "La Vanguardia - Vida",
+      "categorias": [
+        "actualidad",
+        "salud"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Huawei recupera la rentabilidad en España a costa de reducir el negocio y la plantilla",
+      "url": "https://cincodias.elpais.com/companias/2026-08-08/huawei-recupera-la-rentabilidad-en-espana-a-costa-de-reducir-el-negocio-y-la-plantilla.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/UQRD47K6PJGSLLIKO566OA3XDI.png?auth=30767c845d16328afe9c1a82ab99a4409eda58940945362885c67dc6b6123120",
+      "fecha": "2026-08-08T03:15:00.000Z",
+      "fuenteId": "el-pais-economia",
+      "fuenteTitle": "El País - Economía",
+      "categorias": [
+        "economia",
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Hoy No Circula sabatino: qué autos pueden circular y cuáles descansan el 8 de agosto",
+      "url": "https://www.xataka.com/mexico/hoy-no-circula-sabatino-que-autos-pueden-circular-cuales-descansan-8-agosto",
+      "imagen": "https://i.blogs.es/66f766/laparte-photography-pxwu1wdjqa4-unsplash/1024_2000.jpeg",
+      "fecha": "2026-08-08T03:01:15.000Z",
+      "fuenteId": "xataka",
+      "fuenteTitle": "Xataka",
+      "categorias": [
+        "tecnologia",
+        "ciencia"
+      ],
+      "idioma": "es"
+    },
     {
       "titulo": "El día después del fuego en Ávila: el reto de salvar al turismo para reactivar la economía local",
       "url": "https://www.20minutos.es/lainformacion/economia-y-finanzas/dia-despues-fuego-avila-reto-salvar-turismo-reactivar-economia_7022490_0.html",
@@ -129,502 +645,6 @@
         "salud",
         "hogar",
         "corazon"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Proverbio chino del día sobre los hijos: \"El árbol quiere quedarse quieto, pero el viento no cesa...\"",
-      "url": "https://www.elconfidencial.com/alma-corazon-vida/2026-08-08/proverbio-chino-hijos_4400272/",
-      "imagen": "https://images.ecestaticos.com/1mBFBbSAAJRJUDfVEbfLIRSpbzY=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fd92%2F01a%2F030%2Fd9201a030819e186344254fdc6a7b9b2.jpg",
-      "fecha": "2026-08-08T03:00:00.000Z",
-      "fuenteId": "el-confidencial-alma-corazon-vida",
-      "fuenteTitle": "El Confidencial - Alma, Corazón y Vida",
-      "categorias": [
-        "salud",
-        "hogar",
-        "corazon"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Nieto Sobejano: \"Un arquitecto se representa al construir su propia casa\"",
-      "url": "https://www.elconfidencial.com/cultura/2026-08-08/nieto-sobejano-arquitectura-cbtrltrc_4384681/",
-      "imagen": "https://images.ecestaticos.com/rjrWvhcqKCLlBvnN4oRVdPqgmpw=/0x0:2272x1704/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F68d%2F30a%2Fdab%2F68d30adab0f07c3c9271f08cc78b6cbf.jpg",
-      "fecha": "2026-08-08T03:00:00.000Z",
-      "fuenteId": "el-confidencial-cultura",
-      "fuenteTitle": "El Confidencial - Cultura",
-      "categorias": [
-        "cultura"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Auge y demolición del Springfield gallego: As Pontes estrena era con nudos energéticos y aroma chino",
-      "url": "https://www.elconfidencial.com/espana/galicia/2026-08-08/demolicion-central-termica-as-pontes-nueva-era_4401449/",
-      "imagen": "https://images.ecestaticos.com/_6fVN_etZP_sDrBbaXaphd1paiU=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F3ea%2Fda6%2F68b%2F3eada668bd4aa5d251f99ffe71503437.jpg",
-      "fecha": "2026-08-08T03:00:00.000Z",
-      "fuenteId": "el-confidencial-espana",
-      "fuenteTitle": "El Confidencial - España",
-      "categorias": [
-        "politica",
-        "actualidad"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "De origen germánico y muy popular en la Edad Media: el nombre de niño que vuelve a estar de moda en Madrid",
-      "url": "https://www.elconfidencial.com/espana/madrid/2026-08-08/nombre-nino-germanico-exito-madrid-1tna-1qrt_4401363/",
-      "imagen": "https://images.ecestaticos.com/oAF5xzFlbDUzMwCZHDs7s7NRz8o=/0x0:1024x680/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F4b5%2F110%2Fcfe%2F4b5110cfe8081ac6299a9afab5b50776.jpg",
-      "fecha": "2026-08-08T03:00:00.000Z",
-      "fuenteId": "el-confidencial-espana",
-      "fuenteTitle": "El Confidencial - España",
-      "categorias": [
-        "politica",
-        "actualidad"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Por qué en la Escuela de Arquitectura hay una puerta de un hospital fundado por la profesora de latín de Isabel la Católica",
-      "url": "https://www.elconfidencial.com/espana/madrid/2026-08-08/por-que-en-la-escuela-de-arquitectura-hay-una-puerta-de-un-hospital-fundado-por-la-profesora-de-latin-de-isabel-la-catolica_4402074/",
-      "imagen": "https://images.ecestaticos.com/pCYadAACJAHbU8gX_nB9n6pi0ds=/0x0:650x433/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F9cc%2Ff37%2F316%2F9ccf3731669f2f17d1768effb80430a7.jpg",
-      "fecha": "2026-08-08T03:00:00.000Z",
-      "fuenteId": "el-confidencial-espana",
-      "fuenteTitle": "El Confidencial - España",
-      "categorias": [
-        "politica",
-        "actualidad"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Girona, la reserva espiritual del independentismo, se convierte en un avispero",
-      "url": "https://www.elconfidencial.com/espana/cataluna/2026-08-08/girona-la-reserva-espiritual-del-independentismo-se-convierte-en-un-avispero_4402320/",
-      "imagen": "https://images.ecestaticos.com/28JofW9gLWZwdnNH_bG3uU5e2C0=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F4a6%2Fbbc%2F87d%2F4a6bbc87d63d00ba1f17f73994238da5.jpg",
-      "fecha": "2026-08-08T03:00:00.000Z",
-      "fuenteId": "el-confidencial-espana",
-      "fuenteTitle": "El Confidencial - España",
-      "categorias": [
-        "politica",
-        "actualidad"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "¿Estudiantes mimados o inquilinos desesperados en la capital? Residencias frente al alquiler",
-      "url": "https://www.elconfidencial.com/espana/madrid/2026-08-08/estudiantes-mimados-o-inquilinos-desesperados-en-la-capital_4396507/",
-      "imagen": "https://images.ecestaticos.com/bw-rasFwOdphDKg7pF5RWg5Ymh4=/0x0:2100x1400/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F5ea%2F4b1%2Fc8a%2F5ea4b1c8a78b9a9c217d97ffd0290c04.jpg",
-      "fecha": "2026-08-08T03:00:00.000Z",
-      "fuenteId": "el-confidencial-espana",
-      "fuenteTitle": "El Confidencial - España",
-      "categorias": [
-        "politica",
-        "actualidad"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "No había sucedido nunca: los fenómenos astronómicos que coincidirán en España el 12 de agosto con el eclipse",
-      "url": "https://www.elconfidencial.com/tecnologia/ciencia/2026-08-08/1qrt-fenomenos-astronomicos-coincidiran-eclipse-12-agosto-espana_4400598/",
-      "imagen": "https://images.ecestaticos.com/hoI-fNn5EbA6fVuJ-prp5AWNnsk=/0x0:1254x705/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fba9%2Fc48%2Fa62%2Fba9c48a62fa223793b8cd6f945fe1900.jpg",
-      "fecha": "2026-08-08T03:00:00.000Z",
-      "fuenteId": "el-confidencial-tecnologia",
-      "fuenteTitle": "El Confidencial - Tecnología",
-      "categorias": [
-        "tecnologia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El nacimiento de los vuelos interestelares (parte 1): la carrera espacial y la era nuclear",
-      "url": "https://www.elconfidencial.com/tecnologia/novaceno/2026-08-08/el-nacimiento-de-los-vuelos-interestelares-asi-seran-los-primeros-pasos_4402468/",
-      "imagen": "https://images.ecestaticos.com/iN1ROhFYP5Y8OEPmjzO_iLu9HhA=/0x0:996x560/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F69e%2F5c6%2Faad%2F69e5c6aad6b17530e3f346b4d22cd9d5.jpg",
-      "fecha": "2026-08-08T03:00:00.000Z",
-      "fuenteId": "el-confidencial-tecnologia",
-      "fuenteTitle": "El Confidencial - Tecnología",
-      "categorias": [
-        "tecnologia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "GVC Gaesco cree que Santander doblará el dividendo en dos años",
-      "url": "https://www.finanzas.com/ibex-35/gvc-gaesco-ve-santander-duplicando-dividendo-dos-anos.html",
-      "imagen": "",
-      "fecha": "2026-08-08T02:55:00.000Z",
-      "fuenteId": "finanzas-com",
-      "fuenteTitle": "Finanzas.com",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El depósito que ofrece hasta un 3,23 % TAE sin importe mínimo",
-      "url": "https://www.finanzas.com/finanzas-personales/deposito-323-tae-importe-minimo.html",
-      "imagen": "",
-      "fecha": "2026-08-08T02:55:00.000Z",
-      "fuenteId": "finanzas-com",
-      "fuenteTitle": "Finanzas.com",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El director ejecutivo de Linkhome Holdings vende 1.000.000 de dólares en transferencias privadas de acciones",
-      "url": "https://es.investing.com/news/insider-trading-news/el-director-ejecutivo-de-linkhome-holdings-vende-1000000-de-dolares-en-transferencias-privadas-de-acciones-93CH-3786894",
-      "imagen": "https://i-invdn-com.investing.com/news/moved_LYNXMPEM3T1AG_1200_L.jpg",
-      "fecha": "2026-08-08T02:50:24.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El director ejecutivo de PubMatic, Rajeev Goel, vende 3,75 millones de dólares en acciones PUBM",
-      "url": "https://es.investing.com/news/insider-trading-news/el-director-ejecutivo-de-pubmatic-rajeev-goel-vende-375-millones-de-dolares-en-acciones-pubm-93CH-3786893",
-      "imagen": "https://i-invdn-com.investing.com/news/moved_LYNXMPEM4510G_1200_L.jpg",
-      "fecha": "2026-08-08T02:50:06.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "La directora de RRHH de Savers Value Village vende acciones por 766.200 dólares",
-      "url": "https://es.investing.com/news/insider-trading-news/la-directora-de-rrhh-de-savers-value-village-vende-acciones-por-766200-dolares-93CH-3786892",
-      "imagen": "https://i-invdn-com.investing.com/news/moved_LYNXMPEM3T1K3_1200_L.jpg",
-      "fecha": "2026-08-08T02:49:11.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El consejero general de Savers Value Village vende acciones por 648.900 dólares",
-      "url": "https://es.investing.com/news/insider-trading-news/el-consejero-general-de-savers-value-village-vende-acciones-por-648900-dolares-93CH-3786891",
-      "imagen": "",
-      "fecha": "2026-08-08T02:49:09.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El regulador de EE.UU. rechaza la solicitud de Bunq para operar como banco nacional",
-      "url": "https://es.investing.com/news/company-news/el-regulador-de-eeuu-rechaza-la-solicitud-de-bunq-para-operar-como-banco-nacional-3786889",
-      "imagen": "https://i-invdn-com.investing.com/news/LYNXMPEM3S10Z_1200_L.jpg",
-      "fecha": "2026-08-08T02:42:58.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Justicia de EE.UU. bloquea obras del salón de baile de Trump",
-      "url": "https://www.dw.com/es/justicia-de-ee-uu-bloquea-obras-del-salón-de-baile-de-trump/a-78286710?maca=spa-rss-sp-all-1122-xml-mrss",
-      "imagen": "",
-      "fecha": "2026-08-08T02:41:00.000Z",
-      "fuenteId": "dw-espanol",
-      "fuenteTitle": "DW Español",
-      "categorias": [
-        "internacional",
-        "politica"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El director ejecutivo de Savers Value Village vende acciones por 2,4 millones de dólares",
-      "url": "https://es.investing.com/news/insider-trading-news/el-director-ejecutivo-de-savers-value-village-vende-acciones-por-24-millones-de-dolares-93CH-3786887",
-      "imagen": "",
-      "fecha": "2026-08-08T02:32:26.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El CFO de Savers Value Village, Maher, vende acciones por 613.000 dólares",
-      "url": "https://es.investing.com/news/insider-trading-news/el-cfo-de-savers-value-village-maher-vende-acciones-por-613000-dolares-93CH-3786888",
-      "imagen": "",
-      "fecha": "2026-08-08T02:32:26.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Matthew Rabinowitz, de Natera, vende acciones por 641.800 dólares",
-      "url": "https://es.investing.com/news/insider-trading-news/matthew-rabinowitz-de-natera-vende-acciones-por-641800-dolares-93CH-3786886",
-      "imagen": "https://i-invdn-com.investing.com/news/moved_LYNXMPEM3Q0V4_1200_L.jpg",
-      "fecha": "2026-08-08T02:31:56.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "3 momentos que marcaron la posesión de Abelardo de la Espriella como presidente de Colombia (y qué dicen sobre cómo será su gobierno)",
-      "url": "https://www.bbc.com/mundo/articles/cz64y70l8wzo?at_medium=RSS&at_campaign=rss",
-      "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cade/live/60e96f40-92d0-11f1-a85d-251309a09aa9.jpg",
-      "fecha": "2026-08-08T02:31:50.000Z",
-      "fuenteId": "bbc-mundo",
-      "fuenteTitle": "BBC News Mundo",
-      "categorias": [
-        "internacional",
-        "actualidad"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Seguridad, religión y corrupción: las claves del primer discurso de De la Espriella como presidente",
-      "url": "https://www.france24.com/es/am%C3%A9rica-latina/20260808-seguridad-religi%C3%B3n-y-corrupci%C3%B3n-las-claves-del-primer-discurso-de-de-la-espriella-como-presidente",
-      "imagen": "https://s.france24.com/media/display/98513e9e-92ae-11f1-bb40-005056a90284/w:1024/p:16x9/2026-08-07T215913Z-1742923791-RC2WTMAAY791-RTRMADP-3-COLOMBIA-POLITICS.jpg",
-      "fecha": "2026-08-08T02:31:31.000Z",
-      "fuenteId": "france24-espanol",
-      "fuenteTitle": "France 24 Español",
-      "categorias": [
-        "internacional",
-        "politica"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Conoce esta curiosa y tediosa forma de derrotar a Bowser en New Super Mario Bros. U",
-      "url": "https://www.nintenderos.com/2026/08/conoce-esta-curiosa-y-tediosa-forma-de-derrotar-a-bowser-en-new-super-mario-bros-u/",
-      "imagen": "",
-      "fecha": "2026-08-08T02:30:00.000Z",
-      "fuenteId": "nintenderos",
-      "fuenteTitle": "Nintenderos",
-      "categorias": [
-        "tecnologia",
-        "entretenimiento"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Presidente de Kratos Defense vende acciones de KTOS por 223.599 dólares",
-      "url": "https://es.investing.com/news/insider-trading-news/presidente-de-kratos-defense-vende-acciones-de-ktos-por-223599-dolares-93CH-3786885",
-      "imagen": "https://i-invdn-com.investing.com/news/moved_LYNXMPEM3Q0V4_1200_L.jpg",
-      "fecha": "2026-08-08T02:17:32.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Sin Machado, con reservas y en la penumbra: lo que se sabe de la nueva ronda de diálogos en Venezuela",
-      "url": "https://www.france24.com/es/am%C3%A9rica-latina/20260808-sin-machado-con-reservas-y-en-la-penumbra-lo-que-se-sabe-de-la-nueva-ronda-de-di%C3%A1logos-en-venezuela",
-      "imagen": "https://s.france24.com/media/display/1817f34c-91ed-11f1-a357-005056a97e36/w:1024/p:16x9/AP26218734587490-1.jpg",
-      "fecha": "2026-08-08T02:02:00.000Z",
-      "fuenteId": "france24-espanol",
-      "fuenteTitle": "France 24 Español",
-      "categorias": [
-        "internacional",
-        "politica"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Director de Natera Jonathan Sheena vende 2,89 millones de dólares en acciones",
-      "url": "https://es.investing.com/news/insider-trading-news/director-de-natera-jonathan-sheena-vende-289-millones-de-dolares-en-acciones-93CH-3786882",
-      "imagen": "https://i-invdn-com.investing.com/news/moved_LYNXMPEM3T1K3_1200_L.jpg",
-      "fecha": "2026-08-08T02:01:50.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "La alta directiva de Radian Group vende acciones por valor de 32 dólares",
-      "url": "https://es.investing.com/news/insider-trading-news/la-alta-directiva-de-radian-group-vende-acciones-por-valor-de-32-dolares-93CH-3786881",
-      "imagen": "https://i-invdn-com.investing.com/news/moved_LYNXMPEM3Q0WG_1200_L.jpg",
-      "fecha": "2026-08-08T02:01:46.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Horóscopo diario de hoy, sábado 8 de agosto de 2026: predicción para todos los signos del Zodíaco",
-      "url": "https://www.marie-claire.es/horoscopo/horoscopo-diario-8-agosto-2026.html",
-      "imagen": "",
-      "fecha": "2026-08-08T02:00:00.000Z",
-      "fuenteId": "marie-claire-espana",
-      "fuenteTitle": "Marie Claire España",
-      "categorias": [
-        "moda"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Ucrania acuerda no atacar ciertos petroleros y la infraestructura petrolera del Mar Negro",
-      "url": "https://es.investing.com/news/economy-news/ucrania-acuerda-no-atacar-ciertos-petroleros-y-la-infraestructura-petrolera-del-mar-negro-3786883",
-      "imagen": "https://content-media.investing.com/news/LYNXNPEC210AM_M.jpg",
-      "fecha": "2026-08-08T01:58:53.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El director de Landmark Bancorp Mark Kohlrus compra acciones por 31.767 dólares",
-      "url": "https://es.investing.com/news/insider-trading-news/el-director-de-landmark-bancorp-mark-kohlrus-compra-acciones-por-31767-dolares-93CH-3786880",
-      "imagen": "https://i-invdn-com.investing.com/news/moved_LYNXMPEM40318_1200_L.jpg",
-      "fecha": "2026-08-08T01:52:20.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Meta deberá financiar fondo para salud mental tras millonaria multa en EE. UU.",
-      "url": "https://www.france24.com/es/video/20260808-meta-deber%C3%A1-financiar-fondo-para-salud-mental-tras-millonaria-multa-en-ee-uu",
-      "imagen": "https://s.france24.com/media/display/a79611ba-92ca-11f1-898b-005056bfb2b6/w:1024/p:16x9/ES-20260807-200910-201051-CS.jpg",
-      "fecha": "2026-08-08T01:48:23.000Z",
-      "fuenteId": "france24-espanol",
-      "fuenteTitle": "France 24 Español",
-      "categorias": [
-        "internacional",
-        "politica"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El director de contabilidad de SentinelOne vende acciones por 109.799 dólares",
-      "url": "https://es.investing.com/news/insider-trading-news/el-director-de-contabilidad-de-sentinelone-vende-acciones-por-109799-dolares-93CH-3786879",
-      "imagen": "https://i-invdn-com.investing.com/news/moved_LYNXMPEM3Q0V4_1200_L.jpg",
-      "fecha": "2026-08-08T01:48:06.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Petro deja la Casa de Nariño y la izquierda pasa a la oposición en Colombia",
-      "url": "https://www.france24.com/es/video/20260808-petro-deja-la-casa-de-nari%C3%B1o-y-la-izquierda-pasa-a-la-oposici%C3%B3n-en-colombia",
-      "imagen": "https://s.france24.com/media/display/c8294b68-92ca-11f1-a1de-005056a90284/w:1024/p:16x9/AP26219645153633.jpg",
-      "fecha": "2026-08-08T01:46:14.000Z",
-      "fuenteId": "france24-espanol",
-      "fuenteTitle": "France 24 Español",
-      "categorias": [
-        "internacional",
-        "politica"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Director ejecutivo de Paysign, Mark Newcomer, vende 1,78 millones de dólares en acciones",
-      "url": "https://es.investing.com/news/insider-trading-news/director-ejecutivo-de-paysign-mark-newcomer-vende-178-millones-de-dolares-en-acciones-93CH-3786878",
-      "imagen": "https://i-invdn-com.investing.com/news/moved_LYNXMPEM431A2_1200_L.jpg",
-      "fecha": "2026-08-08T01:36:25.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Treinta años del disco que cambió la música en España. Omega, una historia oral",
-      "url": "https://www.20minutos.es/cultura/blogs/motel-margot/treinta-anos-disco-que-cambio-musica-espana-omega-una-historia-oral_6976970_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/05/29/6a19c905e73799-94440875.jpeg",
-      "fecha": "2026-08-08T01:35:00.000Z",
-      "fuenteId": "20minutos-cultura",
-      "fuenteTitle": "20minutos - Cultura",
-      "categorias": [
-        "cultura"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El CTO de Snap, Robert Murphy, vende acciones por 21.600 millones de dólares",
-      "url": "https://es.investing.com/news/insider-trading-news/el-cto-de-snap-robert-murphy-vende-acciones-por-21600-millones-de-dolares-93CH-3786877",
-      "imagen": "https://i-invdn-com.investing.com/news/LYNXMPEA6T0NG_M.jpg",
-      "fecha": "2026-08-08T01:32:35.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El director médico de Apogee Therapeutics vende acciones por 737.934 dólares",
-      "url": "https://es.investing.com/news/insider-trading-news/el-director-medico-de-apogee-therapeutics-vende-acciones-por-737934-dolares-93CH-3786876",
-      "imagen": "https://i-invdn-com.investing.com/news/moved_LYNXMPEM3T1AG_1200_L.jpg",
-      "fecha": "2026-08-08T01:32:27.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Director de Tenet Healthcare Roy Blunt vende 157.608 dólares en acciones",
-      "url": "https://es.investing.com/news/insider-trading-news/director-de-tenet-healthcare-roy-blunt-vende-157608-dolares-en-acciones-93CH-3786875",
-      "imagen": "https://i-invdn-com.investing.com/news/moved_LYNXMPEM431A2_1200_L.jpg",
-      "fecha": "2026-08-08T01:31:58.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Abelardo de la Espriella jura ante los congresistas pero da su primer discurso a los militares",
-      "url": "https://elpais.com/america-colombia/2026-08-08/abelardo-de-la-espriella-jura-ante-los-congresistas-pero-da-su-primer-discurso-a-los-militares.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/AJBA73RAIZITRG5WCEVZQ255CM.jpg?auth=ede53f68cfef72c80f3b5b9cd0805f8a08ff3a2bda0c09d7869759fc8f23101a",
-      "fecha": "2026-08-08T01:26:06.000Z",
-      "fuenteId": "el-pais",
-      "fuenteTitle": "El País",
-      "categorias": [
-        "actualidad",
-        "tecnologia",
-        "ciencia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "EE.UU. espera pronto un acuerdo sobre el Estrecho de Ormuz mientras potencias suníes firman pacto de defensa",
-      "url": "https://es.investing.com/news/economy-news/eeuu-espera-pronto-un-acuerdo-sobre-el-estrecho-de-ormuz-mientras-potencias-sunies-firman-pacto-de-defensa-3786874",
-      "imagen": "https://i-invdn-com.investing.com/news/LYNXMPEA6M0QA_M.jpg",
-      "fecha": "2026-08-08T01:25:50.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
       ],
       "idioma": "es"
     }
