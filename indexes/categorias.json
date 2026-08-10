@@ -1,8 +1,73 @@
 {
-  "generado": "2026-08-10T22:43:10.432Z",
+  "generado": "2026-08-10T23:05:33.130Z",
   "limitePorCategoria": 20,
   "categorias": {
     "actualidad": [
+      {
+        "titulo": "Un verano con la inteligencia artificial",
+        "url": "https://www.elmundo.es/economia/empresas/2026/08/11/6a79b0d521efa01e1e8b45a1.html",
+        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/05/07/17781691710332.jpg",
+        "fecha": "2026-08-10T22:09:55.000Z",
+        "fuenteId": "el-mundo-economia",
+        "fuenteTitle": "El Mundo - Economía",
+        "categorias": [
+          "economia",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "María Dueñas, muy crítica con el sector del libro en España: \"Se creen que la gente es tonta y quiere cosas fáciles\"",
+        "url": "https://www.huffingtonpost.es/life/influencers-celebrities/maria-duenas-critica-sector-libro-espana-se-creen-gente-tonta-quiere-cosas-faciles-f202608.html",
+        "imagen": "",
+        "fecha": "2026-08-10T22:05:26.000Z",
+        "fuenteId": "huffpost-espana",
+        "fuenteTitle": "HuffPost España",
+        "categorias": [
+          "actualidad",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Trump convierte el pacto de libre comercio en una presión continuada sobre México",
+        "url": "https://www.abc.es/internacional/trump-convierte-tmec-presion-continuada-sobre-mexico-20260810000011-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/08/10/1515651784-RgsPFdwRCnabpSL6uOLa2mK-1200x840@diario_abc.jpg",
+        "fecha": "2026-08-10T22:00:11.000Z",
+        "fuenteId": "abc-internacional",
+        "fuenteTitle": "ABC - Internacional",
+        "categorias": [
+          "internacional",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Detenido un hombre de 59 años tras matar a su mujer en un nuevo episodio de violencia de género",
+        "url": "https://www.elconfidencial.com/espana/andalucia/2026-08-11/detenido-hombre-59-anos-matar-mujer-violencia-genero_4404147/",
+        "imagen": "https://images.ecestaticos.com/nvrYByPhX7Uba9Xq0xhjuzcueow=/0x0:1920x1280/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F830%2F0ef%2F30f%2F8300ef30fc44560b693ab0a49c2c7465.jpg",
+        "fecha": "2026-08-10T22:00:00.000Z",
+        "fuenteId": "el-confidencial-espana",
+        "fuenteTitle": "El Confidencial - España",
+        "categorias": [
+          "politica",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El PP usará el Senado para retratar al PSOE ante el abuso de poder en Nicaragua",
+        "url": "https://www.abc.es/espana/pp-usara-senado-retratar-psoe-ante-abuso-20260809235920-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/09/nicaragua-afp-RdUqvbMVSJbjpgVxLxXu3eK-1200x840@diario_abc.jpg",
+        "fecha": "2026-08-10T21:59:43.000Z",
+        "fuenteId": "abc-espana",
+        "fuenteTitle": "ABC - España",
+        "categorias": [
+          "politica",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "La UE, Meta y TikTok abren un canal para frenar la desinformación sobre Ceuta",
         "url": "https://theobjective.com/espana/2026-08-10/ue-meta-tiktok-canal-desinformacion-ceuta/",
@@ -136,6 +201,19 @@
         "idioma": "es"
       },
       {
+        "titulo": "Trump abre un frente monetario con Europa y muestra la vulnerabilidad del bono estadounidense",
+        "url": "https://www.elmundo.es/economia/2026/08/10/6a79ba06e85eceb45c8b4576.html",
+        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/10/17863635852066.jpg",
+        "fecha": "2026-08-10T20:45:21.000Z",
+        "fuenteId": "el-mundo-economia",
+        "fuenteTitle": "El Mundo - Economía",
+        "categorias": [
+          "economia",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Asciende a 6.301 la cifra de muertos por el doble terremoto en Venezuela",
         "url": "https://www.20minutos.es/internacional/asciende-6-301-cifra-muertos-por-doble-terremoto-venezuela_7024471_0.html",
         "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/06/30/6a435be7331326-48955605.jpeg",
@@ -185,86 +263,22 @@
           "entretenimiento"
         ],
         "idioma": "es"
-      },
+      }
+    ],
+    "ciencia": [
       {
-        "titulo": "Cali escarba entre los escombros del terremoto: “No podía salir y dejar tirados a mis pacientes”",
-        "url": "https://elpais.com/america-colombia/2026-08-10/cali-escarba-entre-los-escombros-del-terremoto-no-podia-salir-y-dejar-tirados-a-mis-pacientes.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/5RUAKYT6S5LVBCCL3XOM32SDWM.jpg?auth=81f66e78f3d204900c011cb8fa52b38510457a9de0deb896befcdcfe0bed40a5",
-        "fecha": "2026-08-10T20:28:12.000Z",
-        "fuenteId": "el-pais",
-        "fuenteTitle": "El País",
+        "titulo": "ASML construyó uno de los monopolios más valiosos del mundo. China le ha recordado que nada dura para siempre",
+        "url": "https://www.xataka.com/empresas-y-economia/asml-construyo-uno-monopolios-valiosos-mundo-china-le-ha-recordado-que-nada-dura-para-siempre",
+        "imagen": "https://i.blogs.es/1803fc/asml/1024_2000.jpeg",
+        "fecha": "2026-08-10T21:55:57.000Z",
+        "fuenteId": "xataka",
+        "fuenteTitle": "Xataka",
         "categorias": [
-          "actualidad",
           "tecnologia",
           "ciencia"
         ],
         "idioma": "es"
       },
-      {
-        "titulo": "La firmeza de Rufo frente a la euforia peñista de El Fandi y Marco",
-        "url": "https://www.abc.es/cultura/toros/firmeza-rufo-frente-euforia-penista-fandi-marco-20260810222051-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/08/10/pgrade-Re6s2uWO0fLVp1xILLFocBP-1200x840@diario_abc.jpg",
-        "fecha": "2026-08-10T20:27:41.000Z",
-        "fuenteId": "abc",
-        "fuenteTitle": "ABC",
-        "categorias": [
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Casa ISDIN retransmitirá en directo el eclipse solar en un evento que unirá ciencia y música",
-        "url": "https://theobjective.com/sociedad/ciencia/2026-08-10/casa-isdin-eclipse-solar-ciencia-musica/",
-        "imagen": "https://theobjective.com/wp-content/uploads/2026/08/servimedia15.jpg",
-        "fecha": "2026-08-10T20:25:56.000Z",
-        "fuenteId": "the-objective",
-        "fuenteTitle": "The Objective",
-        "categorias": [
-          "actualidad",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Un año y una operación de Aquiles después, Jakob Ingebrigtsen sigue siendo asombroso: cuarto oro europeo seguido en el 5.000",
-        "url": "https://www.elmundo.es/deportes/mas-deporte/2026/08/10/6a7a0e1de85ecee3648b457a.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/10/17863928413169.jpg",
-        "fecha": "2026-08-10T20:20:33.000Z",
-        "fuenteId": "el-mundo",
-        "fuenteTitle": "El Mundo",
-        "categorias": [
-          "actualidad",
-          "tecnologia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La Junta gestiona la manutención y hospedaje de los familiares de las víctimas del incendio de Los Gallardos",
-        "url": "https://www.abc.es/espana/andalucia/almeria/junta-gestiona-manutencion-hospedaje-familiares-victimas-incendio-20260810221917-nts.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/10/almeria%20-incendio-junta-RJEeowWK7UXAQWgpyC8a55N-1200x840@diario_abc.jpg",
-        "fecha": "2026-08-10T20:19:17.000Z",
-        "fuenteId": "abc-espana",
-        "fuenteTitle": "ABC - España",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Desvalijan en Suiza uno de los museos de relojes más importantes: se llevan piezas valoradas en miles de euros",
-        "url": "https://www.20minutos.es/internacional/desvalijan-suiza-uno-los-museos-relojes-mas-importantes-los-ladrones-se-llevan-piezas-valoradas-miles-euros_7024465_0.html",
-        "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2023/09/11/relojes.jpeg",
-        "fecha": "2026-08-10T20:14:00.000Z",
-        "fuenteId": "20minutos",
-        "fuenteTitle": "20minutos",
-        "categorias": [
-          "actualidad"
-        ],
-        "idioma": "es"
-      }
-    ],
-    "ciencia": [
       {
         "titulo": "La nueva IA de ChatGPT ya encuentra fallos de seguridad antes que los hackers",
         "url": "https://hipertextual.com/inteligencia-artificial/openai-gpt-5-6-cyber-daybreak-blue-red/",
@@ -525,20 +539,6 @@
           "ciencia"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "El Gobierno mantiene su apoyo a la fábrica china en Ferrol pese a las alertas de Defensa",
-        "url": "https://elpais.com/espana/2026-08-10/el-gobierno-mantiene-su-apoyo-a-la-fabrica-china-en-ferrol-pese-a-las-alertas-de-defensa.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/23B2BRYOFFGZLH4SXKI3GIIUBY.jpg?auth=a64329ec8bc69230d1988725086ebb935ab3f0fd3204114170a39d75bf92a9e9",
-        "fecha": "2026-08-10T18:14:43.000Z",
-        "fuenteId": "el-pais",
-        "fuenteTitle": "El País",
-        "categorias": [
-          "actualidad",
-          "tecnologia",
-          "ciencia"
-        ],
-        "idioma": "es"
       }
     ],
     "corazon": [
@@ -549,6 +549,19 @@
         "fecha": "2026-08-26T10:28:00.000Z",
         "fuenteId": "jaleos",
         "fuenteTitle": "Jaleos",
+        "categorias": [
+          "corazon",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El castillo encantado donde Carlos III pasa sus vacaciones de verano",
+        "url": "https://www.abc.es/gente/castillo-encantado-carlos-iii-pasa-vacaciones-verano-20260810000840-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gente/2026/08/10/U614418_015-Rfkeyztd8nT0hfbSMhhPHdP-1200x840@diario_abc.jpg",
+        "fecha": "2026-08-10T22:08:40.000Z",
+        "fuenteId": "abc-gente",
+        "fuenteTitle": "ABC - Gente",
         "categorias": [
           "corazon",
           "entretenimiento"
@@ -787,19 +800,6 @@
         "categorias": [
           "moda",
           "corazon"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Can Yaman lleva 'Sandokán' más allá de la televisión con un libro sobre la serie que define como \"algo muy especial\"",
-        "url": "https://www.diezminutos.es/telenovela/turcas/a73353336/sandokan-serie-can-yaman-libro/",
-        "imagen": "https://hips.hearstapps.com/hmg-prod/images/sandokan-serie-can-yaman-69732a80a1e91.jpg",
-        "fecha": "2026-08-10T18:00:00.000Z",
-        "fuenteId": "diez-minutos",
-        "fuenteTitle": "Diez Minutos",
-        "categorias": [
-          "corazon",
-          "entretenimiento"
         ],
         "idioma": "es"
       }
@@ -1067,12 +1067,60 @@
     ],
     "deportes": [
       {
+        "titulo": "Ha nacido una estrella",
+        "url": "https://as.com/futbol/fotorrelato/ha-nacido-una-estrella-f202608-f/",
+        "imagen": "https://img.asmedia.epimg.net/resizer/v2/A5ZPLYQ4A5GDDAHZLZIOXNZRQU.jpg?auth=ae34f742eb9ecc3538139839de5b5512dc6bece71bdcf489a5a1b1e62db8a605",
+        "fecha": "2026-08-10T22:24:40.000Z",
+        "fuenteId": "as",
+        "fuenteTitle": "AS",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "La UEFA revoluciona el VAR",
+        "url": "https://as.com/futbol/internacional/la-uefa-revoluciona-el-var-f202608-n/",
+        "imagen": "https://img.asmedia.epimg.net/resizer/v2/BZX6SFEOPRHLVKYAIMWYIAFLTY.JPG?auth=d25125d2f024cbd0074f15f780907753ec9a4ff2aac7ec73d7d8d4fcb91346b8",
+        "fecha": "2026-08-10T22:16:02.000Z",
+        "fuenteId": "as",
+        "fuenteTitle": "AS",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Jódar - Fils, en directo: cuartos del Masters 1.000 de Canadá hoy, en vivo, online",
         "url": "https://as.com/tenis/masters_1000/jodar-fils-en-directo-cuartos-del-masters-1000-de-canada-hoy-en-vivo-online-f202608-d/",
         "imagen": "https://img.asmedia.epimg.net/resizer/v2/KQTB3HAWC5IR3LSTNBD7IBP5SI.jpg?auth=31a2f29358abaac53534027e509534319f07ba0fec2f0fc5cbd86cbf5518c1ea",
         "fecha": "2026-08-10T21:48:56.000Z",
         "fuenteId": "as",
         "fuenteTitle": "AS",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Jódar - Fils, en directo",
+        "url": "https://www.mundodeportivo.com/tenis/20260810/1004214625/jodar-fils-directo-atp-1000-montreal-canada-cuartos-final.html",
+        "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/08/07/6a763d5f3666e.jpeg",
+        "fecha": "2026-08-10T21:45:22.000Z",
+        "fuenteId": "mundo-deportivo",
+        "fuenteTitle": "Mundo Deportivo",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Pini Zahavi visita a Joan Laporta",
+        "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260810/1004214963/pini-zahavi-visita-joan-laporta.html",
+        "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2023/07/07/64a7fc1a97ad2.jpeg",
+        "fecha": "2026-08-10T21:32:09.000Z",
+        "fuenteId": "mundo-deportivo",
+        "fuenteTitle": "Mundo Deportivo",
         "categorias": [
           "deportes"
         ],
@@ -1257,57 +1305,142 @@
           "deportes"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "El regreso imperial de Jakob Ingebrigtsen",
-        "url": "https://www.lavanguardia.com/deportes/20260810/11611610/regreso-imperial-jakob-ingebrigtsen.html",
-        "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/10/6a7a30dd7011b.jpeg",
-        "fecha": "2026-08-10T20:14:22.000Z",
-        "fuenteId": "la-vanguardia-deportes",
-        "fuenteTitle": "La Vanguardia - Deportes",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El cíborg ha vuelto: oro de Ingebrigtsen para el 15-0",
-        "url": "https://as.com/masdeporte/atletismo/el-ciborg-ha-vuelto-oro-de-ingebrigtsen-para-el-15-0-f202608-n/",
-        "imagen": "https://img.asmedia.epimg.net/resizer/v2/YZ567YX7UZLJPFSN5KIB3X2FXU.jpg?auth=6d9cbdc61afb51b8d04fb76360555725d171e382e1045f09c9cdf6ac2be2c5a5",
-        "fecha": "2026-08-10T20:03:16.000Z",
-        "fuenteId": "as",
-        "fuenteTitle": "AS",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Sale a la luz el supuesto romance entre Cristiano y Gabriela Guillén, ex de Bertín Osborne: los detalles",
-        "url": "https://www.mundodeportivo.com/vaya-mundo/20260810/1004214957/sale-luz-supuesto-romance-cristiano-ronaldo-gabriela-guillen-ex-bertin-osborne-detalles-dct.html",
-        "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/08/10/6a7a2c2b6564a.png",
-        "fecha": "2026-08-10T19:54:04.000Z",
-        "fuenteId": "mundo-deportivo",
-        "fuenteTitle": "Mundo Deportivo",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Álvaro Puche, entrenador personal: “El entrenamiento de fuerza es fundamental para lograr un cambio físico”",
-        "url": "https://as.com/tikitakas/salud/alvaro-puche-entrenador-personal-el-entrenamiento-de-fuerza-es-fundamental-para-lograr-un-cambio-fisico-f202608-n/",
-        "imagen": "https://img.asmedia.epimg.net/resizer/v2/6MSLLP3WWVBZRMJ4HL3MFTFMWA.jpg?auth=ff3b3cc6d6341657f2fbb1895e5541d7258664f16f0b6983e4b6a15ba4cefa00",
-        "fecha": "2026-08-10T19:50:36.000Z",
-        "fuenteId": "as",
-        "fuenteTitle": "AS",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
       }
     ],
     "economia": [
+      {
+        "titulo": "El director de Energy Transfer, Perry, invierte 250.000 dólares en participaciones",
+        "url": "https://es.investing.com/news/insider-trading-news/el-director-de-energy-transfer-perry-invierte-250000-dolares-en-participaciones-93CH-3789453",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM431A2_1200_L.jpg",
+        "fecha": "2026-08-10T22:19:23.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Un verano con la inteligencia artificial",
+        "url": "https://www.elmundo.es/economia/empresas/2026/08/11/6a79b0d521efa01e1e8b45a1.html",
+        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/05/07/17781691710332.jpg",
+        "fecha": "2026-08-10T22:09:55.000Z",
+        "fuenteId": "el-mundo-economia",
+        "fuenteTitle": "El Mundo - Economía",
+        "categorias": [
+          "economia",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "+85%: por qué nuestra IA detectó esta acción de servicios tecnológicos antes del rally",
+        "url": "https://es.investing.com/news/stock-market-news/85-por-que-nuestra-ia-detecto-esta-accion-de-servicios-tecnologicos-antes-del-rally-3789452",
+        "imagen": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg",
+        "fecha": "2026-08-10T22:09:39.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Informe de resultados: USA Rare Earth decepciona en ingresos del Q2 2026 y provoca caídas",
+        "url": "https://es.investing.com/news/transcripts/informe-de-resultados-usa-rare-earth-decepciona-en-ingresos-del-q2-2026-y-provoca-caidas-93CH-3789449",
+        "imagen": "https://content-media.investing.com/news/LYNXNPEC0Q0MJ_M.jpg",
+        "fecha": "2026-08-10T22:03:34.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El director de contabilidad de Galaxy Digital, Rico, vende 178.807 dólares en acciones",
+        "url": "https://es.investing.com/news/insider-trading-news/el-director-de-contabilidad-de-galaxy-digital-rico-vende-178807-dolares-en-acciones-93CH-3789446",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM431A2_1200_L.jpg",
+        "fecha": "2026-08-10T22:01:53.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "BTIG mantiene su calificación Neutral sobre Crocs tras cambio de modelo",
+        "url": "https://es.investing.com/news/analyst-ratings/btig-mantiene-su-calificacion-neutral-sobre-crocs-tras-cambio-de-modelo-93CH-3789445",
+        "imagen": "",
+        "fecha": "2026-08-10T22:01:45.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Informe de resultados de Archer Q2 2026: los ingresos superan las estimaciones pero las acciones retroceden",
+        "url": "https://es.investing.com/news/transcripts/informe-de-resultados-de-archer-q2-2026-los-ingresos-superan-las-estimaciones-pero-las-acciones-retroceden-93CH-3789444",
+        "imagen": "",
+        "fecha": "2026-08-10T22:00:08.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Informe de resultados: Riot Platforms registra pérdidas en el segundo trimestre de 2026 mientras avanza en centros de datos",
+        "url": "https://es.investing.com/news/transcripts/informe-de-resultados-riot-platforms-registra-perdidas-en-el-segundo-trimestre-de-2026-mientras-avanza-en-centros-de-datos-93CH-3789443",
+        "imagen": "https://content-media.investing.com/news/moved_small-LYNXMPEM431A2_1200_L.jpg",
+        "fecha": "2026-08-10T21:58:10.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Informe de resultados: USA Rare Earth decepciona en ingresos del Q2 2026 y provoca caídas",
+        "url": "https://es.investing.com/news/transcripts/informe-de-resultados-usa-rare-earth-decepciona-en-ingresos-del-q2-2026-y-provoca-caidas-93CH-3789442",
+        "imagen": "https://content-media.investing.com/news/LYNXNPEC0Q0MJ_M.jpg",
+        "fecha": "2026-08-10T21:57:55.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "¿Por qué las acciones de Alcon se disparan hoy?",
+        "url": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-alcon-se-disparan-hoy-93CH-3789441",
+        "imagen": "https://content-media.investing.com/news/LYNXNPEB9606Q_L.jpg",
+        "fecha": "2026-08-10T21:56:53.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "¿Por qué cae hoy la acción de Aecom?",
+        "url": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-aecom-93CH-3789439",
+        "imagen": "https://content-media.investing.com/news/LYNXNPEC180BO_M.jpg",
+        "fecha": "2026-08-10T21:56:13.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Informe de resultados: Quantum Computing Inc. supera previsiones de ingresos en el segundo trimestre de 2026",
         "url": "https://es.investing.com/news/transcripts/informe-de-resultados-quantum-computing-inc-supera-previsiones-de-ingresos-en-el-segundo-trimestre-de-2026-93CH-3789411",
@@ -1415,138 +1548,6 @@
           "economia"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "Boeing obtiene un contrato de 109 millones de dólares para paneles de ala del F/A-18",
-        "url": "https://es.investing.com/news/stock-market-news/boeing-obtiene-un-contrato-de-109-millones-de-dolares-para-paneles-de-ala-del-fa18-93CH-3789388",
-        "imagen": "https://content-media.investing.com/news/LYNXNPEAAP0PI_M.jpg",
-        "fecha": "2026-08-10T21:20:00.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Fermi asegura su primer contrato de centro de datos por 6.500 millones de dólares",
-        "url": "https://es.investing.com/news/company-news/fermi-asegura-su-primer-contrato-de-centro-de-datos-por-6500-millones-de-dolares-93CH-3789379",
-        "imagen": "https://content-media.investing.com/news/LYNXMPEM3D1C7_1200_L.jpg",
-        "fecha": "2026-08-10T21:17:37.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "GigaCloud Tecnología informa sobre los planes de transacción de acciones del afiliado de su director ejecutivo",
-        "url": "https://es.investing.com/news/sec-filings/gigacloud-tecnologia-informa-sobre-los-planes-de-transaccion-de-acciones-del-afiliado-de-su-director-ejecutivo-93CH-3789375",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM4519D_1200_L.jpg",
-        "fecha": "2026-08-10T21:15:38.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Upwork registra caída de ingresos en el Q2 por el auge de la IA",
-        "url": "https://es.investing.com/news/company-news/upwork-registra-caida-de-ingresos-en-el-q2-por-el-auge-de-la-ia-93CH-3789373",
-        "imagen": "",
-        "fecha": "2026-08-10T21:13:21.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "CEA Industries recupera el cumplimiento con Nasdaq tras su junta de accionistas",
-        "url": "https://es.investing.com/news/company-news/cea-industries-recupera-el-cumplimiento-con-nasdaq-tras-su-junta-de-accionistas-93CH-3789372",
-        "imagen": "https://content-media.investing.com/news/LYNXMPEM4C1QN_1200_L.jpg",
-        "fecha": "2026-08-10T21:12:58.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Cantor elige a Arcus Biosciences como su principal acción en biotecnología",
-        "url": "https://es.investing.com/news/stock-market-news/cantor-elige-a-arcus-biosciences-como-su-principal-accion-en-biotecnologia-93CH-3789371",
-        "imagen": "https://content-media.investing.com/news/LYNXNPEB6J0AJ_M.jpg",
-        "fecha": "2026-08-10T21:12:52.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "¿Por qué cae hoy la acción de Surf Air Mobility?",
-        "url": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-surf-air-mobility-93CH-3789367",
-        "imagen": "https://content-media.investing.com/news/LYNXNPEC0Q0MJ_M.jpg",
-        "fecha": "2026-08-10T21:11:06.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Bernstein inicia cobertura de PDF Solutions con perspectiva alcista",
-        "url": "https://es.investing.com/news/analyst-ratings/bernstein-inicia-cobertura-de-pdf-solutions-con-perspectiva-alcista-93CH-3789366",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM4416N_1200_L.jpg",
-        "fecha": "2026-08-10T21:09:31.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "IAMGOLD completa la venta de su participación en Senegal por 70 millones de dólares",
-        "url": "https://es.investing.com/news/company-news/iamgold-completa-la-venta-de-su-participacion-en-senegal-por-70-millones-de-dolares-93CH-3789365",
-        "imagen": "",
-        "fecha": "2026-08-10T21:09:22.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Informe de resultados: Bionano Genomics supera previsiones de ingresos en el Q2",
-        "url": "https://es.investing.com/news/transcripts/informe-de-resultados-bionano-genomics-supera-previsiones-de-ingresos-en-el-q2-93CH-3789362",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM4510G_1200_L.jpg",
-        "fecha": "2026-08-10T21:07:54.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Aderant lanza integración AML con First AML para despachos de abogados",
-        "url": "https://es.investing.com/news/company-news/aderant-lanza-integracion-aml-con-first-aml-para-despachos-de-abogados-93CH-3789359",
-        "imagen": "https://content-media.investing.com/news/LYNXMPEM4C131_1200_L.jpg",
-        "fecha": "2026-08-10T21:05:30.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
       }
     ],
     "entretenimiento": [
@@ -1559,6 +1560,58 @@
         "fuenteTitle": "Jaleos",
         "categorias": [
           "corazon",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Top 10 juegos mejor valorados por los usuarios en lo que llevamos de 2026: varios títulos de Nintendo se cuelan en la lista",
+        "url": "https://www.nintenderos.com/nintendo-switch-2/top-10-juegos-mejor-valorados-por-los-usuarios-en-lo-que-llevamos-de-2026-varios-titulos-de-nintendo-se-cuelan-en-la-lista/",
+        "imagen": "https://pbs.twimg.com/media/HPXwyY4WkAA6HaJ?format=jpg&name=4096x4096",
+        "fecha": "2026-08-10T22:29:30.000Z",
+        "fuenteId": "nintenderos",
+        "fuenteTitle": "Nintenderos",
+        "categorias": [
+          "tecnologia",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Rumor: Samara Weaving será la diosa Hylia en la película de Zelda",
+        "url": "https://www.nintenderos.com/2026/08/rumor-samara-weaving-sera-la-diosa-hylia-en-la-pelicula-de-zelda/",
+        "imagen": "",
+        "fecha": "2026-08-10T22:23:59.000Z",
+        "fuenteId": "nintenderos",
+        "fuenteTitle": "Nintenderos",
+        "categorias": [
+          "tecnologia",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El castillo encantado donde Carlos III pasa sus vacaciones de verano",
+        "url": "https://www.abc.es/gente/castillo-encantado-carlos-iii-pasa-vacaciones-verano-20260810000840-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gente/2026/08/10/U614418_015-Rfkeyztd8nT0hfbSMhhPHdP-1200x840@diario_abc.jpg",
+        "fecha": "2026-08-10T22:08:40.000Z",
+        "fuenteId": "abc-gente",
+        "fuenteTitle": "ABC - Gente",
+        "categorias": [
+          "corazon",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "María Dueñas, muy crítica con el sector del libro en España: \"Se creen que la gente es tonta y quiere cosas fáciles\"",
+        "url": "https://www.huffingtonpost.es/life/influencers-celebrities/maria-duenas-critica-sector-libro-espana-se-creen-gente-tonta-quiere-cosas-faciles-f202608.html",
+        "imagen": "",
+        "fecha": "2026-08-10T22:05:26.000Z",
+        "fuenteId": "huffpost-espana",
+        "fuenteTitle": "HuffPost España",
+        "categorias": [
+          "actualidad",
           "entretenimiento"
         ],
         "idioma": "es"
@@ -1755,59 +1808,6 @@
         "categorias": [
           "tecnologia",
           "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Microsoft admite que no copiará el Liquid Glass del iPhone en Windows 11 y tiene una buena razón",
-        "url": "https://hipertextual.com/software/microsoft-no-trae-liquid-glass-windows-11-iphone/",
-        "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/08/windows-11-liquid-glass.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
-        "fecha": "2026-08-10T20:00:00.000Z",
-        "fuenteId": "hipertextual",
-        "fuenteTitle": "Hipertextual",
-        "categorias": [
-          "tecnologia",
-          "ciencia",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Hormigoneras, apisonadoras y excavadoras: así hace Taiwán ejercicios militares para ensayar un posible ataque de China a sus bases aéreas",
-        "url": "https://www.huffingtonpost.es/global/hormigoneras-apisonadoras-excavadoras-asi-taiwan-ejercicios-militares-ensayar-posible-ataque-china-bases-aereas-f202608.html",
-        "imagen": "",
-        "fecha": "2026-08-10T20:00:00.000Z",
-        "fuenteId": "huffpost-espana",
-        "fuenteTitle": "HuffPost España",
-        "categorias": [
-          "actualidad",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "¿Va a cambiar O2 sus routers por los equipos compatibles con WiFi 7 a sus clientes? La firma responde: “se irá haciendo de forma progresiva…”",
-        "url": "https://www.adslzone.net/noticias/operadores/o2-explica-como-cambiara-router-wifi-7/",
-        "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/08/instalador-o2-pcpal-1212-az.jpg",
-        "fecha": "2026-08-10T19:57:20.000Z",
-        "fuenteId": "adslzone",
-        "fuenteTitle": "ADSLZone",
-        "categorias": [
-          "tecnologia",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Noticias desde Los Ángeles del 3 al 9 de agosto",
-        "url": "https://www.cineytele.com/2026/08/10/noticias-desde-los-angeles-del-3-al-9-de-agosto/",
-        "imagen": "https://www.cineytele.com/wp-content/uploads/2026/08/noticias-angeles-1024x576.png",
-        "fecha": "2026-08-10T19:56:43.000Z",
-        "fuenteId": "cine-y-tele",
-        "fuenteTitle": "Cine&Tele",
-        "categorias": [
-          "entretenimiento",
-          "cultura"
         ],
         "idioma": "es"
       }
@@ -2334,6 +2334,44 @@
     ],
     "internacional": [
       {
+        "titulo": "Quibdó, Cali, Pereira y Manizales: las cuatro ciudades donde se concentra el golpe del terremoto en Colombia",
+        "url": "https://www.france24.com/es/am%C3%A9rica-latina/20260810-terremoto-colombia-quibd%C3%B3-cali-pereira-y-manizales-las-cuatro-ciudades-donde-se-concentra-el-golpe",
+        "imagen": "https://s.france24.com/media/display/e4e21f24-94db-11f1-a9c2-005056bf30b7/w:1024/p:16x9/2026-08-10T163303Z-2056752472-RC2RVMAPC1BN-RTRMADP-3-COLOMBIA-QUAKE.jpg",
+        "fecha": "2026-08-10T22:30:20.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Los participantes chillan como cerdos en el campeonato de un pueblo francés",
+        "url": "http://es.euronews.com/video/2026/08/11/los-participantes-chillan-como-cerdos-en-el-campeonato-de-un-pueblo-frances",
+        "imagen": "",
+        "fecha": "2026-08-10T22:21:00.000Z",
+        "fuenteId": "euronews-espanol",
+        "fuenteTitle": "Euronews Español",
+        "categorias": [
+          "internacional"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Trump convierte el pacto de libre comercio en una presión continuada sobre México",
+        "url": "https://www.abc.es/internacional/trump-convierte-tmec-presion-continuada-sobre-mexico-20260810000011-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/08/10/1515651784-RgsPFdwRCnabpSL6uOLa2mK-1200x840@diario_abc.jpg",
+        "fecha": "2026-08-10T22:00:11.000Z",
+        "fuenteId": "abc-internacional",
+        "fuenteTitle": "ABC - Internacional",
+        "categorias": [
+          "internacional",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Radiografía de una deuda: ¿por qué América Latina recurre al FMI?",
         "url": "https://www.france24.com/es/programas/aqu%C3%AD-am%C3%A9rica/20260810-radiograf%C3%ADa-de-una-deuda-por-qu%C3%A9-am%C3%A9rica-latina-recurre-al-fmi",
         "imagen": "https://s.france24.com/media/display/b5864fb6-5680-11ea-84ed-005056bfd1d9/w:1024/p:16x9/WEB%20Dinero%20Dolares.jpg",
@@ -2550,48 +2588,69 @@
           "politica"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "El juez que venció a Viktor Orbán será presidente de Hungría",
-        "url": "https://www.dw.com/es/el-juez-que-venció-a-viktor-orbán-será-presidente-de-hungría/a-78312343?maca=spa-rss-sp-all-1122-xml-mrss",
-        "imagen": "",
-        "fecha": "2026-08-10T18:58:00.000Z",
-        "fuenteId": "dw-espanol",
-        "fuenteTitle": "DW Español",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "¿Está la infraestructura de Colombia preparada para una gran emergencia sísmica?",
-        "url": "https://www.france24.com/es/am%C3%A9rica-latina/20260810-est%C3%A1-la-infraestructura-de-colombia-preparada-para-una-gran-emergencia-s%C3%ADsmica",
-        "imagen": "https://s.france24.com/media/display/c9acdbe6-94da-11f1-a091-005056a90284/w:1024/p:16x9/2026-08-10T160924Z-2080762335-RC2RVMAI8KFL-RTRMADP-3-COLOMBIA-QUAKE.jpg",
-        "fecha": "2026-08-10T18:44:50.000Z",
-        "fuenteId": "france24-espanol",
-        "fuenteTitle": "France 24 Español",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Flover Rodríguez Portillo: \"Los sismos no se pueden predecir, pero el riesgo sí se puede gestionar\"",
-        "url": "https://www.france24.com/es/video/20260810-flover-rodr%C3%ADguez-portillo-los-sismos-no-se-pueden-predecir-pero-el-riesgo-s%C3%AD-se-puede-gestionar",
-        "imagen": "https://s.france24.com/media/display/8ea4c42a-94e7-11f1-9df2-005056bf30b7/w:1024/p:16x9/ES-20260810-121856-122520-CS.jpg",
-        "fecha": "2026-08-10T18:43:18.000Z",
-        "fuenteId": "france24-espanol",
-        "fuenteTitle": "France 24 Español",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
       }
     ],
     "local": [
+      {
+        "titulo": "Detienen a un hombre por presuntamente matar a su mujer en Marbella",
+        "url": "https://www.elperiodicoextremadura.com/sucesos/2026/08/11/detienen-hombre-presuntamente-matar-mujer-marbella-133250989.html",
+        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/2d1dff6f-1e0d-49fc-9027-9d40cc91c41e_16-9-aspect-ratio_default_0_x681y296.jpg",
+        "fecha": "2026-08-10T22:18:05.000Z",
+        "fuenteId": "el-periodico-extremadura",
+        "fuenteTitle": "El Periódico Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Estabilizado el incendio forestal de Tírig (Castellón), que ha quemado 810 hectáreas",
+        "url": "https://www.elperiodicoextremadura.com/videos/sociedad/2026/08/11/estabilizado-incendio-forestal-tirig-castellon-133250870.html",
+        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/6efe17e4-f037-4e3f-831b-d37ef81265b8_16-9-aspect-ratio_default_0_x600y225.jpg",
+        "fecha": "2026-08-10T22:10:15.000Z",
+        "fuenteId": "el-periodico-extremadura",
+        "fuenteTitle": "El Periódico Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El incendio de Niebla en Huelva supera ya las 20.000 hectáreas de perímetro y es imposible de extinguir",
+        "url": "https://www.elperiodicoextremadura.com/videos/sociedad/2026/08/11/incendio-niebla-huelva-supera-20-133250815.html",
+        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/40615e1d-627a-4b9e-9f82-4234db0b69e1_16-9-aspect-ratio_default_0_x1000y444.jpg",
+        "fecha": "2026-08-10T22:05:43.000Z",
+        "fuenteId": "el-periodico-extremadura",
+        "fuenteTitle": "El Periódico Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Criminalística de la Guardia Civil recoge pruebas en la vivienda del crimen de Zaragoza",
+        "url": "https://www.elperiodicoextremadura.com/videos/sucesos/2026/08/11/criminalistica-guardia-civil-recoge-pruebas-133250753.html",
+        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/8c71f911-cd50-49a1-b362-632172755076_16-9-aspect-ratio_default_0_x800y355.jpg",
+        "fecha": "2026-08-10T22:00:56.000Z",
+        "fuenteId": "el-periodico-extremadura",
+        "fuenteTitle": "El Periódico Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Los perros pueden distinguir entre el miedo, la ira y la tristeza en los rostros humanos",
+        "url": "https://www.elperiodicoextremadura.com/sociedad/2026/08/10/perros-distinguir-miedo-ira-tristeza-rostros-humanos-133250694.html",
+        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/1a642543-2003-402c-871e-6376708e69ab_16-9-aspect-ratio_default_0_x350y204.jpg",
+        "fecha": "2026-08-10T21:59:35.000Z",
+        "fuenteId": "el-periodico-extremadura",
+        "fuenteTitle": "El Periódico Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Ingebrigtsen se encumbra aún más y España acaba quinta en el 4x400 mixto",
         "url": "https://www.elperiodicoextremadura.com/deportes/2026/08/10/ingebrigtsen-encumbra-espana-acaba-quinta-133250585.html",
@@ -2765,66 +2824,6 @@
         "url": "https://www.elperiodicoextremadura.com/espana/2026/08/10/psoe-recuerda-meloni-inmigracion-irregular-133248420.html",
         "imagen": "https://estaticos-cdn.prensaiberica.es/clip/74560ebe-7477-42ad-8c83-4c2088708417_16-9-aspect-ratio_default_0_x1000y444.jpg",
         "fecha": "2026-08-10T19:10:55.000Z",
-        "fuenteId": "el-periodico-extremadura",
-        "fuenteTitle": "El Periódico Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Turquía ha cerrado un pacto de defensa colectiva con Riad e Islamabad: ¿tiene la OTAN que salir al rescate de Ankara si es atacada por defenderlos?",
-        "url": "https://www.elperiodicoextremadura.com/internacional/2026/08/10/acuerdo-defensa-colectiva-turquia-pakistan-arabia-saudi-implicaciones-otan-133248279.html",
-        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/d12fbaf4-dec8-4033-89d8-491b641e16a5_16-9-aspect-ratio_default_0_x1000y427.jpg",
-        "fecha": "2026-08-10T19:02:34.000Z",
-        "fuenteId": "el-periodico-extremadura",
-        "fuenteTitle": "El Periódico Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Araujo ya viste de rojo con el Liverpool tras dejar el Barça",
-        "url": "https://www.elperiodicoextremadura.com/deportes/2026/08/10/araujo-viste-rojo-liverpool-barca-133248222.html",
-        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/63a97137-b7f5-4c6b-980b-6411de776fa3_16-9-aspect-ratio_default_0_x461y173.jpg",
-        "fecha": "2026-08-10T19:01:22.000Z",
-        "fuenteId": "el-periodico-extremadura",
-        "fuenteTitle": "El Periódico Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La hamburguesería Origen adelanta su cierre definitivo en Badajoz",
-        "url": "https://www.elperiodicoextremadura.com/badajoz/2026/08/10/hamburgueseria-origen-adelanta-cierre-definitivo-133246317.html",
-        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/8b4462e5-124a-4bc1-b428-19bca5f79765_16-9-aspect-ratio_default_0_x540y201.jpg",
-        "fecha": "2026-08-10T19:00:31.000Z",
-        "fuenteId": "el-periodico-extremadura",
-        "fuenteTitle": "El Periódico Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Terremoto en Colombia, en directo | El Gobierno colombiano declara el \"desastre nacional\" por el seísmo que deja más de 110 muertos",
-        "url": "https://www.elperiodicoextremadura.com/internacional/2026/08/10/terremoto-colombia-directo-epicentro-afectacion-muertos-ultima-hora-133247573.html",
-        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/593c8bcf-f3cd-4f57-a2a4-05c93765ea65_16-9-aspect-ratio_default_0_x1000y444.jpg",
-        "fecha": "2026-08-10T18:32:43.000Z",
-        "fuenteId": "el-periodico-extremadura",
-        "fuenteTitle": "El Periódico Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El Mérida espera cambiar su dinámica de malos resultados esta semana",
-        "url": "https://www.elperiodicoextremadura.com/deportes/2026/08/10/merida-espera-cambiar-dinamica-malos-romano-133247220.html",
-        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/05d80bfa-72a3-41d5-b43c-879fab94c4e8_16-9-aspect-ratio_default_0_x1024y455.jpg",
-        "fecha": "2026-08-10T18:21:37.000Z",
         "fuenteId": "el-periodico-extremadura",
         "fuenteTitle": "El Periódico Extremadura",
         "categorias": [
@@ -3348,6 +3347,45 @@
     ],
     "politica": [
       {
+        "titulo": "Quibdó, Cali, Pereira y Manizales: las cuatro ciudades donde se concentra el golpe del terremoto en Colombia",
+        "url": "https://www.france24.com/es/am%C3%A9rica-latina/20260810-terremoto-colombia-quibd%C3%B3-cali-pereira-y-manizales-las-cuatro-ciudades-donde-se-concentra-el-golpe",
+        "imagen": "https://s.france24.com/media/display/e4e21f24-94db-11f1-a9c2-005056bf30b7/w:1024/p:16x9/2026-08-10T163303Z-2056752472-RC2RVMAPC1BN-RTRMADP-3-COLOMBIA-QUAKE.jpg",
+        "fecha": "2026-08-10T22:30:20.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Detenido un hombre de 59 años tras matar a su mujer en un nuevo episodio de violencia de género",
+        "url": "https://www.elconfidencial.com/espana/andalucia/2026-08-11/detenido-hombre-59-anos-matar-mujer-violencia-genero_4404147/",
+        "imagen": "https://images.ecestaticos.com/nvrYByPhX7Uba9Xq0xhjuzcueow=/0x0:1920x1280/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F830%2F0ef%2F30f%2F8300ef30fc44560b693ab0a49c2c7465.jpg",
+        "fecha": "2026-08-10T22:00:00.000Z",
+        "fuenteId": "el-confidencial-espana",
+        "fuenteTitle": "El Confidencial - España",
+        "categorias": [
+          "politica",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El PP usará el Senado para retratar al PSOE ante el abuso de poder en Nicaragua",
+        "url": "https://www.abc.es/espana/pp-usara-senado-retratar-psoe-ante-abuso-20260809235920-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/09/nicaragua-afp-RdUqvbMVSJbjpgVxLxXu3eK-1200x840@diario_abc.jpg",
+        "fecha": "2026-08-10T21:59:43.000Z",
+        "fuenteId": "abc-espana",
+        "fuenteTitle": "ABC - España",
+        "categorias": [
+          "politica",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "La UE, Meta y TikTok abren un canal para frenar la desinformación sobre Ceuta",
         "url": "https://theobjective.com/espana/2026-08-10/ue-meta-tiktok-canal-desinformacion-ceuta/",
         "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/08/torres-ceuta-cifras-469x317.jpg",
@@ -3565,45 +3603,6 @@
         "categorias": [
           "internacional",
           "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El incendio de Niebla (Huelva) ha afectado ya a 20.000 hectáreas y sigue fuera de control: \"El monte artificial ha convertido esta comarca en un polvorín\"",
-        "url": "https://www.elmundo.es/andalucia/2026/08/10/6a79fd42fc6c837f198b4586.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/10/17863801990697.jpg",
-        "fecha": "2026-08-10T19:39:47.000Z",
-        "fuenteId": "el-mundo-espana",
-        "fuenteTitle": "El Mundo - España",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Castilla y León activa el plan de protección civil ante la movilidad, riesgo de incendios y aglomeraciones de cara al eclipse",
-        "url": "https://www.abc.es/espana/castilla-leon/castilla-leon-activa-plan-proteccion-civil-ante-20260810213307-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/10/emergencias_20260810173241-RZjwzBsEnSdhyT5rcL97LRP-1200x840@diario_abc.jpg",
-        "fecha": "2026-08-10T19:33:07.000Z",
-        "fuenteId": "abc-espana",
-        "fuenteTitle": "ABC - España",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Vox usa la crisis en Ceuta para relanzar sus postulados sobre la prioridad nacional",
-        "url": "https://www.eldiario.es/politica/vox-crisis-ceuta-relanzar-postulados-prioridad-nacional_1_13433338.html",
-        "imagen": "https://static.eldiario.es/clip/ecf1f8d1-4e7b-4923-8f9e-9369ccf9a37f_16-9-discover-aspect-ratio_default_0.jpg",
-        "fecha": "2026-08-10T19:25:50.000Z",
-        "fuenteId": "eldiario-politica",
-        "fuenteTitle": "elDiario.es - Política",
-        "categorias": [
-          "politica",
-          "actualidad"
         ],
         "idioma": "es"
       }
@@ -4142,6 +4141,45 @@
     ],
     "tecnologia": [
       {
+        "titulo": "Top 10 juegos mejor valorados por los usuarios en lo que llevamos de 2026: varios títulos de Nintendo se cuelan en la lista",
+        "url": "https://www.nintenderos.com/nintendo-switch-2/top-10-juegos-mejor-valorados-por-los-usuarios-en-lo-que-llevamos-de-2026-varios-titulos-de-nintendo-se-cuelan-en-la-lista/",
+        "imagen": "https://pbs.twimg.com/media/HPXwyY4WkAA6HaJ?format=jpg&name=4096x4096",
+        "fecha": "2026-08-10T22:29:30.000Z",
+        "fuenteId": "nintenderos",
+        "fuenteTitle": "Nintenderos",
+        "categorias": [
+          "tecnologia",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Rumor: Samara Weaving será la diosa Hylia en la película de Zelda",
+        "url": "https://www.nintenderos.com/2026/08/rumor-samara-weaving-sera-la-diosa-hylia-en-la-pelicula-de-zelda/",
+        "imagen": "",
+        "fecha": "2026-08-10T22:23:59.000Z",
+        "fuenteId": "nintenderos",
+        "fuenteTitle": "Nintenderos",
+        "categorias": [
+          "tecnologia",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "ASML construyó uno de los monopolios más valiosos del mundo. China le ha recordado que nada dura para siempre",
+        "url": "https://www.xataka.com/empresas-y-economia/asml-construyo-uno-monopolios-valiosos-mundo-china-le-ha-recordado-que-nada-dura-para-siempre",
+        "imagen": "https://i.blogs.es/1803fc/asml/1024_2000.jpeg",
+        "fecha": "2026-08-10T21:55:57.000Z",
+        "fuenteId": "xataka",
+        "fuenteTitle": "Xataka",
+        "categorias": [
+          "tecnologia",
+          "ciencia"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "La nueva IA de ChatGPT ya encuentra fallos de seguridad antes que los hackers",
         "url": "https://hipertextual.com/inteligencia-artificial/openai-gpt-5-6-cyber-daybreak-blue-red/",
         "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/gpt-5-5-hacker.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
@@ -4191,6 +4229,18 @@
           "actualidad",
           "tecnologia",
           "ciencia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Urgente: Consumo retira estos seis modelos de gafas para ver el eclipse, podrían provocar daños oculares",
+        "url": "https://computerhoy.20minutos.es/ciencia/urgente-consumo-retira-estos-seis-modelos-gafas-para-ver-eclipse-podrian-provocar-danos-oculares_7024413_0.html",
+        "imagen": "https://imagenes.computerhoy.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/08/10/6a7a31d5e82104-64417993.jpeg",
+        "fecha": "2026-08-10T21:16:02.000Z",
+        "fuenteId": "computer-hoy",
+        "fuenteTitle": "Computer Hoy",
+        "categorias": [
+          "tecnologia"
         ],
         "idioma": "es"
       },
@@ -4346,56 +4396,6 @@
         "fecha": "2026-08-10T20:25:00.000Z",
         "fuenteId": "hobby-consolas",
         "fuenteTitle": "Hobby Consolas",
-        "categorias": [
-          "tecnologia",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Un año y una operación de Aquiles después, Jakob Ingebrigtsen sigue siendo asombroso: cuarto oro europeo seguido en el 5.000",
-        "url": "https://www.elmundo.es/deportes/mas-deporte/2026/08/10/6a7a0e1de85ecee3648b457a.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/10/17863928413169.jpg",
-        "fecha": "2026-08-10T20:20:33.000Z",
-        "fuenteId": "el-mundo",
-        "fuenteTitle": "El Mundo",
-        "categorias": [
-          "actualidad",
-          "tecnologia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Este modder echó agua directamente sobre una RTX 2060 y consiguió algo increíble",
-        "url": "https://computerhoy.20minutos.es/tendencias/este-modder-echo-agua-directamente-sobre-una-rtx-2060-consiguio-algo-increible_7024331_0.html",
-        "imagen": "https://imagenes.computerhoy.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/08/10/6a7a31a47aa692-84829791.jpeg",
-        "fecha": "2026-08-10T20:17:26.000Z",
-        "fuenteId": "computer-hoy",
-        "fuenteTitle": "Computer Hoy",
-        "categorias": [
-          "tecnologia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Juan José Ebenezer, mecánico: \"Hay un truco para el aire acondicionado del coche que va a hacer que ahorres dinero y respires aire mucho más limpio\"",
-        "url": "https://computerhoy.20minutos.es/movilidad/juan-jose-ebenezer-mecanico-hay-un-truco-para-aire-acondicionado-coche-que-va-hacer-que-ahorres-dinero-respires-aire-mucho-mas-limpio_7024237_0.html",
-        "imagen": "https://imagenes.computerhoy.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/08/10/6a7a2b7bf34301-01402510.jpeg",
-        "fecha": "2026-08-10T20:17:25.000Z",
-        "fuenteId": "computer-hoy",
-        "fuenteTitle": "Computer Hoy",
-        "categorias": [
-          "tecnologia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El insólito secreto de Star Wars: cómo dos perros en monopatín inspiraron el movimiento de las vainas de La Amenaza Fantasma",
-        "url": "https://www.vidaextra.com/conduccion/insolito-secreto-star-wars-como-dos-perros-monopatin-inspiraron-movimiento-vainas-amenaza-fantasma",
-        "imagen": "https://i.blogs.es/efb7ed/wp6368873-1-/1024_2000.jpeg",
-        "fecha": "2026-08-10T20:01:15.000Z",
-        "fuenteId": "vidaextra",
-        "fuenteTitle": "Vida Extra",
         "categorias": [
           "tecnologia",
           "entretenimiento"
