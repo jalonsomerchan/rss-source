@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-12T02:51:29.925Z",
+  "generado": "2026-08-12T03:01:48.668Z",
   "limitePorCategoria": 20,
   "categorias": {
     "actualidad": [
@@ -13,6 +13,19 @@
         "categorias": [
           "actualidad",
           "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "\"Cada vez que anuncian a una persona con vida, me nace la esperanza de encontrar a mi hermano\": la desesperada búsqueda de sobrevivientes del sismo en Cali",
+        "url": "https://www.bbc.com/mundo/articles/c75gk07kr79o?at_medium=RSS&at_campaign=rss",
+        "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7401/live/f589e430-95b5-11f1-b2ab-0dd01740f9f6.png",
+        "fecha": "2026-08-12T01:56:32.000Z",
+        "fuenteId": "bbc-mundo",
+        "fuenteTitle": "BBC News Mundo",
+        "categorias": [
+          "internacional",
+          "actualidad"
         ],
         "idioma": "es"
       },
@@ -236,35 +249,9 @@
           "actualidad"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "Miles de desplazamientos y expectación para ver el fenómeno del siglo",
-        "url": "https://www.abc.es/ciencia/espana-eclipsada-20260811013030-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/08/11/9227351-RZWKdctqyH3fSGa8OruQapK-1200x840@diario_abc.jpg",
-        "fecha": "2026-08-11T23:30:30.000Z",
-        "fuenteId": "abc",
-        "fuenteTitle": "ABC",
-        "categorias": [
-          "actualidad"
-        ],
-        "idioma": "es"
       }
     ],
     "ciencia": [
-      {
-        "titulo": "\"Cada vez que anuncian a una persona con vida, me nace la esperanza de encontrar a mi hermano\": la desesperada búsqueda de sobrevivientes del terremoto en Cali",
-        "url": "https://www.bbc.com/mundo/articles/c75gk07kr79o?at_medium=RSS&at_campaign=rss",
-        "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7401/live/f589e430-95b5-11f1-b2ab-0dd01740f9f6.png",
-        "fecha": "2026-08-12T01:56:32.000Z",
-        "fuenteId": "bbc-mundo-ciencia-tecnologia",
-        "fuenteTitle": "BBC News Mundo - Ciencia y tecnología",
-        "categorias": [
-          "ciencia",
-          "tecnologia",
-          "internacional"
-        ],
-        "idioma": "es"
-      },
       {
         "titulo": "Estrella de ‘Superman’ se une a la serie de ‘Harry Potter’ para interpretar a un profesor inolvidable",
         "url": "https://hipertextual.com/cine-television/nicholas-hoult-gilderoy-lockhart-harry-potter-temporada-2/",
@@ -524,6 +511,19 @@
           "tecnologia",
           "ciencia",
           "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "\"La mejor hasta ahora\": mañana en Prime Video, la temporada 4 de este thriller que se ha convertido en uno de sus grandes éxitos",
+        "url": "https://www.xataka.com/streaming/mejor-ahora-manana-prime-video-temporada-4-este-thriller-que-se-ha-convertido-uno-sus-grandes-exitos",
+        "imagen": "https://i.blogs.es/8d11ea/alan-ritchson-reacher-season-4-1420x798/1024_2000.jpeg",
+        "fecha": "2026-08-11T18:01:15.000Z",
+        "fuenteId": "xataka",
+        "fuenteTitle": "Xataka",
+        "categorias": [
+          "tecnologia",
+          "ciencia"
         ],
         "idioma": "es"
       }
@@ -1291,6 +1291,66 @@
     ],
     "economia": [
       {
+        "titulo": "El oro sube cerca de los 4.400 dólares por la incertidumbre en Ormuz y el IPC",
+        "url": "https://es.investing.com/news/commodities-news/el-oro-sube-cerca-de-los-4400-dolares-por-la-incertidumbre-en-ormuz-y-el-ipc-3791738",
+        "imagen": "https://content-media.investing.com/news/Gold_800x533_L_1758714200.jpg",
+        "fecha": "2026-08-12T02:22:45.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Savers Value Village fija el precio de una oferta secundaria de 20 millones de acciones",
+        "url": "https://es.investing.com/news/company-news/savers-value-village-fija-el-precio-de-una-oferta-secundaria-de-20-millones-de-acciones-93CH-3791733",
+        "imagen": "https://content-media.investing.com/news/LYNXMPEM350U8_1200_L.jpg",
+        "fecha": "2026-08-12T02:17:34.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El co-presidente de Schwab, Charles R. Schwab, vende 5 millones en acciones SCHW",
+        "url": "https://es.investing.com/news/insider-trading-news/el-copresidente-de-schwab-charles-r-schwab-vende-5-millones-en-acciones-schw-93CH-3791732",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3S10Z_1200_L.jpg",
+        "fecha": "2026-08-12T02:17:16.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El director de Capstone Holding, Strout, compra 166.000 dólares en acciones",
+        "url": "https://es.investing.com/news/insider-trading-news/el-director-de-capstone-holding-strout-compra-166000-dolares-en-acciones-93CH-3791731",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM450ND_1200_L.jpg",
+        "fecha": "2026-08-12T02:17:11.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "David Capobianco vende acciones de LandBridge (LB) por 93,8 millones de dólares",
+        "url": "https://es.investing.com/news/insider-trading-news/david-capobianco-vende-acciones-de-landbridge-lb-por-938-millones-de-dolares-93CH-3791730",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM4416N_1200_L.jpg",
+        "fecha": "2026-08-12T02:02:07.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "El director ejecutivo de Airbnb vende acciones por 3,47 millones de dólares",
         "url": "https://es.investing.com/news/insider-trading-news/el-director-ejecutivo-de-airbnb-vende-acciones-por-347-millones-de-dolares-93CH-3791728",
         "imagen": "https://content-media.investing.com/news/LYNXMPEB310IW_M.jpg",
@@ -1463,66 +1523,6 @@
         "url": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-suncorp-se-disparan-hoy-93CH-3791708",
         "imagen": "https://content-media.investing.com/news/LYNXNPEC180BO_M.jpg",
         "fecha": "2026-08-12T01:03:33.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "ARK de Cathie Wood vende acciones de Deere y compra Rocket Lab",
-        "url": "https://es.investing.com/news/company-news/ark-de-cathie-wood-vende-acciones-de-deere-y-compra-rocket-lab-93CH-3791706",
-        "imagen": "https://content-media.investing.com/news/LYNXMPEM3F1FY_1200_L.jpg",
-        "fecha": "2026-08-12T01:01:34.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La directora ejecutiva de Femasys compra 50.000 dólares en acciones FEMY",
-        "url": "https://es.investing.com/news/insider-trading-news/la-directora-ejecutiva-de-femasys-compra-50000-dolares-en-acciones-femy-93CH-3791704",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3S10Z_1200_L.jpg",
-        "fecha": "2026-08-12T00:51:55.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El director ejecutivo de Ameresco compra acciones por 180.920 dólares",
-        "url": "https://es.investing.com/news/insider-trading-news/el-director-ejecutivo-de-ameresco-george-sakellaris-compra-acciones-por-180920-dolares-93CH-3791702",
-        "imagen": "",
-        "fecha": "2026-08-12T00:51:41.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "¿Por qué cae hoy la acción de Rakuten?",
-        "url": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-rakuten-93CH-3791700",
-        "imagen": "",
-        "fecha": "2026-08-12T00:50:45.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Solicitud del fármaco de Laekna contra el cáncer de mama aceptada en China",
-        "url": "https://es.investing.com/news/company-news/solicitud-del-farmaco-de-laekna-contra-el-cancer-de-mama-aceptada-en-china-93CH-3791699",
-        "imagen": "https://content-media.investing.com/news/LYNXMPEM5713J_1200_L.jpg",
-        "fecha": "2026-08-12T00:49:31.000Z",
         "fuenteId": "investing-es-noticias",
         "fuenteTitle": "Investing.com España - Noticias",
         "categorias": [
@@ -2309,16 +2309,67 @@
     ],
     "internacional": [
       {
-        "titulo": "\"Cada vez que anuncian a una persona con vida, me nace la esperanza de encontrar a mi hermano\": la desesperada búsqueda de sobrevivientes del terremoto en Cali",
+        "titulo": "Colombia: Refugios improvisados reciben a damnificados por el terremoto",
+        "url": "https://www.france24.com/es/video/20260812-colombia-refugios-improvisados-reciben-a-damnificados-por-el-terremoto",
+        "imagen": "https://s.france24.com/media/display/460c92e4-95f3-11f1-81ec-005056bfb2b6/w:1024/p:16x9/Refugios-improvisados-reciben-a-damnificados-por-el-terremoto.png",
+        "fecha": "2026-08-12T02:20:29.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Informe desde Cali: motivos del regreso al toque de queda tras el terremoto",
+        "url": "https://www.france24.com/es/video/20260812-informe-desde-cali-motivos-del-regreso-al-toque-de-queda-tras-el-terremoto",
+        "imagen": "https://s.france24.com/media/display/634aeff2-95eb-11f1-80b5-005056bf30b7/w:1024/p:16x9/ES-20260811-192328-192609-CS.jpg",
+        "fecha": "2026-08-12T02:11:03.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "\"Cada vez que anuncian a una persona con vida, me nace la esperanza de encontrar a mi hermano\": la desesperada búsqueda de sobrevivientes del sismo en Cali",
         "url": "https://www.bbc.com/mundo/articles/c75gk07kr79o?at_medium=RSS&at_campaign=rss",
         "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7401/live/f589e430-95b5-11f1-b2ab-0dd01740f9f6.png",
         "fecha": "2026-08-12T01:56:32.000Z",
-        "fuenteId": "bbc-mundo-ciencia-tecnologia",
-        "fuenteTitle": "BBC News Mundo - Ciencia y tecnología",
+        "fuenteId": "bbc-mundo",
+        "fuenteTitle": "BBC News Mundo",
         "categorias": [
-          "ciencia",
-          "tecnologia",
-          "internacional"
+          "internacional",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Luis Marulanda: \"Los esfuerzos se deben enfocar en encontrar hasta la última persona viva\"",
+        "url": "https://www.france24.com/es/video/20260812-luis-marulanda-los-esfuerzos-se-deben-enfocar-en-encontrar-hasta-la-%C3%BAltima-persona-viva",
+        "imagen": "https://s.france24.com/media/display/f15802be-95ee-11f1-bd6b-005056bfb2b6/w:1024/p:16x9/ES-20260811-193008-193225-CS.jpg",
+        "fecha": "2026-08-12T01:54:30.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Informe desde Pereira: llegan brigadas desde otras ciudades para unirse a los rescates",
+        "url": "https://www.france24.com/es/video/20260812-informe-desde-pereira-llegan-brigadas-desde-otras-ciudades-para-unirse-a-los-rescates",
+        "imagen": "https://s.france24.com/media/display/f97dba74-95e9-11f1-8577-005056a97e36/w:1024/p:16x9/ES-20260811-191328-191826-CS.jpg",
+        "fecha": "2026-08-12T01:53:16.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
         ],
         "idioma": "es"
       },
@@ -2514,58 +2565,6 @@
         "categorias": [
           "internacional",
           "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Bashar al Assad, el dictador sirio exiliado en Rusia que podría convertirse en moneda de cambio",
-        "url": "https://www.abc.es/internacional/bashar-assad-dictador-sirio-exiliado-rusia-convertir-20260811012638-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/08/11/assad_20260811183523-R0mzDN3az43sNoJaOWFwEXM-1200x840@diario_abc.jpg",
-        "fecha": "2026-08-11T23:26:39.000Z",
-        "fuenteId": "abc-internacional",
-        "fuenteTitle": "ABC - Internacional",
-        "categorias": [
-          "internacional",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Venezuela e Israel acuerdan restablecer servicios consulares tras una ruptura diplomática de 17 años",
-        "url": "https://www.bbc.com/mundo/articles/c1d19v6363ro?at_medium=RSS&at_campaign=rss",
-        "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/67aa/live/91ac9fc0-95d8-11f1-8814-eb4e5c9628a6.jpg",
-        "fecha": "2026-08-11T23:23:01.000Z",
-        "fuenteId": "bbc-mundo",
-        "fuenteTitle": "BBC News Mundo",
-        "categorias": [
-          "internacional",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Venezuela e Israel firman la paz después de diecisiete años de maldiciones: el terremoto logró lo que la diplomacia no pudo",
-        "url": "https://www.abc.es/internacional/venezuela-israel-firman-paz-despues-diecisiete-anos-20260812010604-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/08/12/israel-venezuela.jpg",
-        "fecha": "2026-08-11T23:06:05.000Z",
-        "fuenteId": "abc-internacional",
-        "fuenteTitle": "ABC - Internacional",
-        "categorias": [
-          "internacional",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Trump retira fondos federales para procedimientos de transición de género en menores",
-        "url": "https://www.elmundo.es/internacional/2026/08/12/6a7ba48de9cf4a554e8b458a.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/12/17864878795136.jpg",
-        "fecha": "2026-08-11T22:43:06.000Z",
-        "fuenteId": "el-mundo-internacional",
-        "fuenteTitle": "El Mundo - Internacional",
-        "categorias": [
-          "internacional",
-          "politica"
         ],
         "idioma": "es"
       }
@@ -3073,6 +3072,18 @@
     ],
     "moda": [
       {
+        "titulo": "Horóscopo diario de hoy, miércoles 12 de agosto de 2026: predicción para todos los signos del Zodíaco",
+        "url": "https://www.marie-claire.es/horoscopo/horoscopo-diario-12-agosto-2026.html",
+        "imagen": "",
+        "fecha": "2026-08-12T02:00:00.000Z",
+        "fuenteId": "marie-claire-espana",
+        "fuenteTitle": "Marie Claire España",
+        "categorias": [
+          "moda"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Horóscopo de hoy, miércoles 12 de agosto, descubre tu predicción diaria gratis",
         "url": "https://www.hola.com/horoscopo/20260811916128/horoscopo-de-hoy-miercoles-12-de-agosto/",
         "imagen": "https://www.hola.com/horizon/landscape/de961dfd6adf-miercohzt.png",
@@ -3310,22 +3321,22 @@
           "moda"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "La infanta Elena acapara todas las miradas en Alemania con un inesperado guiño a su juventud en su cita con Amalia de Holanda y Mary de Dinamarca",
-        "url": "https://www.hola.com/realeza/casa_espanola/20260811917544/infanta-elena-alemania-acapara-miradas-reina-mary-amalia-holanda/",
-        "imagen": "https://www.hola.com/horizon/landscape/fcc98ddca88f-gettyimages-2290045227.jpg",
-        "fecha": "2026-08-11T17:52:11.000Z",
-        "fuenteId": "hola",
-        "fuenteTitle": "¡Hola!",
-        "categorias": [
-          "corazon",
-          "moda"
-        ],
-        "idioma": "es"
       }
     ],
     "politica": [
+      {
+        "titulo": "Colombia: Refugios improvisados reciben a damnificados por el terremoto",
+        "url": "https://www.france24.com/es/video/20260812-colombia-refugios-improvisados-reciben-a-damnificados-por-el-terremoto",
+        "imagen": "https://s.france24.com/media/display/460c92e4-95f3-11f1-81ec-005056bfb2b6/w:1024/p:16x9/Refugios-improvisados-reciben-a-damnificados-por-el-terremoto.png",
+        "fecha": "2026-08-12T02:20:29.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Las mejores neveras portátiles para playa o camping ¡tus bebidas siempre frías!",
         "url": "https://theobjective.com/productos-recomendados/2026-08-12/mejores-neveras-portatiles-para-camping/",
@@ -3335,6 +3346,45 @@
         "fuenteTitle": "The Objective",
         "categorias": [
           "actualidad",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Informe desde Cali: motivos del regreso al toque de queda tras el terremoto",
+        "url": "https://www.france24.com/es/video/20260812-informe-desde-cali-motivos-del-regreso-al-toque-de-queda-tras-el-terremoto",
+        "imagen": "https://s.france24.com/media/display/634aeff2-95eb-11f1-80b5-005056bf30b7/w:1024/p:16x9/ES-20260811-192328-192609-CS.jpg",
+        "fecha": "2026-08-12T02:11:03.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Luis Marulanda: \"Los esfuerzos se deben enfocar en encontrar hasta la última persona viva\"",
+        "url": "https://www.france24.com/es/video/20260812-luis-marulanda-los-esfuerzos-se-deben-enfocar-en-encontrar-hasta-la-%C3%BAltima-persona-viva",
+        "imagen": "https://s.france24.com/media/display/f15802be-95ee-11f1-bd6b-005056bfb2b6/w:1024/p:16x9/ES-20260811-193008-193225-CS.jpg",
+        "fecha": "2026-08-12T01:54:30.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Informe desde Pereira: llegan brigadas desde otras ciudades para unirse a los rescates",
+        "url": "https://www.france24.com/es/video/20260812-informe-desde-pereira-llegan-brigadas-desde-otras-ciudades-para-unirse-a-los-rescates",
+        "imagen": "https://s.france24.com/media/display/f97dba74-95e9-11f1-8577-005056a97e36/w:1024/p:16x9/ES-20260811-191328-191826-CS.jpg",
+        "fecha": "2026-08-12T01:53:16.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
           "politica"
         ],
         "idioma": "es"
@@ -3531,58 +3581,6 @@
         "categorias": [
           "politica",
           "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Nuevas detenciones por agresiones a seguidores de la selección pese a las presiones del Gobierno vasco a Interior",
-        "url": "https://www.abc.es/espana/pais-vasco/policia-detiene-dos-nuevos-agresores-seguidores-seleccion-20260811012156-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/11/Captura-REgdtEH9A42xBgLfaBZlIVI-1200x840@diario_abc.jpg",
-        "fecha": "2026-08-11T23:21:56.000Z",
-        "fuenteId": "abc-espana",
-        "fuenteTitle": "ABC - España",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Trump retira fondos federales para procedimientos de transición de género en menores",
-        "url": "https://www.elmundo.es/internacional/2026/08/12/6a7ba48de9cf4a554e8b458a.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/12/17864878795136.jpg",
-        "fecha": "2026-08-11T22:43:06.000Z",
-        "fuenteId": "el-mundo-internacional",
-        "fuenteTitle": "El Mundo - Internacional",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Siria condena el reconocimiento de Colombia de la soberanía israelí sobre los Altos de Golán",
-        "url": "https://www.france24.com/es/medio-oriente/20260811-siria-condena-el-reconocimiento-de-colombia-de-la-soberan%C3%ADa-israel%C3%AD-sobre-los-altos-de-gol%C3%A1n",
-        "imagen": "https://s.france24.com/media/display/95fe9114-957e-11f1-b5bc-005056bf30b7/w:1024/p:16x9/5d5a4eb9c61dcec64eee3eab08cec8c14d5267b2.jpg",
-        "fecha": "2026-08-11T22:19:24.000Z",
-        "fuenteId": "france24-espanol",
-        "fuenteTitle": "France 24 Español",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Aagesen pide «prudencia» a quienes se desplacen al monte por el eclipse solar",
-        "url": "https://theobjective.com/sociedad/2026-08-11/aagesen-prudencia-monte-eclipse-solar-incendios/",
-        "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/08/sanz-incendio-huelva-469x317.jpg",
-        "fecha": "2026-08-11T21:29:01.000Z",
-        "fuenteId": "the-objective",
-        "fuenteTitle": "The Objective",
-        "categorias": [
-          "actualidad",
-          "politica"
         ],
         "idioma": "es"
       }
@@ -4115,20 +4113,6 @@
     ],
     "tecnologia": [
       {
-        "titulo": "\"Cada vez que anuncian a una persona con vida, me nace la esperanza de encontrar a mi hermano\": la desesperada búsqueda de sobrevivientes del terremoto en Cali",
-        "url": "https://www.bbc.com/mundo/articles/c75gk07kr79o?at_medium=RSS&at_campaign=rss",
-        "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7401/live/f589e430-95b5-11f1-b2ab-0dd01740f9f6.png",
-        "fecha": "2026-08-12T01:56:32.000Z",
-        "fuenteId": "bbc-mundo-ciencia-tecnologia",
-        "fuenteTitle": "BBC News Mundo - Ciencia y tecnología",
-        "categorias": [
-          "ciencia",
-          "tecnologia",
-          "internacional"
-        ],
-        "idioma": "es"
-      },
-      {
         "titulo": "Super Mario lanza nuevo vídeo promocional de su 40º aniversario",
         "url": "https://www.nintenderos.com/2026/08/super-mario-lanza-nuevo-video-promocional-de-su-40o-aniversario/",
         "imagen": "",
@@ -4370,6 +4354,19 @@
         "fuenteId": "andro4all",
         "fuenteTitle": "Andro4all",
         "categorias": [
+          "tecnologia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Revuelta vecinal en La Moraleja tras la construcción de una torre eléctrica a 30 metros de las urbanizaciones de lujo: \"Creemos que estas ondas pueden repercutir en algún tipo de cáncer\"",
+        "url": "https://www.elmundo.es/madrid/2026/08/12/6a75ff6de85eceb1538b4579.html",
+        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/07/17861207794917.png",
+        "fecha": "2026-08-11T22:10:16.000Z",
+        "fuenteId": "el-mundo",
+        "fuenteTitle": "El Mundo",
+        "categorias": [
+          "actualidad",
           "tecnologia"
         ],
         "idioma": "es"
