@@ -1,8 +1,21 @@
 {
-  "generado": "2026-08-18T22:53:39.182Z",
+  "generado": "2026-08-18T23:01:24.201Z",
   "limitePorCategoria": 20,
   "categorias": {
     "actualidad": [
+      {
+        "titulo": "La NASA publica imágenes del cráter formado por el cohete de SpaceX que se estrelló en la Luna",
+        "url": "https://www.lavanguardia.com/vida/20260819/11616341/nasa-publica-imagenes-crater-formado-cohete-spacex-estrello-luna.html",
+        "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/19/6a84de2c68caf.jpeg",
+        "fecha": "2026-08-18T22:36:11.000Z",
+        "fuenteId": "la-vanguardia-vida",
+        "fuenteTitle": "La Vanguardia - Vida",
+        "categorias": [
+          "actualidad",
+          "salud"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Crítica de la BBC: Antony Bourdain quizás no estaría contento con \"Tony\", la nueva película que retrata al celebrado y excéntrico chef",
         "url": "https://www.bbc.com/mundo/articles/c5ydm127rv9o?at_medium=RSS&at_campaign=rss",
@@ -251,22 +264,22 @@
           "actualidad"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "El Gobierno tumba a Iberdrola una megaplanta solar en Toledo por su cercanía a un nido de águila imperial y complica su plan millonario de centros de datos",
-        "url": "https://www.elmundo.es/economia/empresas/2026/08/18/6a845dffe4d4d89c278b45ba.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/18/17870636439759.jpg",
-        "fecha": "2026-08-18T20:55:51.000Z",
-        "fuenteId": "el-mundo-economia",
-        "fuenteTitle": "El Mundo - Economía",
-        "categorias": [
-          "economia",
-          "actualidad"
-        ],
-        "idioma": "es"
       }
     ],
     "ciencia": [
+      {
+        "titulo": "La NASA revela imágenes del cráter que dejó el choque del cohete de SpaceX con la Luna",
+        "url": "https://www.elmundo.es/ciencia/2026/08/19/6a84d9e8fdddff04118b459b.html",
+        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/19/17870914782212.jpg",
+        "fecha": "2026-08-18T22:21:04.000Z",
+        "fuenteId": "el-mundo-ciencia-salud",
+        "fuenteTitle": "El Mundo - Ciencia y Salud",
+        "categorias": [
+          "ciencia",
+          "salud"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Liberia acepta recibir 1.200 deportados de terceros países desde Estados Unidos",
         "url": "https://elpais.com/us/migracion/2026-08-18/liberia-acepta-recibir-1200-deportados-de-terceros-paises-desde-estados-unidos.html",
@@ -525,20 +538,6 @@
         "categorias": [
           "tecnologia",
           "ciencia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Apple cambia las comisiones de la App Store en Europa: así quedan los nuevos valores",
-        "url": "https://hipertextual.com/apple/apple-cambia-comisiones-app-store-europa/",
-        "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2022/12/Apple-App-Store-scaled.jpg?fit=1024%2C682&quality=70&strip=all&ssl=1",
-        "fecha": "2026-08-18T17:42:03.000Z",
-        "fuenteId": "hipertextual",
-        "fuenteTitle": "Hipertextual",
-        "categorias": [
-          "tecnologia",
-          "ciencia",
-          "entretenimiento"
         ],
         "idioma": "es"
       }
@@ -1064,6 +1063,30 @@
     ],
     "deportes": [
       {
+        "titulo": "Los futbolistas que eligieron el Barcelona antes que el Real Madrid",
+        "url": "https://as.com/futbol/fotorrelato/los-futbolistas-que-eligieron-el-barcelona-antes-que-el-real-madrid-f202608-f/",
+        "imagen": "https://img.asmedia.epimg.net/resizer/v2/LMKEMQ2LFNAUXOMYBPWPPY56AU.jpg?auth=70972c0eb39b0d4ea954b07641168c403d727b968c992e2204a8d007861273cb",
+        "fecha": "2026-08-18T22:23:13.000Z",
+        "fuenteId": "as",
+        "fuenteTitle": "AS",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "0-0: El Levski del español Julio Velázquez, a decidir en Grecia",
+        "url": "https://www.mundodeportivo.com/futbol/champions-league/20260819/1004217417/0-0-levski-espanol-julio-velazquez-decidir-grecia.html",
+        "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2026/05/07/69fcf5242c26f.r_d.1014-606-0.webp",
+        "fecha": "2026-08-18T22:21:39.000Z",
+        "fuenteId": "mundo-deportivo",
+        "fuenteTitle": "Mundo Deportivo",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Troy Parrott pasa a ser el favorito para la delantera del Betis",
         "url": "https://www.mundodeportivo.com/futbol/betis/20260818/1004217401/troy-parrott-pasa-favorito-delantera-betis.html",
         "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2025/04/21/680687d770fa4.jpeg",
@@ -1278,30 +1301,6 @@
           "deportes"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "Flick, lo tiene claro con Rodri: \"Es quizá el mejor '6' del mundo\"",
-        "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260818/1004217378/flick-claro-rodri-quiza-mejor-6-mundo.html",
-        "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/08/03/6a709158ecd09.jpeg",
-        "fecha": "2026-08-18T19:50:23.000Z",
-        "fuenteId": "mundo-deportivo",
-        "fuenteTitle": "Mundo Deportivo",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "En 1904, soltaron decenas de alces en una de las islas más grandes de América: un siglo después, su ‘explosión’ está acabando con los bosques de Terranova",
-        "url": "https://as.com/actualidad/sociedad/en-1904-soltaron-decenas-de-alces-en-una-de-las-islas-mas-grandes-de-america-un-siglo-despues-su-explosion-esta-acabando-con-los-bosques-de-terranova-f202608-n/",
-        "imagen": "https://img.asmedia.epimg.net/resizer/v2/WMLTCISTWVBLZIUCBZKEN37WTI.jpg?auth=b0e324c22ce722a0a4e119aef7e75b1bdc37ed0cc5d2d864d4a63dd6b0b187f3",
-        "fecha": "2026-08-18T19:49:03.000Z",
-        "fuenteId": "as",
-        "fuenteTitle": "AS",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
       }
     ],
     "economia": [
@@ -1312,6 +1311,102 @@
         "fecha": "2026-08-18T22:19:44.000Z",
         "fuenteId": "expansion-mercados",
         "fuenteTitle": "Expansión - Mercados",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "DEFSEC Technologies cierra una colocación privada de 5,54 millones de dólares canadienses",
+        "url": "https://es.investing.com/news/company-news/defsec-technologies-cierra-una-colocacion-privada-de-554-millones-de-dolares-canadienses-93CH-3801791",
+        "imagen": "",
+        "fecha": "2026-08-18T22:17:16.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Magnite en la cumbre de IA de Rosenblatt: crecimiento en CTV y posibles ganancias por Google",
+        "url": "https://es.investing.com/news/transcripts/magnite-en-la-cumbre-de-ia-de-rosenblatt-crecimiento-en-ctv-y-posibles-ganancias-por-google-93CH-3801790",
+        "imagen": "",
+        "fecha": "2026-08-18T22:16:05.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Spartan Delta en EnerCom Denver: el crecimiento en Duvernay impulsa el giro hacia los líquidos",
+        "url": "https://es.investing.com/news/transcripts/spartan-delta-en-enercom-denver-el-crecimiento-en-duvernay-impulsa-el-giro-hacia-los-liquidos-93CH-3801789",
+        "imagen": "",
+        "fecha": "2026-08-18T22:14:48.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El director ejecutivo de Kingsway Corp compra 2.506 dólares en acciones",
+        "url": "https://es.investing.com/news/insider-trading-news/el-director-ejecutivo-de-kingsway-corp-compra-2506-dolares-en-acciones-93CH-3801785",
+        "imagen": "",
+        "fecha": "2026-08-18T22:02:20.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El COO de Sweetgreen, Jason Cochran, vende acciones por 29.863 dólares",
+        "url": "https://es.investing.com/news/insider-trading-news/el-coo-de-sweetgreen-jason-cochran-vende-acciones-por-29863-dolares-93CH-3801786",
+        "imagen": "https://content-media.investing.com/news/moved_small-LYNXMPEM3Q0WG_1200_L.jpg",
+        "fecha": "2026-08-18T22:02:20.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Director de Seres Therapeutics Eric Shaff vende 1.196 dólares en acciones",
+        "url": "https://es.investing.com/news/insider-trading-news/director-de-seres-therapeutics-eric-shaff-vende-1196-dolares-en-acciones-93CH-3801787",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM431A2_1200_L.jpg",
+        "fecha": "2026-08-18T22:02:20.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Saratoga Investment fija una emisión de notas por 85 millones de dólares al 8%",
+        "url": "https://es.investing.com/news/company-news/saratoga-investment-fija-una-emision-de-notas-por-85-millones-de-dolares-al-8-93CH-3801784",
+        "imagen": "https://content-media.investing.com/news/LYNXMPEM141FD_1200_L.jpg",
+        "fecha": "2026-08-18T22:01:50.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Saratoga Investment fija una emisión de notas por 85 millones de dólares al 8,00%",
+        "url": "https://es.investing.com/news/company-news/saratoga-investment-fija-una-emision-de-notas-por-85-millones-de-dolares-al-800-93CH-3801783",
+        "imagen": "https://content-media.investing.com/news/LYNXMPEM0M17X_1200_L.jpg",
+        "fecha": "2026-08-18T22:01:36.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
         "categorias": [
           "economia"
         ],
@@ -1444,102 +1539,6 @@
         "url": "https://es.investing.com/news/company-news/infleqtion-planea-prueba-de-deteccion-cuantica-en-colorado-en-2027-93CH-3801771",
         "imagen": "https://content-media.investing.com/news/LYNXMPEM310T5_1200_L.jpg",
         "fecha": "2026-08-18T21:37:16.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Moody’s mejora la deuda híbrida de Vodafone por cambios en sus condiciones",
-        "url": "https://es.investing.com/news/stock-market-news/moodys-mejora-la-deuda-hibrida-de-vodafone-por-cambios-en-sus-condiciones-93CH-3801770",
-        "imagen": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg",
-        "fecha": "2026-08-18T21:37:13.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Freedom Capital inicia cobertura de Hut 8 Mining con recomendación de compra",
-        "url": "https://es.investing.com/news/analyst-ratings/freedom-capital-inicia-cobertura-de-hut-8-mining-con-recomendacion-de-compra-93CH-3801769",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3T1AG_1200_L.jpg",
-        "fecha": "2026-08-18T21:35:36.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Launch Two Acquisition Corp. obtiene un préstamo de 848.000 dólares de su patrocinador",
-        "url": "https://es.investing.com/news/sec-filings/launch-two-acquisition-corp-obtiene-un-prestamo-de-848000-dolares-de-su-patrocinador-93CH-3801768",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM4510G_1200_L.jpg",
-        "fecha": "2026-08-18T21:35:03.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Juniper Investment vende 402.744 dólares en acciones de Orthofix Medical",
-        "url": "https://es.investing.com/news/insider-trading-news/juniper-investment-vende-402744-dolares-en-acciones-de-orthofix-medical-93CH-3801767",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0WG_1200_L.jpg",
-        "fecha": "2026-08-18T21:32:06.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El director de First Busey Corp Michael Cassens vende 44.786 dólares en acciones",
-        "url": "https://es.investing.com/news/insider-trading-news/el-director-de-first-busey-corp-michael-cassens-vende-44786-dolares-en-acciones-93CH-3801766",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM450ND_1200_L.jpg",
-        "fecha": "2026-08-18T21:31:34.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Blue Owl Capital completa una emisión de notas senior de 750 millones de dólares con vencimiento en 2036",
-        "url": "https://es.investing.com/news/sec-filings/blue-owl-capital-completa-una-emision-de-notas-senior-de-750-millones-de-dolares-con-vencimiento-en-2036-93CH-3801765",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM40318_1200_L.jpg",
-        "fecha": "2026-08-18T21:30:56.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "IM Cannabis aprueba una contracción de acciones de 1 por 30",
-        "url": "https://es.investing.com/news/company-news/im-cannabis-aprueba-una-contraccion-de-acciones-de-1-por-30-93CH-3801742",
-        "imagen": "",
-        "fecha": "2026-08-18T21:05:37.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Baxter aumenta el límite de su oferta de deuda a 600 millones de dólares",
-        "url": "https://es.investing.com/news/company-news/baxter-aumenta-el-limite-de-su-oferta-de-deuda-a-600-millones-de-dolares-93CH-3801741",
-        "imagen": "https://content-media.investing.com/news/LYNXMPEM3S13F_1200_L.jpg",
-        "fecha": "2026-08-18T21:05:20.000Z",
         "fuenteId": "investing-es-noticias",
         "fuenteTitle": "Investing.com España - Noticias",
         "categorias": [
@@ -3597,6 +3596,32 @@
     ],
     "salud": [
       {
+        "titulo": "La NASA publica imágenes del cráter formado por el cohete de SpaceX que se estrelló en la Luna",
+        "url": "https://www.lavanguardia.com/vida/20260819/11616341/nasa-publica-imagenes-crater-formado-cohete-spacex-estrello-luna.html",
+        "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/19/6a84de2c68caf.jpeg",
+        "fecha": "2026-08-18T22:36:11.000Z",
+        "fuenteId": "la-vanguardia-vida",
+        "fuenteTitle": "La Vanguardia - Vida",
+        "categorias": [
+          "actualidad",
+          "salud"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "La NASA revela imágenes del cráter que dejó el choque del cohete de SpaceX con la Luna",
+        "url": "https://www.elmundo.es/ciencia/2026/08/19/6a84d9e8fdddff04118b459b.html",
+        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/19/17870914782212.jpg",
+        "fecha": "2026-08-18T22:21:04.000Z",
+        "fuenteId": "el-mundo-ciencia-salud",
+        "fuenteTitle": "El Mundo - Ciencia y Salud",
+        "categorias": [
+          "ciencia",
+          "salud"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Manuel Sans Segarra, doctor: \"La autoconciencia es como un espejo que al ser humano le permite juzgar si lo que hace es justo y ético\"",
         "url": "https://www.elconfidencial.com/alma-corazon-vida/2026-08-18/doctor-autoconciencia-espejo-ser-humano-permite-juzgar_4403963/",
         "imagen": "https://images.ecestaticos.com/sl8dCO59Ba1-khiqTim1vgKgxJM=/0x0:365x256/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F7bf%2F1a5%2F6ef%2F7bf1a56ef3b2874b1d8cc05e88fd0a79.jpg",
@@ -3826,33 +3851,6 @@
         "url": "https://www.lavanguardia.com/vida/verificacion/20260818/11615926/asi-desinforman-noticias-dia-x-vinculan-situacion-ceuta-video-antiguo-grabado-sevilla.html",
         "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/18/6a843eb6dbbd9.jpeg",
         "fecha": "2026-08-18T11:21:18.000Z",
-        "fuenteId": "la-vanguardia-vida",
-        "fuenteTitle": "La Vanguardia - Vida",
-        "categorias": [
-          "actualidad",
-          "salud"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Carlos Llull, técnico de climatización: \"Muchas veces el problema no es cuánto consume el aire acondicionado; el problema es cuánto calor entra en la vivienda\"",
-        "url": "https://www.elconfidencial.com/alma-corazon-vida/2026-08-18/carlos-llull-tecnico-de-climatizacion_4407577/",
-        "imagen": "https://images.ecestaticos.com/USSyrxzxuWD2CJvzUkJwJ5RbWqk=/0x0:2272x1516/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F302%2F5c8%2F4be%2F3025c84be90dc547f23e008099c78cc4.jpg",
-        "fecha": "2026-08-18T11:21:00.000Z",
-        "fuenteId": "el-confidencial-alma-corazon-vida",
-        "fuenteTitle": "El Confidencial - Alma, Corazón y Vida",
-        "categorias": [
-          "salud",
-          "hogar",
-          "corazon"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Meena y Minal: las niñas adoptadas que fueron amigas sin saber que eran hermanas",
-        "url": "https://www.lavanguardia.com/vida/20260818/11615912/meena-minal-ninas-adoptadas-amigas-hermanas.html",
-        "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/18/6a8438a352cf4.r_d.1984-1179-0.jpeg",
-        "fecha": "2026-08-18T11:06:44.000Z",
         "fuenteId": "la-vanguardia-vida",
         "fuenteTitle": "La Vanguardia - Vida",
         "categorias": [
