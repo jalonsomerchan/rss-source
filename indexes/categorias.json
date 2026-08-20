@@ -1,8 +1,20 @@
 {
-  "generado": "2026-08-20T00:48:34.364Z",
+  "generado": "2026-08-20T00:56:00.927Z",
   "limitePorCategoria": 20,
   "categorias": {
     "actualidad": [
+      {
+        "titulo": "El primer 'banquete' de la Vía Láctea: así fue el colosal choque",
+        "url": "https://www.abc.es/ciencia/primer-banquete-via-lactea-colosal-choque-forjo-20260817175128-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/08/17/A_Swarm_of_Ancient_Stars_-_GPN-2000-000930-RnACWGJLncBwMUmzagFL2OL-1200x840@diario_abc.jpg",
+        "fecha": "2026-08-20T00:00:40.000Z",
+        "fuenteId": "abc",
+        "fuenteTitle": "ABC",
+        "categorias": [
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Vacaciones entre drones e incendios. Así es la realidad más surrealista",
         "url": "https://www.abc.es/xlsemanal/vacaciones-drones-incendios-realidad-surrealista-20260817100845-ntrc.html",
@@ -94,6 +106,18 @@
         "fecha": "2026-08-19T23:40:01.000Z",
         "fuenteId": "abc",
         "fuenteTitle": "ABC",
+        "categorias": [
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Trump anuncia una ofensiva económica \"sin precedentes\" para aislar a Irán",
+        "url": "https://www.20minutos.es/internacional/trump-anuncia-una-ofensiva-economica-sin-precedentes-para-aislar-iran_7027493_0.html",
+        "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/08/18/6a83b20a3354d8-37687200.jpeg",
+        "fecha": "2026-08-19T23:40:00.000Z",
+        "fuenteId": "20minutos",
+        "fuenteTitle": "20minutos",
         "categorias": [
           "actualidad"
         ],
@@ -215,30 +239,6 @@
         "url": "https://www.abc.es/sociedad/infecciones-transmision-sexual-aumentando-europa-20260820013456-nt.html",
         "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/08/14/economist_1200x840-20.jpg",
         "fecha": "2026-08-19T23:34:56.000Z",
-        "fuenteId": "abc",
-        "fuenteTitle": "ABC",
-        "categorias": [
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "¿Está obligado mi casero a instalarme un aire acondicionado? Lo que dice la ley",
-        "url": "https://www.abc.es/economia/cuentas-corrientes/calor-aviva-tensiones-caseros-inquilinos-obligado-casero-20260820013416-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/07/06/aire-kgxD-U301347689187MVG-1200x840@diario_abc.jpg",
-        "fecha": "2026-08-19T23:34:16.000Z",
-        "fuenteId": "abc",
-        "fuenteTitle": "ABC",
-        "categorias": [
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La verdad de Charles Spencer: una millonaria fortuna crecida apegada al recuerdo de su hermana",
-        "url": "https://www.abc.es/gente/verdad-charles-spencer-libro-sobre-lady-millonaria-20260819013231-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gente/2026/08/19/charles-spencer-fortuna-RVWQI3mRaImo0x7NYnVXSbL-1200x840@diario_abc.jpg",
-        "fecha": "2026-08-19T23:32:31.000Z",
         "fuenteId": "abc",
         "fuenteTitle": "ABC",
         "categorias": [
@@ -1047,6 +1047,138 @@
     ],
     "deportes": [
       {
+        "titulo": "José Mourinho, tajante sobre el 'caso Negreira': \"Cuando yo estaba aquí... ya olía algo\"",
+        "url": "https://www.elespanol.com/deportes/futbol/20260820/jose-mourinho-tajante-caso-negreira-olia/1003744357884_0.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11334992.jpg?p=c:1283:720:nowe:0:255/w:1706/h:960&h=FsbsrKUw",
+        "fecha": "2026-08-20T00:31:33.000Z",
+        "fuenteId": "el-espanol-deportes",
+        "fuenteTitle": "El Español - Deportes",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "AS, líder de todos los medios de España",
+        "url": "https://as.com/comunicacion/as-lider-de-todos-los-medios-de-espana-f202608-n/",
+        "imagen": "https://img.asmedia.epimg.net/resizer/v2/YAL6SKE3WRCPPHAE7H4KCDJ55A.png?auth=3fa534f88a242536221106041c06eb6abad76067aa899b82bb58dd3a515c3469",
+        "fecha": "2026-08-20T00:22:15.000Z",
+        "fuenteId": "as",
+        "fuenteTitle": "AS",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Ejuke, salida interruptus",
+        "url": "https://as.com/futbol/primera/ejuke-salida-interruptus-f202608-n/",
+        "imagen": "https://img.asmedia.epimg.net/resizer/v2/35ZKYMIURSXV2RPJVEVNZ2KOVY.JPG?auth=ac3aa32cf1abd795d80fc986bbda7df608309eed521f7b5c10835a3391995e9c",
+        "fecha": "2026-08-20T00:21:35.000Z",
+        "fuenteId": "as",
+        "fuenteTitle": "AS",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Un comodín para fichar",
+        "url": "https://as.com/futbol/segunda/un-comodin-para-fichar-f202608-n/",
+        "imagen": "https://img.asmedia.epimg.net/resizer/v2/JADXR4FWEFN6VPL7PPDE7I4C6M.jpg?auth=555c4fe273fcd4e6d286d010596d9e3b1d3ffc8fe3ebd58eb6569f240e006f77",
+        "fecha": "2026-08-20T00:20:12.000Z",
+        "fuenteId": "as",
+        "fuenteTitle": "AS",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "David Soria: “Europa no pasa todos los años, tenemos que ser fuertes”",
+        "url": "https://as.com/futbol/uefa/david-soria-europa-no-pasa-todos-los-anos-tenemos-que-ser-fuertes-f202608-n/",
+        "imagen": "https://img.asmedia.epimg.net/resizer/v2/JUUAWMDO2VPIBBUXSPPE5AZLPY.jpg?auth=571aa3050af90bcb6a0eff06cc6f107de0515beb051b18291830eb331f4e37d9",
+        "fecha": "2026-08-20T00:16:48.000Z",
+        "fuenteId": "as",
+        "fuenteTitle": "AS",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Opción España para Robinho Jr.",
+        "url": "https://as.com/futbol/internacional/opcion-espana-para-robinho-jr-f202608-n/",
+        "imagen": "https://img.asmedia.epimg.net/resizer/v2/HJWDG3HTSJENTNXYUGEQSUWO7Q.png?auth=1597ff4ace7f33402ccdf5a148013714d3eb9070abbde2b8504a0e7dfbdd3be4",
+        "fecha": "2026-08-20T00:16:04.000Z",
+        "fuenteId": "as",
+        "fuenteTitle": "AS",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Arabia sube su apuesta",
+        "url": "https://as.com/futbol/internacional/arabia-sube-su-apuesta-f202608-n/",
+        "imagen": "https://img.asmedia.epimg.net/resizer/v2/VDKTYZK6AVP55E43TAMMH5G66Y.jpg?auth=ebe48fc3000f34162f77516ce1b1d9423ea63d45782d6c0770165cfd7cbfd409",
+        "fecha": "2026-08-20T00:14:53.000Z",
+        "fuenteId": "as",
+        "fuenteTitle": "AS",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Un Lince activo siempre ligado a la bici: Titan Desert, gravel...",
+        "url": "https://as.com/ciclismo/vuelta_espana/un-lince-activo-siempre-ligado-a-la-bici-titan-desert-gravel-f202608-n/",
+        "imagen": "https://img.asmedia.epimg.net/resizer/v2/55TVDLC545FS7AQVUIQBSRDCBM.jpg?auth=1430d8a2fb76c18b6fe235c1b2cd65b2773294fc888eaa353bd568a91a245c1c",
+        "fecha": "2026-08-20T00:13:39.000Z",
+        "fuenteId": "as",
+        "fuenteTitle": "AS",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El juez de La Vuelta",
+        "url": "https://as.com/ciclismo/vuelta_espana/el-juez-de-la-vuelta-f202608-n/",
+        "imagen": "https://vdmedia.as.com/mcv/diarioas/multimedia/20260813/1204410_171325_video_1200.mp4",
+        "fecha": "2026-08-20T00:12:39.000Z",
+        "fuenteId": "as",
+        "fuenteTitle": "AS",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "JOMO y fútbol",
+        "url": "https://as.com/opinion/jomo-y-futbol-f202608-n/",
+        "imagen": "https://img.asmedia.epimg.net/resizer/v2/NOIYAFJW35CCXCBSMYRNWSDVQQ.jpg?auth=57a8d1f3debd310ce2ca0144a3ba50989256255d25989986ffcb59f97007456c",
+        "fecha": "2026-08-20T00:03:24.000Z",
+        "fuenteId": "as",
+        "fuenteTitle": "AS",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "La mano (vendada) del diablo",
+        "url": "https://as.com/opinion/la-mano-vendada-del-diablo-f202608-n/",
+        "imagen": "https://img.asmedia.epimg.net/resizer/v2/GXCJS6E6ISI3LLSMVBREFXWIQU.JPG?auth=a46cd4779b155b442f1cebfa87dd33f3f273b1e8a31c8fc23187eb130614883e",
+        "fecha": "2026-08-20T00:02:45.000Z",
+        "fuenteId": "as",
+        "fuenteTitle": "AS",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Mourinho: \"A Arda le va a pasar como a Modric, acabará jugando de ocho\"",
         "url": "https://www.mundodeportivo.com/futbol/real-madrid/20260820/1004217838/mourinho.html",
         "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/08/19/6a854d42bd629.jpeg",
@@ -1153,141 +1285,189 @@
           "deportes"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "Illia Kovtun gana el oro europeo y España se queda sin final por equipos",
-        "url": "https://www.mundodeportivo.com/gimnasia/20260819/1004217799/illia-kovtun-gana-oro-europeo-espana-queda-final-equipos.html",
-        "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2026/08/19/6a8620c103377.r_d.741-840-0.jpeg",
-        "fecha": "2026-08-19T21:36:29.000Z",
-        "fuenteId": "mundo-deportivo",
-        "fuenteTitle": "Mundo Deportivo",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El Larguero, directo: triunfo del Atleti, ovación a Rodri y pitos a De Jong en el Gamper",
-        "url": "https://as.com/futbol/videos/el-larguero-directo-triunfo-del-atleti-ovacion-a-rodri-y-pitos-a-de-jong-en-el-gamper-f202608-v/",
-        "imagen": "https://www.youtube.com/watch?v=uhc5-xq-d6w",
-        "fecha": "2026-08-19T21:34:03.000Z",
-        "fuenteId": "as",
-        "fuenteTitle": "AS",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El Barça cuenta con todos los refuerzos inscritos para Elche",
-        "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260819/1004217798/barca-cuenta-todos-refuerzos-inscritos-elche.html",
-        "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2026/08/19/6a85ec15373cd.r_d.383-673-0.jpeg",
-        "fecha": "2026-08-19T21:31:27.000Z",
-        "fuenteId": "mundo-deportivo",
-        "fuenteTitle": "Mundo Deportivo",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Las provocativas espinilleras de Marcos Llorente que sus críticos han convertido en virales",
-        "url": "https://www.lavanguardia.com/clic/20260819/11616781/provocativas-espinilleras-marcos-llorente-criticos-han-convertido-virales-lol.html",
-        "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/19/6a861cae4fc6a.jpeg",
-        "fecha": "2026-08-19T21:24:13.000Z",
-        "fuenteId": "la-vanguardia-deportes",
-        "fuenteTitle": "La Vanguardia - Deportes",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Pero qué disparate es este: Kang-In Lee revienta el Metropolitano con un gol antológico",
-        "url": "https://as.com/futbol/videos/pero-que-disparate-es-este-kang-in-lee-revienta-el-metropolitano-con-un-gol-antologico-f202608-v/",
-        "imagen": "",
-        "fecha": "2026-08-19T21:22:44.000Z",
-        "fuenteId": "as",
-        "fuenteTitle": "AS",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "¡Oh, la, la, Kang-in Lee!",
-        "url": "https://as.com/futbol/primera/oh-la-la-kang-in-lee-f202608-n/",
-        "imagen": "https://img.asmedia.epimg.net/resizer/v2/MSLH6F257BJDFD3M5RC2F6EQAY.jpg?auth=495a26ae9b005b09704d65129eeb6698170f986c44be7c1edd950ab49f45b1c4",
-        "fecha": "2026-08-19T21:22:43.000Z",
-        "fuenteId": "as",
-        "fuenteTitle": "AS",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Kang-In Lee: \"Giménez me dijo que iba a salir y que iba a marcar\"",
-        "url": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260819/1004217795/kang-in-lee-gimenez-me-dijo-iba-salir-iba-marcar.html",
-        "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2026/08/19/6a861c8b2d401.r_d.1497-1000-0.jpeg",
-        "fecha": "2026-08-19T21:22:07.000Z",
-        "fuenteId": "mundo-deportivo",
-        "fuenteTitle": "Mundo Deportivo",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "\"Las carabelas portuguesas realmente no son medusas\"",
-        "url": "https://www.mundodeportivo.com/actualidad/20260819/1004217764/mario-suarez-divulgador-cientifico-profesor-llamemos-medusas-realmente-carabelas-portuguesas-no-son-smd-sbj.html",
-        "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2022/08/02/62e909cbd2f74.r_d.2896-1930-0.jpeg",
-        "fecha": "2026-08-19T21:17:03.000Z",
-        "fuenteId": "mundo-deportivo",
-        "fuenteTitle": "Mundo Deportivo",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Ángel Haro muestra su apoyo al pueblo ceutí: «Ceuta no está sola»",
-        "url": "https://www.abc.es/deportes/alfinaldelapalmera/noticias-betis/angel-haro-muestra-apoyo-pueblo-ceuti-ceuta-20260819135651-nts.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/08/19/angel-haro-ceuta-R3KA5xpyv8H5BOGMEUXvIkO-1200x840@diario_abc.JPG",
-        "fecha": "2026-08-19T21:16:30.000Z",
-        "fuenteId": "abc-deportes",
-        "fuenteTitle": "ABC - Deportes",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Adama Boiro, nueva duda del Athletic antes de medirse al Sevilla",
-        "url": "https://www.abc.es/deportes/orgullodenervion/noticias-sevilla-fc/adama-boiro-nueva-duda-athletic-medirse-sevilla-20260819185607-nts.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/08/19/WhatsApp%20Image%202026-08-19%20at%2018.32.50-Rl1mx0BKeELy5rXib6BXsTN-1200x840@diario_abc.jpeg",
-        "fecha": "2026-08-19T21:15:29.000Z",
-        "fuenteId": "abc-deportes",
-        "fuenteTitle": "ABC - Deportes",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Julián, aprende y fíjate en Kang-In",
-        "url": "https://as.com/opinion/julian-aprende-y-fijate-en-kang-f202608-n/",
-        "imagen": "https://img.asmedia.epimg.net/resizer/v2/TY7KJS5GDNPHDMTWTJD2MTQAEA.jpg?auth=92488118c3840fb00a74bc06da1db717201a318823f2578e8d369a601a39b95f",
-        "fecha": "2026-08-19T21:14:28.000Z",
-        "fuenteId": "as",
-        "fuenteTitle": "AS",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
       }
     ],
     "economia": [
+      {
+        "titulo": "El consejero general de Snap, Zachary Briers, vende más de 1 millón de dólares en acciones",
+        "url": "https://es.investing.com/news/insider-trading-news/el-consejero-general-de-snap-zachary-briers-vende-mas-de-1-millon-de-dolares-en-acciones-93CH-3803666",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM40318_1200_L.jpg",
+        "fecha": "2026-08-20T00:21:01.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El director financiero de Snap, Douglas Hott, vende 685.453 dólares en acciones",
+        "url": "https://es.investing.com/news/insider-trading-news/el-director-financiero-de-snap-douglas-hott-vende-685453-dolares-en-acciones-93CH-3803665",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM4510G_1200_L.jpg",
+        "fecha": "2026-08-20T00:20:55.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El presidente de Kratos Defense vende acciones por 1,67 millones de dólares",
+        "url": "https://es.investing.com/news/insider-trading-news/el-presidente-de-kratos-defense-vende-acciones-por-167-millones-de-dolares-93CH-3803664",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM431A2_1200_L.jpg",
+        "fecha": "2026-08-20T00:17:04.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El CFO de Mara Holdings, Salman Khan, vende 147.000 dólares en acciones",
+        "url": "https://es.investing.com/news/insider-trading-news/el-cfo-de-mara-holdings-salman-khan-vende-147000-dolares-en-acciones-93CH-3803663",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3T1K3_1200_L.jpg",
+        "fecha": "2026-08-20T00:16:52.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El presidente y CFO de Seer, David Horn, vende acciones por 14.809 dólares",
+        "url": "https://es.investing.com/news/insider-trading-news/el-presidente-y-cfo-de-seer-david-horn-vende-acciones-por-14809-dolares-93CH-3803662",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM431A2_1200_L.jpg",
+        "fecha": "2026-08-20T00:16:43.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "La directora financiera de Replimune vende acciones por 132.175 dólares",
+        "url": "https://es.investing.com/news/insider-trading-news/la-directora-financiera-de-replimune-vende-acciones-por-132175-dolares-93CH-3803661",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM4519D_1200_L.jpg",
+        "fecha": "2026-08-20T00:16:38.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Parex Resources en EnerCom Denver: crecimiento, deuda y Colombia",
+        "url": "https://es.investing.com/news/transcripts/parex-resources-en-enercom-denver-crecimiento-deuda-y-colombia-93CH-3803660",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM431A2_1200_L.jpg",
+        "fecha": "2026-08-20T00:14:51.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Godzilla o cómo un monstruo puede ayudarle a superar una crisis",
+        "url": "https://www.expansion.com/directivos/2026/08/20/6a85b0c2e5fdeadb238b457f.html",
+        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/08/19/17871431293680.jpg",
+        "fecha": "2026-08-20T00:11:29.000Z",
+        "fuenteId": "expansion",
+        "fuenteTitle": "Expansión",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Las empresas afrontan a la vuelta del verano el 35% de las bajas que se producen en el año",
+        "url": "https://www.expansion.com/economia/2026/08/20/6a85ed56468aebe90a8b45a5.html",
+        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/08/19/17871622585660.jpg",
+        "fecha": "2026-08-20T00:11:28.000Z",
+        "fuenteId": "expansion",
+        "fuenteTitle": "Expansión",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Sabadell comanda las alzas de la banca europea en agosto",
+        "url": "https://www.expansion.com/empresas/banca/2026/08/20/6a8621d9468aebec558b45af.html",
+        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/08/19/17871759049387.jpg",
+        "fecha": "2026-08-20T00:11:27.000Z",
+        "fuenteId": "expansion",
+        "fuenteTitle": "Expansión",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Santander no pagará por el 'caso de los coches' hasta 2027",
+        "url": "https://www.expansion.com/empresas/banca/2026/08/20/6a86194fe5fdea787d8b459c.html",
+        "imagen": "http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&cg=rss-expansion&ci=es-widgetueditorial&si=https://www.expansion.com/rss/portada.xml",
+        "fecha": "2026-08-20T00:11:17.000Z",
+        "fuenteId": "expansion",
+        "fuenteTitle": "Expansión",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Las hoteleras suben los precios para lograr ingresos récord este verano",
+        "url": "https://www.expansion.com/empresas/transporte/2026/08/20/6a85db80e5fdea2e728b4591.html",
+        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/08/19/17871570596755.jpg",
+        "fecha": "2026-08-20T00:11:16.000Z",
+        "fuenteId": "expansion",
+        "fuenteTitle": "Expansión",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El déficit comercial de Japón crece menos de lo esperado en julio",
+        "url": "https://es.investing.com/news/economic-indicators/el-deficit-comercial-de-japon-crece-menos-de-lo-esperado-en-julio-3803659",
+        "imagen": "https://content-media.investing.com/news/LYNXMPECA60LA_M.jpg",
+        "fecha": "2026-08-20T00:08:10.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Informe de resultados: Northern Star publica un sólido ejercicio FY2026 con el avance de KCGM",
+        "url": "https://es.investing.com/news/transcripts/informe-de-resultados-northern-star-publica-un-solido-ejercicio-fy2026-con-el-avance-de-kcgm-93CH-3803657",
+        "imagen": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg",
+        "fecha": "2026-08-20T00:03:10.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "ARK de Cathie Wood vende Roblox y compra Broadcom y Cloudflare",
+        "url": "https://es.investing.com/news/company-news/ark-de-cathie-wood-vende-roblox-y-compra-broadcom-y-cloudflare-93CH-3803656",
+        "imagen": "https://content-media.investing.com/news/Roblox_800x533_L_1615573309.jpg",
+        "fecha": "2026-08-20T00:02:47.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "El regulador de Canadá busca bloquear la venta de Green Giant por B&G Foods",
         "url": "https://es.investing.com/news/company-news/el-regulador-de-canada-busca-bloquear-la-venta-de-green-giant-por-bg-foods-93CH-3803646",
@@ -1341,186 +1521,6 @@
         "url": "https://es.investing.com/news/insider-trading-news/la-directora-de-operaciones-de-iridium-communications-vende-acciones-por-43-millones-de-dolares-93CH-3803639",
         "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM4510G_1200_L.jpg",
         "fecha": "2026-08-19T23:31:46.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El director de Iridium Eric Olson vende acciones por 404.880 dólares",
-        "url": "https://es.investing.com/news/insider-trading-news/el-director-de-iridium-eric-olson-vende-acciones-por-404880-dolares-93CH-3803638",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3T1K3_1200_L.jpg",
-        "fecha": "2026-08-19T23:31:44.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Trump anuncia la \"operación económica más devastadora\" contra Irán",
-        "url": "https://es.investing.com/news/economy-news/trump-anuncia-la-operacion-economica-mas-devastadora-contra-iran-3803642",
-        "imagen": "https://content-media.investing.com/news/LYNXMPEA6M0QA_M.jpg",
-        "fecha": "2026-08-19T23:30:38.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El vicepresidente ejecutivo de Iridium, Timothy James, vende acciones por 982.766 dólares",
-        "url": "https://es.investing.com/news/insider-trading-news/el-vicepresidente-ejecutivo-de-iridium-timothy-james-vende-acciones-por-982766-dolares-93CH-3803635",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3S10Z_1200_L.jpg",
-        "fecha": "2026-08-19T23:16:45.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El CAO de Iridium Communications vende 680.521 dólares en acciones",
-        "url": "https://es.investing.com/news/insider-trading-news/el-cao-de-iridium-communications-vende-680521-dolares-en-acciones-93CH-3803634",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM4416N_1200_L.jpg",
-        "fecha": "2026-08-19T23:16:35.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "+99%, +44%, +41%: Estas acciones sanitarias elegidas por IA siguen subiendo",
-        "url": "https://es.investing.com/news/stock-market-news/99-44-41-estas-acciones-sanitarias-elegidas-por-ia-siguen-subiendo-3803636",
-        "imagen": "https://content-media.investing.com/news/LYNXMPEM3K18K_1200_L.jpg",
-        "fecha": "2026-08-19T23:14:19.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El director ejecutivo de Synaptics, Rahul Patel, vende 239.867 dólares en acciones",
-        "url": "https://es.investing.com/news/insider-trading-news/el-director-ejecutivo-de-synaptics-rahul-patel-vende-239867-dolares-en-acciones-93CH-3803631",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM4416N_1200_L.jpg",
-        "fecha": "2026-08-19T23:06:11.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El presidente y COO de Astera Labs vende acciones por 30,8 millones de dólares",
-        "url": "https://es.investing.com/news/insider-trading-news/el-presidente-y-coo-de-astera-labs-vende-acciones-por-308-millones-de-dolares-93CH-3803630",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3S10Z_1200_L.jpg",
-        "fecha": "2026-08-19T23:06:09.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Ross Stores declara un dividendo trimestral de 0,445 dólares por acción",
-        "url": "https://es.investing.com/news/company-news/ross-stores-declara-un-dividendo-trimestral-de-0445-dolares-por-accion-93CH-3803627",
-        "imagen": "",
-        "fecha": "2026-08-19T23:04:55.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El director ejecutivo de Astera Labs vende acciones por 30.800 millones de dólares",
-        "url": "https://es.investing.com/news/insider-trading-news/el-director-ejecutivo-de-astera-labs-vende-acciones-por-30800-millones-de-dolares-93CH-3803626",
-        "imagen": "",
-        "fecha": "2026-08-19T23:02:03.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Walters Group adquiere acciones de Zentalis Pharmaceuticals por 15,17 millones de dólares",
-        "url": "https://es.investing.com/news/insider-trading-news/walters-group-adquiere-acciones-de-zentalis-pharmaceuticals-por-1517-millones-de-dolares-93CH-3803625",
-        "imagen": "",
-        "fecha": "2026-08-19T23:01:58.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El consejero general de Astera Labs, Philip Mazzara, vende 2,31 millones de dólares en acciones",
-        "url": "https://es.investing.com/news/insider-trading-news/el-consejero-general-de-astera-labs-philip-mazzara-vende-231-millones-de-dolares-en-acciones-93CH-3803624",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM40318_1200_L.jpg",
-        "fecha": "2026-08-19T23:01:57.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El director ejecutivo de DigitalOcean, Srinivasan, vende 735.539 dólares en acciones",
-        "url": "https://es.investing.com/news/insider-trading-news/el-director-ejecutivo-de-digitalocean-srinivasan-vende-735539-dolares-en-acciones-93CH-3803623",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0WG_1200_L.jpg",
-        "fecha": "2026-08-19T23:01:52.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Directora jurídica de Cloudflare vende acciones por 1,8 millones de dólares",
-        "url": "https://es.investing.com/news/insider-trading-news/directora-juridica-de-cloudflare-vende-acciones-por-18-millones-de-dolares-93CH-3803612",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM4510G_1200_L.jpg",
-        "fecha": "2026-08-19T22:47:02.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El director de Block, Anthony Eisen, vende acciones por 1,44 millones de dólares",
-        "url": "https://es.investing.com/news/insider-trading-news/el-director-de-block-anthony-eisen-vende-acciones-por-144-millones-de-dolares-93CH-3803611",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3T1K3_1200_L.jpg",
-        "fecha": "2026-08-19T22:46:59.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Director de Sitime Frank Edward H. vende 745.000 dólares en acciones",
-        "url": "https://es.investing.com/news/insider-trading-news/director-de-sitime-frank-edward-h-vende-745000-dolares-en-acciones-93CH-3803610",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3T1AG_1200_L.jpg",
-        "fecha": "2026-08-19T22:46:49.000Z",
         "fuenteId": "investing-es-noticias",
         "fuenteTitle": "Investing.com España - Noticias",
         "categorias": [
@@ -2314,6 +2314,32 @@
     ],
     "internacional": [
       {
+        "titulo": "EE.UU. y Canadá anuncian estar cerca de un acuerdo comercial",
+        "url": "https://www.dw.com/es/ee-uu-y-canadá-anuncian-estar-cerca-de-un-acuerdo-comercial/a-78437933?maca=spa-rss-sp-all-1122-xml-mrss",
+        "imagen": "",
+        "fecha": "2026-08-20T00:12:00.000Z",
+        "fuenteId": "dw-espanol",
+        "fuenteTitle": "DW Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Trump amenaza a “cualquier país” que ayude a Irán",
+        "url": "https://www.dw.com/es/trump-amenaza-a-cualquier-país-que-ayude-a-irán/a-78437926?maca=spa-rss-sp-all-1122-xml-mrss",
+        "imagen": "",
+        "fecha": "2026-08-20T00:02:00.000Z",
+        "fuenteId": "dw-espanol",
+        "fuenteTitle": "DW Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "El jefe de Inteligencia de Ecuador y un directivo de 'Telemundo', entre los muertos de un accidente en Kenia",
         "url": "https://www.france24.com/es/%C3%A1frica/20260819-el-jefe-de-inteligencia-de-ecuador-y-un-directivo-de-telemundo-entre-los-muertos-de-un-accidente-en-kenia",
         "imagen": "https://s.france24.com/media/display/268cc69c-9c1e-11f1-aa1a-005056a97e36/w:1024/p:16x9/FOTO-PORTADA-KENIA-ACCIDENTE.jpg",
@@ -2543,32 +2569,6 @@
         "fuenteTitle": "Euronews Español",
         "categorias": [
           "internacional"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Asedio, violencia e impunidad: los colonos israelíes aceleran la ocupación en Cisjordania",
-        "url": "https://www.france24.com/es/programas/expreso-de-oriente/20260819-asedio-violencia-e-impunidad-los-colonos-israel%C3%ADes-aceleran-la-ocupaci%C3%B3n-en-cisjordania",
-        "imagen": "https://s.france24.com/media/display/ae6c75f2-9c06-11f1-a5b7-005056a97e36/w:1024/p:16x9/WEB-PORTADA-EXP-19AGO-JPG.jpeg",
-        "fecha": "2026-08-19T19:49:21.000Z",
-        "fuenteId": "france24-espanol",
-        "fuenteTitle": "France 24 Español",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Nos estamos equivocando con los horarios de las comidas: esta es la mejor hora para cenar, según la ciencia",
-        "url": "https://www.bbc.com/mundo/articles/ce344qrkxe5o?at_medium=RSS&at_campaign=rss",
-        "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ada0/live/083d9cb0-9a76-11f1-b68f-817a5a696299.jpg",
-        "fecha": "2026-08-19T19:39:59.000Z",
-        "fuenteId": "bbc-mundo",
-        "fuenteTitle": "BBC News Mundo",
-        "categorias": [
-          "internacional",
-          "actualidad"
         ],
         "idioma": "es"
       }
@@ -3329,6 +3329,32 @@
     ],
     "politica": [
       {
+        "titulo": "EE.UU. y Canadá anuncian estar cerca de un acuerdo comercial",
+        "url": "https://www.dw.com/es/ee-uu-y-canadá-anuncian-estar-cerca-de-un-acuerdo-comercial/a-78437933?maca=spa-rss-sp-all-1122-xml-mrss",
+        "imagen": "",
+        "fecha": "2026-08-20T00:12:00.000Z",
+        "fuenteId": "dw-espanol",
+        "fuenteTitle": "DW Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Trump amenaza a “cualquier país” que ayude a Irán",
+        "url": "https://www.dw.com/es/trump-amenaza-a-cualquier-país-que-ayude-a-irán/a-78437926?maca=spa-rss-sp-all-1122-xml-mrss",
+        "imagen": "",
+        "fecha": "2026-08-20T00:02:00.000Z",
+        "fuenteId": "dw-espanol",
+        "fuenteTitle": "DW Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "La factura del PNV a Sánchez por su apoyo desde 2023: una cárcel, el troceo de la Seguridad Social y cientos de funcionarios",
         "url": "https://www.abc.es/espana/pais-vasco/factura-cobrado-pnv-sanchez-cambio-apoyo-resistir-20260803013850-nt.html",
         "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/03/1473924259-RuG86Wz3sKIo4pcFOQbSXZK-1200x840@diario_abc.JPG",
@@ -3561,35 +3587,33 @@
           "politica"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "La peste de Mallorca de 1820 no fue un brote bubónico clásico",
-        "url": "https://theobjective.com/sociedad/ciencia/2026-08-19/peste-mallorca-1820-brote-bubonico/",
-        "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/07/imagen-efecto-1-469x317.jpg",
-        "fecha": "2026-08-19T20:44:01.000Z",
-        "fuenteId": "the-objective",
-        "fuenteTitle": "The Objective",
-        "categorias": [
-          "actualidad",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El Salvador tras las pandillas: la paz vigilada de Bukele",
-        "url": "https://www.elmundo.es/internacional/2026/08/19/6a85d6b121efa0cb158b4590.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/19/17871562392749.jpg",
-        "fecha": "2026-08-19T20:41:23.000Z",
-        "fuenteId": "el-mundo-internacional",
-        "fuenteTitle": "El Mundo - Internacional",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
       }
     ],
     "salud": [
+      {
+        "titulo": "Luisa A. Solano, experta en Nutrición: “El gazpacho no es un plato muy calórico por llevar pan y aceite. Aporta entre 50 y 100 kcal por cada 100 ml”",
+        "url": "https://cuidateplus.marca.com/alimentacion/nutricion/2026/08/20/luisa-solano-experta-nutricion-gazpacho-plato-excesivamente-calorico-llevar-pan-aceite-aporta-50-100-185502.html",
+        "imagen": "https://cuidateplus.marca.com/sites/default/files/styles/ratio_16_9/public/2026-08/gazpachook.jpg.webp?itok=ehAYpABG",
+        "fecha": "2026-08-20T00:00:00.000Z",
+        "fuenteId": "cuidateplus",
+        "fuenteTitle": "CuídatePlus",
+        "categorias": [
+          "salud"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "María Fernández, experta en longevidad: Dormir mal envejece más que entrenar poco",
+        "url": "https://cuidateplus.marca.com/bienestar/2026/08/20/maria-fernandez-experta-longevidad-dormir-mal-envejece-mas-entrenar-185487.html",
+        "imagen": "https://cuidateplus.marca.com/sites/default/files/styles/ratio_16_9/public/2026-08/dormirsueno%20%281%29.jpg.webp?itok=DkUM642i",
+        "fecha": "2026-08-20T00:00:00.000Z",
+        "fuenteId": "cuidateplus",
+        "fuenteTitle": "CuídatePlus",
+        "categorias": [
+          "salud"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Siete señales que pueden alertar de una prediabetes y que muchas personas pasan por alto",
         "url": "https://www.abc.es/salud/enfermedades/siete-senales-pueden-alertar-prediabetes-personas-pasan-20260827145054-nt.html",
@@ -3825,33 +3849,6 @@
         "categorias": [
           "actualidad",
           "salud"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La Fiscalía de Nîmes confirma que el cadáver quemado hallado en un viñedo es el de la influencer Sonia Bellina",
-        "url": "https://www.lavanguardia.com/vida/20260819/11616622/fiscalia-nimes-confirma-cadaver-quemado-hallado-vinedo-influencer-sonia-bellina.html",
-        "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/19/6a85ac2c69d7d.jpeg",
-        "fecha": "2026-08-19T13:29:39.000Z",
-        "fuenteId": "la-vanguardia-vida",
-        "fuenteTitle": "La Vanguardia - Vida",
-        "categorias": [
-          "actualidad",
-          "salud"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "María Montessori, pedagoga italiana: \"Un método educativo que tenga por base la libertad debe intervenir para ayudar al niño a conquistarla\"",
-        "url": "https://www.elconfidencial.com/alma-corazon-vida/2026-08-19/1qrt-maria-montessori-pedagoga-italiana-metodo-educativo-ninos_4406142/",
-        "imagen": "https://images.ecestaticos.com/qIauNzb-YZzc5oKP70UCGRN4g0g=/0x0:1000x562/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F2d1%2Fc04%2F4ee%2F2d1c044ee09ae1d109560197d569eb50.jpg",
-        "fecha": "2026-08-19T12:45:00.000Z",
-        "fuenteId": "el-confidencial-alma-corazon-vida",
-        "fuenteTitle": "El Confidencial - Alma, Corazón y Vida",
-        "categorias": [
-          "salud",
-          "hogar",
-          "corazon"
         ],
         "idioma": "es"
       }
