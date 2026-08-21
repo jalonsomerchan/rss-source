@@ -1,8 +1,20 @@
 {
-  "generado": "2026-08-21T00:14:12.494Z",
+  "generado": "2026-08-21T00:15:57.926Z",
   "limitePorCategoria": 20,
   "categorias": {
     "actualidad": [
+      {
+        "titulo": "De serpientes de mar a sirenas y ballenas gigantes: la ciencia oculta en los monstruos de los mapas",
+        "url": "https://www.abc.es/cultura/ciencia-oculta-monstruos-marinos-mapas-20260716003903-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/07/16/cuadro-U20673829497WMB-R7wZJoNAmXKCjZzySzqcW1J-1200x840@diario_abc.jpg",
+        "fecha": "2026-08-20T23:40:52.000Z",
+        "fuenteId": "abc",
+        "fuenteTitle": "ABC",
+        "categorias": [
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "«No me creo que haya un león suelto, pero el mundo está lleno de locos»",
         "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/creo-leon-suelto-mundo-lleno-locos-20260820012600-nt.html",
@@ -237,18 +249,6 @@
         "url": "https://www.abc.es/salud/alla-ozempic-primera-pastilla-adelgaza-imita-beneficios-20260820004547-nt.html",
         "imagen": "https://s1.abcstatics.com/abc/www/multimedia/salud/2026/08/20/crosfit-1-Rnhg0Jq2A92Wmo2NO8OtESP-1200x840@diario_abc.jpg",
         "fecha": "2026-08-20T22:45:47.000Z",
-        "fuenteId": "abc",
-        "fuenteTitle": "ABC",
-        "categorias": [
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Ceuta no puede ser un CETI",
-        "url": "https://www.abc.es/opinion/editorial-ceuta-puede-ceti-20260820183946-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2026/08/20/1516162387-RFFNTQRK0wiAP42Y7HZErZM-1200x840@diario_abc.JPG",
-        "fecha": "2026-08-20T22:45:31.000Z",
         "fuenteId": "abc",
         "fuenteTitle": "ABC",
         "categorias": [
@@ -798,6 +798,66 @@
     ],
     "cultura": [
       {
+        "titulo": "'El coro de Praga': un complejo retrato de la adolescencia y del abuso de poder",
+        "url": "https://www.elespanol.com/el-cultural/cine/20260821/coro-praga-complejo-retrato-adolescencia-abuso-poder/1003744358352_0.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11338414.jpg?p=w:1706/h:960&h=qW8N8bFD",
+        "fecha": "2026-08-20T23:55:00.000Z",
+        "fuenteId": "el-cultural",
+        "fuenteTitle": "El Cultural",
+        "categorias": [
+          "cultura"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Erige Sehiri, directora tunecina: \"Es extraño que Túnez pueda ser tan racista con personas africanas\"",
+        "url": "https://www.elespanol.com/el-cultural/cine/20260821/erige-sehiri-directora-tunecina-extrano-tunez-pueda-racista-personas-africanas/1003744358659_0.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11338595.jpg?p=c:2971:1678:nowe:727:0/w:1706/h:960&h=HiXI2MHN",
+        "fecha": "2026-08-20T23:55:00.000Z",
+        "fuenteId": "el-cultural",
+        "fuenteTitle": "El Cultural",
+        "categorias": [
+          "cultura"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Medio siglo del debut de Ramones: el álbum que revolucionó el rock en tan solo 29 minutos",
+        "url": "https://www.elespanol.com/el-cultural/escenarios/musica/20260821/medio-siglo-debut-ramones-album-revoluciono-rock-solo-minutos/1003744358560_0.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11338473.jpg?p=c:960:720:nowe:0:121/w:1706/h:1280&h=6YZZwjcz",
+        "fecha": "2026-08-20T23:55:00.000Z",
+        "fuenteId": "el-cultural",
+        "fuenteTitle": "El Cultural",
+        "categorias": [
+          "cultura"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Los libros más vendidos: 21 de agosto de 2026",
+        "url": "https://www.elespanol.com/el-cultural/letras/los-libros-mas-vendidos/20260821/libros-vendidos-agosto/1003744356306_0.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11338471.jpg?p=w:1706/h:960&h=q9oDxa3M",
+        "fecha": "2026-08-20T23:55:00.000Z",
+        "fuenteId": "el-cultural",
+        "fuenteTitle": "El Cultural",
+        "categorias": [
+          "cultura"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "'Iberoamérica, un libro abierto': la lectura como puente para una región que quiere leerse a sí misma",
+        "url": "https://www.elespanol.com/el-cultural/letras/20260821/iberoamerica-libro-abierto-lectura-puente-region-quiere-leerse-misma/1003744346608_0.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11331281.jpg?p=w:1706/h:960&h=WlNVfcLb",
+        "fecha": "2026-08-20T23:55:00.000Z",
+        "fuenteId": "el-cultural",
+        "fuenteTitle": "El Cultural",
+        "categorias": [
+          "cultura"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "“Pressure” coproducción de Reino Unido y Francia, destaca en la taquilla latinoamericana.",
         "url": "https://www.cineytele.com/2026/08/21/pressure-coproduccion-de-reino-unido-y-francia-destaca-en-la-taquilla-latinoamericana/",
         "imagen": "https://www.cineytele.com/wp-content/uploads/2026/08/image-54.png",
@@ -815,18 +875,6 @@
         "url": "https://www.abc.es/cultura/verano-gabriel-garcia-marquez-20260820003931-nt.html",
         "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/08/20/gabrielgarciamarquez-R9vg15iIyPgXTXxOEakpl9I-1200x1800@diario_abc.jpg",
         "fecha": "2026-08-20T22:39:31.000Z",
-        "fuenteId": "abc-cultura",
-        "fuenteTitle": "ABC - Cultura",
-        "categorias": [
-          "cultura"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "De serpientes de mar a sirenas y ballenas gigantes: la ciencia oculta en los monstruos marinos de los mapas",
-        "url": "https://www.abc.es/cultura/ciencia-oculta-monstruos-marinos-mapas-20260716003903-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/07/16/cuadro-U20673829497WMB-R7wZJoNAmXKCjZzySzqcW1J-1200x840@diario_abc.jpg",
-        "fecha": "2026-08-20T22:39:04.000Z",
         "fuenteId": "abc-cultura",
         "fuenteTitle": "ABC - Cultura",
         "categorias": [
@@ -995,58 +1043,6 @@
         "categorias": [
           "cultura",
           "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Los bárbaros no eran como los describió Roma: el ADN de un yacimiento bávaro del siglo VI d. C. lo confirma",
-        "url": "https://muyinteresante.okdiario.com/historia/adn-barbaros-imperio-romano.html",
-        "imagen": "",
-        "fecha": "2026-08-20T19:00:00.000Z",
-        "fuenteId": "muy-interesante",
-        "fuenteTitle": "Muy Interesante",
-        "categorias": [
-          "ciencia",
-          "tecnologia",
-          "cultura"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Michael Haneke anuncia su retiro, después de 12 películas: esta fue la última, y la puedes ver en Filmin",
-        "url": "https://www.elconfidencial.com/cultura/cine/2026-08-20/michael-haneke-retiro-ultima-pelicula-2017-1qrt_4407740/",
-        "imagen": "https://images.ecestaticos.com/iaGZfW-q5huHIa5kw1VPIYqYjfs=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ff6e%2F620%2Fe33%2Ff6e620e33a62b7f88ac65417a06de6b5.jpg",
-        "fecha": "2026-08-20T18:31:00.000Z",
-        "fuenteId": "el-confidencial-cultura",
-        "fuenteTitle": "El Confidencial - Cultura",
-        "categorias": [
-          "cultura"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Europa vigilará el tiempo extremo desde el espacio cada 2,5 minutos con su nuevo Meteosat",
-        "url": "https://www.ecoticias.com/medio-ambiente/europa-vigilara-el-tiempo-extremo-desde-el-espacio-cada-2-5-minutos",
-        "imagen": "",
-        "fecha": "2026-08-20T18:30:00.000Z",
-        "fuenteId": "ecoticias",
-        "fuenteTitle": "Ecoticias",
-        "categorias": [
-          "medio-ambiente",
-          "cultura"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Macarena Gómez, Fran Perea y Raúl Tejón se meten en un divorcio imposible en «Hasta que el juzgado nos separe»",
-        "url": "https://www.cineytele.com/2026/08/20/macarena-gomez-fran-perea-y-raul-tejon-se-meten-en-un-divorcio-imposible-en-hasta-que-el-juzgado-nos-separe/",
-        "imagen": "https://www.cineytele.com/wp-content/uploads/2026/08/image-53-1024x683.png",
-        "fecha": "2026-08-20T18:28:11.000Z",
-        "fuenteId": "cine-y-tele",
-        "fuenteTitle": "Cine&Tele",
-        "categorias": [
-          "entretenimiento",
-          "cultura"
         ],
         "idioma": "es"
       }
@@ -2316,6 +2312,19 @@
     ],
     "internacional": [
       {
+        "titulo": "Terremoto en Perú: se reajusta la magnitud a 6,7 y se reportan dos heridos y viviendas dañadas",
+        "url": "https://www.france24.com/es/am%C3%A9rica-latina/20260820-terremoto-en-per%C3%BA-se-reajusta-la-magnitud-a-6-7-y-se-reportan-dos-heridos-y-viviendas-da%C3%B1adas",
+        "imagen": "https://s.france24.com/media/display/4adf51d0-9cf1-11f1-80c1-005056bfb2b6/w:1024/p:16x9/2026-08-20T203735Z-723623580-RC2E2NA7X9XN-RTRMADP-3-PERU-QUAKE.jpg",
+        "fecha": "2026-08-20T23:51:15.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Más de 1.000 personas protestan en Túnez contra el gobierno",
         "url": "https://www.dw.com/es/más-de-1-000-personas-protestan-en-túnez-contra-el-gobierno/a-78451614?maca=spa-rss-sp-all-1122-xml-mrss",
         "imagen": "",
@@ -2558,18 +2567,6 @@
         "categorias": [
           "internacional",
           "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Chile lamenta el rechazo a un proyecto eléctrico tras la alerta de DiCaprio por la rana Pehuenche",
-        "url": "http://es.euronews.com/2026/08/20/chile-lamenta-rechazo-proyecto-electrico-alerta-dicaprio-rana-pehuenche",
-        "imagen": "",
-        "fecha": "2026-08-20T19:19:18.000Z",
-        "fuenteId": "euronews-espanol",
-        "fuenteTitle": "Euronews Español",
-        "categorias": [
-          "internacional"
         ],
         "idioma": "es"
       }
@@ -3328,6 +3325,19 @@
     ],
     "politica": [
       {
+        "titulo": "Terremoto en Perú: se reajusta la magnitud a 6,7 y se reportan dos heridos y viviendas dañadas",
+        "url": "https://www.france24.com/es/am%C3%A9rica-latina/20260820-terremoto-en-per%C3%BA-se-reajusta-la-magnitud-a-6-7-y-se-reportan-dos-heridos-y-viviendas-da%C3%B1adas",
+        "imagen": "https://s.france24.com/media/display/4adf51d0-9cf1-11f1-80c1-005056bfb2b6/w:1024/p:16x9/2026-08-20T203735Z-723623580-RC2E2NA7X9XN-RTRMADP-3-PERU-QUAKE.jpg",
+        "fecha": "2026-08-20T23:51:15.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "«No me creo que haya un león suelto, pero el mundo está lleno de locos»",
         "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/creo-leon-suelto-mundo-lleno-locos-20260820012600-nt.html",
         "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/20/Leon%20Toledo-RI6y54CRYN1hMKSUk8bWljN-1200x840@diario_abc.jpg",
@@ -3566,19 +3576,6 @@
         "url": "https://www.abc.es/espana/castilla-la-mancha/entra-vigor-decreto-permite-entidades-privadas-colaborar-20260820214837-nt.html",
         "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/20/Palacio%20de%20Fuensalida-Rd5ekbTONvYCWwvCWANh3nM-1200x840@diario_abc.jpg",
         "fecha": "2026-08-20T19:48:38.000Z",
-        "fuenteId": "abc-espana",
-        "fuenteTitle": "ABC - España",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El primer premio de la Lotería Nacional, con 300.000 euros al número, recala en Córdoba",
-        "url": "https://www.abc.es/espana/andalucia/cordoba/primer-premio-loteria-nacional-300000-euros-numero-20260820214457-nts.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/20/WhatsApp%20Image%202026-08-20%20at%2021.41.46-Rhnnnz77R9J64Iwzj8EazPL-1200x840@diario_abc.jpeg",
-        "fecha": "2026-08-20T19:44:57.000Z",
         "fuenteId": "abc-espana",
         "fuenteTitle": "ABC - España",
         "categorias": [
