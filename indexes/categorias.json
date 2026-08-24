@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-24T01:31:07.283Z",
+  "generado": "2026-08-24T02:05:27.478Z",
   "limitePorCategoria": 20,
   "categorias": {
     "actualidad": [
@@ -12,6 +12,18 @@
         "fuenteTitle": "Diariomotor",
         "categorias": [
           "tecnologia",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Un hombre de 67 años, con quemaduras en el 30% del cuerpo tras un incendio en la cocina de su piso en Madrid",
+        "url": "https://www.20minutos.es/madrid/un-hombre-67-anos-con-quemaduras-30-cuerpo-tras-un-incendio-cocina-su-piso-madrid_7028558_0.html",
+        "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/08/24/6a8b9086f06ac3-10728531.jpeg",
+        "fecha": "2026-08-24T01:02:44.000Z",
+        "fuenteId": "20minutos",
+        "fuenteTitle": "20minutos",
+        "categorias": [
           "actualidad"
         ],
         "idioma": "es"
@@ -34,10 +46,9 @@
         "url": "https://www.20minutos.es/internacional/primer-ministro-britanico-viaja-kiev-para-conmemorar-independencia-ucrania_7028556_0.html",
         "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/08/24/6a8b86f584a550-35135173.jpeg",
         "fecha": "2026-08-24T00:27:43.000Z",
-        "fuenteId": "20minutos-internacional",
-        "fuenteTitle": "20minutos - Internacional",
+        "fuenteId": "20minutos",
+        "fuenteTitle": "20minutos",
         "categorias": [
-          "internacional",
           "actualidad"
         ],
         "idioma": "es"
@@ -235,18 +246,6 @@
         "url": "https://www.abc.es/economia/gobierno-quiere-inmobiliarias-informen-precio-limite-alquiler-20260819013129-nt.html",
         "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/08/19/1425771545-RoXrE08BiTT2eGfaD47qo1J-1200x840@diario_abc.jpg",
         "fecha": "2026-08-23T23:31:54.000Z",
-        "fuenteId": "abc",
-        "fuenteTitle": "ABC",
-        "categorias": [
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Manuel Milián Mestre: «El PP nació en Cataluña y Feijóo debería tener una estrategia política clara»",
-        "url": "https://www.abc.es/espana/cataluna/manuel-milian-mestre-pp-nacio-cataluna-feijoo-20260814013112-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/14/mill2-R6p3zZ4sGEbIviS6L4qOx9H-1200x840@diario_abc.jpg",
-        "fecha": "2026-08-23T23:31:12.000Z",
         "fuenteId": "abc",
         "fuenteTitle": "ABC",
         "categorias": [
@@ -1298,6 +1297,42 @@
     ],
     "economia": [
       {
+        "titulo": "México asienta su liderazgo inversor en capital riesgo en Latinoamérica con el 'fintech' como locomotora",
+        "url": "https://www.elespanol.com/invertia/disruptores-americas/20260824/mexico-asienta-liderazgo-inversor-capital-riesgo-latinoamerica-fintech-locomotora/1003744357893_0.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11338052.jpg?p=w:1706/h:960&h=tG8HMgbn",
+        "fecha": "2026-08-24T01:10:45.000Z",
+        "fuenteId": "el-espanol-economia",
+        "fuenteTitle": "El Español - Economía",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "¿Por qué caen hoy las acciones de SoftBank?",
+        "url": "https://es.investing.com/news/stock-market-news/por-que-caen-hoy-las-acciones-de-softbank-93CH-3807196",
+        "imagen": "https://content-media.investing.com/news/LYNXNPEC0L0PD_M.jpg",
+        "fecha": "2026-08-24T01:08:40.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Geely, el socio chino de Ford España, redobla su ofensiva exterior al elevar un 43% sus previsiones de exportación",
+        "url": "https://www.elespanol.com/motor/20260824/geely-socio-chino-ford-espana-redobla-ofensiva-exterior-elevar-previsiones-exportacion/1003744359233_0.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11339067.jpg?p=c:1919:1080:nowe:0:0/w:1706/h:960&h=XIdqgDUX",
+        "fecha": "2026-08-24T00:56:31.000Z",
+        "fuenteId": "el-espanol-economia",
+        "fuenteTitle": "El Español - Economía",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Bessent anuncia un \"Día D económico\" contra Irán mientras Teherán advierte sobre el petróleo",
         "url": "https://es.investing.com/news/economy-news/bessent-anuncia-un-dia-d-economico-contra-iran-mientras-teheran-advierte-sobre-el-petroleo-3807195",
         "imagen": "https://content-media.investing.com/news/LYNXMPEABT0MT_M.jpg",
@@ -1359,6 +1394,54 @@
         "idioma": "es"
       },
       {
+        "titulo": "La otra crisis que nos espera: la subida de de los alimentos se triplicará en 2027 por las guerras en Irán y Ucrania",
+        "url": "https://www.elespanol.com/invertia/economia/macroeconomia/20260824/crisis-espera-subida-alimentos-triplicara-guerras-iran-ucrania/1003744359740_0.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11339837.jpg?p=w:1706/h:960&h=UAOoy9wQ",
+        "fecha": "2026-08-24T00:00:00.000Z",
+        "fuenteId": "el-espanol-economia",
+        "fuenteTitle": "El Español - Economía",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Warsh será el protagonista de Jackson Hole: el mercado quiere adivinar los pasos de la Fed en plena tormenta por los bonos",
+        "url": "https://www.elespanol.com/invertia/economia/bancos-centrales/20260824/warsh-protagonista-jackson-hole-mercado-quiere-adivinar-pasos-fed-plena-tormenta-bonos/1003744359280_0.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11338876.jpg?p=w:1706/h:960&h=NSfC1D2m",
+        "fecha": "2026-08-24T00:00:00.000Z",
+        "fuenteId": "el-espanol-economia",
+        "fuenteTitle": "El Español - Economía",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El ‘gol’ de Mohamed VI con el Mundial 2030: el rey ejecuta una ofensiva hotelera que redefine el lujo marroquí",
+        "url": "https://www.elespanol.com/invertia/empresas/turismo/20260824/gol-mohamed-vi-mundial-rey-ejecuta-ofensiva-hotelera-redefine-lujo-marroqui/1003744359377_0.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/9877541.jpg?p=c:2522:1419:nowe:1458:332/w:1706/h:960&h=v9kiSWuf",
+        "fecha": "2026-08-24T00:00:00.000Z",
+        "fuenteId": "el-espanol-economia",
+        "fuenteTitle": "El Español - Economía",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Dia es el 'súper' más multado por incumplir la Ley de la Cadena con más de 300.000 euros en sanciones desde 2023",
+        "url": "https://www.elespanol.com/invertia/empresas/distribucion/20260824/dia-super-multado-incumplir-ley-cadena-euros-sanciones/1003744359330_0.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/10886158.jpg?p=c:1440:811:nowe:83:146/w:1706/h:960&h=Mw_RWDNt",
+        "fecha": "2026-08-24T00:00:00.000Z",
+        "fuenteId": "el-espanol-economia",
+        "fuenteTitle": "El Español - Economía",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Fin de ciclo",
         "url": "https://www.abc.es/economia/jose-ramon-iturriaga-fin-ciclo-20260824015626-nt.html",
         "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/08/24/sanchez-pedro-RvR4eEn6NUOdtr7Jy26EGqM-1200x840@diario_abc.jpg",
@@ -1395,145 +1478,60 @@
         "idioma": "es"
       },
       {
-        "titulo": "¿Por qué la IA soberana reforzará el ciclo de inversión en IA?",
-        "url": "https://es.investing.com/news/stock-market-news/por-que-la-ia-soberana-reforzara-el-ciclo-de-inversion-en-ia-3807182",
-        "imagen": "https://content-media.investing.com/news/LYNXNPEB5S0BB_M.jpg",
-        "fecha": "2026-08-23T22:33:56.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
+        "titulo": "Sin ofertas y con lío robótico: Adif relanzará el millonario concurso de asistencia a personas con discapacidad",
+        "url": "https://www.elespanol.com/invertia/empresas/turismo/20260824/sin-ofertas-lio-robotico-adif-relanzara-millonario-concurso-asistencia-personas-discapacidad/1003744359257_0.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11338865.jpg?p=c:3603:2021:nowe:232:561/w:1706/h:960&h=BxOnPc8Q",
+        "fecha": "2026-08-23T23:50:00.000Z",
+        "fuenteId": "el-espanol-economia",
+        "fuenteTitle": "El Español - Economía",
         "categorias": [
           "economia"
         ],
         "idioma": "es"
       },
       {
-        "titulo": "La banca ante la IA: así se preparan las entidades ante las amenazas y oportunidades de la última gran revolución del sector",
-        "url": "https://www.elmundo.es/economia/empresas/2026/08/24/6a87da6ce85ecee27b8b4599.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/21/17873081734609.jpg",
-        "fecha": "2026-08-23T22:09:13.000Z",
-        "fuenteId": "el-mundo-economia",
-        "fuenteTitle": "El Mundo - Economía",
-        "categorias": [
-          "economia",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Por qué Prada ha decidido desafiar el lujo francés",
-        "url": "https://www.expansion.com/directivos/deporte-negocio/2026/08/24/6a8866eee5fdea07158b4572.html",
-        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/08/21/17873303142037.jpg",
-        "fecha": "2026-08-23T22:03:12.000Z",
-        "fuenteId": "expansion",
-        "fuenteTitle": "Expansión",
+        "titulo": "Comercio, turismo y cambio climático: las razones detrás del auge de las enfermedades tropicales en España",
+        "url": "https://www.elespanol.com/invertia/observatorios/sanidad/20260824/comercio-turismo-cambio-climatico-razones-detras-auge-enfermedades-tropicales-espana/1003744359910_0.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11339291.jpg?p=w:1706/h:960&h=Q6tMQnnP",
+        "fecha": "2026-08-23T23:50:00.000Z",
+        "fuenteId": "el-espanol-economia",
+        "fuenteTitle": "El Español - Economía",
         "categorias": [
           "economia"
         ],
         "idioma": "es"
       },
       {
-        "titulo": "Verónica García (Schneider Electric): \"Ninguna política funciona si el liderazgo no la practica\"",
-        "url": "https://www.expansion.com/directivos/2026/08/24/6a7f2eeee5fdea33548b4592.html",
-        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/08/14/17867200520457.jpg",
-        "fecha": "2026-08-23T22:02:24.000Z",
-        "fuenteId": "expansion",
-        "fuenteTitle": "Expansión",
+        "titulo": "La china Unitree aprovecha un proyecto militar de EEUU para diseñar perros robots que Pekín prevé sumar a su propio ejército",
+        "url": "https://www.elespanol.com/observatorio-defensa/20260824/china-unitree-aprovecha-proyecto-militar-eeuu-disenar-perros-robots-pekin-preve-sumar-propio-ejercito/1003744359619_0.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11339198.jpg?p=w:1706/h:960&h=F00kbcKV",
+        "fecha": "2026-08-23T23:50:00.000Z",
+        "fuenteId": "el-espanol-economia",
+        "fuenteTitle": "El Español - Economía",
         "categorias": [
           "economia"
         ],
         "idioma": "es"
       },
       {
-        "titulo": "El palacio convertido en Parlamento",
-        "url": "https://www.expansion.com/directivos/2026/08/24/6a883d8c468aeb777d8b4570.html",
-        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/08/21/17873135654744.jpg",
-        "fecha": "2026-08-23T22:02:23.000Z",
-        "fuenteId": "expansion",
-        "fuenteTitle": "Expansión",
+        "titulo": "Reino Unido recupera el 'brazo nuclear' de la RAF: sus cazas F-35A podrán portar armas atómicas de EEUU",
+        "url": "https://www.elespanol.com/observatorio-defensa/20260824/reino-unido-recupera-brazo-nuclear-raf-cazas-f-35a-podran-portar-armas-atomicas-eeuu/1003744359396_0.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11338958.jpg?p=w:1706/h:960&h=A-kJTegA",
+        "fecha": "2026-08-23T23:50:00.000Z",
+        "fuenteId": "el-espanol-economia",
+        "fuenteTitle": "El Español - Economía",
         "categorias": [
           "economia"
         ],
         "idioma": "es"
       },
       {
-        "titulo": "Colombia y Perú se alinean con la política de seguridad de Trump",
-        "url": "https://www.expansion.com/latinoamerica/2026/08/24/6a8b57ece5fdeabf618b456f.html",
-        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/08/23/17875187331036.jpg",
-        "fecha": "2026-08-23T22:02:17.000Z",
-        "fuenteId": "expansion",
-        "fuenteTitle": "Expansión",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Rodríguez Zapatero o la vieja impostura",
-        "url": "https://www.expansion.com/directivos/2026/08/24/6a884f7e468aeb26788b4574.html",
-        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/08/21/17873277317116.jpg",
-        "fecha": "2026-08-23T22:02:16.000Z",
-        "fuenteId": "expansion",
-        "fuenteTitle": "Expansión",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La inteligencia artificial, una máquina de emitir deuda",
-        "url": "https://www.expansion.com/mercados/2026/08/24/6a8b3c75e5fdea53398b45a8.html",
-        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/08/23/17875113713831.jpg",
-        "fecha": "2026-08-23T22:01:51.000Z",
-        "fuenteId": "expansion",
-        "fuenteTitle": "Expansión",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La última 'rentrée' de Sánchez",
-        "url": "https://www.expansion.com/opinion/2026/08/24/6a8b603a468aeb7a788b458f.html",
-        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/08/23/17875195253935.jpg",
-        "fecha": "2026-08-23T22:01:50.000Z",
-        "fuenteId": "expansion",
-        "fuenteTitle": "Expansión",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Las aseguradoras abrirán el nuevo curso pendientes de las catástrofes",
-        "url": "https://www.expansion.com/empresas/seguros/2026/08/24/6a88a1d9468aebd76d8b4577.html",
-        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/08/21/17873391795927.jpg",
-        "fecha": "2026-08-23T22:01:49.000Z",
-        "fuenteId": "expansion",
-        "fuenteTitle": "Expansión",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Banca Generali estudia la oferta de Monte Paschi",
-        "url": "https://www.expansion.com/empresas/banca/2026/08/24/6a8b2ff9468aeb09378b4597.html",
-        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/08/23/17875089225050.jpg",
-        "fecha": "2026-08-23T22:01:25.000Z",
-        "fuenteId": "expansion",
-        "fuenteTitle": "Expansión",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Cetelem hace una fuerte dotación por las tarjetas 'revolving'",
-        "url": "https://www.expansion.com/empresas/banca/2026/08/24/6a6ce391468aeb50388b4599.html",
-        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/07/31/17855209669449.jpg",
-        "fecha": "2026-08-23T22:01:24.000Z",
-        "fuenteId": "expansion",
-        "fuenteTitle": "Expansión",
+        "titulo": "Trump declara suyo el estrecho de Ormuz: ¿es español el de Gibraltar?",
+        "url": "https://www.elespanol.com/invertia/opinion/20260824/trump-declara-estrecho-ormuz-espanol-gibraltar/1003744359794_13.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/7998367.jpg?p=c:1279:721:nowe:0:133/w:1706/h:960&h=MVvh1zjP",
+        "fecha": "2026-08-23T23:50:00.000Z",
+        "fuenteId": "el-espanol-economia",
+        "fuenteTitle": "El Español - Economía",
         "categorias": [
           "economia"
         ],
@@ -2321,6 +2319,19 @@
     ],
     "internacional": [
       {
+        "titulo": "Rusia: dos niños mueren en un ataque con drones ucranianos",
+        "url": "https://www.elmundo.es/internacional/2026/08/24/6a8b9b29fc6c83ec378b4587.html",
+        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/24/17875345199709.jpg",
+        "fecha": "2026-08-24T01:22:49.000Z",
+        "fuenteId": "el-mundo-internacional",
+        "fuenteTitle": "El Mundo - Internacional",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Hamás asegura que cometas llegadas a Israel son juguetes",
         "url": "https://www.dw.com/es/hamás-asegura-que-cometas-llegadas-a-israel-son-juguetes/a-78479530?maca=spa-rss-sp-all-1122-xml-mrss",
         "imagen": "",
@@ -2330,19 +2341,6 @@
         "categorias": [
           "internacional",
           "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El primer ministro británico viaja a Kiev para conmemorar la independencia de Ucrania",
-        "url": "https://www.20minutos.es/internacional/primer-ministro-britanico-viaja-kiev-para-conmemorar-independencia-ucrania_7028556_0.html",
-        "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/08/24/6a8b86f584a550-35135173.jpeg",
-        "fecha": "2026-08-24T00:27:43.000Z",
-        "fuenteId": "20minutos-internacional",
-        "fuenteTitle": "20minutos - Internacional",
-        "categorias": [
-          "internacional",
-          "actualidad"
         ],
         "idioma": "es"
       },
@@ -2631,6 +2629,18 @@
         "idioma": "es"
       },
       {
+        "titulo": "El Barça se estrena en Liga con una 'manita' con dobletes de Fermín y Raphinha",
+        "url": "https://www.cope.es/programas/tiempo-de-juego/cronica/directo-elche-fc-barcelona-primera-division-segunda-jornada-23-20260823_3423650.html",
+        "imagen": "https://imagenes.cope.es/files/og_thumbnail/uploads/2026/08/23/6a8b6203c4a81.jpeg",
+        "fecha": "2026-08-23T21:41:51.000Z",
+        "fuenteId": "cope-extremadura",
+        "fuenteTitle": "COPE Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "22:30 | 23 AGO 2026 | TIEMPO DE JUEGO",
         "url": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/22-30-23-ago-2026-juego-20260823_3423676.html",
         "imagen": "",
@@ -2803,18 +2813,6 @@
         "url": "https://www.elperiodicoextremadura.com/espana/2026/08/23/pp-acusara-gobierno-haber-impedido-133596103.html",
         "imagen": "https://estaticos-cdn.prensaiberica.es/clip/da659194-a274-461d-8135-3add90add7c6_16-9-aspect-ratio_default_0_x1000y456.jpg",
         "fecha": "2026-08-23T19:08:30.000Z",
-        "fuenteId": "el-periodico-extremadura",
-        "fuenteTitle": "El Periódico Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Vídeo | Calles sin asfaltar, zonas sin luz y culebras en casa, así vive Charca Musia en Cáceres",
-        "url": "https://www.elperiodicoextremadura.com/videos/caceres-local/2026/08/23/video-calles-asfaltar-zonas-luz-133596064.html",
-        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/43a1a427-03c5-4c19-bb2c-8b0ea415ad1a_16-9-aspect-ratio_default_0_x640y284.jpg",
-        "fecha": "2026-08-23T19:05:32.000Z",
         "fuenteId": "el-periodico-extremadura",
         "fuenteTitle": "El Periódico Extremadura",
         "categorias": [
@@ -3332,6 +3330,19 @@
     ],
     "politica": [
       {
+        "titulo": "Rusia: dos niños mueren en un ataque con drones ucranianos",
+        "url": "https://www.elmundo.es/internacional/2026/08/24/6a8b9b29fc6c83ec378b4587.html",
+        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/24/17875345199709.jpg",
+        "fecha": "2026-08-24T01:22:49.000Z",
+        "fuenteId": "el-mundo-internacional",
+        "fuenteTitle": "El Mundo - Internacional",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Hamás asegura que cometas llegadas a Israel son juguetes",
         "url": "https://www.dw.com/es/hamás-asegura-que-cometas-llegadas-a-israel-son-juguetes/a-78479530?maca=spa-rss-sp-all-1122-xml-mrss",
         "imagen": "",
@@ -3574,19 +3585,6 @@
         "fuenteTitle": "DW Español",
         "categorias": [
           "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Puente no descarta ser el relevo de Sánchez, al que califica como «el ‘Jordan’ del PSOE»",
-        "url": "https://theobjective.com/espana/politica/2026-08-23/puente-descarta-relevo-sanchez-califica-jordan-psoe/",
-        "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/08/ilustracion-oscar-puente-republica-469x317.jpg",
-        "fecha": "2026-08-23T21:31:50.000Z",
-        "fuenteId": "the-objective",
-        "fuenteTitle": "The Objective",
-        "categorias": [
-          "actualidad",
           "politica"
         ],
         "idioma": "es"
