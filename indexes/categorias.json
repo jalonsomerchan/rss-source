@@ -1,102 +1,65 @@
 {
-  "generado": "2026-08-26T16:39:10.441Z",
+  "generado": "2026-08-26T16:41:46.922Z",
   "limitePorCategoria": 20,
   "categorias": {
     "actualidad": [
       {
-        "titulo": "Ávila declara no apta para consumo el agua del polígono de Vicolozano por exceso de manganeso",
-        "url": "https://www.abc.es/espana/castilla-leon/avila-declara-apta-consumo-agua-poligono-vicolozano-20260826175035-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/26/1480150302-R5WLHeLEHJ21npSDNvPKRTJ-1200x840@diario_abc.jpg",
-        "fecha": "2026-08-26T15:51:26.000Z",
-        "fuenteId": "abc-espana",
-        "fuenteTitle": "ABC - España",
+        "titulo": "BMW tiene el motor V8 ideal, pero no el interés de volver a la Fórmula 1",
+        "url": "https://www.diariomotor.com/competicion/noticia/bmw-regreso-formula-1-v8-atmosfericos/",
+        "imagen": "https://www.diariomotor.com/imagenes/2026/08/BMW_Hybrid_V8_WRT_Hypercar_2_2026-6a8ef408d29bc.jpg?class=XL",
+        "fecha": "2026-08-26T18:26:50.000Z",
+        "fuenteId": "diariomotor",
+        "fuenteTitle": "Diariomotor",
         "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El Ayuntamiento de Córdoba se suma a la concentración de apoyo a Ceuta convocada por la FEMP",
-        "url": "https://www.abc.es/espana/andalucia/cordoba/ayuntamiento-cordoba-suma-concentracion-apoyo-ceuta-convocada-20260826174630-nts.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/26/1516418478-RyKwmACa9Psxs1cOlJGmoQJ-1200x840@diario_abc.jpg",
-        "fecha": "2026-08-26T15:46:31.000Z",
-        "fuenteId": "abc-espana",
-        "fuenteTitle": "ABC - España",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Elon Musk creará su propio 'Cabo Cañaveral' en Luisiana para conquistar la Luna y Marte",
-        "url": "https://www.abc.es/ciencia/elon-musk-creara-propio-cabo-canaveral-luisiana-20260826163830-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/08/26/hero-louisiana.jpg-RSRSDxCBMUC7lSgdmXb2AUL-1200x840@diario_abc.jpg",
-        "fecha": "2026-08-26T15:45:26.000Z",
-        "fuenteId": "abc",
-        "fuenteTitle": "ABC",
-        "categorias": [
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Los lujos de Jude Bellingham, otra estrella del Real Madrid que opta por mudarse a La Moraleja",
-        "url": "https://www.abc.es/summum/living/casas/lujo-silencioso-vida-jude-bellingham-estrella-real-20260826100718-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/summum/2026/08/26/bmw-RCpUfTuLUmPo1ql0qL4kkbM-1200x840@diario_abc.jpeg",
-        "fecha": "2026-08-26T15:43:42.000Z",
-        "fuenteId": "abc",
-        "fuenteTitle": "ABC",
-        "categorias": [
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La imágenes de la devastadora riada",
-        "url": "https://www.abc.es/internacional/devastadora-riada-nepal-imagenes-20260826165701-ga.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/08/26/1516417639-RN9vhclZt9eDQfK4rYWbFvJ-1200x840@diario_abc.jpg",
-        "fecha": "2026-08-26T15:42:06.000Z",
-        "fuenteId": "abc",
-        "fuenteTitle": "ABC",
-        "categorias": [
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El partido 'Por Mi Pueblo' ofrece a Agustín Bravo ser candidato a la alcaldía de Marbella",
-        "url": "https://www.abc.es/espana/andalucia/malaga/partido-pueblo-ofrece-agustin-bravo-candidato-alcaldia-20260826172603-nts.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/26/Agust%c3%adn%20Bravo-RIZNYVlcwbOwTxQKK20joKM-1200x840@diario_abc.jpg",
-        "fecha": "2026-08-26T15:41:43.000Z",
-        "fuenteId": "abc-espana",
-        "fuenteTitle": "ABC - España",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El precio de la gasolina sube un 20% y el del diésel un 24% desde el inicio del verano",
-        "url": "https://elpais.com/economia/2026-08-26/el-precio-de-la-gasolina-sube-un-20-y-el-del-diesel-un-24-desde-el-inicio-del-verano.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/FB3GJ55FTRFKZILBBFE5JGFU34.jpg?auth=7b8acf1a640030d2d6ef1410411aafefe4c82d479b69b36c77c3084037d16e4f",
-        "fecha": "2026-08-26T15:38:12.000Z",
-        "fuenteId": "el-pais",
-        "fuenteTitle": "El País",
-        "categorias": [
-          "actualidad",
           "tecnologia",
-          "ciencia"
+          "actualidad"
         ],
         "idioma": "es"
       },
       {
-        "titulo": "Robles visita a la Fuerza Terrestre encargada de defender Ceuta en caso de invasión",
-        "url": "https://theobjective.com/espana/2026-08-26/robles-fuerza-terrestre-ceuta-invasion/",
-        "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/08/sanitarios-defensa-469x317.jpg",
-        "fecha": "2026-08-26T15:37:39.000Z",
+        "titulo": "Galicia será «solidaria con Ceuta» y aceptará el reparto de menores inmigrantes",
+        "url": "https://www.abc.es/espana/galicia/galicia-solidaria-ceuta-aceptara-reparto-menores-inmigrantes-20260826181744-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/26/20260526%20ConselleirapresentacionbolsasONosoCanto1-R5tcRAU419suM3BhDTBQvOP-1200x840@diario_abc.jpg",
+        "fecha": "2026-08-26T16:22:53.000Z",
+        "fuenteId": "abc-espana",
+        "fuenteTitle": "ABC - España",
+        "categorias": [
+          "politica",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "La oposición en Santiago exige a la alcaldesa que comparezca por el «bochorno» de Fly2Galicia",
+        "url": "https://www.abc.es/espana/galicia/oposicion-santiago-exige-alcaldesa-comparezca-bochorno-fly2galicia-20260826182039-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/26/1510059996-Rl7p7E2KdnJ4HPv1S9kaXpI-1200x840@diario_abc.jpg",
+        "fecha": "2026-08-26T16:22:33.000Z",
+        "fuenteId": "abc-espana",
+        "fuenteTitle": "ABC - España",
+        "categorias": [
+          "politica",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "La muestra sobre los 150 años de Falla en Granada se clausura por los daños del terremoto",
+        "url": "https://www.abc.es/espana/andalucia/granada/muestra-sobre-150-anos-falla-danada-terremotos-20260826170716-nts.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/26/exposici%c3%b3n-RCTI3ZdoSPUpwgvjkgjILyI-1200x840@diario_abc.jpg",
+        "fecha": "2026-08-26T16:22:14.000Z",
+        "fuenteId": "abc-espana",
+        "fuenteTitle": "ABC - España",
+        "categorias": [
+          "politica",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Brennan culmina al sprint la estrategia del equipo Visma en La Vuelta",
+        "url": "https://theobjective.com/deportes/2026-08-26/brennan-sprint-etapa5-la-vuelta/",
+        "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/08/pogacar-lider-andorra-469x317.jpg",
+        "fecha": "2026-08-26T16:21:35.000Z",
         "fuenteId": "the-objective",
         "fuenteTitle": "The Objective",
         "categorias": [
@@ -106,87 +69,73 @@
         "idioma": "es"
       },
       {
-        "titulo": "La Fiscalía insiste en que Jésica Rodríguez siga investigada y abre la puerta a pedir una pena menor por su testimonio en el juicio contra Ábalos",
-        "url": "https://www.abc.es/espana/fiscalia-insiste-jesica-rodriguez-siga-investigada-abre-20260826173553-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/26/JesicaRodriguez-RsyR57I6rsHy3noqSU0Z9PL-1200x840@diario_abc.jpg",
-        "fecha": "2026-08-26T15:35:53.000Z",
-        "fuenteId": "abc-espana",
-        "fuenteTitle": "ABC - España",
+        "titulo": "Muere Tim Curry, protagonista de ‘The Rocky Horror Picture Show’",
+        "url": "https://jenesaispop.com/2026/08/26/529280/tim-curry-muerte/",
+        "imagen": "",
+        "fecha": "2026-08-26T16:19:32.000Z",
+        "fuenteId": "jenesaipop",
+        "fuenteTitle": "Jenesaispop",
         "categorias": [
-          "politica",
+          "cultura",
           "actualidad"
         ],
         "idioma": "es"
       },
       {
-        "titulo": "El joven Matthew Brennan consigue su segunda victoria en el sprint de Roquetes",
-        "url": "https://www.elmundo.es/deportes/ciclismo/vuelta-a-espana/2026/08/26/6a8f02c7fc6c832d668b4572.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/26/17877580875364.jpg",
-        "fecha": "2026-08-26T15:34:31.000Z",
-        "fuenteId": "el-mundo",
-        "fuenteTitle": "El Mundo",
+        "titulo": "Muere a los 80 años Tim Curry, actor de 'Rocky Horror Picture Show' y que interpretó al payaso de 'It'",
+        "url": "https://www.huffingtonpost.es/life/cultura/muere-80nos-tim-curry-actor-rocky-horror-picture-show-interpreto-payaso-it-f202608.html",
+        "imagen": "",
+        "fecha": "2026-08-26T16:15:36.000Z",
+        "fuenteId": "huffpost-espana",
+        "fuenteTitle": "HuffPost España",
         "categorias": [
           "actualidad",
-          "tecnologia"
+          "entretenimiento"
         ],
         "idioma": "es"
       },
       {
-        "titulo": "La Fiscalía apoya que Jésica, ex de Ábalos, siga investigada por cobrar un sueldo de dos empresas públicas sin trabajar",
-        "url": "https://www.elespanol.com/espana/tribunales/20260826/fiscalia-apoya-jesica-ex-abalos-siga-investigada-cobrar-sueldo-empresas-publicas-sin-trabajar/1003744363899_0.html",
-        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11234510.jpg?p=c:740:416:nowe:623:156/w:1706/h:960&h=7aLBIzGh",
-        "fecha": "2026-08-26T15:33:46.000Z",
-        "fuenteId": "el-espanol",
-        "fuenteTitle": "El Español",
-        "categorias": [
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "De soñar con un crucero a ser estafados: detenida la gerente de una agencia de viajes tras quedarse con más de 30.000 euros",
-        "url": "https://www.abc.es/espana/castilla-leon/sonar-crucero-estafados-detenida-gerente-agencia-viajes-20260826173120-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/26/WhatsApp%20Image%202026-08-26%20at%2016.17.01-R0DKyPgF4Xrk3RnJWIxWQqO-1200x840@diario_abc.jpg",
-        "fecha": "2026-08-26T15:31:41.000Z",
-        "fuenteId": "abc-espana",
-        "fuenteTitle": "ABC - España",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El precio por comprar el alma",
-        "url": "https://www.elmundo.es/economia/2026/08/26/6a8f0663fdddff5d4e8b45a4.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/26/17877580636630.jpg",
-        "fecha": "2026-08-26T15:31:11.000Z",
-        "fuenteId": "el-mundo",
-        "fuenteTitle": "El Mundo",
+        "titulo": "La Fiscalía pide que Jésica siga investigada por cobrar de empresas públicas sin ir a trabajar",
+        "url": "https://theobjective.com/espana/tribunales/2026-08-26/fiscalia-jesica-investigada-cobra-empresas-sin-trabajar/",
+        "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2025/04/jesica-rodriguez-supremo-abalos-469x317.jpg",
+        "fecha": "2026-08-26T16:15:12.000Z",
+        "fuenteId": "the-objective",
+        "fuenteTitle": "The Objective",
         "categorias": [
           "actualidad",
-          "tecnologia"
+          "politica"
         ],
         "idioma": "es"
       },
       {
-        "titulo": "El pago millonario de Meta: así lo analizan abogados y expertos en finanzas",
-        "url": "https://www.lavanguardia.com/vida/20260826/11620572/pago-millonario-meta-asi-analizan-abogados-expertos-finanzas.html",
-        "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/03/25/69c319cdf257c.jpeg",
-        "fecha": "2026-08-26T15:29:44.000Z",
-        "fuenteId": "la-vanguardia-vida",
-        "fuenteTitle": "La Vanguardia - Vida",
+        "titulo": "Esther González borra a su mujer y su hijo de sus redes tras fichar por un equipo de Arabia Saudí",
+        "url": "https://www.abc.es/gente/futbolista-esther-gonzalez-borra-mujer-hijo-redes-20260826171546-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gente/2026/08/26/esther-gonzalez-Rse36wqlKhdbeBmQsTT57OM-1200x840@diario_abc.jpg",
+        "fecha": "2026-08-26T16:14:44.000Z",
+        "fuenteId": "abc",
+        "fuenteTitle": "ABC",
         "categorias": [
-          "actualidad",
-          "salud"
+          "actualidad"
         ],
         "idioma": "es"
       },
       {
-        "titulo": "San Bartolomé de las Abiertas cumple 500 años y se cuela en el décimo de la Lotería Nacional",
-        "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/san-bartolome-abiertas-cumple-500-anos-cuela-20260826172819-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/26/20140824_100-RlgC20SSaqY2JlGptSkPKuI-1200x840@diario_abc.jpg",
-        "fecha": "2026-08-26T15:28:20.000Z",
+        "titulo": "Micrófonos con inteligencia artificial para 'escuchar' a aves y murciélagos",
+        "url": "https://www.abc.es/espana/madrid/madrid-escucha-identifica-aves-murcielagos-inteligencia-artificial-20260826171520-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/26/sensor-RuXosYtcUoZTqKfmnp4NsjM-1200x840@diario_abc.jpg",
+        "fecha": "2026-08-26T16:13:05.000Z",
+        "fuenteId": "abc",
+        "fuenteTitle": "ABC",
+        "categorias": [
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Los informáticos gallegos piden enseñar a los niños el uso de pantallas en la educación",
+        "url": "https://www.abc.es/espana/galicia/informaticos-gallegos-piden-ensenar-ninos-uso-pantallas-20260826181117-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/26/Foto%20recurso%20nenos%20mobiles-RucndLGbPGBdU4zcj0z5zTO-1200x840@diario_abc.jpg",
+        "fecha": "2026-08-26T16:11:17.000Z",
         "fuenteId": "abc-espana",
         "fuenteTitle": "ABC - España",
         "categorias": [
@@ -196,12 +145,12 @@
         "idioma": "es"
       },
       {
-        "titulo": "Detenido tras ser grabado maltratando a su perro en Lanzarote",
-        "url": "https://www.abc.es/espana/canarias/detenido-tras-grabado-maltratando-perro-lanzarote-20260826172339-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/26/PERRO-RWcKfjZekkOLQcYA7LYKmvI-1200x840@diario_abc.png",
-        "fecha": "2026-08-26T15:23:40.000Z",
-        "fuenteId": "abc-espana",
-        "fuenteTitle": "ABC - España",
+        "titulo": "Aznar visita este jueves la ciudad de Ceuta en plena crisis por la entrada masiva de inmigrantes",
+        "url": "https://www.elmundo.es/espana/2026/08/26/6a8f0fe0e9cf4af33b8b45a3.html",
+        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/26/17877601381477.jpg",
+        "fecha": "2026-08-26T16:10:26.000Z",
+        "fuenteId": "el-mundo-espana",
+        "fuenteTitle": "El Mundo - España",
         "categorias": [
           "politica",
           "actualidad"
@@ -209,10 +158,71 @@
         "idioma": "es"
       },
       {
-        "titulo": "El Barça cancela el homenaje a los campeones del Mundial y lo cambia por uno de “exaltación” de la bandera independentista",
-        "url": "https://elpais.com/espana/catalunya/2026-08-26/el-barca-cancela-el-homenaje-a-los-campeones-del-mundial-tras-el-incidente-con-la-policia-en-elche.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/KB32SVUFHJFVVA7GUQOZUWWU6M.jpg?auth=626ecfc9e8aef36a7fe4da61b753b47ef9084400dd351d2c01335327e2f95ec5",
-        "fecha": "2026-08-26T15:22:48.000Z",
+        "titulo": "Las impactantes imágenes de la riada: una enorme masa de agua arrasa todo",
+        "url": "https://www.20minutos.es/internacional/las-impactantes-imagenes-riada-nepal-una-enorme-masa-agua-arrasa-todo-su-paso_7029676_0.html",
+        "imagen": "https://imagenes.20minutos.es/uploads/imagenes/2026/08/26/6a8effbd9e30d0-14920062.gif",
+        "fecha": "2026-08-26T16:08:44.000Z",
+        "fuenteId": "20minutos",
+        "fuenteTitle": "20minutos",
+        "categorias": [
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Alemania elimina las jubilaciones a los 63 años cobrando la pensión al completo",
+        "url": "https://www.abc.es/internacional/alemania-elimina-jubilaciones-anos-cobrando-pension-completo-20260826180725-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/08/26/1516424199-R0dPOR8gpmyBrr3luy5yAzK-1200x840@diario_abc.jpg",
+        "fecha": "2026-08-26T16:07:25.000Z",
+        "fuenteId": "abc-internacional",
+        "fuenteTitle": "ABC - Internacional",
+        "categorias": [
+          "internacional",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Unos 500 turistas están desaparecidos por la riada",
+        "url": "https://www.20minutos.es/internacional/riada-nepal-directo-unos-500-turistas-estan-desaparecidos-por-brutal-riada-que-ha-arrasado-frontera-entre-nepal-china_7029706_6.html",
+        "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/08/26/6a8f0e053cf473-84506730.jpeg",
+        "fecha": "2026-08-26T16:06:57.000Z",
+        "fuenteId": "20minutos",
+        "fuenteTitle": "20minutos",
+        "categorias": [
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Muere el actor Tim Curry a los 80 años",
+        "url": "https://www.abc.es/play/cine/noticias/muere-actor-tim-curry-anos-20260826174707-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/08/26/tim-curry-Rx413NEbXoVtJoYxvTDa2aI-1200x840@diario_abc.jpg",
+        "fecha": "2026-08-26T16:06:21.000Z",
+        "fuenteId": "abc",
+        "fuenteTitle": "ABC",
+        "categorias": [
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "\"El Gobierno de Nepal cree que la cifra de muertos puede superar los 10.000\"",
+        "url": "https://www.20minutos.es/internacional/gobierno-nepal-cree-que-cifra-muertos-puede-superar-las-10-000-personas_7029689_0.html",
+        "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/08/26/6a8ec45f941a18-32220812.jpeg",
+        "fecha": "2026-08-26T16:04:06.000Z",
+        "fuenteId": "20minutos",
+        "fuenteTitle": "20minutos",
+        "categorias": [
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "La Fiscalía pide mantener la imputación de Jésica Rodríguez, expareja de Ábalos",
+        "url": "https://elpais.com/espana/2026-08-26/la-fiscalia-pide-mantener-la-imputacion-de-jesica-rodriguez-expareja-de-abalos.html",
+        "imagen": "https://imagenes.elpais.com/resizer/v2/WS24QUL765O7BLWWEQAXUZVMMQ.jpg?auth=80e86ea0231f28caf8775a3e614923153fdd8c3b2a4bfb4325f19ea45b0db368",
+        "fecha": "2026-08-26T16:03:26.000Z",
         "fuenteId": "el-pais",
         "fuenteTitle": "El País",
         "categorias": [
@@ -223,36 +233,23 @@
         "idioma": "es"
       },
       {
-        "titulo": "Las potenciales complicaciones por diabetes tipo 2 varían según el sexo y la edad",
-        "url": "https://efesalud.com/complicaciones-diabetes-2-sexo-edad/",
-        "imagen": "",
-        "fecha": "2026-08-26T15:22:20.000Z",
-        "fuenteId": "efesalud",
-        "fuenteTitle": "EFE Salud",
+        "titulo": "Detenido el conductor del atropello mortal de un militar en Sevilla y que se dio a la fuga",
+        "url": "https://theobjective.com/espana/2026-08-26/detenido-atropello-mortal-militar-sevilla/",
+        "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/08/jose-angel-fernandez-ejercito-aire-469x317.jpg",
+        "fecha": "2026-08-26T16:02:06.000Z",
+        "fuenteId": "the-objective",
+        "fuenteTitle": "The Objective",
         "categorias": [
-          "salud",
-          "actualidad"
+          "actualidad",
+          "politica"
         ],
         "idioma": "es"
       },
       {
-        "titulo": "Esta imagen de Pedro Sánchez y Begoña Gómez en un telesilla en Andorra es de 2024",
-        "url": "https://www.newtral.es/sanchez-vacaciones-andorra/20260826/",
-        "imagen": "https://www.newtral.es/wp-content/uploads/2026/08/IL20260826151909-fake-Sanchez-vacaciones-Andorra-1024x576.jpg",
-        "fecha": "2026-08-26T15:21:04.000Z",
-        "fuenteId": "newtral",
-        "fuenteTitle": "Newtral",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "López Campos no descarta acuerdos con el PSOE para su Pacto da Lingua",
-        "url": "https://www.abc.es/espana/galicia/lopez-campos-descarta-acuerdos-psoe-pacto-lingua-20260826171734-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/26/260826_emprendemento_x-2-RDLjNqVo4qxgNjIUhzgG2JM-1200x840@diario_abc.jpg",
-        "fecha": "2026-08-26T15:20:41.000Z",
+        "titulo": "La Junta aborda el incendio de Niebla junto a los alcaldes con la «prioridad inmediata» de proteger el terreno",
+        "url": "https://www.abc.es/espana/andalucia/junta-aborda-incendio-niebla-junto-alcaldes-prioridad-20260826180121-nts.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/26/andalucia-incendio-berrocal-R13co8hN7U3xmIUPHDmJLCN-1200x840@diario_abc.jpg",
+        "fecha": "2026-08-26T16:01:21.000Z",
         "fuenteId": "abc-espana",
         "fuenteTitle": "ABC - España",
         "categorias": [
@@ -263,6 +260,75 @@
       }
     ],
     "ciencia": [
+      {
+        "titulo": "XGIMI se adelanta a la Vuelta al Cole con una gran rebaja en su elegante proyector Elfin Flip Plus",
+        "url": "https://muyinteresante.okdiario.com/bazar/xgimi-se-adelanta-a-la-vuelta-al-cole-con-una-gran-rebaja-en-su-elegante-proyector-elfin-flip-plus.html",
+        "imagen": "",
+        "fecha": "2026-08-26T16:24:52.000Z",
+        "fuenteId": "muy-interesante",
+        "fuenteTitle": "Muy Interesante",
+        "categorias": [
+          "ciencia",
+          "tecnologia",
+          "cultura"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Apple confirma el evento del iPhone Ultra y los iPhone 18 Pro: fecha, hora y qué esperar",
+        "url": "https://hipertextual.com/apple/apple-fecha-confirmada-evento-iphone-18-pro-y-iphone-ultra/",
+        "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/08/Evento-iPhone-18-pro.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
+        "fecha": "2026-08-26T16:24:41.000Z",
+        "fuenteId": "hipertextual",
+        "fuenteTitle": "Hipertextual",
+        "categorias": [
+          "tecnologia",
+          "ciencia",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "La Fiscalía pide mantener la imputación de Jésica Rodríguez, expareja de Ábalos",
+        "url": "https://elpais.com/espana/2026-08-26/la-fiscalia-pide-mantener-la-imputacion-de-jesica-rodriguez-expareja-de-abalos.html",
+        "imagen": "https://imagenes.elpais.com/resizer/v2/WS24QUL765O7BLWWEQAXUZVMMQ.jpg?auth=80e86ea0231f28caf8775a3e614923153fdd8c3b2a4bfb4325f19ea45b0db368",
+        "fecha": "2026-08-26T16:03:26.000Z",
+        "fuenteId": "el-pais",
+        "fuenteTitle": "El País",
+        "categorias": [
+          "actualidad",
+          "tecnologia",
+          "ciencia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Las batallas de farmear aura en España han pasado de broma a actos reales que convocan a miles de chavales en Vigo, Burgos o Zaragoza",
+        "url": "https://www.xataka.com/magnet/batallas-farmear-aura-espana-han-pasado-broma-a-actos-reales-que-convocan-a-miles-chavales-vigo-burgos-zaragoza",
+        "imagen": "https://i.blogs.es/51af76/farmear-aura/1024_2000.jpeg",
+        "fecha": "2026-08-26T16:01:05.000Z",
+        "fuenteId": "xataka",
+        "fuenteTitle": "Xataka",
+        "categorias": [
+          "tecnologia",
+          "ciencia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Muere a los 80 años el actor Tim Curry, la estrella de ‘The Rocky Horror Picture Show’",
+        "url": "https://elpais.com/cultura/cine/2026-08-26/muere-a-los-80-anos-el-actor-tim-curry-la-estrella-de-the-rocky-horror-picture-show.html",
+        "imagen": "https://imagenes.elpais.com/resizer/v2/7OFV6ES7FFI6NKDCNRRNSEJKZE.jpg?auth=2e7c1dc94669f379d3cfc12623a6dac06393a17d6e2f1577d094360ef2aa65e4",
+        "fecha": "2026-08-26T15:54:21.000Z",
+        "fuenteId": "el-pais",
+        "fuenteTitle": "El País",
+        "categorias": [
+          "actualidad",
+          "tecnologia",
+          "ciencia"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "El precio de la gasolina sube un 20% y el del diésel un 24% desde el inicio del verano",
         "url": "https://elpais.com/economia/2026-08-26/el-precio-de-la-gasolina-sube-un-20-y-el-del-diesel-un-24-desde-el-inicio-del-verano.html",
@@ -464,75 +530,61 @@
           "ciencia"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "La NASA lanza este domingo el telescopio espacial más potente hasta la fecha homenajeando a su primera astrónoma jefe",
-        "url": "https://quo.eldiario.es/ciencia/astro/q2608883713/la-nasa-lanza-este-domingo-el-telescopio-espacial-mas-potente-hasta-la-fecha-homenajeando-a-su-primera-astronoma-jefe",
-        "imagen": "https://quo.eldiario.es/wp-content/uploads/2026/08/rEjCPwMF86GuMbsMMWVJUA-1200-80.jpg-1024x576.webp",
-        "fecha": "2026-08-26T14:26:16.000Z",
-        "fuenteId": "quo",
-        "fuenteTitle": "Quo",
-        "categorias": [
-          "ciencia",
-          "tecnologia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Aznar viaja a Ceuta este jueves en plena crisis",
-        "url": "https://elpais.com/espana/2026-08-26/aznar-viaja-a-ceuta-este-jueves-en-plena-crisis.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/4SALFSZCWJIMBDPX5PIVLOIGAI.jpg?auth=b088a07fb4d75588ef90c77fee48cab70ed58ab4f474bb6a836a6bc897a9f964",
-        "fecha": "2026-08-26T14:18:49.000Z",
-        "fuenteId": "el-pais",
-        "fuenteTitle": "El País",
-        "categorias": [
-          "actualidad",
-          "tecnologia",
-          "ciencia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Apple está perdiendo la guerra de los modelos de IA. Paradójicamente, puede estar ganando la de ejecutarlos en casa",
-        "url": "https://www.xataka.com/robotica-e-ia/apple-esta-perdiendo-guerra-modelos-ia-paradojicamente-puede-estar-ganando-ejecutarlos-casa",
-        "imagen": "https://i.blogs.es/62a32a/mac-studio-ia/1024_2000.jpeg",
-        "fecha": "2026-08-26T14:15:05.000Z",
-        "fuenteId": "xataka",
-        "fuenteTitle": "Xataka",
-        "categorias": [
-          "tecnologia",
-          "ciencia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Realme C100 5G, análisis: cuando un móvil barato entiende que no todo son megapíxeles y potencia",
-        "url": "https://www.xataka.com/analisis/realme-c100-5g-analisis-caracteristicas-precio-especificaciones",
-        "imagen": "https://i.blogs.es/234aff/realme-c100/1024_2000.jpeg",
-        "fecha": "2026-08-26T14:01:05.000Z",
-        "fuenteId": "xataka",
-        "fuenteTitle": "Xataka",
-        "categorias": [
-          "tecnologia",
-          "ciencia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El techo de la humanidad: una infografía acerca de los límites de la población en el planeta y cómo puede acabar teniendo a cero",
-        "url": "http://www.microsiervos.com/archivo/mundoreal/techo-humanidad-limites-poblacion-planeta-tendiendo-cero.html",
-        "imagen": "https://img.microsiervos.com/images2026/HumanityPeak.webp?b",
-        "fecha": "2026-08-26T14:00:07.000Z",
-        "fuenteId": "microsiervos",
-        "fuenteTitle": "Microsiervos",
-        "categorias": [
-          "tecnologia",
-          "ciencia"
-        ],
-        "idioma": "es"
       }
     ],
     "corazon": [
+      {
+        "titulo": "Por qué Dolly Parton rechazó la famosa invitación a tomar el té con la princesa Kate",
+        "url": "https://www.hola.com/realeza/casa_inglesa/20260826920183/dolly-parton-rechazo-invitacion-tomar-te-kate-middleton-razon/",
+        "imagen": "https://www.hola.com/horizon/landscape/766efd0a0b9f-gettyimages-1069333702.jpg",
+        "fecha": "2026-08-26T16:09:32.000Z",
+        "fuenteId": "hola",
+        "fuenteTitle": "¡Hola!",
+        "categorias": [
+          "corazon",
+          "moda"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Dr. Eduardo Junco, pediatra, sobre por qué somatizan niños y adolescentes: “Hay situaciones que les causan ansiedad y estrés y que no saben que les afectan”",
+        "url": "https://www.hola.com/padres/20260826919849/dr-eduardo-junco-pediatra-somatizacion-ninos-adolescentes/",
+        "imagen": "https://www.hola.com/horizon/landscape/0e1660876fe3-whatsapp-image-2025-09-17-at-074947.jpg",
+        "fecha": "2026-08-26T16:05:00.000Z",
+        "fuenteId": "hola",
+        "fuenteTitle": "¡Hola!",
+        "categorias": [
+          "corazon",
+          "moda"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Fernando Lindez y Maia Reficco, sobre 'Sunrise: El último amanecer', la nueva película romántica de Prime Video: \"No hubo química al principio\"",
+        "url": "https://www.cosmopolitan.com/es/entretenimiento-cultura/a73517744/prime-video-the-last-sunrise-fernando-lindez-maia-reficco/",
+        "imagen": "https://hips.hearstapps.com/hmg-prod/images/930e86e6-8cb5-466a-b737-d850d7660c9c.jpg",
+        "fecha": "2026-08-26T16:00:00.000Z",
+        "fuenteId": "cosmopolitan-espana",
+        "fuenteTitle": "Cosmopolitan España",
+        "categorias": [
+          "moda",
+          "corazon"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Se revela el viaje sorpresa del rey Carlos al extranjero mientras el príncipe Harry y Meghan Markle aterrizan en el Reino Unido",
+        "url": "https://www.hola.com/realeza/casa_inglesa/20260826920180/rey-carlos-viaje-sorpresa-extranjero-se-revela-llegada-sussex-reino-unido/",
+        "imagen": "https://www.hola.com/horizon/landscape/cdca65551409-gettyimages-2281280084.jpg",
+        "fecha": "2026-08-26T15:55:48.000Z",
+        "fuenteId": "hola",
+        "fuenteTitle": "¡Hola!",
+        "categorias": [
+          "corazon",
+          "moda"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "El viaje más romántico de Iñaki Urdangarín y Ainhoa Armentia",
         "url": "https://www.diezminutos.es/familia-real/monarquia-espanola/a73532695/inaki-urdangarin-ainhoa-armentia-viaje-mallorca/",
@@ -540,19 +592,6 @@
         "fecha": "2026-08-26T15:40:00.000Z",
         "fuenteId": "diez-minutos",
         "fuenteTitle": "Diez Minutos",
-        "categorias": [
-          "corazon",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La respuesta de Taylor Swift a las críticas: \"Cuando la gente se ríe de mí, es muy divertido reírme yo de ellos\"",
-        "url": "https://www.20minutos.es/gente/respuesta-taylor-swift-las-criticas-cuando-gente-se-rie-mi-es-muy-divertido-reirme-yo-ellos_7029667_0.html",
-        "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/08/14/6a7efeba558d59-84207474.r_d.1502-823-6400.jpeg",
-        "fecha": "2026-08-26T15:38:17.000Z",
-        "fuenteId": "20minutos-gente",
-        "fuenteTitle": "20minutos - Gente",
         "categorias": [
           "corazon",
           "entretenimiento"
@@ -579,6 +618,19 @@
         "fecha": "2026-08-26T15:27:47.000Z",
         "fuenteId": "abc-gente",
         "fuenteTitle": "ABC - Gente",
+        "categorias": [
+          "corazon",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Muy fuerte: Rosa Benito desvela el motivo por el que se ha visto obligada a concursar en ‘Supervivientes’",
+        "url": "https://www.cotilleo.es/2026/08/26/muy-fuerte-rosa-benito-desvela-motivo-por-el-que-ha-visto-obligada-concursar-supervivientes-527987/",
+        "imagen": "https://www.cotilleo.es/wp-content/uploads/2026/07/Rosa-Benito.webp",
+        "fecha": "2026-08-26T15:27:00.000Z",
+        "fuenteId": "cotilleo",
+        "fuenteTitle": "Cotilleo.es",
         "categorias": [
           "corazon",
           "entretenimiento"
@@ -733,64 +785,12 @@
         "idioma": "es"
       },
       {
-        "titulo": "Así es el restaurante especializado en marisco del que han disfrutado Roca Rey y Tana Rivera en la ría de Pontevedra que les une a Sonsoles Ónega",
-        "url": "https://www.diezminutos.es/famosos-corazon/famosos-espanoles/a73528192/roca-rey-tana-rivera-restaurante-a-centoleira-pontevedra-sonsoles-onega/",
-        "imagen": "https://hips.hearstapps.com/hmg-prod/images/de5b3653-bbaa-4722-84b4-3de167a84196.jpg",
-        "fecha": "2026-08-26T14:16:00.000Z",
-        "fuenteId": "diez-minutos",
-        "fuenteTitle": "Diez Minutos",
-        "categorias": [
-          "corazon",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Se complica el regreso de Daniel Sancho a España: Tailandia ultima una normativa que le obligaría a pasar “al menos 20 años” en el país",
-        "url": "https://www.lavanguardia.com/gente/20260826/11620546/complica-regreso-daniel-sancho-espana-tailandia-ultima-normativa-le-obligaria-pasar-20-anos-pais.html",
-        "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/02/04/67a29b2374ae2.r_d.279-143-0.jpeg",
-        "fecha": "2026-08-26T14:15:17.000Z",
-        "fuenteId": "la-vanguardia-gente",
-        "fuenteTitle": "La Vanguardia - Gente",
-        "categorias": [
-          "corazon",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Jennifer Garner revela por qué entró en pánico tras su divorcio de Ben Affleck",
-        "url": "https://www.hola.com/actualidad/20260826920137/jennifer-garner-entro-en-panico-tras-separacion-ben-affleck/",
-        "imagen": "https://www.hola.com/horizon/landscape/aab5b36555e8-jennijfer-port-getty-2.jpg",
-        "fecha": "2026-08-26T14:09:50.000Z",
-        "fuenteId": "hola",
-        "fuenteTitle": "¡Hola!",
-        "categorias": [
-          "corazon",
-          "moda"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Parfois se apunta a la tendencia de las bailarinas destalonadas y lanza un modelo perfecto para sustituir a los zapatos en los nuevos looks de oficina",
-        "url": "https://www.cosmopolitan.com/es/moda/novedades-moda/a73509962/parfois-bailarinas-destalonadas/",
-        "imagen": "https://hips.hearstapps.com/hmg-prod/images/939a0653-1426-4ccd-8c08-fcdf208f0a5e.jpg",
-        "fecha": "2026-08-26T14:00:00.000Z",
-        "fuenteId": "cosmopolitan-espana",
-        "fuenteTitle": "Cosmopolitan España",
-        "categorias": [
-          "moda",
-          "corazon"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Bianca consigue que Marta dude de sí misma en el avance del capítulo 635 del jueves 27 de agosto de 'Sueños de libertad', la serie diaria de Antena 3",
-        "url": "https://www.diezminutos.es/telenovela/espanolas/a73529740/suenos-de-libertad-capitulo-635-avance-jueves-27-agosto-serie-antena-3/",
-        "imagen": "https://hips.hearstapps.com/hmg-prod/images/6540e785-8e08-4e19-8d8c-f30bd77f377c.jpg",
-        "fecha": "2026-08-26T13:45:00.000Z",
-        "fuenteId": "diez-minutos",
-        "fuenteTitle": "Diez Minutos",
+        "titulo": "Terelu Campos rompe a llorar por culpa de Belén Esteban y acaba confesando el motivo de su ruptura",
+        "url": "https://www.cotilleo.es/2026/08/26/terelu-campos-rompe-llorar-culpa-de-belen-esteban-y-acaba-confesando-mayor-secreto-527984/",
+        "imagen": "https://www.cotilleo.es/wp-content/uploads/2026/08/Terelu-Campos.webp",
+        "fecha": "2026-08-26T14:22:00.000Z",
+        "fuenteId": "cotilleo",
+        "fuenteTitle": "Cotilleo.es",
         "categorias": [
           "corazon",
           "entretenimiento"
@@ -799,6 +799,47 @@
       }
     ],
     "cultura": [
+      {
+        "titulo": "XGIMI se adelanta a la Vuelta al Cole con una gran rebaja en su elegante proyector Elfin Flip Plus",
+        "url": "https://muyinteresante.okdiario.com/bazar/xgimi-se-adelanta-a-la-vuelta-al-cole-con-una-gran-rebaja-en-su-elegante-proyector-elfin-flip-plus.html",
+        "imagen": "",
+        "fecha": "2026-08-26T16:24:52.000Z",
+        "fuenteId": "muy-interesante",
+        "fuenteTitle": "Muy Interesante",
+        "categorias": [
+          "ciencia",
+          "tecnologia",
+          "cultura"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Muere Tim Curry, protagonista de ‘The Rocky Horror Picture Show’",
+        "url": "https://jenesaispop.com/2026/08/26/529280/tim-curry-muerte/",
+        "imagen": "",
+        "fecha": "2026-08-26T16:19:32.000Z",
+        "fuenteId": "jenesaipop",
+        "fuenteTitle": "Jenesaispop",
+        "categorias": [
+          "cultura",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El castillo de Ávila que pasó de fortaleza medieval a palacio renacentista",
+        "url": "https://www.espanafascinante.com/articulo/cultura-espanola/castillo-avila-fortaleza-medieval-palacio-renacentista/20260826180000291189.html",
+        "imagen": "https://www.espanafascinante.com/media/espanafascinante/images/2026/08/26/2026082613365516131.jpg",
+        "fecha": "2026-08-26T16:00:00.000Z",
+        "fuenteId": "espana-fascinante",
+        "fuenteTitle": "España Fascinante",
+        "categorias": [
+          "viajes",
+          "cultura",
+          "gastronomia"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Muere Tim Curry a los 80 años, reconocido actor de la serie 'It', 'The Rocky Horror Picture Show' y 'Solo en casa 2'",
         "url": "https://www.elespanol.com/el-cultural/cine/20260826/muere-tim-curry-anos-reconocido-actor-serie-it-the-rocky-horror-picture-show-solo-casa/1003744363958_0.html",
@@ -1017,48 +1058,130 @@
           "cultura"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "‘Subijana, más allá del bigote’ muestra el lado más íntimo del chef vasco",
-        "url": "https://www.tapasmagazine.es/subijana-mas-alla-del-bigote-muestra-el-lado-mas-intimo-del-chef-vasco/",
-        "imagen": "https://www.tapasmagazine.es/wp-content/uploads/2026/08/Pedro-mirada-al-infinito-1024x576.jpg",
-        "fecha": "2026-08-26T12:52:12.000Z",
-        "fuenteId": "tapas-magazine",
-        "fuenteTitle": "Tapas Magazine",
-        "categorias": [
-          "gastronomia",
-          "cultura"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Ciudad de las Artes y las Ciencias, el icono futurista de Valencia",
-        "url": "https://www.espanafascinante.com/articulo/lugares/ciudad-artes-ciencias-valencia-futurista/20220718074500275423.html",
-        "imagen": "https://www.espanafascinante.com/media/espanafascinante/images/2026/08/26/2026082614450826695.jpg",
-        "fecha": "2026-08-26T12:49:00.000Z",
-        "fuenteId": "espana-fascinante",
-        "fuenteTitle": "España Fascinante",
-        "categorias": [
-          "viajes",
-          "cultura",
-          "gastronomia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Confirman la causa de la muerte de la cantante Dolly Parton",
-        "url": "https://www.abc.es/cultura/musica/confirman-causa-muerte-cantante-dolly-parton-20260826144848-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/08/26/1474186505-kUqE-U301438653594xxH-1200x840@diario_abc.jpg",
-        "fecha": "2026-08-26T12:48:49.000Z",
-        "fuenteId": "abc-cultura",
-        "fuenteTitle": "ABC - Cultura",
-        "categorias": [
-          "cultura"
-        ],
-        "idioma": "es"
       }
     ],
     "deportes": [
+      {
+        "titulo": "Brennan vuelve a rematar otra lanzadera perfecta del Visma en la Vuelta a España",
+        "url": "https://elpais.com/deportes/ciclismo/2026-08-26/brennan-vuelve-a-rematar-otra-lanzadera-perfecta-del-visma-en-la-vuelta-a-espana.html",
+        "imagen": "https://imagenes.elpais.com/resizer/v2/2R2QHIRW6FO6DPBDI5SNV2HSJQ.jpg?auth=b7e9a6a312f210a96546cd197d505dc232d1e19ac0f71decc65ad9a63d6a6898",
+        "fecha": "2026-08-26T16:21:52.000Z",
+        "fuenteId": "el-pais-deportes",
+        "fuenteTitle": "El País - Deportes",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Ai Ogura vuelve lesionado de Japón y es baja para el GP de Aragón; Savadori será su sustituto",
+        "url": "https://es.motorsport.com/motogp/news/ogura-lesionado-japon-baja-aragon-savadori-sustituto-motogp/10849619/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=es",
+        "imagen": "https://cdn-2.motorsport.com/images/amp/Y9lNokP2/s6/ai-ogura-trackhouse-racing.jpg",
+        "fecha": "2026-08-26T16:17:54.000Z",
+        "fuenteId": "motorsport-espana",
+        "fuenteTitle": "Motorsport.com España",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Las mejores imágenes de la quinta etapa",
+        "url": "https://as.com/ciclismo/fotorrelato/las-mejores-imagenes-de-la-quinta-etapa-f202608-f/",
+        "imagen": "https://img.asmedia.epimg.net/resizer/v2/QIEYDVNWQNHVDJLBJO2SHUEP4M.JPG?auth=792b987ae978b890aaf6385398a836eefc8c29451f4ca1376122a329af347f3b",
+        "fecha": "2026-08-26T16:17:41.000Z",
+        "fuenteId": "as",
+        "fuenteTitle": "AS",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El carrusel de pasaportes de Macedonia del Norte: Moses Wrigth, el último de una larga lista",
+        "url": "https://www.gigantes.com/selecciones/moses-wright-nacionalizado-macedonia-del-norte/",
+        "imagen": "https://www.gigantes.com/wp-content/uploads/sites/4/2026/08/Portada-agosto-peque.jpg",
+        "fecha": "2026-08-26T16:10:15.000Z",
+        "fuenteId": "gigantes-basket",
+        "fuenteTitle": "Gigantes del Basket",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Matthew Brennan es el Pogacar de los esprints",
+        "url": "https://www.abc.es/deportes/ciclismo/matthew-brennan-pogacar-esprints-20260826180612-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/08/26/brenan-RifBzfdfrY0Z1NQEaK0hsCP-1200x840@diario_abc.jpg",
+        "fecha": "2026-08-26T16:08:28.000Z",
+        "fuenteId": "abc-deportes",
+        "fuenteTitle": "ABC - Deportes",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "“Alonso todavía tiene ese motor dentro”",
+        "url": "https://as.com/motor/formula_1/alonso-todavia-tiene-ese-motor-dentro-f202608-n/",
+        "imagen": "https://img.asmedia.epimg.net/resizer/v2/TEYXMK5YO5EQPFCS2TMGHQOTBY.jpg?auth=69da4afe13c3d75bea36e7847fa8c85a6cc212785ef08201fa706c2a32c2b5e7",
+        "fecha": "2026-08-26T16:08:15.000Z",
+        "fuenteId": "as",
+        "fuenteTitle": "AS",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Márquez: \"Motorland potencia al máximo mis características y el pilotaje de nuestra moto\"",
+        "url": "https://es.motorsport.com/motogp/news/marquez-motorland-potencia-caracteristicas-pilotaje-ducati-declaraciones/10849604/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=es",
+        "imagen": "https://cdn-5.motorsport.com/images/amp/6b8ZppL2/s6/marc-marquez-ducati-team.jpg",
+        "fecha": "2026-08-26T16:08:10.000Z",
+        "fuenteId": "motorsport-espana",
+        "fuenteTitle": "Motorsport.com España",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Parece Noruega o Islandia, pero está en Teruel: la cascada cristalina perfecta para una escapada en camper",
+        "url": "https://www.motorpasion.com/furgonetas-y-caravanas/parece-noruega-islandia-esta-teruel-cascada-cristalina-perfecta-para-escapada-camper",
+        "imagen": "https://i.blogs.es/605dfb/cascada-molino-san-pedro-teruel/1024_2000.jpeg",
+        "fecha": "2026-08-26T16:01:04.000Z",
+        "fuenteId": "motorpasion",
+        "fuenteTitle": "Motorpasión",
+        "categorias": [
+          "tecnologia",
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Un agricultor tiene que cerrar una granja de piñones de 80 años por un inesperado enemigo",
+        "url": "https://as.com/actualidad/sociedad/un-agricultor-tiene-que-cerrar-una-granja-de-pinones-de-80-anos-por-un-inesperado-enemigo-f202608-n/",
+        "imagen": "https://img.asmedia.epimg.net/resizer/v2/CGNW333RZVEN3ORZRFBA6W24IQ.png?auth=3f2c932b93a91c33732a6e87d2ae1ec03cbfb3bdfbbfc264085749cb4bc41bfc",
+        "fecha": "2026-08-26T16:00:22.000Z",
+        "fuenteId": "as",
+        "fuenteTitle": "AS",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Análisis de Resonance: A Plague Tale Legacy, una versión modesta de las aventuras de Lara Croft y Nathan Drake",
+        "url": "https://as.com/meristation/analisis/analisis-de-resonance-a-plague-tale-legacy-una-version-modesta-de-las-aventuras-de-lara-croft-y-nathan-drake-f202608-n/",
+        "imagen": "https://img.asmedia.epimg.net/resizer/v2/MTJPXJT7YBES7LIGJMVIBQXOAM.jpg?auth=8a54dd42e9ec285e438df3c6eabc00ad14c1cc199ed895dfa875fd8f4f1bc056",
+        "fecha": "2026-08-26T16:00:00.000Z",
+        "fuenteId": "as",
+        "fuenteTitle": "AS",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Álvaro Benito señala la pieza que le falta al Real Madrid de Mourinho: “Es lo más similar a Rodri...”",
         "url": "https://as.com/futbol/videos/alvaro-benito-senala-la-pieza-que-le-falta-al-real-madrid-de-mourinho-es-lo-mas-similar-a-rodri-f202608-v/",
@@ -1066,6 +1189,30 @@
         "fecha": "2026-08-26T15:53:02.000Z",
         "fuenteId": "as",
         "fuenteTitle": "AS",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Boticaria García lo deja claro y explica si es más sano tomar una Coca-Cola Zero o una cerveza 0,0: “Si no los tomas, pues mejor”",
+        "url": "https://as.com/tikitakas/gastronomia/boticaria-garcia-lo-deja-claro-y-explica-si-es-mas-sano-tomar-una-coca-cola-zero-o-una-cerveza-00-si-no-los-tomas-pues-mejor-f202608-n/",
+        "imagen": "https://vdmedia.as.com/mcv/diarioas/multimedia/20250808/1079633_081736_video_1200.mp4",
+        "fecha": "2026-08-26T15:52:34.000Z",
+        "fuenteId": "as",
+        "fuenteTitle": "AS",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Buen inicio de España en el Mundial de piragüismo sprint",
+        "url": "https://www.mundodeportivo.com/otros-deportes/20260826/1004220042/buen-inicio-espana-mundial-piragueismo-sprint.html",
+        "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/08/26/6a8f0ba79ece5.jpeg",
+        "fecha": "2026-08-26T15:52:32.000Z",
+        "fuenteId": "mundo-deportivo",
+        "fuenteTitle": "Mundo Deportivo",
         "categorias": [
           "deportes"
         ],
@@ -1084,12 +1231,60 @@
         "idioma": "es"
       },
       {
+        "titulo": "Vargas responde a su regreso al trabajo con un 'I'm Back' mientras se decide su futuro",
+        "url": "https://www.abc.es/deportes/orgullodenervion/noticias-sevilla-fc/vargas-responde-regreso-back-decide-futuro-20260826172420-nts.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/08/26/WhatsApp%20Image%202026-08-26%20at%2016.48.42-Rk5BsHQbWVb5d5pHguZFvsK-1200x840@diario_abc.jpeg",
+        "fecha": "2026-08-26T15:50:15.000Z",
+        "fuenteId": "abc-deportes",
+        "fuenteTitle": "ABC - Deportes",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Brennan culmina otra jugada maestra del equipo Visma en La Vuelta",
+        "url": "https://www.mundodeportivo.com/ciclismo/vuelta-espana/20260826/1004220040/brennan-culmina-jugada-maestra-equipo-visma-vuelta.html",
+        "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/08/26/6a8f0a95c4e22.png",
+        "fecha": "2026-08-26T15:49:34.000Z",
+        "fuenteId": "mundo-deportivo",
+        "fuenteTitle": "Mundo Deportivo",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Javier Medina, propietario de 8 pisos: \"Si sube todo, ¿quién lo asume? ¿Le quito comida a mi hijo? No, se le repercute al cliente\"",
+        "url": "https://www.mundodeportivo.com/actualidad/20260826/1004220037/javier-medina-propietario-8-pisos-todos-impuestos-son-mas-caros-subido-asumir-le-quito-comida-mi-hijo-no-le-repercute-cliente-dnr-dct.html",
+        "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2025/11/27/692788b0951a1.jpeg",
+        "fecha": "2026-08-26T15:45:07.000Z",
+        "fuenteId": "mundo-deportivo",
+        "fuenteTitle": "Mundo Deportivo",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Sterling, acusado de conducción temeraria y posesión de óxido nitroso tras estrellar su coche",
         "url": "https://www.elmundo.es/deportes/futbol/2026/08/26/6a8f09ece9cf4aeb1f8b45b6.html",
         "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/26/17877590465598.jpg",
         "fecha": "2026-08-26T15:44:48.000Z",
         "fuenteId": "el-mundo-deportes",
         "fuenteTitle": "El Mundo - Deportes",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Bulgak: potencia WNBA para el juego interior del Spar Girona",
+        "url": "https://www.mundodeportivo.com/baloncesto/basket-feb/20260826/1004220036/bulgak-potencia-wnba-juego-interior-spar-girona.html",
+        "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/08/26/6a8f09706b9fb.jpeg",
+        "fecha": "2026-08-26T15:43:14.000Z",
+        "fuenteId": "mundo-deportivo",
+        "fuenteTitle": "Mundo Deportivo",
         "categorias": [
           "deportes"
         ],
@@ -1106,202 +1301,155 @@
           "deportes"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "Así son los dos túneles de Madring, el circuito de la Fórmula 1 de Madrid, y que conectan Valdebebas e Ifema",
-        "url": "https://www.20minutos.es/deportes/deportes_motor/formula-1/asi-son-los-dos-tuneles-madring-circuito-formula-1-madrid-que-conectan-valdebebas-ifema_7029466_0.html",
-        "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/08/25/6a8dc2dd1abfa0-50869517.jpeg",
-        "fecha": "2026-08-26T15:41:16.000Z",
-        "fuenteId": "20minutos-deportes",
-        "fuenteTitle": "20minutos - Deportes",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Los sevillanos del dos sin timonel regresan en Ámsterdam a una final mundialista",
-        "url": "https://www.abc.es/deportes/sevilla/sevillanos-dos-timonel-regresan-amsterdam-final-mundialista-20260826173704-nts.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/08/26/canalejo-garcia-mundial-amsterdam-R2ANaLlx3d5yW43Gyhea2tO-1200x840@diario_abc.jpg",
-        "fecha": "2026-08-26T15:37:04.000Z",
-        "fuenteId": "abc-deportes",
-        "fuenteTitle": "ABC - Deportes",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Muere Tim Curry, actor de ‘Solo en casa 2′ y ‘The Rocky Horror Picture Show’",
-        "url": "https://as.com/meristation/cine/muere-tim-curry-actor-de-solo-en-casa-2-y-the-rocky-horror-picture-show-f202608-n/",
-        "imagen": "https://img.asmedia.epimg.net/resizer/v2/YFESZKRVKVFVXCKL7YU5JR2N64.jpg?auth=5a0f9d8bde43a504ab09d4a083fb5339cac0bb3d2ccc1a9681995ce49e41de46",
-        "fecha": "2026-08-26T15:36:26.000Z",
-        "fuenteId": "as",
-        "fuenteTitle": "AS",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Brennan vence al esprint en el día de los mortales en La Vuelta",
-        "url": "https://as.com/ciclismo/vuelta_espana/brennan-vence-al-esprint-en-el-dia-de-los-mortales-en-la-vuelta-f202608-n/",
-        "imagen": "https://img.asmedia.epimg.net/resizer/v2/EMQBLEDBDFK57CTY3HWKR6FDRM.jpg?auth=4e48d8bd953fb14195f8b6a7c5a00e5f2652ff8b43b4f46048a91669a56aabc1",
-        "fecha": "2026-08-26T15:34:33.000Z",
-        "fuenteId": "as",
-        "fuenteTitle": "AS",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La FIA publica el segundo ADUO en la F1: Red Bull sigue siendo el referente",
-        "url": "https://es.motorsport.com/f1/news/fia-publica-segundo-aduo-red-bull-referente/10849609/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=es",
-        "imagen": "https://cdn-1.motorsport.com/images/amp/2dEozQZY/s6/max-verstappen-red-bull-racing-2.jpg",
-        "fecha": "2026-08-26T15:33:56.000Z",
-        "fuenteId": "motorsport-espana",
-        "fuenteTitle": "Motorsport.com España",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Yamaha: \"Algo nuevo está por llegar\". Podría ser la Ténéré 900 de tres cilindros, y ya hay fecha para el estreno",
-        "url": "https://www.motorpasionmoto.com/trail/yamaha-algo-nuevo-esta-llegar-podria-ser-tenere-900-tres-cilindros-hay-fecha-para-estreno",
-        "imagen": "https://i.blogs.es/92c360/portada-mop-1787740843045/1024_2000.jpeg",
-        "fecha": "2026-08-26T15:31:04.000Z",
-        "fuenteId": "motorpasion-moto",
-        "fuenteTitle": "Motorpasión Moto",
-        "categorias": [
-          "tecnologia",
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Raquel, interiorista: “Cuando reformo un espacio esto es lo que siempre tengo en cuenta con los enchufes y no todo el mundo lo piensa”",
-        "url": "https://as.com/tikitakas/estilo/raquel-interiorista-cuando-reformo-un-espacio-esto-es-lo-que-siempre-tengo-en-cuenta-con-los-enchufes-y-no-todo-el-mundo-lo-piensa-f202608-n/",
-        "imagen": "https://img.asmedia.epimg.net/resizer/v2/PZ6T6ZHVDFBS7IJ7K4JRRJQQCY.png?auth=ac950703691edce9ac6b2f212a4a14dfe3eb93290c1c4348892cc3f6b6c5aa1d",
-        "fecha": "2026-08-26T15:29:45.000Z",
-        "fuenteId": "as",
-        "fuenteTitle": "AS",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "3-1: España también pierde con Portugal y roza el KO en el Europeo femenino",
-        "url": "https://www.mundodeportivo.com/voleibol/20260826/1004220025/3-1-espana-pierde-portugal-roza-ko-europeo-femenino.html",
-        "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/08/26/6a8f048861b1b.jpeg",
-        "fecha": "2026-08-26T15:22:32.000Z",
-        "fuenteId": "mundo-deportivo",
-        "fuenteTitle": "Mundo Deportivo",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Así vestirán los equipos de la Liga Endesa: Todas las equipaciones de la 26/27",
-        "url": "https://www.gigantes.com/liga-endesa/camisetas-equipaciones-liga-endesa-2026-27/",
-        "imagen": "https://www.gigantes.com/wp-content/uploads/sites/4/2026/08/Asisa-Joventut.png",
-        "fecha": "2026-08-26T15:20:47.000Z",
-        "fuenteId": "gigantes-basket",
-        "fuenteTitle": "Gigantes del Basket",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "No habrá Liverpool-Real Madrid en Anfield en la liguilla de la Champions",
-        "url": "https://www.mundodeportivo.com/futbol/real-madrid/20260826/1004220023/no-habra-liverpool-real-madrid-anfield-liguilla-champions.html",
-        "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2025/11/05/690a8d32747bf.r_d.2053-1027-0.jpeg",
-        "fecha": "2026-08-26T15:18:57.000Z",
-        "fuenteId": "mundo-deportivo",
-        "fuenteTitle": "Mundo Deportivo",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El dineral que dejó La Vuelta en Andorra previo pago de unos 250.000 euros",
-        "url": "https://www.mundodeportivo.com/ciclismo/vuelta-espana/20260826/1004220022/dineral-dejo-vuelta-andorra-previo-pago-250-000-euros.html",
-        "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/08/26/6a8f00e7b98c4.jpeg",
-        "fecha": "2026-08-26T15:09:03.000Z",
-        "fuenteId": "mundo-deportivo",
-        "fuenteTitle": "Mundo Deportivo",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Los motores Ferrari con el ADUO2 ya están listos: ¿debutarán en Monza?",
-        "url": "https://es.motorsport.com/f1/news/ferrari-motores-aduo2-listos-debut-monza-duda/10849564/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=es",
-        "imagen": "https://cdn-8.motorsport.com/images/amp/27NQmLO0/s6/dettaglio-tecnico-ferrari-sf-2.jpg",
-        "fecha": "2026-08-26T15:07:02.000Z",
-        "fuenteId": "motorsport-espana",
-        "fuenteTitle": "Motorsport.com España",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Los españoles eligen a los famosos más atractivos: Maxi Iglesias y Ana de Armas conquistan el primer puesto",
-        "url": "https://www.mundodeportivo.com/elotromundo/gente/20260826/1004220009/espanoles-eligen-famosos-atractivos-maxi-iglesias-ana-armas-conquistan-primer-puesto-dct.html",
-        "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/08/26/6a8f00f0d4711.png",
-        "fecha": "2026-08-26T15:06:58.000Z",
-        "fuenteId": "mundo-deportivo",
-        "fuenteTitle": "Mundo Deportivo",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Árbitro madrileño para el debut del Barça en casa",
-        "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260826/1004220018/arbitro-madrileno-debut-barca-casa.html",
-        "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2025/02/06/67a5307206e4c.jpeg",
-        "fecha": "2026-08-26T15:06:11.000Z",
-        "fuenteId": "mundo-deportivo",
-        "fuenteTitle": "Mundo Deportivo",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Vertieron tinte fluorescente en el suelo y siguieron su recorrido: lo que descubrieron cambió el mapa de la cueva más larga del mundo",
-        "url": "https://as.com/actualidad/sociedad/vertieron-tinte-fluorescente-en-el-suelo-y-siguieron-su-recorrido-lo-que-descubrieron-cambio-el-mapa-de-la-cueva-mas-larga-del-mundo-f202608-n/",
-        "imagen": "https://img.asmedia.epimg.net/resizer/v2/HMMXSDO2QJDTNKEEXINOKMQOOQ.jpg?auth=afdf00994a5a97b551a25188726fd45d9eed4ed1371f678e82d3b005b8a3458f",
-        "fecha": "2026-08-26T15:05:59.000Z",
-        "fuenteId": "as",
-        "fuenteTitle": "AS",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Spar Girona remata su grupo de jugadoras con Adut Bulgak: Así queda la plantilla",
-        "url": "https://www.gigantes.com/liga-femenina/spar-girona-adut-bulgak-asi-queda-la-plantilla/",
-        "imagen": "https://www.gigantes.com/wp-content/uploads/sites/4/2026/08/Portada-agosto-peque.jpg",
-        "fecha": "2026-08-26T15:05:07.000Z",
-        "fuenteId": "gigantes-basket",
-        "fuenteTitle": "Gigantes del Basket",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
       }
     ],
     "economia": [
+      {
+        "titulo": "Las acciones de Qfin caen un 18% tras múltiples rebajas de analistas",
+        "url": "https://es.investing.com/news/stock-market-news/las-acciones-de-qfin-caen-un-18-tras-multiples-rebajas-de-analistas-93CH-3811837",
+        "imagen": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg",
+        "fecha": "2026-08-26T16:08:54.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "La acción de Cullinan Oncology alcanza un máximo de 52 semanas en 23,07 dólares",
+        "url": "https://es.investing.com/news/company-news/la-accion-de-cullinan-oncology-alcanza-un-maximo-de-52-semanas-en-2307-dolares-93CH-3811836",
+        "imagen": "https://content-media.investing.com/news/LYNXMPEM3115H_1200_L.jpg",
+        "fecha": "2026-08-26T16:08:44.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "¿Por qué sube hoy la acción de Western Digital?",
+        "url": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-western-digital-93CH-3811829",
+        "imagen": "",
+        "fecha": "2026-08-26T16:05:36.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Ejecutivo de Fox participará en conferencia de Goldman Sachs el 9 de septiembre",
+        "url": "https://es.investing.com/news/company-news/ejecutivo-de-fox-participara-en-conferencia-de-goldman-sachs-el-9-de-septiembre-93CH-3811827",
+        "imagen": "",
+        "fecha": "2026-08-26T16:04:57.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Las acciones de EPAM Systems caen tras la rebaja de JPMorgan",
+        "url": "https://es.investing.com/news/stock-market-news/las-acciones-de-epam-systems-caen-tras-la-rebaja-de-jpmorgan-93CH-3811826",
+        "imagen": "https://content-media.investing.com/news/LYNXMPEB0F0RW_M.jpg",
+        "fecha": "2026-08-26T16:04:34.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Global X ETFs II ICAV nombra a Ho Wah Fok como director",
+        "url": "https://es.investing.com/news/company-news/global-x-etfs-ii-icav-nombra-a-ho-wah-fok-como-director-93CH-3811825",
+        "imagen": "https://content-media.investing.com/news/LYNXMPEM4C131_1200_L.jpg",
+        "fecha": "2026-08-26T16:03:26.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "US Tiger Securities recorta el precio objetivo de Li Auto por márgenes débiles",
+        "url": "https://es.investing.com/news/analyst-ratings/us-tiger-securities-recorta-el-precio-objetivo-de-li-auto-por-margenes-debiles-93CH-3811824",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM450ND_1200_L.jpg",
+        "fecha": "2026-08-26T16:02:01.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Cycurion ejecutará un contrasplit de acciones 1 por 8 el jueves",
+        "url": "https://es.investing.com/news/company-news/cycurion-ejecutara-un-contrasplit-de-acciones-1-por-8-el-jueves-93CH-3811823",
+        "imagen": "https://content-media.investing.com/news/LYNXMPEM3S10Z_1200_L.jpg",
+        "fecha": "2026-08-26T16:01:26.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El IBEX 35 se desinfla en la recta final y desperdicia la caída del petróleo",
+        "url": "https://www.finanzas.com/ibex-35/ibex-35-desinfla-recta-final-desperdicia-caida-petroleo.html",
+        "imagen": "",
+        "fecha": "2026-08-26T15:59:04.000Z",
+        "fuenteId": "finanzas-com",
+        "fuenteTitle": "Finanzas.com",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Mercadona revoluciona sus supermercados en Bilbao: así es su nueva 'Tienda 9' de Miribilla tras invertir 1,9 millones de euros",
+        "url": "https://www.elmundo.es/economia/empresas/2026/08/26/6a8f0d0de4d4d885548b457b.html",
+        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/26/17877597765205.jpg",
+        "fecha": "2026-08-26T15:58:14.000Z",
+        "fuenteId": "el-mundo-economia",
+        "fuenteTitle": "El Mundo - Economía",
+        "categorias": [
+          "economia",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Marvell en el Six Five Summit: el crecimiento de la infraestructura de IA se amplía",
+        "url": "https://es.investing.com/news/transcripts/marvell-en-el-six-five-summit-el-crecimiento-de-la-infraestructura-de-ia-se-amplia-93CH-3811817",
+        "imagen": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg",
+        "fecha": "2026-08-26T15:55:19.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Las 5 noticias más destacadas de la jornada",
+        "url": "https://todotvnews.com/las-5-noticias-mas-destacadas-de-la-jornada-1317/",
+        "imagen": "https://todotvnews.com/wp-content/uploads/2026/08/DeepInLove11.jpg",
+        "fecha": "2026-08-26T15:54:03.000Z",
+        "fuenteId": "ttv-news",
+        "fuenteTitle": "TTV News",
+        "categorias": [
+          "entretenimiento",
+          "economia"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Biohaven mantiene calificación de compra en TD Cowen tras acuerdo con SK",
         "url": "https://es.investing.com/news/analyst-ratings/biohaven-mantiene-calificacion-de-compra-en-td-cowen-tras-acuerdo-con-sk-93CH-3811815",
@@ -1397,157 +1545,214 @@
           "economia"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "El vicepresidente de MasterBrand, Mark Young, vende acciones por 54.900 dólares",
-        "url": "https://es.investing.com/news/insider-trading-news/el-vicepresidente-de-masterbrand-mark-young-vende-acciones-por-54900-dolares-93CH-3811799",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0WG_1200_L.jpg",
-        "fecha": "2026-08-26T15:31:55.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Waystar lanza herramientas autónomas de pago sanitario con IA",
-        "url": "https://es.investing.com/news/company-news/waystar-lanza-herramientas-autonomas-de-pago-sanitario-con-ia-93CH-3811792",
-        "imagen": "https://content-media.investing.com/news/LYNXMPEM451H2_1200_L.jpg",
-        "fecha": "2026-08-26T15:29:21.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Unas CC.AA. reciben hasta cuatro veces más recursos que otras para financiar las mismas competencias",
-        "url": "https://www.abc.es/economia/ccaa-reciben-cuatro-veces-recursos-financiar-competencias-20260826165458-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/08/26/1514750484-R0C1q2x7C0w7s0ZcbB6ucAP-1200x840@diario_abc.jpg",
-        "fecha": "2026-08-26T15:16:57.000Z",
-        "fuenteId": "abc-economia",
-        "fuenteTitle": "ABC - Economía",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El Consorcio de Seguros comienza a pagar los 100 M€ previstos por los daños de los terremotos de Granada",
-        "url": "https://www.elespanol.com/observatorio-seguros/20260826/consorcio-seguros-comienza-hoy-pagar-meur-previstos-danos-terremotos-granada/1003744363897_0.html",
-        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11337352.jpg?p=w:1706/h:960&h=R1A0zZ11",
-        "fecha": "2026-08-26T15:16:26.000Z",
-        "fuenteId": "el-espanol-economia",
-        "fuenteTitle": "El Español - Economía",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "HBO Max, Disney+, Luzu TV, Telemundo Studios, Mediacrest, Minuto 90 Films y Radio Ambulante adelantan sus novedades en Iberseries & Platino Industria 2026",
-        "url": "https://todotvnews.com/hbo-max-disney-luzu-tv-telemundo-studios-mediacrest-minuto-90-films-y-radio-ambulante-adelantan-sus-novedades-en-iberseries-platino-industria-2026/",
-        "imagen": "https://todotvnews.com/wp-content/uploads/2026/08/Vespera-HBO-Max-nt.jpg",
-        "fecha": "2026-08-26T15:15:38.000Z",
-        "fuenteId": "ttv-news",
-        "fuenteTitle": "TTV News",
-        "categorias": [
-          "entretenimiento",
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Junts vuelve a la carga y registra de nuevo la ley del traspaso en inmigración",
-        "url": "https://www.expansion.com/catalunya/2026/08/26/6a8ee0b4468aebea638b4578.html",
-        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/08/26/17877554211159.jpg",
-        "fecha": "2026-08-26T15:07:42.000Z",
-        "fuenteId": "expansion",
-        "fuenteTitle": "Expansión",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Deep in Love, de OGM Universe, se convierte en el drama más visto en el prime time de Panamá",
-        "url": "https://todotvnews.com/deep-in-love-de-ogm-universe-se-convierte-en-el-drama-mas-visto-en-el-prime-time-de-panama/",
-        "imagen": "https://todotvnews.com/wp-content/uploads/2026/08/DeepInLove11.jpg",
-        "fecha": "2026-08-26T15:00:41.000Z",
-        "fuenteId": "ttv-news",
-        "fuenteTitle": "TTV News",
-        "categorias": [
-          "entretenimiento",
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Adiós a las cartas de la Seguridad Social: estos trabajadores recibirán sus avisos por vía electrónica a partir del 1 de septiembre",
-        "url": "https://www.20minutos.es/lainformacion/economia-y-finanzas/adios-las-cartas-seguridad-social-estos-trabajadores-recibiran-sus-avisos-por-via-electronica-partir-1-septiembre_7029656_0.html",
-        "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/05/17/seguridad-social.jpeg",
-        "fecha": "2026-08-26T14:57:56.000Z",
-        "fuenteId": "20minutos-economia",
-        "fuenteTitle": "20minutos - Economía",
-        "categorias": [
-          "economia",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El Gobierno prevé pagar más de 100 millones en indemnizaciones a los afectados por los terremotos de Granada",
-        "url": "https://www.20minutos.es/lainformacion/economia-y-finanzas/gobierno-preve-pagar-mas-100-millones-indemnizaciones-los-afectados-por-los-terremotos-granada_7029646_0.html",
-        "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/08/26/6a8efe50cd62d5-01727090.jpeg",
-        "fecha": "2026-08-26T14:56:08.000Z",
-        "fuenteId": "20minutos-economia",
-        "fuenteTitle": "20minutos - Economía",
-        "categorias": [
-          "economia",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La acción de Nike alcanza un mínimos de 52 semanas en 38,84 dólares",
-        "url": "https://es.investing.com/news/company-news/la-accion-de-nike-alcanza-un-minimos-de-52-semanas-en-3884-dolares-93CH-3811748",
-        "imagen": "https://content-media.investing.com/news/LYNXMPEM1J0WY_1200_L.jpg",
-        "fecha": "2026-08-26T14:40:45.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "EE.UU. dice haber desmantelado una operación de hackeo chino contra agencias gubernamentales",
-        "url": "https://es.investing.com/news/economy-news/eeuu-dice-haber-desmantelado-una-operacion-de-hackeo-chino-contra-agencias-gubernamentales-93CH-3811747",
-        "imagen": "https://content-media.investing.com/news/LYNXMPEABT0MT_M.jpg",
-        "fecha": "2026-08-26T14:40:14.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "D.A. Davidson reitera su recomendación de compra para Palo Alto Networks",
-        "url": "https://es.investing.com/news/analyst-ratings/da-davidson-reitera-su-recomendacion-de-compra-para-palo-alto-networks-93CH-3811746",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM4510G_1200_L.jpg",
-        "fecha": "2026-08-26T14:39:54.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
       }
     ],
     "entretenimiento": [
+      {
+        "titulo": "Llega los nuevos descuentos de la Gamescom a PS Store, y estas son sus 40 mejores ofertas para PS4 y PS5: Expedition 33, Crimson Desert, 007 y más",
+        "url": "https://areajugones.sport.es/videojuegos/llega-los-nuevos-descuentos-de-la-gamescom-a-ps-store-y-estas-son-sus-40-mejores-ofertas-para-ps4-y-ps5-expedition-33-crimson-desert-007-y-mas/",
+        "imagen": "https://areajugones.sport.es/wp-content/uploads/2026/08/ps-store-gamescom-1024x576.jpg",
+        "fecha": "2026-08-26T16:28:32.000Z",
+        "fuenteId": "areajugones",
+        "fuenteTitle": "Areajugones",
+        "categorias": [
+          "tecnologia",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Bigby vuelve a Fabletown el 29 de octubre: The Wolf Among Us Remastered llega justo a tiempo para Halloween",
+        "url": "https://areajugones.sport.es/videojuegos/bigby-vuelve-a-fabletown-el-29-de-octubre-the-wolf-among-us-remastered-llega-justo-a-tiempo-para-halloween/",
+        "imagen": "https://areajugones.sport.es/wp-content/uploads/2026/08/the-wolf-among-us-1024x576.jpg",
+        "fecha": "2026-08-26T16:27:02.000Z",
+        "fuenteId": "areajugones",
+        "fuenteTitle": "Areajugones",
+        "categorias": [
+          "tecnologia",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Apple confirma el evento del iPhone Ultra y los iPhone 18 Pro: fecha, hora y qué esperar",
+        "url": "https://hipertextual.com/apple/apple-fecha-confirmada-evento-iphone-18-pro-y-iphone-ultra/",
+        "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/08/Evento-iPhone-18-pro.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
+        "fecha": "2026-08-26T16:24:41.000Z",
+        "fuenteId": "hipertextual",
+        "fuenteTitle": "Hipertextual",
+        "categorias": [
+          "tecnologia",
+          "ciencia",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "RTVE confirma el polémico salto de 'Cine de Barrio' a La 2 tras el despido de Inés Ballester y anuncia sus cambios",
+        "url": "https://eltelevisero.huffingtonpost.es/2026/08/rtve-confirma-el-polemico-salto-de-cine-de-barrio-a-la-2-tras-el-despido-de-ines-ballester-y-anuncia-sus-cambios/",
+        "imagen": "https://eltelevisero.huffingtonpost.es/wp-content/uploads/2026/08/cine-de-barrio-rtve-1.jpg",
+        "fecha": "2026-08-26T16:18:18.000Z",
+        "fuenteId": "el-televisero",
+        "fuenteTitle": "El Televisero",
+        "categorias": [
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Muere a los 80 años Tim Curry, actor de 'Rocky Horror Picture Show' y que interpretó al payaso de 'It'",
+        "url": "https://www.huffingtonpost.es/life/cultura/muere-80nos-tim-curry-actor-rocky-horror-picture-show-interpreto-payaso-it-f202608.html",
+        "imagen": "",
+        "fecha": "2026-08-26T16:15:36.000Z",
+        "fuenteId": "huffpost-espana",
+        "fuenteTitle": "HuffPost España",
+        "categorias": [
+          "actualidad",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Ha muerto Tim Curry, el icónico actor de 'Rocky Horror Picture Show' y 'Eso' a los 80 años",
+        "url": "https://www.espinof.com/actores-y-actrices/ha-muerto-tim-curry-iconico-actor-show-horror-e-rocky-eso-a-80-anos",
+        "imagen": "https://i.blogs.es/b7822f/ha-muerto-tim-curry-el-iconico-actor-del-show-de-horrod-e-rocky-y-eso-a-los-80-anos/1024_2000.jpeg",
+        "fecha": "2026-08-26T16:13:00.000Z",
+        "fuenteId": "espinof",
+        "fuenteTitle": "Espinof",
+        "categorias": [
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "AliExpress lanza una gran rebaja en el Mini PC que necesitarás para la vuelta al cole",
+        "url": "https://www.adslzone.net/ofertas/aliexpress-ordenador-mini-pc-gmktec-g3-0826/",
+        "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/08/GMKtec-G3-conectores.jpg",
+        "fecha": "2026-08-26T16:03:54.000Z",
+        "fuenteId": "adslzone",
+        "fuenteTitle": "ADSLZone",
+        "categorias": [
+          "tecnologia",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Descubrí a Dolly Parton gracias a 'Hannah Montana' y acabé llegando a un icono de la libertad que me hizo sentir como en casa y un poco más a salvo",
+        "url": "https://www.espinof.com/actores-y-actrices/descubri-a-dolly-parton-gracias-a-hannah-montana-acabe-llegando-a-icono-libertad-que-me-hizo-sentir-como-casa-poco-a-salvo",
+        "imagen": "https://i.blogs.es/2432c9/fd1yn94xeceyjl--1-/1024_2000.jpeg",
+        "fecha": "2026-08-26T16:01:03.000Z",
+        "fuenteId": "espinof",
+        "fuenteTitle": "Espinof",
+        "categorias": [
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "‘Venom: El último baile’ triunfa en Netflix mientras que Sony vuelve a confirmar la muerte de su universo cinematográfico",
+        "url": "https://www.avpasion.com/venom-ultimo-baile-triunfa-netflix/",
+        "imagen": "",
+        "fecha": "2026-08-26T16:00:42.000Z",
+        "fuenteId": "avpasion",
+        "fuenteTitle": "AVPasión",
+        "categorias": [
+          "tecnologia",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Análisis Resonance: A Plague Tale Legacy - Un cambio de enfoque que se queda a medio gas",
+        "url": "https://areajugones.sport.es/videojuegos/analisis-resonance-a-plague-tale-legacy-un-cambio-de-enfoque-que-se-queda-a-medio-gas/",
+        "imagen": "https://areajugones.sport.es/wp-content/uploads/2026/08/analisis-resonance-a-plague-tale-legacy-1024x576.jpg",
+        "fecha": "2026-08-26T16:00:00.000Z",
+        "fuenteId": "areajugones",
+        "fuenteTitle": "Areajugones",
+        "categorias": [
+          "tecnologia",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Comunicado de Silvia Intxaurrondo en RTVE: Se dirige a la audiencia de 'La hora de La 1' con un firme anuncio para esta temporada",
+        "url": "https://eltelevisero.huffingtonpost.es/2026/08/comunicado-de-silvia-intxaurrondo-en-rtve-se-dirige-a-la-audiencia-de-la-hora-de-la-1-con-este-firme-anuncio-para-la-nueva-temporada/",
+        "imagen": "",
+        "fecha": "2026-08-26T16:00:00.000Z",
+        "fuenteId": "el-televisero",
+        "fuenteTitle": "El Televisero",
+        "categorias": [
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Análisis de Resonance: A Plague Tale Legacy, un giro de 180 grados en forma de Tomb Raider griego que no sabías que necesitabas",
+        "url": "https://www.hobbyconsolas.com/videojuegos/analisis-resonance-plague-tale-legacy-un-giro-180-grados-forma-tomb-raider-griego-que-no-sabias-que-necesitabas_7028041_0.html",
+        "imagen": "https://imagenes.hobbyconsolas.com/files/image_1920_1080/uploads/imagenes/2026/08/21/6a882c24147742-81412654.jpeg",
+        "fecha": "2026-08-26T16:00:00.000Z",
+        "fuenteId": "hobby-consolas",
+        "fuenteTitle": "Hobby Consolas",
+        "categorias": [
+          "tecnologia",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El mundo abierto más descomunal de 2026 con permiso de GTA VI: Crimson Desert tira su precio en PS5",
+        "url": "https://www.hobbyconsolas.com/recomendados/mundo-abierto-mas-descomunal-2026-con-permiso-gta-vi-crimson-desert-tira-su-precio-ps5_7028553_0.html",
+        "imagen": "https://imagenes.hobbyconsolas.com/files/image_1920_1080/uploads/imagenes/2026/05/22/6a10afa23d3135-60411889.jpeg",
+        "fecha": "2026-08-26T16:00:00.000Z",
+        "fuenteId": "hobby-consolas",
+        "fuenteTitle": "Hobby Consolas",
+        "categorias": [
+          "tecnologia",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Un abogado señala si se podría repetir el caso de Pablo Casado con Feijóo tras sus palabras sobre el ático: \"Ayuso ya no es intocable\"",
+        "url": "https://www.huffingtonpost.es/virales/un-abogadonala-repetir-caso-pablo-casado-feijoo-palabras-sobre-atico-ayuso-intocable-f202608.html",
+        "imagen": "",
+        "fecha": "2026-08-26T15:58:13.000Z",
+        "fuenteId": "huffpost-espana",
+        "fuenteTitle": "HuffPost España",
+        "categorias": [
+          "actualidad",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El príncipe Harry y Meghan Markle ya están en Reino Unido con sus hijos y sus perros: vuelo privado, nada que decir y un detalle sobre la seguridad",
+        "url": "https://www.huffingtonpost.es/life/influencers-celebrities/el-principe-harry-meghan-markle-reino-unido-hijos-perros-vuelo-privado-decir-detalle-sobre-seguridad-f202608.html",
+        "imagen": "",
+        "fecha": "2026-08-26T15:58:06.000Z",
+        "fuenteId": "huffpost-espana",
+        "fuenteTitle": "HuffPost España",
+        "categorias": [
+          "actualidad",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Llevaba diez años trabajando en un supermercado y se llevó dos bandejas de vieiras sin pagar 17,90 euros: la Justicia confirma su despido sin los 30.000 euros de indemnización que exigía",
+        "url": "https://www.huffingtonpost.es/sociedad/llevaba-dieznos-trabajando-supermercado-llevo-dos-bandejas-vieiras-pagar-1790-euros-justicia-confirma-despido-30000-euros-indemnizacion-exigia-f202608.html",
+        "imagen": "",
+        "fecha": "2026-08-26T15:57:12.000Z",
+        "fuenteId": "huffpost-espana",
+        "fuenteTitle": "HuffPost España",
+        "categorias": [
+          "actualidad",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "PlayStation lo hace oficial: estos son los juegos gratis de PS Plus en septiembre de 2026 para todos los usuarios",
         "url": "https://areajugones.sport.es/videojuegos/ps-plus-septiembre-2026-estos-son-los-juegos-gratis-del-proximo-mes/",
@@ -1557,6 +1762,32 @@
         "fuenteTitle": "Areajugones",
         "categorias": [
           "tecnologia",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Las 5 noticias más destacadas de la jornada",
+        "url": "https://todotvnews.com/las-5-noticias-mas-destacadas-de-la-jornada-1317/",
+        "imagen": "https://todotvnews.com/wp-content/uploads/2026/08/DeepInLove11.jpg",
+        "fecha": "2026-08-26T15:54:03.000Z",
+        "fuenteId": "ttv-news",
+        "fuenteTitle": "TTV News",
+        "categorias": [
+          "entretenimiento",
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Silvia Intxaurrondo deja muy claro cuál es la vocación de su programa en TVE: \"Tenemos el firme compromiso\"",
+        "url": "https://www.huffingtonpost.es/virales/silvia-intxaurrondo-deja-claro-cual-vocacion-programa-tve-tenemos-firme-compromiso-f202608.html",
+        "imagen": "",
+        "fecha": "2026-08-26T15:52:33.000Z",
+        "fuenteId": "huffpost-espana",
+        "fuenteTitle": "HuffPost España",
+        "categorias": [
+          "actualidad",
           "entretenimiento"
         ],
         "idioma": "es"
@@ -1573,239 +1804,35 @@
           "entretenimiento"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "El viaje más romántico de Iñaki Urdangarín y Ainhoa Armentia",
-        "url": "https://www.diezminutos.es/familia-real/monarquia-espanola/a73532695/inaki-urdangarin-ainhoa-armentia-viaje-mallorca/",
-        "imagen": "https://hips.hearstapps.com/hmg-prod/images/inaki-urdangarin-aeropuerto-1538124409.jpg",
-        "fecha": "2026-08-26T15:40:00.000Z",
-        "fuenteId": "diez-minutos",
-        "fuenteTitle": "Diez Minutos",
-        "categorias": [
-          "corazon",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Xbox se la devuelve a PlayStation y hace oficial el sistema de conversión de disco a digital, apodado Positron, cuyas pruebas comienzan el 31 de agosto",
-        "url": "https://www.hobbyconsolas.com/videojuegos/xbox-se-devuelve-playstation-hace-oficial-sistema-conversion-disco-digital-apodado-positron-cuyas-pruebas-comienzan-31-agosto_7029674_0.html",
-        "imagen": "https://imagenes.hobbyconsolas.com/files/image_1920_1080/uploads/imagenes/2026/08/26/6a8f046c4194e8-38936986.jpeg",
-        "fecha": "2026-08-26T15:39:30.000Z",
-        "fuenteId": "hobby-consolas",
-        "fuenteTitle": "Hobby Consolas",
-        "categorias": [
-          "tecnologia",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "RTVE altera hoy la programación de La 2: Retira un concurso diario y amplía la emisión de la serie 'La amiga estupenda'",
-        "url": "https://eltelevisero.huffingtonpost.es/2026/08/rtve-altera-hoy-la-programacion-de-la-2-retira-un-concurso-diario-y-amplia-la-emision-de-la-serie-la-amiga-estupenda/",
-        "imagen": "",
-        "fecha": "2026-08-26T15:39:09.000Z",
-        "fuenteId": "el-televisero",
-        "fuenteTitle": "El Televisero",
-        "categorias": [
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La respuesta de Taylor Swift a las críticas: \"Cuando la gente se ríe de mí, es muy divertido reírme yo de ellos\"",
-        "url": "https://www.20minutos.es/gente/respuesta-taylor-swift-las-criticas-cuando-gente-se-rie-mi-es-muy-divertido-reirme-yo-ellos_7029667_0.html",
-        "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/08/14/6a7efeba558d59-84207474.r_d.1502-823-6400.jpeg",
-        "fecha": "2026-08-26T15:38:17.000Z",
-        "fuenteId": "20minutos-gente",
-        "fuenteTitle": "20minutos - Gente",
-        "categorias": [
-          "corazon",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "‘Sense filTRES’ llega a Seúl como única producción española en los Seoul Drama Awards",
-        "url": "https://www.culturaenserie.com/sense-filtres-llega-a-seul-como-unica-produccion-espanola-en-los-seoul-drama-awards.html",
-        "imagen": "https://www.culturaenserie.com/wp-content/uploads/2026/08/sense-filtres.jpg",
-        "fecha": "2026-08-26T15:38:15.000Z",
-        "fuenteId": "cultura-en-serie",
-        "fuenteTitle": "Cultura en Serie",
-        "categorias": [
-          "entretenimiento",
-          "cultura"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Netflix estrena los vídeos verticales en España con su nueva sección ‘Clips’",
-        "url": "https://www.culturaenserie.com/netflix-estrena-los-videos-verticales-en-espana-con-su-nueva-seccion-clips.html",
-        "imagen": "https://www.culturaenserie.com/wp-content/uploads/2026/08/netflix-clips.jpg",
-        "fecha": "2026-08-26T15:35:05.000Z",
-        "fuenteId": "cultura-en-serie",
-        "fuenteTitle": "Cultura en Serie",
-        "categorias": [
-          "entretenimiento",
-          "cultura"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Una de mis películas más esperadas de 2026 encierra a un submarinista en el estómago de una ballena. En lugar de usar CGI, construyeron uno a escala",
-        "url": "https://www.espinof.com/trailers/mis-peliculas-esperadas-2026-encierra-a-submarinista-estomago-ballena-lugar-usar-cgi-construyeron-uno-a-escala",
-        "imagen": "https://i.blogs.es/fc8e42/new-whalefall-trailer-unleashes-most-intense-survival-thriller-of-the-year---imdb/1024_2000.jpeg",
-        "fecha": "2026-08-26T15:31:03.000Z",
-        "fuenteId": "espinof",
-        "fuenteTitle": "Espinof",
-        "categorias": [
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El marido de Marta Luisa de Noruega, Durek Verrett, recibe un trasplante de riñón en el hospital donde se recupera el Rey Harald",
-        "url": "https://www.abc.es/gente/marido-marta-luisa-noruega-durek-verrett-recibe-20260826172314-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gente/2026/08/26/U568540_006-Rb54bC0YtMaCKwe5PSano1K-1200x840@diario_abc.jpg",
-        "fecha": "2026-08-26T15:27:47.000Z",
-        "fuenteId": "abc-gente",
-        "fuenteTitle": "ABC - Gente",
-        "categorias": [
-          "corazon",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Xbox sorprende y prepara una función que podrá cambiar para siempre el uso de tus juegos físicos",
-        "url": "https://areajugones.sport.es/videojuegos/xbox-sorprende-y-prepara-una-funcion-que-podra-cambiar-para-siempre-el-uso-de-tus-juegos-fisicos/",
-        "imagen": "https://areajugones.sport.es/wp-content/uploads/2026/08/xbox-nueva-funcion-formato-fisico-gamescom-1024x576.jpg",
-        "fecha": "2026-08-26T15:21:38.000Z",
-        "fuenteId": "areajugones",
-        "fuenteTitle": "Areajugones",
-        "categorias": [
-          "tecnologia",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "HBO Max, Disney+, Luzu TV, Telemundo Studios, Mediacrest, Minuto 90 Films y Radio Ambulante adelantan sus novedades en Iberseries & Platino Industria 2026",
-        "url": "https://todotvnews.com/hbo-max-disney-luzu-tv-telemundo-studios-mediacrest-minuto-90-films-y-radio-ambulante-adelantan-sus-novedades-en-iberseries-platino-industria-2026/",
-        "imagen": "https://todotvnews.com/wp-content/uploads/2026/08/Vespera-HBO-Max-nt.jpg",
-        "fecha": "2026-08-26T15:15:38.000Z",
-        "fuenteId": "ttv-news",
-        "fuenteTitle": "TTV News",
-        "categorias": [
-          "entretenimiento",
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Cómo va a afectar el acuerdo judicial de Meta a los usuarios",
-        "url": "https://www.huffingtonpost.es/tecnologia/que-cambiara-apps-facebook-e-instagram-millonario-acuerdo-cerrar-demandas-adiccion-menores-f202608.html",
-        "imagen": "",
-        "fecha": "2026-08-26T15:13:43.000Z",
-        "fuenteId": "huffpost-espana",
-        "fuenteTitle": "HuffPost España",
-        "categorias": [
-          "actualidad",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Ángela Portero le para los pies a Antonio Rossi por contradecirle en 'De lunes a viernes': \"No manipules lo que estoy diciendo\"",
-        "url": "https://eltelevisero.huffingtonpost.es/2026/08/angela-portero-le-para-los-pies-a-antonio-rossi-por-contradecirle-en-de-lunes-a-viernes-no-manipules-lo-que-estoy-diciendo/",
-        "imagen": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f534.png",
-        "fecha": "2026-08-26T15:13:14.000Z",
-        "fuenteId": "el-televisero",
-        "fuenteTitle": "El Televisero",
-        "categorias": [
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Xbox da un salto que retumbará en la industria: los juegos en disco se van a poder pasar a digital desde el 31 de agosto",
-        "url": "https://www.adslzone.net/noticias/videojuegos/xbox-juegos-disco-pasar-digital-confirmado/",
-        "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/08/Xbox-ahora-digital-discos.jpg",
-        "fecha": "2026-08-26T15:08:30.000Z",
-        "fuenteId": "adslzone",
-        "fuenteTitle": "ADSLZone",
-        "categorias": [
-          "tecnologia",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "The Madison confirma dos regresos en su temporada 2 y un cambio de aires para el set urbano de la serie de Taylor Sheridan",
-        "url": "https://www.hobbyconsolas.com/hobbycine/the-madison-confirma-dos-regresos-su-temporada-2-un-cambio-aires-para-set-urbano-serie-taylor-sheridan_7029603_0.html",
-        "imagen": "https://imagenes.hobbyconsolas.com/files/image_1920_1080/uploads/imagenes/2026/02/28/69a315306c5b37-54528249.jpeg",
-        "fecha": "2026-08-26T15:05:00.000Z",
-        "fuenteId": "hobby-consolas",
-        "fuenteTitle": "Hobby Consolas",
-        "categorias": [
-          "tecnologia",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Oficial: la Xbox Series X25 abre reservas mañana, hoy para usuarios seleccionados, con su precio y fecha confirmados para Europa... pero todo apunta a que no llegará a España",
-        "url": "https://www.hobbyconsolas.com/videojuegos/oficial-xbox-series-x25-abre-reservas-manana-hoy-para-usuarios-seleccionados-con-su-precio-fecha-confirmados-para-europa-pero-todo-apunta-que-no-llegara-espana_7029650_0.html",
-        "imagen": "https://imagenes.hobbyconsolas.com/files/image_1920_1080/uploads/imagenes/2026/08/26/6a8ef8c8260739-28913084.jpeg",
-        "fecha": "2026-08-26T15:03:28.000Z",
-        "fuenteId": "hobby-consolas",
-        "fuenteTitle": "Hobby Consolas",
-        "categorias": [
-          "tecnologia",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Vivas se niega a que el Gobierno use polideportivos de Ceuta para atender a migrantes",
-        "url": "https://www.huffingtonpost.es/politica/vivas-niega-gobierno-use-polideportivos-ceuta-atender-migrantes-f202608.html",
-        "imagen": "",
-        "fecha": "2026-08-26T15:02:52.000Z",
-        "fuenteId": "huffpost-espana",
-        "fuenteTitle": "HuffPost España",
-        "categorias": [
-          "actualidad",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Re:Zero (Temporada 4): fecha, horario y dónde ver el episodio 15",
-        "url": "https://areajugones.sport.es/anime/rezero-temporada-4-fecha-horario-y-donde-ver-el-episodio-15/",
-        "imagen": "https://areajugones.sport.es/wp-content/uploads/2026/08/rezero-horario-2-1024x576.png",
-        "fecha": "2026-08-26T15:02:23.000Z",
-        "fuenteId": "areajugones",
-        "fuenteTitle": "Areajugones",
-        "categorias": [
-          "tecnologia",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "79 minutos de colorida fantasía animada con ecos de Studio Ghibli. Ya en streaming una de las películas de aventuras más sorprendentes del año",
-        "url": "https://www.espinof.com/animacion/79-minutos-colorida-fantasia-animada-ecos-studio-ghibli-streaming-peliculas-aventuras-sorprendentes-ano",
-        "imagen": "https://i.blogs.es/d92668/arco-2025-ugo-bienvenu/1024_2000.jpeg",
-        "fecha": "2026-08-26T15:01:05.000Z",
-        "fuenteId": "espinof",
-        "fuenteTitle": "Espinof",
-        "categorias": [
-          "entretenimiento"
-        ],
-        "idioma": "es"
       }
     ],
     "gastronomia": [
+      {
+        "titulo": "Ni carne ni atún: la versión vegetariana de tomates rellenos que además es fácil para resolver tus comidas",
+        "url": "https://www.directoalpaladar.com/recetas-vegetarianas/carne-atun-version-vegetariana-tomates-rellenos-que-facil-para-resolver-tus-comidas",
+        "imagen": "https://i.blogs.es/0892ef/tomates_rellenos/1024_2000.jpeg",
+        "fecha": "2026-08-26T16:01:05.000Z",
+        "fuenteId": "directo-al-paladar",
+        "fuenteTitle": "Directo al Paladar",
+        "categorias": [
+          "gastronomia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El castillo de Ávila que pasó de fortaleza medieval a palacio renacentista",
+        "url": "https://www.espanafascinante.com/articulo/cultura-espanola/castillo-avila-fortaleza-medieval-palacio-renacentista/20260826180000291189.html",
+        "imagen": "https://www.espanafascinante.com/media/espanafascinante/images/2026/08/26/2026082613365516131.jpg",
+        "fecha": "2026-08-26T16:00:00.000Z",
+        "fuenteId": "espana-fascinante",
+        "fuenteTitle": "España Fascinante",
+        "categorias": [
+          "viajes",
+          "cultura",
+          "gastronomia"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Echar vinagre por el desagüe de la ducha: el hábito más resultón para evitar malos olores y obstrucciones",
         "url": "https://www.directoalpaladar.com/limpieza-y-orden/echar-vinagre-desague-ducha-habito-resulton-para-evitar-malos-olores-obstrucciones",
@@ -2027,30 +2054,6 @@
         "categorias": [
           "gastronomia",
           "cultura"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Cortar el pan en la panadería: por qué realmente es una mala idea",
-        "url": "https://www.directoalpaladar.com/cultura-gastronomica/cortar-pan-panaderia-que-realmente-mala-idea",
-        "imagen": "https://i.blogs.es/68054f/pan-rebanado/1024_2000.jpeg",
-        "fecha": "2026-08-26T08:01:05.000Z",
-        "fuenteId": "directo-al-paladar",
-        "fuenteTitle": "Directo al Paladar",
-        "categorias": [
-          "gastronomia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Lidl tiene una olla por poco más de 20 euros con colador incorporado y perfecta para preparar guisos bien consistentes",
-        "url": "https://www.directoalpaladar.com/seleccion/lidl-tiene-olla-poco-20-euros-colador-incorporado-perfecta-para-preparar-guisos-bien-consistentes",
-        "imagen": "https://i.blogs.es/cf0b8a/olla-de-aluminio-fundido-24-cm--c/1024_2000.jpeg",
-        "fecha": "2026-08-26T07:31:04.000Z",
-        "fuenteId": "directo-al-paladar",
-        "fuenteTitle": "Directo al Paladar",
-        "categorias": [
-          "gastronomia"
         ],
         "idioma": "es"
       }
@@ -2326,6 +2329,96 @@
     ],
     "internacional": [
       {
+        "titulo": "Muere a los 80 años el actor británico Tim Curry, conocido por sus papeles en 'It' y 'Mi pobre angelito'",
+        "url": "https://www.france24.com/es/minuto-a-minuto/20260826-muere-a-los-80-a%C3%B1os-el-actor-brit%C3%A1nico-tim-curry-conocido-por-sus-papeles-en-it-y-mi-pobre-angelito",
+        "imagen": "",
+        "fecha": "2026-08-26T16:08:56.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Alemania elimina las jubilaciones a los 63 años cobrando la pensión al completo",
+        "url": "https://www.abc.es/internacional/alemania-elimina-jubilaciones-anos-cobrando-pension-completo-20260826180725-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/08/26/1516424199-R0dPOR8gpmyBrr3luy5yAzK-1200x840@diario_abc.jpg",
+        "fecha": "2026-08-26T16:07:25.000Z",
+        "fuenteId": "abc-internacional",
+        "fuenteTitle": "ABC - Internacional",
+        "categorias": [
+          "internacional",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "EURONEWS HOY | Las noticias del 26 de agosto: Sánchez comparecerá en el Congreso por la crisis de Ceuta",
+        "url": "http://es.euronews.com/2026/08/26/euronews-hoy-las-noticias-del-26-de-agosto-sanchez-comparecera-en-el-congreso-por-la-crisi",
+        "imagen": "",
+        "fecha": "2026-08-26T16:06:15.000Z",
+        "fuenteId": "euronews-espanol",
+        "fuenteTitle": "Euronews Español",
+        "categorias": [
+          "internacional"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Haití, cercada por las pandillas: ¿fracasó la respuesta internacional?",
+        "url": "https://www.france24.com/es/programas/el-debate/20260826-hait%C3%AD-asediada-por-las-pandillas-fracas%C3%B3-la-respuesta-internacional",
+        "imagen": "https://s.france24.com/media/display/5e4c8cfe-60b5-11ee-80d3-005056a90284/w:1024/p:16x9/2023-09-20T025924Z_112632927_RC2YB3AE2B4D_RTRMADP_3_HAITI-VIOLENCE-CHERIZIER.JPG",
+        "fecha": "2026-08-26T16:03:10.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Informe desde Nueva Delhi: decenas de desaparecidos en Nepal tras riada e inundaciones",
+        "url": "https://www.france24.com/es/video/20260826-informe-desde-nueva-delhi-decenas-de-desaparecidos-en-nepal-tras-riada-e-inundaciones",
+        "imagen": "https://s.france24.com/media/display/8c3c597e-a166-11f1-9d69-005056a97e36/w:1024/p:16x9/ES-20260826-100225-100434-CS.jpg",
+        "fecha": "2026-08-26T16:01:16.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Trump asegura que Jamenei sigue vivo pero está «gravemente herido»",
+        "url": "https://www.abc.es/internacional/trump-asegura-jamenei-sigue-vivo-gravemente-herido-20260826175558-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/08/26/1515800046-kpOH-U301443029834fV-1200x840@diario_abc.jpg",
+        "fecha": "2026-08-26T15:59:27.000Z",
+        "fuenteId": "abc-internacional",
+        "fuenteTitle": "ABC - Internacional",
+        "categorias": [
+          "internacional",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Meta pagará 16.680 millones de dólares para zanjar demandas por adicción",
+        "url": "https://www.dw.com/es/meta-pagará-16-680-millones-de-dólares-para-zanjar-demandas-por-adicción/a-78515035?maca=spa-rss-sp-all-1122-xml-mrss",
+        "imagen": "",
+        "fecha": "2026-08-26T15:57:00.000Z",
+        "fuenteId": "dw-espanol",
+        "fuenteTitle": "DW Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Tragedia en Pakistán: al menos 14 bebés mueren tras incendio en un hospital",
         "url": "https://www.france24.com/es/asia-pac%C3%ADfico/20260826-tragedia-en-pakist%C3%A1n-al-menos-14-beb%C3%A9s-mueren-tras-incendio-en-un-hospital",
         "imagen": "https://s.france24.com/media/display/a7bd0e18-a117-11f1-92c9-005056a90284/w:1024/p:16x9/2026-08-26T051601Z-1832815228-RC246NAS5H60-RTRMADP-3-PAKISTAN-FIRE.jpg",
@@ -2335,6 +2428,19 @@
         "categorias": [
           "internacional",
           "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El mapa del 'Gran Marruecos', el sueño nacionalista que amenaza la soberanía territorial de España",
+        "url": "https://www.20minutos.es/internacional/mapa-gran-marruecos-sueno-nacionalista-amenaza-soberania-espana-ceuta-melilla_6906798_0.html",
+        "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/12/05/6932fa86299b45-81989668.jpeg",
+        "fecha": "2026-08-26T15:43:26.000Z",
+        "fuenteId": "20minutos-internacional",
+        "fuenteTitle": "20minutos - Internacional",
+        "categorias": [
+          "internacional",
+          "actualidad"
         ],
         "idioma": "es"
       },
@@ -2478,109 +2584,69 @@
           "internacional"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "Cientos de personas desaparecidas tras riadas e inundaciones en Nepal: lo que sabemos de la catástrofe",
-        "url": "https://www.france24.com/es/asia-pac%C3%ADfico/20260826-cientos-de-personas-desaparecidos-tras-riadas-e-inundaciones-en-nepal-lo-que-sabemos-de-la-cat%C3%A1strofe",
-        "imagen": "https://s.france24.com/media/display/dfb8ffe4-a143-11f1-89cd-005056a97e36/w:1024/p:16x9/000-C6J89G4.jpg",
-        "fecha": "2026-08-26T13:19:39.000Z",
-        "fuenteId": "france24-espanol",
-        "fuenteTitle": "France 24 Español",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Casi 400 personas están desaparecidas tras inundaciones en Nepal",
-        "url": "https://www.dw.com/es/casi-400-personas-están-desaparecidas-tras-inundaciones-en-nepal/a-78511039?maca=spa-rss-sp-all-1122-xml-mrss",
-        "imagen": "",
-        "fecha": "2026-08-26T12:52:00.000Z",
-        "fuenteId": "dw-espanol",
-        "fuenteTitle": "DW Español",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Los seguidores rinden homenaje a Dolly Parton con flores y recuerdos",
-        "url": "http://es.euronews.com/video/2026/08/26/flores-y-recuerdos-los-seguidores-rinden-homenaje-a-dolly-parton",
-        "imagen": "",
-        "fecha": "2026-08-26T12:48:36.000Z",
-        "fuenteId": "euronews-espanol",
-        "fuenteTitle": "Euronews Español",
-        "categorias": [
-          "internacional"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Inundaciones en Nepal dejan al menos 8 muertos en la frontera con China y \"numerosas víctimas\" en Tíbet",
-        "url": "http://es.euronews.com/2026/08/26/inundaciones-en-nepal-dejan-al-menos-8-muertos-en-la-frontera-con-china-y-numerosas-victim",
-        "imagen": "",
-        "fecha": "2026-08-26T12:41:20.000Z",
-        "fuenteId": "euronews-espanol",
-        "fuenteTitle": "Euronews Español",
-        "categorias": [
-          "internacional"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La ONU alerta: Myanmar toca fondo en derechos humanos por la minería ilegal y las redes de estafa",
-        "url": "http://es.euronews.com/2026/08/26/la-onu-alerta-myanmar-toca-fondo-en-derechos-humanos-por-la-mineria-ilegal-y-las-redes-de-",
-        "imagen": "",
-        "fecha": "2026-08-26T12:24:36.000Z",
-        "fuenteId": "euronews-espanol",
-        "fuenteTitle": "Euronews Español",
-        "categorias": [
-          "internacional"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El director de la CIA viaja a Moscú: todo lo que se sabe sobre su visita sorpresa en la capital rusa",
-        "url": "https://www.20minutos.es/internacional/director-cia-viaja-moscu-todo-que-se-sabe-sobre-su-visita-sorpresa-capital-rusa_7029556_0.html",
-        "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/08/26/6a8ec6c0eb4b56-88918787.jpeg",
-        "fecha": "2026-08-26T12:19:08.000Z",
-        "fuenteId": "20minutos-internacional",
-        "fuenteTitle": "20minutos - Internacional",
-        "categorias": [
-          "internacional",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Cientos de desaparecidos, entre ellos extranjeros, por una fuerte riada y deslizamientos de tierra entre Nepal y Tíbet",
-        "url": "https://elpais.com/internacional/2026-08-26/una-fuerte-riada-causa-varios-muertos-en-nepal-y-un-numero-indeterminado-de-victimas-en-tibet.html",
-        "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260826/1207897_113844_video_1800.mp4",
-        "fecha": "2026-08-26T12:13:25.000Z",
-        "fuenteId": "el-pais-internacional",
-        "fuenteTitle": "El País - Internacional",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "ICE dispara las detenciones hasta casi 50.000 en julio, un récord en la ofensiva migratoria de Trump",
-        "url": "http://es.euronews.com/2026/08/26/ice-dispara-las-detenciones-hasta-casi-50000-en-julio-un-record-en-la-ofensiva-migratoria-",
-        "imagen": "",
-        "fecha": "2026-08-26T12:12:36.000Z",
-        "fuenteId": "euronews-espanol",
-        "fuenteTitle": "Euronews Español",
-        "categorias": [
-          "internacional"
-        ],
-        "idioma": "es"
       }
     ],
     "local": [
+      {
+        "titulo": "La economía de Estados Unidos sortea el golpe de la guerra de Irán y crece un 1,5% en el segundo trimestre",
+        "url": "https://www.elperiodicoextremadura.com/economia/2026/08/26/economia-estados-unidos-sortea-golpe-133682438.html",
+        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/8ce57503-fe93-4eb9-ac09-3ae99a479493_16-9-aspect-ratio_default_0_x1000y444.jpg",
+        "fecha": "2026-08-26T16:15:35.000Z",
+        "fuenteId": "el-periodico-extremadura",
+        "fuenteTitle": "El Periódico Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "La zona afectada por la riada mortal de Nepal, un paso clave de peregrinos hacia santuarios a más de 4.000 metros",
+        "url": "https://www.elperiodicoextremadura.com/internacional/2026/08/26/zona-afecta-riada-nepal-rasuwa-paso-clave-peregrinos-santuarios-4000-metros-altura-133682227.html",
+        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/2b5d1573-4d7b-4802-9374-81e8e8d26177_16-9-aspect-ratio_default_0_x1000y375.jpg",
+        "fecha": "2026-08-26T16:10:06.000Z",
+        "fuenteId": "el-periodico-extremadura",
+        "fuenteTitle": "El Periódico Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Anticorrupción se ratifica en la imputación de Jésica Rodríguez y apunta a una posible rebaja de pena por colaborar con la justicia",
+        "url": "https://www.elperiodicoextremadura.com/espana/2026/08/26/anticorrupcion-ratifica-imputacion-jesica-rodriguez-133682117.html",
+        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/2adbd7a6-82a8-4155-b2b6-2050c6dcf415_16-9-aspect-ratio_default_0.jpg",
+        "fecha": "2026-08-26T16:07:31.000Z",
+        "fuenteId": "el-periodico-extremadura",
+        "fuenteTitle": "El Periódico Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "María Vetican, veterinaria: “Dar 1 o 2 huevos a la semana a un gato es bueno para su piel y articulaciones, pero no de cualquier forma”",
+        "url": "https://expertoanimal.elperiodico.com/maria-vetican-veterinaria-dar-1-o-2-huevos-a-la-semana-a-un-gato-es-bueno-para-su-piel-y-articulaciones-pero-no-de-cualquier-forma-28692.html?utm_source=rss-noticias&utm_medium=feed&utm_campaign=expertoanimal",
+        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/198ddee6-aa60-401e-99a1-1dffeaac1de7_16-9-aspect-ratio_default_0_x600y225.jpg",
+        "fecha": "2026-08-26T16:00:00.000Z",
+        "fuenteId": "el-periodico-extremadura",
+        "fuenteTitle": "El Periódico Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El Don Benito busca más músculo en la grada",
+        "url": "https://www.elperiodicoextremadura.com/deportes/2026/08/26/don-benito-busca-musculo-grada-133681795.html",
+        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/cac07b4b-1ec7-4784-9c00-5724e24af0eb_16-9-aspect-ratio_default_0_x714y357.jpg",
+        "fecha": "2026-08-26T15:56:51.000Z",
+        "fuenteId": "el-periodico-extremadura",
+        "fuenteTitle": "El Periódico Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Ismael Bekhoucha ficha por el CD Extremadura con ambición: \"Me quiero comer el mundo\"",
         "url": "https://www.cope.es/emisoras/extremadura/badajoz-provincia/almendralejo-tierra-de-barros/deportes-almendralejo/noticias/ismael-bekhoucha-ficha-cd-extremadura-ambicion-me-quiero-comer-mundo-20260826_3425417.html",
@@ -2588,6 +2654,18 @@
         "fecha": "2026-08-26T15:48:21.000Z",
         "fuenteId": "cope-extremadura",
         "fuenteTitle": "COPE Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Los centros de datos, en alerta por la criba del Gobierno: temen la ‘huida’ de inversiones millonarias ya planeadas por las nuevas exigencias verdes",
+        "url": "https://www.elperiodicoextremadura.com/economia/2026/08/26/centros-datos-criba-gobierno-huida-inversiones-espana-133681526.html",
+        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/e4918d04-9f62-4569-b0ab-6dcc98c43fbc_16-9-aspect-ratio_default_0.jpg",
+        "fecha": "2026-08-26T15:47:37.000Z",
+        "fuenteId": "el-periodico-extremadura",
+        "fuenteTitle": "El Periódico Extremadura",
         "categorias": [
           "local"
         ],
@@ -2742,78 +2820,6 @@
         "url": "https://www.elperiodicoextremadura.com/ocio/tv/2026/08/26/isla-tentaciones-11-muestra-impresionantes-solteras-shakira-mallorquina-tigresa-dominicana-133679188.html",
         "imagen": "https://estaticos-cdn.prensaiberica.es/clip/c6a25925-b80b-42ed-85ce-c50244f3b9fe_16-9-aspect-ratio_default_0_x600y225.jpg",
         "fecha": "2026-08-26T14:46:25.000Z",
-        "fuenteId": "el-periodico-extremadura",
-        "fuenteTitle": "El Periódico Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Extremadura, Castilla y León y Aragón plantan a Rego en la reunión sobre menores migrantes en Ceuta",
-        "url": "https://www.elperiodicoextremadura.com/sociedad/2026/08/26/autonomias-plantan-rego-conferencia-sectorial-menores-ceuta-133678815.html",
-        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/05fa57ea-3eb3-412a-b628-5965586a95b1_16-9-aspect-ratio_default_0_x1000y444.jpg",
-        "fecha": "2026-08-26T14:41:13.000Z",
-        "fuenteId": "el-periodico-extremadura",
-        "fuenteTitle": "El Periódico Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El GV90 es el nuevo buque insignia de la firma Genesis",
-        "url": "https://www.elperiodico.com/es/motor/20260826/genesis-gv90-nuevo-buque-insignia-suv-electrico-133670866?utm_source=rss-noticias&utm_medium=feed&utm_campaign=motor",
-        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/d5f8994c-4000-4507-8e2f-7fc74f149888_16-9-aspect-ratio_default_0_x330y123.jpg",
-        "fecha": "2026-08-26T14:32:00.000Z",
-        "fuenteId": "el-periodico-extremadura",
-        "fuenteTitle": "El Periódico Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Devastadoras imágenes tras la letal riada en Nepal",
-        "url": "https://www.elperiodicoextremadura.com/videos/internacional/2026/08/26/devastadoras-imagenes-letal-riada-nepal-133678227.html",
-        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/8db2d2ff-44de-44d8-90c9-d4a19202c3b4_16-9-aspect-ratio_default_0_x799y355.jpg",
-        "fecha": "2026-08-26T14:26:24.000Z",
-        "fuenteId": "el-periodico-extremadura",
-        "fuenteTitle": "El Periódico Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Las bicicletas no son para las ‘influencers’",
-        "url": "https://www.elperiodicoextremadura.com/opinion/2026/08/26/bicicletas-son-influencers-133677998.html",
-        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/5be438cf-134d-4a1c-9574-e84349876586_16-9-aspect-ratio_default_0_x543y272.jpg",
-        "fecha": "2026-08-26T14:17:54.000Z",
-        "fuenteId": "el-periodico-extremadura",
-        "fuenteTitle": "El Periódico Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Irán y Omán llegan a un acuerdo para el control de Ormuz, según la Guardia Revolucionaria",
-        "url": "https://www.elperiodicoextremadura.com/internacional/2026/08/26/iran-oman-llegan-acuerdo-control-estrecho-ormuz-133677845.html",
-        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/579b7cd7-2ff7-411b-9fee-6faf3ff2b50f_16-9-aspect-ratio_default_0_x640y322.jpg",
-        "fecha": "2026-08-26T14:14:09.000Z",
-        "fuenteId": "el-periodico-extremadura",
-        "fuenteTitle": "El Periódico Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Meta pagará hasta 14.000 millones de euros a los estados de EEUU por vulnerar la privacidad de los menores",
-        "url": "https://www.elperiodicoextremadura.com/internacional/2026/08/26/meta-pagara-14-000-millones-133677767.html",
-        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/8cfd09ef-3d62-4c57-928d-4f6a8f852e83_16-9-aspect-ratio_default_0_x1000y444.jpg",
-        "fecha": "2026-08-26T14:12:53.000Z",
         "fuenteId": "el-periodico-extremadura",
         "fuenteTitle": "El Periódico Extremadura",
         "categorias": [
@@ -3080,6 +3086,82 @@
     ],
     "moda": [
       {
+        "titulo": "Por qué Dolly Parton rechazó la famosa invitación a tomar el té con la princesa Kate",
+        "url": "https://www.hola.com/realeza/casa_inglesa/20260826920183/dolly-parton-rechazo-invitacion-tomar-te-kate-middleton-razon/",
+        "imagen": "https://www.hola.com/horizon/landscape/766efd0a0b9f-gettyimages-1069333702.jpg",
+        "fecha": "2026-08-26T16:09:32.000Z",
+        "fuenteId": "hola",
+        "fuenteTitle": "¡Hola!",
+        "categorias": [
+          "corazon",
+          "moda"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Dr. Eduardo Junco, pediatra, sobre por qué somatizan niños y adolescentes: “Hay situaciones que les causan ansiedad y estrés y que no saben que les afectan”",
+        "url": "https://www.hola.com/padres/20260826919849/dr-eduardo-junco-pediatra-somatizacion-ninos-adolescentes/",
+        "imagen": "https://www.hola.com/horizon/landscape/0e1660876fe3-whatsapp-image-2025-09-17-at-074947.jpg",
+        "fecha": "2026-08-26T16:05:00.000Z",
+        "fuenteId": "hola",
+        "fuenteTitle": "¡Hola!",
+        "categorias": [
+          "corazon",
+          "moda"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Mis mejores amigas viven lejos y así es como mantenemos el vínculo: la relación a distancia más importante de mi vida",
+        "url": "https://www.trendencias.com/psicologia/mis-mejores-amigas-viven-lejos-asi-como-mantenemos-vinculo-relacion-a-distancia-importante-mi-vida",
+        "imagen": "https://i.blogs.es/f97580/05f26352-58e6-4f20-8ac1-3e56ca4f8a82/1024_2000.jpeg",
+        "fecha": "2026-08-26T16:01:05.000Z",
+        "fuenteId": "trendencias",
+        "fuenteTitle": "Trendencias",
+        "categorias": [
+          "moda"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Fernando Lindez y Maia Reficco, sobre 'Sunrise: El último amanecer', la nueva película romántica de Prime Video: \"No hubo química al principio\"",
+        "url": "https://www.cosmopolitan.com/es/entretenimiento-cultura/a73517744/prime-video-the-last-sunrise-fernando-lindez-maia-reficco/",
+        "imagen": "https://hips.hearstapps.com/hmg-prod/images/930e86e6-8cb5-466a-b737-d850d7660c9c.jpg",
+        "fecha": "2026-08-26T16:00:00.000Z",
+        "fuenteId": "cosmopolitan-espana",
+        "fuenteTitle": "Cosmopolitan España",
+        "categorias": [
+          "moda",
+          "corazon"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El vestido bicolor ajustado con el que Vera Wang, de 77 años, desafía los límites y el paso del tiempo",
+        "url": "https://www.harpersbazaar.com/es/famosas/el-estilo-de/a73532451/vera-wang-76-anos-us-open-vestido-bicolor-todas-edades-cuerpos-moda/",
+        "imagen": "https://hips.hearstapps.com/hmg-prod/images/61030331-38df-4ce6-b6b1-6c95d86d181d.jpeg",
+        "fecha": "2026-08-26T16:00:00.000Z",
+        "fuenteId": "harpers-bazaar-espana",
+        "fuenteTitle": "Harper's Bazaar España",
+        "categorias": [
+          "moda"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Se revela el viaje sorpresa del rey Carlos al extranjero mientras el príncipe Harry y Meghan Markle aterrizan en el Reino Unido",
+        "url": "https://www.hola.com/realeza/casa_inglesa/20260826920180/rey-carlos-viaje-sorpresa-extranjero-se-revela-llegada-sussex-reino-unido/",
+        "imagen": "https://www.hola.com/horizon/landscape/cdca65551409-gettyimages-2281280084.jpg",
+        "fecha": "2026-08-26T15:55:48.000Z",
+        "fuenteId": "hola",
+        "fuenteTitle": "¡Hola!",
+        "categorias": [
+          "corazon",
+          "moda"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Eugenia Martínez de Irujo nos descubre el vestido camisero con bordados de flores perfecto para el otoño 2026",
         "url": "https://www.elle.com/es/star-style/el-estilo-de/a73532572/eugenia-martinez-de-irujo-vestido-camisero-bordados-flores-otono-2026/",
         "imagen": "https://hips.hearstapps.com/hmg-prod/images/f73d7e6b-e044-424c-b9b9-bfdbae5986f3.jpg",
@@ -3252,84 +3334,204 @@
           "moda"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "Jennifer Garner revela por qué entró en pánico tras su divorcio de Ben Affleck",
-        "url": "https://www.hola.com/actualidad/20260826920137/jennifer-garner-entro-en-panico-tras-separacion-ben-affleck/",
-        "imagen": "https://www.hola.com/horizon/landscape/aab5b36555e8-jennijfer-port-getty-2.jpg",
-        "fecha": "2026-08-26T14:09:50.000Z",
-        "fuenteId": "hola",
-        "fuenteTitle": "¡Hola!",
-        "categorias": [
-          "corazon",
-          "moda"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Omega sorprende con la presentación de un nuevo modelo Speedmaster. Un objeto de colección que fascinará a los entusiastas de los relojes pequeños",
-        "url": "https://www.trendencias.com/lujo/omega-sorprende-presentacion-nuevo-modelo-speedmaster-objeto-coleccion-que-fascinara-a-entusiastas-relojes-pequenos",
-        "imagen": "https://i.blogs.es/c6b842/omega-sorprende-con-la-presentacion-de-un-nuevo-modelo-speedmaster.-un-objeto-de-coleccion-que-fascinara-a-los-entusiastas-de-los-relojes-pequenos/1024_2000.jpeg",
-        "fecha": "2026-08-26T14:01:05.000Z",
-        "fuenteId": "trendencias",
-        "fuenteTitle": "Trendencias",
-        "categorias": [
-          "moda"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Parfois se apunta a la tendencia de las bailarinas destalonadas y lanza un modelo perfecto para sustituir a los zapatos en los nuevos looks de oficina",
-        "url": "https://www.cosmopolitan.com/es/moda/novedades-moda/a73509962/parfois-bailarinas-destalonadas/",
-        "imagen": "https://hips.hearstapps.com/hmg-prod/images/939a0653-1426-4ccd-8c08-fcdf208f0a5e.jpg",
-        "fecha": "2026-08-26T14:00:00.000Z",
-        "fuenteId": "cosmopolitan-espana",
-        "fuenteTitle": "Cosmopolitan España",
-        "categorias": [
-          "moda",
-          "corazon"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La boda en Valencia de Claudia y Fede, los novios que celebraron una rave en un monasterio",
-        "url": "https://www.harpersbazaar.com/es/novias-bodas/moda-vestidos-complementos/a73519833/novia-original-boda-valencia-cartuja-rave-monasterio-discoteca/",
-        "imagen": "https://hips.hearstapps.com/hmg-prod/images/847bd645-954c-4935-81e0-05d9625d962b.jpg",
-        "fecha": "2026-08-26T14:00:00.000Z",
-        "fuenteId": "harpers-bazaar-espana",
-        "fuenteTitle": "Harper's Bazaar España",
-        "categorias": [
-          "moda"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Colonias cítricas y amaderadas para mujer que transitan genial de agosto a septiembre",
-        "url": "https://www.marie-claire.es/belleza/colonias-citricas-y-amaderadas-agost-septiembre.html",
-        "imagen": "",
-        "fecha": "2026-08-26T14:00:00.000Z",
-        "fuenteId": "marie-claire-espana",
-        "fuenteTitle": "Marie Claire España",
-        "categorias": [
-          "moda"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La contundente respuesta de Kylie Jenner cuando le preguntan si quiere volver a ser madre con Timothée Chalamet",
-        "url": "https://www.hola.com/actualidad/20260826920096/kylie-jenner-revela-volver-a-ser-madre-actual-pareja-timothee-chalamet/",
-        "imagen": "https://www.hola.com/horizon/landscape/1794a1e51f81-dlu6043580843.jpg",
-        "fecha": "2026-08-26T13:32:00.000Z",
-        "fuenteId": "hola",
-        "fuenteTitle": "¡Hola!",
-        "categorias": [
-          "corazon",
-          "moda"
-        ],
-        "idioma": "es"
       }
     ],
     "politica": [
+      {
+        "titulo": "Galicia será «solidaria con Ceuta» y aceptará el reparto de menores inmigrantes",
+        "url": "https://www.abc.es/espana/galicia/galicia-solidaria-ceuta-aceptara-reparto-menores-inmigrantes-20260826181744-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/26/20260526%20ConselleirapresentacionbolsasONosoCanto1-R5tcRAU419suM3BhDTBQvOP-1200x840@diario_abc.jpg",
+        "fecha": "2026-08-26T16:22:53.000Z",
+        "fuenteId": "abc-espana",
+        "fuenteTitle": "ABC - España",
+        "categorias": [
+          "politica",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "La oposición en Santiago exige a la alcaldesa que comparezca por el «bochorno» de Fly2Galicia",
+        "url": "https://www.abc.es/espana/galicia/oposicion-santiago-exige-alcaldesa-comparezca-bochorno-fly2galicia-20260826182039-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/26/1510059996-Rl7p7E2KdnJ4HPv1S9kaXpI-1200x840@diario_abc.jpg",
+        "fecha": "2026-08-26T16:22:33.000Z",
+        "fuenteId": "abc-espana",
+        "fuenteTitle": "ABC - España",
+        "categorias": [
+          "politica",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "La muestra sobre los 150 años de Falla en Granada se clausura por los daños del terremoto",
+        "url": "https://www.abc.es/espana/andalucia/granada/muestra-sobre-150-anos-falla-danada-terremotos-20260826170716-nts.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/26/exposici%c3%b3n-RCTI3ZdoSPUpwgvjkgjILyI-1200x840@diario_abc.jpg",
+        "fecha": "2026-08-26T16:22:14.000Z",
+        "fuenteId": "abc-espana",
+        "fuenteTitle": "ABC - España",
+        "categorias": [
+          "politica",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Brennan culmina al sprint la estrategia del equipo Visma en La Vuelta",
+        "url": "https://theobjective.com/deportes/2026-08-26/brennan-sprint-etapa5-la-vuelta/",
+        "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/08/pogacar-lider-andorra-469x317.jpg",
+        "fecha": "2026-08-26T16:21:35.000Z",
+        "fuenteId": "the-objective",
+        "fuenteTitle": "The Objective",
+        "categorias": [
+          "actualidad",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "La Fiscalía pide que Jésica siga investigada por cobrar de empresas públicas sin ir a trabajar",
+        "url": "https://theobjective.com/espana/tribunales/2026-08-26/fiscalia-jesica-investigada-cobra-empresas-sin-trabajar/",
+        "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2025/04/jesica-rodriguez-supremo-abalos-469x317.jpg",
+        "fecha": "2026-08-26T16:15:12.000Z",
+        "fuenteId": "the-objective",
+        "fuenteTitle": "The Objective",
+        "categorias": [
+          "actualidad",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Los informáticos gallegos piden enseñar a los niños el uso de pantallas en la educación",
+        "url": "https://www.abc.es/espana/galicia/informaticos-gallegos-piden-ensenar-ninos-uso-pantallas-20260826181117-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/26/Foto%20recurso%20nenos%20mobiles-RucndLGbPGBdU4zcj0z5zTO-1200x840@diario_abc.jpg",
+        "fecha": "2026-08-26T16:11:17.000Z",
+        "fuenteId": "abc-espana",
+        "fuenteTitle": "ABC - España",
+        "categorias": [
+          "politica",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Aznar visita este jueves la ciudad de Ceuta en plena crisis por la entrada masiva de inmigrantes",
+        "url": "https://www.elmundo.es/espana/2026/08/26/6a8f0fe0e9cf4af33b8b45a3.html",
+        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/26/17877601381477.jpg",
+        "fecha": "2026-08-26T16:10:26.000Z",
+        "fuenteId": "el-mundo-espana",
+        "fuenteTitle": "El Mundo - España",
+        "categorias": [
+          "politica",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Muere a los 80 años el actor británico Tim Curry, conocido por sus papeles en 'It' y 'Mi pobre angelito'",
+        "url": "https://www.france24.com/es/minuto-a-minuto/20260826-muere-a-los-80-a%C3%B1os-el-actor-brit%C3%A1nico-tim-curry-conocido-por-sus-papeles-en-it-y-mi-pobre-angelito",
+        "imagen": "",
+        "fecha": "2026-08-26T16:08:56.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Haití, cercada por las pandillas: ¿fracasó la respuesta internacional?",
+        "url": "https://www.france24.com/es/programas/el-debate/20260826-hait%C3%AD-asediada-por-las-pandillas-fracas%C3%B3-la-respuesta-internacional",
+        "imagen": "https://s.france24.com/media/display/5e4c8cfe-60b5-11ee-80d3-005056a90284/w:1024/p:16x9/2023-09-20T025924Z_112632927_RC2YB3AE2B4D_RTRMADP_3_HAITI-VIOLENCE-CHERIZIER.JPG",
+        "fecha": "2026-08-26T16:03:10.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Detenido el conductor del atropello mortal de un militar en Sevilla y que se dio a la fuga",
+        "url": "https://theobjective.com/espana/2026-08-26/detenido-atropello-mortal-militar-sevilla/",
+        "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/08/jose-angel-fernandez-ejercito-aire-469x317.jpg",
+        "fecha": "2026-08-26T16:02:06.000Z",
+        "fuenteId": "the-objective",
+        "fuenteTitle": "The Objective",
+        "categorias": [
+          "actualidad",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "La Junta aborda el incendio de Niebla junto a los alcaldes con la «prioridad inmediata» de proteger el terreno",
+        "url": "https://www.abc.es/espana/andalucia/junta-aborda-incendio-niebla-junto-alcaldes-prioridad-20260826180121-nts.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/26/andalucia-incendio-berrocal-R13co8hN7U3xmIUPHDmJLCN-1200x840@diario_abc.jpg",
+        "fecha": "2026-08-26T16:01:21.000Z",
+        "fuenteId": "abc-espana",
+        "fuenteTitle": "ABC - España",
+        "categorias": [
+          "politica",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Informe desde Nueva Delhi: decenas de desaparecidos en Nepal tras riada e inundaciones",
+        "url": "https://www.france24.com/es/video/20260826-informe-desde-nueva-delhi-decenas-de-desaparecidos-en-nepal-tras-riada-e-inundaciones",
+        "imagen": "https://s.france24.com/media/display/8c3c597e-a166-11f1-9d69-005056a97e36/w:1024/p:16x9/ES-20260826-100225-100434-CS.jpg",
+        "fecha": "2026-08-26T16:01:16.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Meta pagará 16.680 millones de dólares para zanjar demandas por adicción",
+        "url": "https://www.dw.com/es/meta-pagará-16-680-millones-de-dólares-para-zanjar-demandas-por-adicción/a-78515035?maca=spa-rss-sp-all-1122-xml-mrss",
+        "imagen": "",
+        "fecha": "2026-08-26T15:57:00.000Z",
+        "fuenteId": "dw-espanol",
+        "fuenteTitle": "DW Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "La lluvia no achica la sequía: la Xunta mantiene restricciones en 91 concellos",
+        "url": "https://www.abc.es/espana/galicia/lluvia-achica-sequia-xunta-mantiene-restricciones-concellos-20260826175648-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/26/5683105-RrGkKJ8v0rr04zCKnEQt9uM-1200x840@diario_abc.jpg",
+        "fecha": "2026-08-26T15:56:57.000Z",
+        "fuenteId": "abc-espana",
+        "fuenteTitle": "ABC - España",
+        "categorias": [
+          "politica",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Qué sabemos del cartel publicitario de Orange colocado en la AP-7 que muestra un mapa del “Gran Marruecos”",
+        "url": "https://www.newtral.es/cartel-orange-marruecos/20260826/",
+        "imagen": "https://www.newtral.es/wp-content/uploads/2026/08/Contexto-Orange-mapa-Marruecos-1024x577.jpg",
+        "fecha": "2026-08-26T15:56:31.000Z",
+        "fuenteId": "newtral",
+        "fuenteTitle": "Newtral",
+        "categorias": [
+          "politica",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Ávila declara no apta para consumo el agua del polígono de Vicolozano por exceso de manganeso",
         "url": "https://www.abc.es/espana/castilla-leon/avila-declara-apta-consumo-agua-poligono-vicolozano-20260826175035-nt.html",
@@ -3394,204 +3596,35 @@
           "politica"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "La Fiscalía insiste en que Jésica Rodríguez siga investigada y abre la puerta a pedir una pena menor por su testimonio en el juicio contra Ábalos",
-        "url": "https://www.abc.es/espana/fiscalia-insiste-jesica-rodriguez-siga-investigada-abre-20260826173553-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/26/JesicaRodriguez-RsyR57I6rsHy3noqSU0Z9PL-1200x840@diario_abc.jpg",
-        "fecha": "2026-08-26T15:35:53.000Z",
-        "fuenteId": "abc-espana",
-        "fuenteTitle": "ABC - España",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "De soñar con un crucero a ser estafados: detenida la gerente de una agencia de viajes tras quedarse con más de 30.000 euros",
-        "url": "https://www.abc.es/espana/castilla-leon/sonar-crucero-estafados-detenida-gerente-agencia-viajes-20260826173120-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/26/WhatsApp%20Image%202026-08-26%20at%2016.17.01-R0DKyPgF4Xrk3RnJWIxWQqO-1200x840@diario_abc.jpg",
-        "fecha": "2026-08-26T15:31:41.000Z",
-        "fuenteId": "abc-espana",
-        "fuenteTitle": "ABC - España",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "San Bartolomé de las Abiertas cumple 500 años y se cuela en el décimo de la Lotería Nacional",
-        "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/san-bartolome-abiertas-cumple-500-anos-cuela-20260826172819-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/26/20140824_100-RlgC20SSaqY2JlGptSkPKuI-1200x840@diario_abc.jpg",
-        "fecha": "2026-08-26T15:28:20.000Z",
-        "fuenteId": "abc-espana",
-        "fuenteTitle": "ABC - España",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Detenido tras ser grabado maltratando a su perro en Lanzarote",
-        "url": "https://www.abc.es/espana/canarias/detenido-tras-grabado-maltratando-perro-lanzarote-20260826172339-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/26/PERRO-RWcKfjZekkOLQcYA7LYKmvI-1200x840@diario_abc.png",
-        "fecha": "2026-08-26T15:23:40.000Z",
-        "fuenteId": "abc-espana",
-        "fuenteTitle": "ABC - España",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Esta imagen de Pedro Sánchez y Begoña Gómez en un telesilla en Andorra es de 2024",
-        "url": "https://www.newtral.es/sanchez-vacaciones-andorra/20260826/",
-        "imagen": "https://www.newtral.es/wp-content/uploads/2026/08/IL20260826151909-fake-Sanchez-vacaciones-Andorra-1024x576.jpg",
-        "fecha": "2026-08-26T15:21:04.000Z",
-        "fuenteId": "newtral",
-        "fuenteTitle": "Newtral",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "López Campos no descarta acuerdos con el PSOE para su Pacto da Lingua",
-        "url": "https://www.abc.es/espana/galicia/lopez-campos-descarta-acuerdos-psoe-pacto-lingua-20260826171734-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/26/260826_emprendemento_x-2-RDLjNqVo4qxgNjIUhzgG2JM-1200x840@diario_abc.jpg",
-        "fecha": "2026-08-26T15:20:41.000Z",
-        "fuenteId": "abc-espana",
-        "fuenteTitle": "ABC - España",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Cientos de desaparecidos en Nepal por riada e inundaciones",
-        "url": "https://www.france24.com/es/video/20260826-cientos-de-desaparecidos-en-nepal-por-riada-e-inundaciones",
-        "imagen": "https://s.france24.com/media/display/13ec164a-a160-11f1-843e-005056a90284/w:1024/p:16x9/FORMATO-1-33.png",
-        "fecha": "2026-08-26T15:19:56.000Z",
-        "fuenteId": "france24-espanol",
-        "fuenteTitle": "France 24 Español",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El Ayuntamiento celebra la concesión de las Caballerizas Reales a Córdoba Ecuestre: «Es lo mejor para la ciudad»",
-        "url": "https://www.abc.es/espana/andalucia/cordoba/ayuntamiento-celebra-concesion-caballerizas-reales-cordoba-ecuestre-20260826170058-nts.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/26/1501186695-Raey1ehGY7gVJinjFv6az0H-1200x840@diario_abc.jpg",
-        "fecha": "2026-08-26T15:19:08.000Z",
-        "fuenteId": "abc-espana",
-        "fuenteTitle": "ABC - España",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La Agencia Española de Nutrición publica un informe de menopausia con datos de hombres",
-        "url": "https://theobjective.com/sanidad/2026-08-26/agencia-nutricion-informe-menopausia-hombres/",
-        "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/07/ana-redondo-orgullo-lgtbi-469x317.jpg",
-        "fecha": "2026-08-26T15:17:12.000Z",
-        "fuenteId": "the-objective",
-        "fuenteTitle": "The Objective",
-        "categorias": [
-          "actualidad",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "15 micrófonos con inteligencia artificial para monitorizar las aves y murciélagos de Madrid",
-        "url": "https://www.abc.es/espana/madrid/madrid-escucha-identifica-aves-murcielagos-inteligencia-artificial-20260826171520-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/26/sensor-RuXosYtcUoZTqKfmnp4NsjM-1200x840@diario_abc.jpg",
-        "fecha": "2026-08-26T15:15:20.000Z",
-        "fuenteId": "abc-espana",
-        "fuenteTitle": "ABC - España",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Volotea quiere volar desde La Coruña a Málaga, Valencia, Bilbao, Sevilla y Alicante",
-        "url": "https://www.abc.es/espana/galicia/volotea-quiere-volar-coruna-malaga-valencia-bilbao-20260826171229-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/26/1516123875-RNSAgPaAGgZrKQcyFIpbcxM-1200x840@diario_abc.jpg",
-        "fecha": "2026-08-26T15:12:30.000Z",
-        "fuenteId": "abc-espana",
-        "fuenteTitle": "ABC - España",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Transportes finaliza la transformación urbana de 4,5 km de la N-502A en Talavera",
-        "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/transportes-finaliza-transformacion-urbana-n502a-talavera-20260826171128-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/26/Travesia%20Talavera-RDcnhd2VgLso9zql0FqsbWL-1200x840@diario_abc.jpg",
-        "fecha": "2026-08-26T15:11:29.000Z",
-        "fuenteId": "abc-espana",
-        "fuenteTitle": "ABC - España",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El PSOE responde al PP poniendo en valor el esfuerzo inversor del Gobierno en Sanidad",
-        "url": "https://www.abc.es/espana/castilla-la-mancha/psoe-responde-pp-poniendo-valor-esfuerzo-inversor-20260826170545-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/26/Sanidad%20PSOE-RAj9HRvu40BCPBtcxrHg22J-1200x840@diario_abc.jpg",
-        "fecha": "2026-08-26T15:05:46.000Z",
-        "fuenteId": "abc-espana",
-        "fuenteTitle": "ABC - España",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Los bombardeos rusos se ceban con los niños",
-        "url": "https://elpais.com/internacional/2026-08-26/los-bombardeos-rusos-se-ceban-con-los-ninos.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/HDTTSINPINFTJHX57FFUNUMN6I.jpg?auth=13658ba730437865e6f1cc71129285e295e0fbbeb88444f79bfc369fe22927dc",
-        "fecha": "2026-08-26T15:01:45.000Z",
-        "fuenteId": "el-pais-internacional",
-        "fuenteTitle": "El País - Internacional",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El ministro Ángel Víctor Torres ha ido a Ceuta antes y después de la crisis migratoria pese a lo que dice Muñoz",
-        "url": "https://www.newtral.es/ester-munoz-torres-ceuta-factcheck/20260826/",
-        "imagen": "https://www.newtral.es/wp-content/uploads/2026/08/55021220956-FF-ESTER-MUNOZ-BORJA-SANCHEZ-TRILLO-EFE-20260825-1024x683.jpg",
-        "fecha": "2026-08-26T15:01:27.000Z",
-        "fuenteId": "newtral",
-        "fuenteTitle": "Newtral",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
       }
     ],
     "salud": [
+      {
+        "titulo": "No son inmigrantes intentando ocupar una vivienda en Ceuta: son vecinos de un barrio de Argentina",
+        "url": "https://www.lavanguardia.com/vida/verificacion/20260826/11620585/son-inmigrantes-intentando-ocupar-vivienda-ceuta-son-vecinos-barrio-argentina.html",
+        "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/26/6a8f09f932335.jpeg",
+        "fecha": "2026-08-26T15:54:50.000Z",
+        "fuenteId": "la-vanguardia-vida",
+        "fuenteTitle": "La Vanguardia - Vida",
+        "categorias": [
+          "actualidad",
+          "salud"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Así afectan a Meta los cambios que ha pactado para tratar de evitar la adicción de los menores",
+        "url": "https://www.lavanguardia.com/vida/20260826/11620582/asi-afectan-meta-cambios-pactado-tratar-evitar-adiccion-menores.html",
+        "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/11/6a7ae8c8f3c0d.r_d.768-520-0.jpeg",
+        "fecha": "2026-08-26T15:48:22.000Z",
+        "fuenteId": "la-vanguardia-vida",
+        "fuenteTitle": "La Vanguardia - Vida",
+        "categorias": [
+          "actualidad",
+          "salud"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "El pago millonario de Meta: así lo analizan abogados y expertos en finanzas",
         "url": "https://www.lavanguardia.com/vida/20260826/11620572/pago-millonario-meta-asi-analizan-abogados-expertos-finanzas.html",
@@ -3828,33 +3861,6 @@
         "categorias": [
           "actualidad",
           "salud"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Vídeos que desinforman sobre el aborto: imágenes falsas o fuera de contexto para influir en salud sexual y reproductiva",
-        "url": "https://www.lavanguardia.com/vida/verificacion/20260826/11620413/videos-desinforman-sobre-aborto-imagenes-falsas-fuera-contexto-influir-salud-sexual-reproductiva.html",
-        "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/26/6a8ec69b24e2d.jpeg",
-        "fecha": "2026-08-26T11:12:32.000Z",
-        "fuenteId": "la-vanguardia-vida",
-        "fuenteTitle": "La Vanguardia - Vida",
-        "categorias": [
-          "actualidad",
-          "salud"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Juanma Lorente, abogado laboralista: \"No te pueden obligar a trabajar un fin de semana, incluso teniendo un contrato con jornada de lunes a domingo\"",
-        "url": "https://www.elconfidencial.com/alma-corazon-vida/2026-08-26/1qrt-juanma-lorente-abogado-trabajar-fin-semana-contrato-lunes-viernes_4408928/",
-        "imagen": "https://images.ecestaticos.com/UphSk9zXlJBXT9Kn90tuEANtwrw=/0x3:626x355/0x900/filters:format(png)/f.elconfidencial.com%2Foriginal%2Fb93%2F37c%2Ff13%2Fb9337cf134ef34277859469d861452ed.png",
-        "fecha": "2026-08-26T10:45:00.000Z",
-        "fuenteId": "el-confidencial-alma-corazon-vida",
-        "fuenteTitle": "El Confidencial - Alma, Corazón y Vida",
-        "categorias": [
-          "salud",
-          "hogar",
-          "corazon"
         ],
         "idioma": "es"
       }
@@ -4123,231 +4129,10 @@
     ],
     "tecnologia": [
       {
-        "titulo": "PlayStation lo hace oficial: estos son los juegos gratis de PS Plus en septiembre de 2026 para todos los usuarios",
-        "url": "https://areajugones.sport.es/videojuegos/ps-plus-septiembre-2026-estos-son-los-juegos-gratis-del-proximo-mes/",
-        "imagen": "https://www.youtube.com/embed/ezTtbpSUsn0",
-        "fecha": "2026-08-26T15:54:26.000Z",
-        "fuenteId": "areajugones",
-        "fuenteTitle": "Areajugones",
-        "categorias": [
-          "tecnologia",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "The Wolf Among Us Remastered confirma fecha y lanza nuevo tráiler",
-        "url": "https://www.nintenderos.com/nintendo-switch-2/the-wolf-among-us-remastered-confirma-fecha-y-lanza-nuevo-trailer/",
-        "imagen": "https://i.ytimg.com/vi/ftyQs4bSve8/hqdefault.jpg",
-        "fecha": "2026-08-26T15:51:13.000Z",
-        "fuenteId": "nintenderos",
-        "fuenteTitle": "Nintenderos",
-        "categorias": [
-          "tecnologia",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Eclipse parcial lunar en España del viernes 28 de agosto: horario, mejores lugares para verlo y cómo seguirlo de forma segura sin necesidad de gafas de eclipse",
-        "url": "https://computerhoy.20minutos.es/tendencias/eclipse-parcial-lunar-espana-viernes-28-agosto-horario-mejores-lugares-para-verlo-como-seguirlo-forma-segura-sin-necesidad-gafas-eclipse_7029472_0.html",
-        "imagen": "https://imagenes.computerhoy.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/08/26/6a8eec3d0112a9-38067882.jpeg",
-        "fecha": "2026-08-26T15:46:35.000Z",
-        "fuenteId": "computer-hoy",
-        "fuenteTitle": "Computer Hoy",
-        "categorias": [
-          "tecnologia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "China ultima un misil hipersónico capaz de aniquilar la aviación estratégica de Estados Unidos a miles de kilómetros",
-        "url": "https://www.larazon.es/tecnologia-consumo/china-ultima-misil-hipersonico-capaz-aniquilar-aviacion-estrategica-estados-unidos-miles-kilometros_202608266a8e92a5d16f7635049de706.html",
-        "imagen": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/08/26/61A8133C-6E33-4065-8F8A-B0883DACB73E/misiles-hipersonicos-df-17-desfile-militar_96.jpg?crop=1920,1080,x0,y0&amp;width=1200&amp;height=675&amp;optimize=low&amp;format=webply",
-        "fecha": "2026-08-26T15:45:00.000Z",
-        "fuenteId": "andro4all",
-        "fuenteTitle": "Andro4all",
-        "categorias": [
-          "tecnologia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Xbox se la devuelve a PlayStation y hace oficial el sistema de conversión de disco a digital, apodado Positron, cuyas pruebas comienzan el 31 de agosto",
-        "url": "https://www.hobbyconsolas.com/videojuegos/xbox-se-devuelve-playstation-hace-oficial-sistema-conversion-disco-digital-apodado-positron-cuyas-pruebas-comienzan-31-agosto_7029674_0.html",
-        "imagen": "https://imagenes.hobbyconsolas.com/files/image_1920_1080/uploads/imagenes/2026/08/26/6a8f046c4194e8-38936986.jpeg",
-        "fecha": "2026-08-26T15:39:30.000Z",
-        "fuenteId": "hobby-consolas",
-        "fuenteTitle": "Hobby Consolas",
-        "categorias": [
-          "tecnologia",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El precio de la gasolina sube un 20% y el del diésel un 24% desde el inicio del verano",
-        "url": "https://elpais.com/economia/2026-08-26/el-precio-de-la-gasolina-sube-un-20-y-el-del-diesel-un-24-desde-el-inicio-del-verano.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/FB3GJ55FTRFKZILBBFE5JGFU34.jpg?auth=7b8acf1a640030d2d6ef1410411aafefe4c82d479b69b36c77c3084037d16e4f",
-        "fecha": "2026-08-26T15:38:12.000Z",
-        "fuenteId": "el-pais",
-        "fuenteTitle": "El País",
-        "categorias": [
-          "actualidad",
-          "tecnologia",
-          "ciencia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El joven Matthew Brennan consigue su segunda victoria en el sprint de Roquetes",
-        "url": "https://www.elmundo.es/deportes/ciclismo/vuelta-a-espana/2026/08/26/6a8f02c7fc6c832d668b4572.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/26/17877580875364.jpg",
-        "fecha": "2026-08-26T15:34:31.000Z",
-        "fuenteId": "el-mundo",
-        "fuenteTitle": "El Mundo",
-        "categorias": [
-          "actualidad",
-          "tecnologia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El precio por comprar el alma",
-        "url": "https://www.elmundo.es/economia/2026/08/26/6a8f0663fdddff5d4e8b45a4.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/26/17877580636630.jpg",
-        "fecha": "2026-08-26T15:31:11.000Z",
-        "fuenteId": "el-mundo",
-        "fuenteTitle": "El Mundo",
-        "categorias": [
-          "actualidad",
-          "tecnologia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Yamaha: \"Algo nuevo está por llegar\". Podría ser la Ténéré 900 de tres cilindros, y ya hay fecha para el estreno",
-        "url": "https://www.motorpasionmoto.com/trail/yamaha-algo-nuevo-esta-llegar-podria-ser-tenere-900-tres-cilindros-hay-fecha-para-estreno",
-        "imagen": "https://i.blogs.es/92c360/portada-mop-1787740843045/1024_2000.jpeg",
-        "fecha": "2026-08-26T15:31:04.000Z",
-        "fuenteId": "motorpasion-moto",
-        "fuenteTitle": "Motorpasión Moto",
-        "categorias": [
-          "tecnologia",
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "VÍDEO: El eclipse de la patata: así se ve desde Marte",
-        "url": "https://quo.eldiario.es/ciencia/astro/q2608978242/el-eclipse-de-la-patata-asi-se-ve-desde-marte",
-        "imagen": "https://quo.eldiario.es/wp-content/uploads/2026/08/PIA26811.mp4",
-        "fecha": "2026-08-26T15:31:00.000Z",
-        "fuenteId": "quo",
-        "fuenteTitle": "Quo",
-        "categorias": [
-          "ciencia",
-          "tecnologia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Linux cumple 35 años, el pasatiempo de Linus Torvalds que cambió el mundo: \"No estoy haciendo nada importante, solo algo por diversión\"",
-        "url": "https://computerhoy.20minutos.es/software/linux-cumple-35-anos-pasatiempo-linus-torvalds-que-cambio-mundo-no-estoy-haciendo-nada-importante-solo-algo-por-diversion_7029576_0.html",
-        "imagen": "https://imagenes.computerhoy.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/08/26/6a8ed8fad40fc8-53985699.jpeg",
-        "fecha": "2026-08-26T15:30:00.000Z",
-        "fuenteId": "computer-hoy",
-        "fuenteTitle": "Computer Hoy",
-        "categorias": [
-          "tecnologia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Qué diferencia hay entre usar VPN y un DNS privado",
-        "url": "https://www.redeszone.net/noticias/redes/diferencia-vpn-dns-privado/",
-        "imagen": "https://www.redeszone.net/app/uploads-redeszone.net/2026/08/logo-privacidad.jpg",
-        "fecha": "2026-08-26T15:23:01.000Z",
-        "fuenteId": "redeszone",
-        "fuenteTitle": "RedesZone",
-        "categorias": [
-          "tecnologia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El Barça cancela el homenaje a los campeones del Mundial y lo cambia por uno de “exaltación” de la bandera independentista",
-        "url": "https://elpais.com/espana/catalunya/2026-08-26/el-barca-cancela-el-homenaje-a-los-campeones-del-mundial-tras-el-incidente-con-la-policia-en-elche.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/KB32SVUFHJFVVA7GUQOZUWWU6M.jpg?auth=626ecfc9e8aef36a7fe4da61b753b47ef9084400dd351d2c01335327e2f95ec5",
-        "fecha": "2026-08-26T15:22:48.000Z",
-        "fuenteId": "el-pais",
-        "fuenteTitle": "El País",
-        "categorias": [
-          "actualidad",
-          "tecnologia",
-          "ciencia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Xbox sorprende y prepara una función que podrá cambiar para siempre el uso de tus juegos físicos",
-        "url": "https://areajugones.sport.es/videojuegos/xbox-sorprende-y-prepara-una-funcion-que-podra-cambiar-para-siempre-el-uso-de-tus-juegos-fisicos/",
-        "imagen": "https://areajugones.sport.es/wp-content/uploads/2026/08/xbox-nueva-funcion-formato-fisico-gamescom-1024x576.jpg",
-        "fecha": "2026-08-26T15:21:38.000Z",
-        "fuenteId": "areajugones",
-        "fuenteTitle": "Areajugones",
-        "categorias": [
-          "tecnologia",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Últimas horas para aprovechar los descuentos de AliExpress: móviles, consolas y más a precios de derribo",
-        "url": "https://www.xataka.com/seleccion/ultimas-horas-para-aprovechar-descuentos-aliexpress-moviles-consolas-a-precios-derribo",
-        "imagen": "https://i.blogs.es/1a7b1a/auriculares-inalambricos-sony-y-nintendo-switch-2/1024_2000.jpeg",
-        "fecha": "2026-08-26T15:15:04.000Z",
-        "fuenteId": "xataka",
-        "fuenteTitle": "Xataka",
-        "categorias": [
-          "tecnologia",
-          "ciencia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La muerte sin resolver de un hombre golpeado con una piedra en León empieza a ver la luz a los tres meses: detienen a su sobrina y su pareja",
-        "url": "https://elpais.com/espana/madrid/2026-08-26/la-detencion-de-una-mujer-y-de-su-pareja-aclara-un-crimen-sin-resolver-desde-mayo-en-leon.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/XPBWN5KXV5AC3EMMFM6QVSIG4U.jpg?auth=df0e3348cdd59b1ace275cabba4d0d3efe0c74373ef531f4a819ecb4e8653847",
-        "fecha": "2026-08-26T15:14:59.000Z",
-        "fuenteId": "el-pais",
-        "fuenteTitle": "El País",
-        "categorias": [
-          "actualidad",
-          "tecnologia",
-          "ciencia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La actriz Busy Phillips revela que se ha sometido a dos cirugías para tratar un tumor cerebral",
-        "url": "https://elpais.com/gente/2026-08-26/la-actriz-busy-phillips-revela-que-se-ha-sometido-a-dos-cirugias-para-tratar-un-tumor-cerebral.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/STYBCLQ6ZBBODIKN3ZYXO6MK4A.jpg?auth=708654a5a55f604365255626c1534e5fb30d8d076e6ec132a8e545a065cdb4c0",
-        "fecha": "2026-08-26T15:14:35.000Z",
-        "fuenteId": "el-pais",
-        "fuenteTitle": "El País",
-        "categorias": [
-          "actualidad",
-          "tecnologia",
-          "ciencia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Tras observar los malos resultados, General Motors cambia de dirección en Australia y Nueva Zelanda",
-        "url": "https://www.diariomotor.com/competicion/noticia/general-motors-cambia-en-australia/",
-        "imagen": "https://www.diariomotor.com/imagenes/2026/08/Camaro_Supercars_Temporada_2026_26-6a8ed9d408b05.jpg?class=XL",
-        "fecha": "2026-08-26T15:12:34.000Z",
+        "titulo": "BMW tiene el motor V8 ideal, pero no el interés de volver a la Fórmula 1",
+        "url": "https://www.diariomotor.com/competicion/noticia/bmw-regreso-formula-1-v8-atmosfericos/",
+        "imagen": "https://www.diariomotor.com/imagenes/2026/08/BMW_Hybrid_V8_WRT_Hypercar_2_2026-6a8ef408d29bc.jpg?class=XL",
+        "fecha": "2026-08-26T18:26:50.000Z",
         "fuenteId": "diariomotor",
         "fuenteTitle": "Diariomotor",
         "categorias": [
@@ -4357,10 +4142,36 @@
         "idioma": "es"
       },
       {
-        "titulo": "El CEO de Xiaomi lo confirma: los nuevos Xiaomi 18 Fold y 18 Pro llegarán en septiembre, adelantándose al modelo estándar",
-        "url": "https://www.larazon.es/tecnologia-consumo/xiaomi/ceo-xiaomi-confirma-nuevos-xiaomi-18-fold-18-pro-llegaran-septiembre-adelantandose-modelo-estandar_202608266a8eff35ae2f3735da154d8a.html",
-        "imagen": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/08/26/EBFAD94F-E6CC-4577-9A39-00432CD46EB3/imagen-filtrada-xiaomi-18-fold_96.jpg?crop=1920,1080,x0,y0&amp;width=1200&amp;height=675&amp;optimize=low&amp;format=webply",
-        "fecha": "2026-08-26T15:08:46.000Z",
+        "titulo": "Llega los nuevos descuentos de la Gamescom a PS Store, y estas son sus 40 mejores ofertas para PS4 y PS5: Expedition 33, Crimson Desert, 007 y más",
+        "url": "https://areajugones.sport.es/videojuegos/llega-los-nuevos-descuentos-de-la-gamescom-a-ps-store-y-estas-son-sus-40-mejores-ofertas-para-ps4-y-ps5-expedition-33-crimson-desert-007-y-mas/",
+        "imagen": "https://areajugones.sport.es/wp-content/uploads/2026/08/ps-store-gamescom-1024x576.jpg",
+        "fecha": "2026-08-26T16:28:32.000Z",
+        "fuenteId": "areajugones",
+        "fuenteTitle": "Areajugones",
+        "categorias": [
+          "tecnologia",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Bigby vuelve a Fabletown el 29 de octubre: The Wolf Among Us Remastered llega justo a tiempo para Halloween",
+        "url": "https://areajugones.sport.es/videojuegos/bigby-vuelve-a-fabletown-el-29-de-octubre-the-wolf-among-us-remastered-llega-justo-a-tiempo-para-halloween/",
+        "imagen": "https://areajugones.sport.es/wp-content/uploads/2026/08/the-wolf-among-us-1024x576.jpg",
+        "fecha": "2026-08-26T16:27:02.000Z",
+        "fuenteId": "areajugones",
+        "fuenteTitle": "Areajugones",
+        "categorias": [
+          "tecnologia",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Ramón, ingeniero de 91 años: «El problema de aprender una tecnología no es la edad, es la curiosidad» y explica cuanto tardó en entender las nuevas tecnologías",
+        "url": "https://www.larazon.es/tecnologia-consumo/inteligencia-artificial/ramon-ingeniero-91-anos-problema-aprender-tecnologia-no-es-edad-es-curiosidad-explica-cuanto-tardo-entender-nuevas-tecnologias_202608266a8ebdddae2f3735da14b8b5.html",
+        "imagen": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/08/26/2422A944-3897-4DCC-A78B-CE1C1F2C34B4/inteligencia-artificial_96.jpg?crop=1122,631,x70,y0&amp;width=1200&amp;height=675&amp;optimize=low&amp;format=webply",
+        "fecha": "2026-08-26T16:25:00.000Z",
         "fuenteId": "andro4all",
         "fuenteTitle": "Andro4all",
         "categorias": [
@@ -4369,12 +4180,203 @@
         "idioma": "es"
       },
       {
-        "titulo": "Xbox da un salto que retumbará en la industria: los juegos en disco se van a poder pasar a digital desde el 31 de agosto",
-        "url": "https://www.adslzone.net/noticias/videojuegos/xbox-juegos-disco-pasar-digital-confirmado/",
-        "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/08/Xbox-ahora-digital-discos.jpg",
-        "fecha": "2026-08-26T15:08:30.000Z",
+        "titulo": "XGIMI se adelanta a la Vuelta al Cole con una gran rebaja en su elegante proyector Elfin Flip Plus",
+        "url": "https://muyinteresante.okdiario.com/bazar/xgimi-se-adelanta-a-la-vuelta-al-cole-con-una-gran-rebaja-en-su-elegante-proyector-elfin-flip-plus.html",
+        "imagen": "",
+        "fecha": "2026-08-26T16:24:52.000Z",
+        "fuenteId": "muy-interesante",
+        "fuenteTitle": "Muy Interesante",
+        "categorias": [
+          "ciencia",
+          "tecnologia",
+          "cultura"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Apple confirma el evento del iPhone Ultra y los iPhone 18 Pro: fecha, hora y qué esperar",
+        "url": "https://hipertextual.com/apple/apple-fecha-confirmada-evento-iphone-18-pro-y-iphone-ultra/",
+        "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/08/Evento-iPhone-18-pro.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
+        "fecha": "2026-08-26T16:24:41.000Z",
+        "fuenteId": "hipertextual",
+        "fuenteTitle": "Hipertextual",
+        "categorias": [
+          "tecnologia",
+          "ciencia",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Qué presentará Apple (y qué no) en su evento confirmado del 9 de septiembre",
+        "url": "https://www.applesfera.com/rumores/que-presentara-apple-que-no-su-evento-confirmado-9-septiembre",
+        "imagen": "https://i.blogs.es/31b7e8/apple-event/1024_2000.jpeg",
+        "fecha": "2026-08-26T16:13:13.000Z",
+        "fuenteId": "applesfera",
+        "fuenteTitle": "Applesfera",
+        "categorias": [
+          "tecnologia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El mundo de la droga londinense de 'Top Boy' vuelve a Netflix gracias a 2 spin-offs centrados en Jonny (Barry Keoghan) y Jacqueline (Jasmine Jobson)",
+        "url": "https://www.larazon.es/tecnologia-consumo/series/mundo-droga-londinense-top-boy-vuelve-netflix-gracias-2spin-offs-centrados-jonny-barry-keoghan-yjacqueline-jasmine-jobson_202608266a8f0a49ae2f3735da156461.html",
+        "imagen": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/08/26/A8AA316A-4C5F-4600-93A0-FC9A9457ED76/2-spin-offs-top-boy_96.jpg?crop=1280,720,x0,y0&amp;width=1200&amp;height=675&amp;optimize=low&amp;format=webply",
+        "fecha": "2026-08-26T16:09:05.000Z",
+        "fuenteId": "andro4all",
+        "fuenteTitle": "Andro4all",
+        "categorias": [
+          "tecnologia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Gears of War: E-Day será el primer juego en estrenar Nvidia RTX Mega Geometry",
+        "url": "https://www.profesionalreview.com/2026/08/26/gears-of-war-e-day-juego-nvidia-rtx-mega-geometry/",
+        "imagen": "https://www.profesionalreview.com/wp-content/uploads/2026/08/Gears-of-War-E-Day-es-el-primer-juego-con-RTX-Mega-Geometry.jpg",
+        "fecha": "2026-08-26T16:07:08.000Z",
+        "fuenteId": "profesional-review",
+        "fuenteTitle": "Profesional Review",
+        "categorias": [
+          "tecnologia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Es oficial: Apple anuncia la keynote del iPhone 18 Pro y su primer plegable",
+        "url": "https://www.applesfera.com/eventos/oficial-apple-anuncia-keynote-iphone-18-pro-su-primer-plegable",
+        "imagen": "https://i.blogs.es/640c5b/apple-event-septiembre/1024_2000.jpeg",
+        "fecha": "2026-08-26T16:05:56.000Z",
+        "fuenteId": "applesfera",
+        "fuenteTitle": "Applesfera",
+        "categorias": [
+          "tecnologia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "AliExpress lanza una gran rebaja en el Mini PC que necesitarás para la vuelta al cole",
+        "url": "https://www.adslzone.net/ofertas/aliexpress-ordenador-mini-pc-gmktec-g3-0826/",
+        "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/08/GMKtec-G3-conectores.jpg",
+        "fecha": "2026-08-26T16:03:54.000Z",
         "fuenteId": "adslzone",
         "fuenteTitle": "ADSLZone",
+        "categorias": [
+          "tecnologia",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "La Fiscalía pide mantener la imputación de Jésica Rodríguez, expareja de Ábalos",
+        "url": "https://elpais.com/espana/2026-08-26/la-fiscalia-pide-mantener-la-imputacion-de-jesica-rodriguez-expareja-de-abalos.html",
+        "imagen": "https://imagenes.elpais.com/resizer/v2/WS24QUL765O7BLWWEQAXUZVMMQ.jpg?auth=80e86ea0231f28caf8775a3e614923153fdd8c3b2a4bfb4325f19ea45b0db368",
+        "fecha": "2026-08-26T16:03:26.000Z",
+        "fuenteId": "el-pais",
+        "fuenteTitle": "El País",
+        "categorias": [
+          "actualidad",
+          "tecnologia",
+          "ciencia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Las batallas de farmear aura en España han pasado de broma a actos reales que convocan a miles de chavales en Vigo, Burgos o Zaragoza",
+        "url": "https://www.xataka.com/magnet/batallas-farmear-aura-espana-han-pasado-broma-a-actos-reales-que-convocan-a-miles-chavales-vigo-burgos-zaragoza",
+        "imagen": "https://i.blogs.es/51af76/farmear-aura/1024_2000.jpeg",
+        "fecha": "2026-08-26T16:01:05.000Z",
+        "fuenteId": "xataka",
+        "fuenteTitle": "Xataka",
+        "categorias": [
+          "tecnologia",
+          "ciencia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Elon Musk, sobre el fin del smartphone: \"Creo que no habrá sistemas operativos. No habrá aplicaciones en el futuro\"",
+        "url": "https://www.xatakamovil.com/movil-y-sociedad/elon-musk-fin-smartphone-creo-que-no-habra-sistemas-operativos-no-habra-aplicaciones-futuro",
+        "imagen": "https://i.blogs.es/47389b/elon-musk-fin-smartphones/1024_2000.jpeg",
+        "fecha": "2026-08-26T16:01:05.000Z",
+        "fuenteId": "xataka-movil",
+        "fuenteTitle": "Xataka Móvil",
+        "categorias": [
+          "tecnologia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Netflix esconde un potente test de velocidad muy diferente del resto: no mide lo máximo que da nuestra conexión a Internet",
+        "url": "https://www.xatakahome.com/curiosidades/netflix-esconde-potente-test-velocidad-muy-diferente-resto-no-mide-maximo-que-da-nuestra-conexion-a-internet",
+        "imagen": "https://i.blogs.es/a11fac/captura-de-pantalla-2026-08-26-a-las-9.02.57/1024_2000.jpeg",
+        "fecha": "2026-08-26T16:01:05.000Z",
+        "fuenteId": "xataka-smart-home",
+        "fuenteTitle": "Xataka Smart Home",
+        "categorias": [
+          "tecnologia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Parece Noruega o Islandia, pero está en Teruel: la cascada cristalina perfecta para una escapada en camper",
+        "url": "https://www.motorpasion.com/furgonetas-y-caravanas/parece-noruega-islandia-esta-teruel-cascada-cristalina-perfecta-para-escapada-camper",
+        "imagen": "https://i.blogs.es/605dfb/cascada-molino-san-pedro-teruel/1024_2000.jpeg",
+        "fecha": "2026-08-26T16:01:04.000Z",
+        "fuenteId": "motorpasion",
+        "fuenteTitle": "Motorpasión",
+        "categorias": [
+          "tecnologia",
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "‘Venom: El último baile’ triunfa en Netflix mientras que Sony vuelve a confirmar la muerte de su universo cinematográfico",
+        "url": "https://www.avpasion.com/venom-ultimo-baile-triunfa-netflix/",
+        "imagen": "",
+        "fecha": "2026-08-26T16:00:42.000Z",
+        "fuenteId": "avpasion",
+        "fuenteTitle": "AVPasión",
+        "categorias": [
+          "tecnologia",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Muere a los 80 años Tim Curry, el actor que dio vida a Pennywise y protagonizó The Rocky Horror Picture Show",
+        "url": "https://www.elmundo.es/cultura/cine/2026/08/26/6a8f0d24e9cf4a392a8b458d.html",
+        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/26/17877600130601.jpg",
+        "fecha": "2026-08-26T16:00:40.000Z",
+        "fuenteId": "el-mundo",
+        "fuenteTitle": "El Mundo",
+        "categorias": [
+          "actualidad",
+          "tecnologia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Resonance: A Plague Tale Legacy, review: una historia fascinante en un mundo oscuro pero precioso",
+        "url": "https://hardzone.es/reviews/videojuegos/resonance-a-plague-tale-legacy/",
+        "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/08/Resonance-A-Plague-Tale-Legacy-portada.jpg",
+        "fecha": "2026-08-26T16:00:11.000Z",
+        "fuenteId": "hardzone",
+        "fuenteTitle": "HardZone",
+        "categorias": [
+          "tecnologia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Análisis Resonance: A Plague Tale Legacy - Un cambio de enfoque que se queda a medio gas",
+        "url": "https://areajugones.sport.es/videojuegos/analisis-resonance-a-plague-tale-legacy-un-cambio-de-enfoque-que-se-queda-a-medio-gas/",
+        "imagen": "https://areajugones.sport.es/wp-content/uploads/2026/08/analisis-resonance-a-plague-tale-legacy-1024x576.jpg",
+        "fecha": "2026-08-26T16:00:00.000Z",
+        "fuenteId": "areajugones",
+        "fuenteTitle": "Areajugones",
         "categorias": [
           "tecnologia",
           "entretenimiento"
@@ -4383,6 +4385,32 @@
       }
     ],
     "viajes": [
+      {
+        "titulo": "Estos son los mejores hoteles de lujo del mundo: algunos están muy cerca de España",
+        "url": "https://www.20minutos.es/viajes/hoteles/mejores-hoteles-lujo-mundo-algunos-estan-cerca-espana_7023795_0.html",
+        "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/08/08/6a76c5bd9a0260-45498503.jpeg",
+        "fecha": "2026-08-26T16:00:00.000Z",
+        "fuenteId": "20minutos-viajes",
+        "fuenteTitle": "20minutos - Viajes",
+        "categorias": [
+          "viajes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El castillo de Ávila que pasó de fortaleza medieval a palacio renacentista",
+        "url": "https://www.espanafascinante.com/articulo/cultura-espanola/castillo-avila-fortaleza-medieval-palacio-renacentista/20260826180000291189.html",
+        "imagen": "https://www.espanafascinante.com/media/espanafascinante/images/2026/08/26/2026082613365516131.jpg",
+        "fecha": "2026-08-26T16:00:00.000Z",
+        "fuenteId": "espana-fascinante",
+        "fuenteTitle": "España Fascinante",
+        "categorias": [
+          "viajes",
+          "cultura",
+          "gastronomia"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "El coqueto hotel escondido en un pueblo andaluz por el que merece la pena desviarse este verano",
         "url": "https://www.abc.es/viajar/andalucia/coqueto-hotel-escondido-pueblo-andaluz-merece-pena-20260826155918-nts.html",
@@ -4617,30 +4645,6 @@
         "categorias": [
           "viajes",
           "cultura"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La iglesia-fortaleza en la que descansa el corazón de Carlos II",
-        "url": "https://www.abc.es/viajar/destinos/espana/iglesiafortaleza-descansa-corazon-carlos-20260823020424-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/viajar/2026/08/23/ujue-kXaD-Rcucqzd030qsaGKfdwSm9FL-1200x840@diario_abc.jpg",
-        "fecha": "2026-08-24T00:04:37.000Z",
-        "fuenteId": "abc-viajar",
-        "fuenteTitle": "ABC - Viajar",
-        "categorias": [
-          "viajes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El embalse andaluz con agua turquesa donde bañarse, hacer kayak y pasar el día sin pisar la costa",
-        "url": "https://www.abc.es/viajar/andalucia/embalse-andaluz-agua-turquesa-banarse-kayak-pasar-20260823155333-nts.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/viajar/2026/08/23/Playa%20Negrat%c3%adn%20portada%20Turgranada-RHyOlPZRzG7rklB1AUhvtgN-1200x840@diario_abc.jpg",
-        "fecha": "2026-08-23T13:53:33.000Z",
-        "fuenteId": "abc-viajar",
-        "fuenteTitle": "ABC - Viajar",
-        "categorias": [
-          "viajes"
         ],
         "idioma": "es"
       }
