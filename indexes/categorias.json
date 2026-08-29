@@ -1,8 +1,21 @@
 {
-  "generado": "2026-08-29T01:21:10.530Z",
+  "generado": "2026-08-29T01:36:18.874Z",
   "limitePorCategoria": 20,
   "categorias": {
     "actualidad": [
+      {
+        "titulo": "Registrado un ligero terremoto de magnitud 3.1 en la provincia de Jaén",
+        "url": "https://www.elconfidencial.com/espana/2026-08-29/registrado-un-ligero-terremoto-de-magnitud-3-1-en-la-provincia-de-jaen_4414136/",
+        "imagen": "https://images.ecestaticos.com/X4ZyP843KkoI6_KPxP79XtEQjZs=/27x3:2251x1248/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F405%2F0ec%2Fa3b%2F4050eca3b3cf3e632cf6941e8d2c7ac5.jpg",
+        "fecha": "2026-08-29T00:53:02.000Z",
+        "fuenteId": "el-confidencial-espana",
+        "fuenteTitle": "El Confidencial - España",
+        "categorias": [
+          "politica",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Un buque paga 5,3 millones de dólares por cruzar el canal de Panamá",
         "url": "https://www.elmundo.es/internacional/2026/08/29/6a922a99fc6c831b228b457e.html",
@@ -241,18 +254,6 @@
         "fuenteTitle": "ABC - España",
         "categorias": [
           "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Los ministros enfrentados a Robles evitan pedirle explicaciones",
-        "url": "https://www.abc.es/espana/robles-plantea-dimision-resiste-ofensiva-ministros-20260828011712-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/28/1516385963-RZ08KrTYpVPZGM6kHIXF81J-1200x840@diario_abc.jpg",
-        "fecha": "2026-08-28T23:17:36.000Z",
-        "fuenteId": "abc",
-        "fuenteTitle": "ABC",
-        "categorias": [
           "actualidad"
         ],
         "idioma": "es"
@@ -1054,6 +1055,102 @@
     ],
     "deportes": [
       {
+        "titulo": "Sergio Martínez, del debut estelar con golazo y el Madrid, al olvido en El Sardinero",
+        "url": "https://as.com/futbol/primera/sergio-martinez-del-debut-estelar-con-golazo-y-el-madrid-al-olvido-en-el-sardinero-f202608-n/",
+        "imagen": "https://img.asmedia.epimg.net/resizer/v2/UF5VPXL3KFEEVIJILDVSVNKQNA.jpg?auth=611dfdab7cae0304ca7f104885d365f0fac54030ef552f7f0f25a006804be1ef",
+        "fecha": "2026-08-29T00:55:58.000Z",
+        "fuenteId": "as",
+        "fuenteTitle": "AS",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Dotor: “El Madrid te revienta el plan de toda la semana en una sola acción”",
+        "url": "https://as.com/futbol/primera/dotor-el-madrid-te-revienta-el-plan-de-toda-la-semana-en-una-sola-accion-f202608-n/",
+        "imagen": "https://img.asmedia.epimg.net/resizer/v2/2HHM25BIXNOFPFQIPITMUQDYJE.jpg?auth=717de6fe432954dcf085e8c4d93f10276bbdf12257fdcc1859854f521a351db4",
+        "fecha": "2026-08-29T00:54:33.000Z",
+        "fuenteId": "as",
+        "fuenteTitle": "AS",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El hongo que causa estragos",
+        "url": "https://as.com/futbol/el-hongo-que-causa-estragos-f202608-n/",
+        "imagen": "https://img.asmedia.epimg.net/resizer/v2/HRJIPVOIXNAMXJAKSXJ3TWWW5A.jpeg?auth=8f98bafa4f97252177c96eeffe79026d55d723ca0644c5fc75588abf1e753850",
+        "fecha": "2026-08-29T00:52:58.000Z",
+        "fuenteId": "as",
+        "fuenteTitle": "AS",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Arranca la Liga F Moeve: todos contra el Barça",
+        "url": "https://as.com/futbol/femenino/arranca-la-liga-f-moeve-todos-contra-el-barca-f202608-n/",
+        "imagen": "https://img.asmedia.epimg.net/resizer/v2/B4PIK32GDZHLBENDB3RWBP2HCQ.jpg?auth=fea58f6997b3be07ca9929d6263833e1e14ae73b274381de242614e1b236561a",
+        "fecha": "2026-08-29T00:51:37.000Z",
+        "fuenteId": "as",
+        "fuenteTitle": "AS",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Vuelta a España 2026 hoy, etapa 8: perfil y recorrido",
+        "url": "https://as.com/ciclismo/vuelta_espana/vuelta-a-espana-2026-hoy-etapa-8-perfil-y-recorrido-f202608-n/",
+        "imagen": "https://img.asmedia.epimg.net/resizer/v2/2QUR7VZXMJBJDEAOVYJYHLXEZM.png?auth=1276b690bdc15418386a00571992e47877e1d79230d185343d3bdeef3e0614be",
+        "fecha": "2026-08-29T00:49:58.000Z",
+        "fuenteId": "as",
+        "fuenteTitle": "AS",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "La cámara siniestra que persigue a Lamine",
+        "url": "https://as.com/opinion/la-camara-siniestra-que-persigue-a-lamine-f202608-n/",
+        "imagen": "https://img.asmedia.epimg.net/resizer/v2/ZVSEVXOTP5ODVIKBCW5R3GZAWQ.jpg?auth=d71d8f61c9c5f55e3e528a9d42955039adac742c8442c35d3821aa2b6d73a77c",
+        "fecha": "2026-08-29T00:48:15.000Z",
+        "fuenteId": "as",
+        "fuenteTitle": "AS",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Valdebebas no es nunca el final",
+        "url": "https://as.com/opinion/valdebebas-no-es-nunca-el-final-f202608-n/",
+        "imagen": "https://img.asmedia.epimg.net/resizer/v2/F6K2KD7JXZA2BI6FV5IWZMXRH4.jfif?auth=caed63feb046f0f18073d7eda5d3f0bb407c55f5db7146dd92a9bdbce17fcff2",
+        "fecha": "2026-08-29T00:47:37.000Z",
+        "fuenteId": "as",
+        "fuenteTitle": "AS",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "¿Cómo está el camino de España al Mundial tras la derrota?",
+        "url": "https://as.com/baloncesto/mas_baloncesto/como-esta-el-camino-de-espana-al-mundial-tras-la-derrota-f202608-n/",
+        "imagen": "https://img.asmedia.epimg.net/resizer/v2/W7AGBTPTCVPGTPFOGWJYLUG2ZI.jpg?auth=a75b500d39d735a9397a6d58576be242454f1b081fa3ea4b48c95f3968f67838",
+        "fecha": "2026-08-29T00:18:59.000Z",
+        "fuenteId": "as",
+        "fuenteTitle": "AS",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Max Holloway y Paddy Pimblett, multados por saltar fuera del octágono en UFC 329",
         "url": "https://www.abc.es/deportes/mma/max-holloway-paddy-pimblett-multados-saltar-octagono-20260827014735-nt.html",
         "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/08/27/paddy-pimblett-jaula-RRo5d5LLVOpOKto8rEkbrZI-1200x840@diario_abc.PNG",
@@ -1196,105 +1293,105 @@
           "deportes"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "España arranca la segunda fase de clasificación para el Mundial con una derrota ante Portugal en el debut de Aday Mara",
-        "url": "https://www.elespanol.com/deportes/baloncesto/20260828/espana-arranca-segunda-fase-clasificacion-mundial-derrota-portugal-debut-aday-mara/1003744366554_0.html",
-        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11343421.jpg?p=w:1706/h:960&h=T1IWFHL4",
-        "fecha": "2026-08-28T21:37:31.000Z",
-        "fuenteId": "el-espanol-deportes",
-        "fuenteTitle": "El Español - Deportes",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "0-1: El Sporting frena el buen arranque del Tenerife",
-        "url": "https://www.mundodeportivo.com/futbol/20260828/1004220816/0-1-sporting-frena-buen-arranque-tenerife.html",
-        "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/08/28/6a91ff6be7104.png",
-        "fecha": "2026-08-28T21:36:58.000Z",
-        "fuenteId": "mundo-deportivo",
-        "fuenteTitle": "Mundo Deportivo",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Un líder Glorioso",
-        "url": "https://as.com/futbol/un-lider-glorioso-f202608-n/",
-        "imagen": "https://img.asmedia.epimg.net/resizer/v2/WS5FPYLU3BOFBGKARWXMLXCSDY.jpg?auth=15e5534ef07167f07501de7d45a5de366cf53059a0ebd441f1e2b5466b03c539",
-        "fecha": "2026-08-28T21:34:48.000Z",
-        "fuenteId": "as",
-        "fuenteTitle": "AS",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Qué supone la derrota de España frente a Portugal en las ventanas FIBA para el Mundial 2027",
-        "url": "https://www.gigantes.com/selecciones/que-supone-derrota-espana-portugal/",
-        "imagen": "https://www.gigantes.com/wp-content/uploads/sites/4/2026/08/1548-liga-endesa-planets-baja-scaled.jpg",
-        "fecha": "2026-08-28T21:30:24.000Z",
-        "fuenteId": "gigantes-basket",
-        "fuenteTitle": "Gigantes del Basket",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Un tropiezo muy duro",
-        "url": "https://as.com/baloncesto/mas_baloncesto/un-tropiezo-muy-duro-f202608-n/",
-        "imagen": "https://img.asmedia.epimg.net/resizer/v2/JHF4DPXYZ5AA3AO5UTAKVXJGDY.jpg?auth=d9c9edc736e45374c45b884173efcd31e138bf1946b9175bc27b3b733a51e476",
-        "fecha": "2026-08-28T21:30:00.000Z",
-        "fuenteId": "as",
-        "fuenteTitle": "AS",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "1-0: El Alavés no se baja de la nube ante un Villarreal incapaz",
-        "url": "https://www.mundodeportivo.com/futbol/alaves/20260828/1004220815/alaves-no-baja-nube-villarreal-incapaz.html",
-        "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/08/28/6a91fcd940511.jpeg",
-        "fecha": "2026-08-28T21:29:08.000Z",
-        "fuenteId": "mundo-deportivo",
-        "fuenteTitle": "Mundo Deportivo",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "89-95: Portugal sorprende a España en Zaragoza",
-        "url": "https://www.mundodeportivo.com/baloncesto/basket-feb/20260828/1004220813/89-95-portugal-sorprende-espana-zaragoza.html",
-        "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/08/28/6a91fcead7c6a.jpeg",
-        "fecha": "2026-08-28T21:27:47.000Z",
-        "fuenteId": "mundo-deportivo",
-        "fuenteTitle": "Mundo Deportivo",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "2-0: Gonçalo Ramos guía al Milan hasta el triunfo",
-        "url": "https://www.mundodeportivo.com/futbol/serie-a/20260828/1004220814/goncalo-ramos-guia-milan-triunfo.html",
-        "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/08/28/6a91fd2044379.jpeg",
-        "fecha": "2026-08-28T21:27:28.000Z",
-        "fuenteId": "mundo-deportivo",
-        "fuenteTitle": "Mundo Deportivo",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
       }
     ],
     "economia": [
+      {
+        "titulo": "Director de Kinetik Holdings vende acciones por 4,2 millones de dólares",
+        "url": "https://es.investing.com/news/insider-trading-news/director-de-kinetik-holdings-vende-acciones-por-42-millones-de-dolares-93CH-3815643",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM4510G_1200_L.jpg",
+        "fecha": "2026-08-29T01:02:07.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Directora de Micron Tecnología Alexis Bjorlin vende 28.308 dólares en acciones",
+        "url": "https://es.investing.com/news/insider-trading-news/directora-de-micron-tecnologia-alexis-bjorlin-vende-28308-dolares-en-acciones-93CH-3815642",
+        "imagen": "https://content-media.investing.com/news/Micron_800x533_L_1634733965.jpg",
+        "fecha": "2026-08-29T01:01:54.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Operador de teleprónter de la Casa Blanca llega a un acuerdo en investigación sobre mercados de predicción",
+        "url": "https://es.investing.com/news/economy-news/operador-de-telepronter-de-la-casa-blanca-llega-a-un-acuerdo-en-investigacion-sobre-mercados-de-prediccion-3815639",
+        "imagen": "https://content-media.investing.com/news/LYNXMPEABT0MT_M.jpg",
+        "fecha": "2026-08-29T00:49:48.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Director de Green LTF Holdings II LP vende 126,1 millones de dólares en acciones de Life Time Group",
+        "url": "https://es.investing.com/news/insider-trading-news/director-de-green-ltf-holdings-ii-lp-vende-1261-millones-de-dolares-en-acciones-de-life-time-group-93CH-3815638",
+        "imagen": "",
+        "fecha": "2026-08-29T00:47:13.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Director de Life Time Group vende acciones por 126,1 millones de dólares",
+        "url": "https://es.investing.com/news/insider-trading-news/director-de-life-time-group-vende-acciones-por-1261-millones-de-dolares-93CH-3815637",
+        "imagen": "",
+        "fecha": "2026-08-29T00:47:04.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El CFO de Global Ship Lease, Psaropoulos, vende acciones por 2,25 millones de dólares",
+        "url": "https://es.investing.com/news/insider-trading-news/el-cfo-de-global-ship-lease-psaropoulos-vende-acciones-por-225-millones-de-dolares-93CH-3815636",
+        "imagen": "",
+        "fecha": "2026-08-29T00:46:49.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Vicepresidenta sénior y CFO de Hamilton Beach vende acciones por 97.500 dólares",
+        "url": "https://es.investing.com/news/insider-trading-news/vicepresidenta-senior-y-cfo-de-hamilton-beach-vende-acciones-por-97500-dolares-93CH-3815635",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3T1K3_1200_L.jpg",
+        "fecha": "2026-08-29T00:46:38.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Protagonist Therapeutics recibe aprobación de la FDA para su fármaco contra la policitemia vera",
+        "url": "https://es.investing.com/news/company-news/protagonist-therapeutics-recibe-aprobacion-de-la-fda-para-su-farmaco-contra-la-policitemia-vera-93CH-3815632",
+        "imagen": "https://content-media.investing.com/news/LYNXMPEM4D1J3_1200_L.jpg",
+        "fecha": "2026-08-29T00:37:33.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "La mayor inflación en tres años daña el poder adquisitivo de las familias, eleva la brecha con la UE y pone en peligro el PIB",
         "url": "https://www.elespanol.com/invertia/economia/macroeconomia/20260829/mayor-inflacion-anos-dana-poder-adquisitivo-familias-eleva-brecha-ue-pone-peligro-pib/1003744366167_0.html",
@@ -1368,6 +1465,30 @@
         "idioma": "es"
       },
       {
+        "titulo": "La directora de operaciones de Pulse Biosciences compra acciones por 99.965 dólares",
+        "url": "https://es.investing.com/news/insider-trading-news/la-directora-de-operaciones-de-pulse-biosciences-compra-acciones-por-99965-dolares-93CH-3815630",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM40318_1200_L.jpg",
+        "fecha": "2026-08-29T00:16:58.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "ARK de Cathie Wood cambia la atención: vende AMD y compra Nvidia y Broadcom",
+        "url": "https://es.investing.com/news/company-news/ark-de-cathie-wood-cambia-la-atencion-vende-amd-y-compra-nvidia-y-broadcom-93CH-3815629",
+        "imagen": "https://content-media.investing.com/news/LYNXMPEE141FU_L.jpg",
+        "fecha": "2026-08-29T00:15:52.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Truist y Fifth Third pausan productos vinculados a la firma de Mark Walter",
         "url": "https://es.investing.com/news/stock-market-news/truist-y-fifth-third-pausan-productos-vinculados-a-la-firma-de-mark-walter-3815627",
         "imagen": "",
@@ -1410,126 +1531,6 @@
         "fecha": "2026-08-29T00:01:50.000Z",
         "fuenteId": "investing-es-noticias",
         "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El presidente y director ejecutivo de United States Antimony, Gary Evans, adquiere 98.400 dólares en acciones",
-        "url": "https://es.investing.com/news/insider-trading-news/el-presidente-y-director-ejecutivo-de-united-states-antimony-gary-evans-adquiere-98400-dolares-en-acciones-93CH-3815624",
-        "imagen": "",
-        "fecha": "2026-08-29T00:01:50.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Cada vez más, en más jóvenes y sin fármacos específicos: por qué la artrosis sigue \"infravigilada\" en España",
-        "url": "https://www.elespanol.com/invertia/observatorios/sanidad/20260829/vez-jovenes-sin-farmacos-especificos-artrosis-sigue-infravigilada-espana/1003744365822_0.html",
-        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11343221.jpg?p=w:1706/h:960&h=BHr2hZtU",
-        "fecha": "2026-08-29T00:00:00.000Z",
-        "fuenteId": "el-espanol-economia",
-        "fuenteTitle": "El Español - Economía",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Córdoba crece como capital española de Defensa con el mantenimiento de los 8x8 Dragón y las obras de la BLET",
-        "url": "https://www.elespanol.com/observatorio-defensa/20260829/cordoba-crece-capital-espanola-defensa-mantenimiento-dragon-obras-blet/1003744363297_0.html",
-        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/8294398.jpg?p=c:2047:1154:nowe:0:116/w:1706/h:960&h=jcD24oHp",
-        "fecha": "2026-08-29T00:00:00.000Z",
-        "fuenteId": "el-espanol-economia",
-        "fuenteTitle": "El Español - Economía",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El director de Life Time Group vende acciones por 126,1 millones de dólares",
-        "url": "https://es.investing.com/news/insider-trading-news/el-director-de-life-time-group-vende-acciones-por-1261-millones-de-dolares-93CH-3815622",
-        "imagen": "https://content-media.investing.com/news/moved_small-LYNXMPEM3T1AG_1200_L.jpg",
-        "fecha": "2026-08-28T23:46:51.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El COO de Rocket Lab, Frank Klein, vende 2,37 millones de dólares en acciones RKLB",
-        "url": "https://es.investing.com/news/insider-trading-news/el-coo-de-rocket-lab-frank-klein-vende-237-millones-de-dolares-en-acciones-rklb-93CH-3815621",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0V4_1200_L.jpg",
-        "fecha": "2026-08-28T23:46:47.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "IP Strategy recibe aviso de incumplimiento de Nasdaq por retraso en presentación",
-        "url": "https://es.investing.com/news/company-news/ip-strategy-recibe-aviso-de-incumplimiento-de-nasdaq-por-retraso-en-presentacion-93CH-3815618",
-        "imagen": "https://content-media.investing.com/news/LYNXMPEM4L1MC_150x108_S.jpg",
-        "fecha": "2026-08-28T23:37:11.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El director de Snowflake Benoit Dageville vende acciones por 15,47 millones de dólares",
-        "url": "https://es.investing.com/news/insider-trading-news/el-director-de-snowflake-benoit-dageville-vende-acciones-por-1547-millones-de-dolares-93CH-3815617",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0WG_1200_L.jpg",
-        "fecha": "2026-08-28T23:32:13.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Directora de Arcutis Terrie Curran vende acciones por 956.000 dólares",
-        "url": "https://es.investing.com/news/insider-trading-news/directora-de-arcutis-terrie-curran-vende-acciones-por-956000-dolares-93CH-3815616",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM431A2_1200_L.jpg",
-        "fecha": "2026-08-28T23:32:05.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "SpaceX invertirá 100.000 millones de dólares en una megabase espacial en Luisiana",
-        "url": "https://www.elespanol.com/invertia/disruptores-americas/20260829/spacex-invertira-millones-dolares-megabase-espacial-luisiana/1003744364123_0.html",
-        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11341863.jpg?p=w:1706/h:960&h=eHFlmZiL",
-        "fecha": "2026-08-28T23:30:00.000Z",
-        "fuenteId": "el-espanol-economia",
-        "fuenteTitle": "El Español - Economía",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Los desvíos en la subida de las pensiones y el gasto en paro complican al Gobierno el cálculo del Presupuesto en su recta final",
-        "url": "https://www.abc.es/economia/cuentas-corrientes/desvios-subida-pensiones-gasto-paro-complican-gobierno-20260829012003-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/08/29/sanchez-cuerpo-diaz-RjEUhWS2yupB9kQbKMjJwrK-1200x840@diario_abc.jpg",
-        "fecha": "2026-08-28T23:20:03.000Z",
-        "fuenteId": "abc-economia",
-        "fuenteTitle": "ABC - Economía",
         "categorias": [
           "economia"
         ],
@@ -2319,6 +2320,70 @@
     ],
     "internacional": [
       {
+        "titulo": "Informe desde Guayaquil: Lenin Moreno, culpable de recibir sobornos",
+        "url": "https://www.france24.com/es/video/20260829-informe-desde-guayaquil-lenin-moreno-culpable-de-recibir-sobornos",
+        "imagen": "https://s.france24.com/media/display/c8babdf6-a345-11f1-96f5-005056bfb2b6/w:1024/p:16x9/ES-20260828-183625-184000-CS.jpg",
+        "fecha": "2026-08-29T01:07:18.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "\"Me arrepiento\": los sirios que regresaron tras la caída de Al Assad se topan con una dura realidad",
+        "url": "http://es.euronews.com/2026/08/29/volver-a-siria-tras-la-caida-de-al-assad-una-realidad-compleja",
+        "imagen": "",
+        "fecha": "2026-08-29T01:00:57.000Z",
+        "fuenteId": "euronews-espanol",
+        "fuenteTitle": "Euronews Español",
+        "categorias": [
+          "internacional"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Seis meses del ataque contra la escuela de Minab: siguen las investigaciones estadounidenses",
+        "url": "https://www.france24.com/es/video/20260829-seis-meses-del-ataque-contra-la-escuela-de-minab-siguen-las-investigaciones-estadounidenses",
+        "imagen": "https://s.france24.com/media/display/0a7376ea-a344-11f1-b374-005056a97e36/w:1024/p:16x9/ES-20260828-183316-183549-CS.jpg",
+        "fecha": "2026-08-29T00:58:41.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Guerra en Irán: diplomacia estancada seis meses después de ataques de EE. UU. e Israel",
+        "url": "https://www.france24.com/es/video/20260829-guerra-en-ir%C3%A1n-diplomacia-estancada-a-seis-meses-de-ataques-de-ee-uu-e-israel",
+        "imagen": "https://s.france24.com/media/display/ea88d0e8-a341-11f1-b1ed-005056bf30b7/w:1024/p:16x9/ES-20260828-133607-133806-CS.jpg",
+        "fecha": "2026-08-29T00:55:39.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Diplomacia del queso: EE. UU. se opone a acuerdo comercial entre México y la UE",
+        "url": "https://www.france24.com/es/video/20260829-diplomacia-del-queso-ee-uu-se-opone-a-acuerdo-comercial-entre-m%C3%A9xico-y-la-ue",
+        "imagen": "https://s.france24.com/media/display/77502170-a338-11f1-aa99-005056a90284/w:1024/p:16x9/ES-20260828-154232-154429-CS.jpg",
+        "fecha": "2026-08-29T00:43:53.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Juez de EE.UU. desestima prueba contra acusado del 11S",
         "url": "https://www.dw.com/es/juez-de-ee-uu-desestima-prueba-contra-acusado-del-11s/a-78553627?maca=spa-rss-sp-all-1122-xml-mrss",
         "imagen": "",
@@ -2512,74 +2577,21 @@
           "actualidad"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "Israel mata a un comandante de Hamás en un inusual ataque aéreo en Cisjordania",
-        "url": "https://www.france24.com/es/medio-oriente/20260828-israel-mata-a-un-comandante-de-ham%C3%A1s-en-un-inusual-ataque-a%C3%A9reo-en-cisjordania",
-        "imagen": "https://s.france24.com/media/display/fd7979b0-a2f5-11f1-9ae1-005056bf30b7/w:1024/p:16x9/2026-08-28T152358Z-1191338275-RC2R7NA7VEHT-RTRMADP-3-ISRAEL-PALESTINIANS-JENIN-AIRSTRIKE.jpg",
-        "fecha": "2026-08-28T21:40:16.000Z",
-        "fuenteId": "france24-espanol",
-        "fuenteTitle": "France 24 Español",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Trump anuncia la creación de la Academia Espacial de Estados Unidos",
-        "url": "https://www.dw.com/es/trump-anuncia-la-creación-de-la-academia-espacial-de-estados-unidos/a-78553080?maca=spa-rss-sp-all-1122-xml-mrss",
-        "imagen": "",
-        "fecha": "2026-08-28T21:19:00.000Z",
-        "fuenteId": "dw-espanol",
-        "fuenteTitle": "DW Español",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Qué revela el tráiler de Grand Theft Auto 6: la esperada entrega de uno de los videojuegos más populares de la historia",
-        "url": "https://www.bbc.com/mundo/articles/cje80nzkpg5o?at_medium=RSS&at_campaign=rss",
-        "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/956b/live/a59bfb30-a25c-11f1-a291-b542ee92de7c.jpg",
-        "fecha": "2026-08-28T21:17:33.000Z",
-        "fuenteId": "bbc-mundo",
-        "fuenteTitle": "BBC News Mundo",
-        "categorias": [
-          "internacional",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Un alpinista recupera su equipo perdido tras caer en la grieta de un glaciar hace 63 años",
-        "url": "https://www.abc.es/internacional/alpinista-recupera-equipo-perdido-tras-caer-grieta-20260827231348-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/08/27/equipo-kVfE-U301460982643bp-1200x840@diario_abc.jpg",
-        "fecha": "2026-08-28T21:14:03.000Z",
-        "fuenteId": "abc-internacional",
-        "fuenteTitle": "ABC - Internacional",
-        "categorias": [
-          "internacional",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "¿Qué es el Tapiz de Bayeux, el tesoro francés del siglo XI que será expuesto en el Museo Británico?",
-        "url": "https://www.france24.com/es/cultura/20260828-qu%C3%A9-es-el-tapiz-de-bayeux-el-tesoro-franc%C3%A9s-del-siglo-xi-que-ser%C3%A1-expuesto-en-el-museo-brit%C3%A1nico",
-        "imagen": "https://s.france24.com/media/display/7045fc98-a319-11f1-9e80-005056bfb2b6/w:1024/p:16x9/FOTO-PORTADA-FRANCIA-TAPIZ-BAYEUX.jpg",
-        "fecha": "2026-08-28T21:08:13.000Z",
-        "fuenteId": "france24-espanol",
-        "fuenteTitle": "France 24 Español",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
       }
     ],
     "local": [
+      {
+        "titulo": "Trump anuncia un \"histórico\" acuerdo petrolero con Venezuela con concesiones al sector privado de EEUU de hasta un siglo",
+        "url": "https://www.elperiodicoextremadura.com/internacional/2026/08/29/trump-anuncia-historico-acuerdo-petrolero-133752068.html",
+        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/89151769-10b3-4293-9860-83964b85e14e_16-9-aspect-ratio_default_0_x1200y533.jpg",
+        "fecha": "2026-08-29T00:54:27.000Z",
+        "fuenteId": "el-periodico-extremadura",
+        "fuenteTitle": "El Periódico Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Acuerdo entre el Dépor y la Federación de Peñas y volverá la animación a la grada de Marathon Inferior",
         "url": "https://www.cope.es/programas/tiempo-de-juego/noticias/acuerdo-depor-federacion-penas-volvera-animacion-grada-marathon-inferior-20260829_3426934.html",
@@ -2801,18 +2813,6 @@
         "url": "https://www.elperiodicoextremadura.com/internacional/2026/08/28/sondeos-islandia-referendum-negociaciones-ue-ligera-ventaja-si-133749300.html",
         "imagen": "https://estaticos-cdn.prensaiberica.es/clip/2720c69c-8415-470a-a812-2cd0a623f99f_16-9-aspect-ratio_default_0_x1000y444.jpg",
         "fecha": "2026-08-28T19:31:08.000Z",
-        "fuenteId": "el-periodico-extremadura",
-        "fuenteTitle": "El Periódico Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Qué hacer si golpeas un coche aparcado y no hay nadie dentro: esto dice la Guardia Civil",
-        "url": "https://www.elperiodico.com/es/motor/20260828/golpeas-coche-aparcado-133700705?utm_source=rss-noticias&utm_medium=feed&utm_campaign=motor",
-        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/9ccc6d67-4f3c-4411-953b-e3c84275b829_16-9-aspect-ratio_default_0.jpg",
-        "fecha": "2026-08-28T19:31:00.000Z",
         "fuenteId": "el-periodico-extremadura",
         "fuenteTitle": "El Periódico Extremadura",
         "categorias": [
@@ -3329,6 +3329,71 @@
     ],
     "politica": [
       {
+        "titulo": "Informe desde Guayaquil: Lenin Moreno, culpable de recibir sobornos",
+        "url": "https://www.france24.com/es/video/20260829-informe-desde-guayaquil-lenin-moreno-culpable-de-recibir-sobornos",
+        "imagen": "https://s.france24.com/media/display/c8babdf6-a345-11f1-96f5-005056bfb2b6/w:1024/p:16x9/ES-20260828-183625-184000-CS.jpg",
+        "fecha": "2026-08-29T01:07:18.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Seis meses del ataque contra la escuela de Minab: siguen las investigaciones estadounidenses",
+        "url": "https://www.france24.com/es/video/20260829-seis-meses-del-ataque-contra-la-escuela-de-minab-siguen-las-investigaciones-estadounidenses",
+        "imagen": "https://s.france24.com/media/display/0a7376ea-a344-11f1-b374-005056a97e36/w:1024/p:16x9/ES-20260828-183316-183549-CS.jpg",
+        "fecha": "2026-08-29T00:58:41.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Guerra en Irán: diplomacia estancada seis meses después de ataques de EE. UU. e Israel",
+        "url": "https://www.france24.com/es/video/20260829-guerra-en-ir%C3%A1n-diplomacia-estancada-a-seis-meses-de-ataques-de-ee-uu-e-israel",
+        "imagen": "https://s.france24.com/media/display/ea88d0e8-a341-11f1-b1ed-005056bf30b7/w:1024/p:16x9/ES-20260828-133607-133806-CS.jpg",
+        "fecha": "2026-08-29T00:55:39.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Registrado un ligero terremoto de magnitud 3.1 en la provincia de Jaén",
+        "url": "https://www.elconfidencial.com/espana/2026-08-29/registrado-un-ligero-terremoto-de-magnitud-3-1-en-la-provincia-de-jaen_4414136/",
+        "imagen": "https://images.ecestaticos.com/X4ZyP843KkoI6_KPxP79XtEQjZs=/27x3:2251x1248/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F405%2F0ec%2Fa3b%2F4050eca3b3cf3e632cf6941e8d2c7ac5.jpg",
+        "fecha": "2026-08-29T00:53:02.000Z",
+        "fuenteId": "el-confidencial-espana",
+        "fuenteTitle": "El Confidencial - España",
+        "categorias": [
+          "politica",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Diplomacia del queso: EE. UU. se opone a acuerdo comercial entre México y la UE",
+        "url": "https://www.france24.com/es/video/20260829-diplomacia-del-queso-ee-uu-se-opone-a-acuerdo-comercial-entre-m%C3%A9xico-y-la-ue",
+        "imagen": "https://s.france24.com/media/display/77502170-a338-11f1-aa99-005056a90284/w:1024/p:16x9/ES-20260828-154232-154429-CS.jpg",
+        "fecha": "2026-08-29T00:43:53.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Juez de EE.UU. desestima prueba contra acusado del 11S",
         "url": "https://www.dw.com/es/juez-de-ee-uu-desestima-prueba-contra-acusado-del-11s/a-78553627?maca=spa-rss-sp-all-1122-xml-mrss",
         "imagen": "",
@@ -3517,71 +3582,6 @@
         "fecha": "2026-08-28T21:34:14.000Z",
         "fuenteId": "the-objective",
         "fuenteTitle": "The Objective",
-        "categorias": [
-          "actualidad",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Trump anuncia la creación de la Academia Espacial de Estados Unidos",
-        "url": "https://www.dw.com/es/trump-anuncia-la-creación-de-la-academia-espacial-de-estados-unidos/a-78553080?maca=spa-rss-sp-all-1122-xml-mrss",
-        "imagen": "",
-        "fecha": "2026-08-28T21:19:00.000Z",
-        "fuenteId": "dw-espanol",
-        "fuenteTitle": "DW Español",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "¿Qué es el Tapiz de Bayeux, el tesoro francés del siglo XI que será expuesto en el Museo Británico?",
-        "url": "https://www.france24.com/es/cultura/20260828-qu%C3%A9-es-el-tapiz-de-bayeux-el-tesoro-franc%C3%A9s-del-siglo-xi-que-ser%C3%A1-expuesto-en-el-museo-brit%C3%A1nico",
-        "imagen": "https://s.france24.com/media/display/7045fc98-a319-11f1-9e80-005056bfb2b6/w:1024/p:16x9/FOTO-PORTADA-FRANCIA-TAPIZ-BAYEUX.jpg",
-        "fecha": "2026-08-28T21:08:13.000Z",
-        "fuenteId": "france24-espanol",
-        "fuenteTitle": "France 24 Español",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Así es la infección bacteriana que sufrió hace 125 millones de años un dinosaurio de Morella",
-        "url": "https://theobjective.com/sociedad/ciencia/2026-08-28/infeccion-bacteriana-dinosaurio-morella/",
-        "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/02/Un-nuevo-fosil-revela-los-secretos-de-un-enigmatico-grupo-de-dinosaurios-los-alvarezsaurios-469x317.jpg",
-        "fecha": "2026-08-28T20:46:33.000Z",
-        "fuenteId": "the-objective",
-        "fuenteTitle": "The Objective",
-        "categorias": [
-          "actualidad",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La explosión de 8.000 botes de laca en dos chalés que mató a nueve personas: \"Los aerosoles salían despedidos como proyectiles\"",
-        "url": "https://www.elmundo.es/espana/2026/08/28/6a8dbcdce4d4d8347d8b45ac.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/25/17876753515703.jpg",
-        "fecha": "2026-08-28T20:41:24.000Z",
-        "fuenteId": "el-mundo-espana",
-        "fuenteTitle": "El Mundo - España",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La investigación sobre Julio iglesias de elDiario.es y Univision Noticias, finalista en los Online Journalism Awards",
-        "url": "https://www.eldiario.es/redaccion/investigacion-julio-iglesias-eldiario-univision-noticias-finalista-online-journalism-awards_132_13473778.html",
-        "imagen": "https://static.eldiario.es/clip/df7bd2ed-3e82-479a-b4be-7c940dd2b867_16-9-discover-aspect-ratio_default_0_x828y266.jpg",
-        "fecha": "2026-08-28T20:32:42.000Z",
-        "fuenteId": "eldiario-es",
-        "fuenteTitle": "elDiario.es",
         "categorias": [
           "actualidad",
           "politica"
@@ -4121,6 +4121,18 @@
     ],
     "tecnologia": [
       {
+        "titulo": "B550M Pro-A WiFi 6E: ASRock revive el socket AM4 con Wi-Fi 6E integrado",
+        "url": "https://www.profesionalreview.com/2026/08/29/b550m-pro-a-wifi-6e-asrock-am4-wi-fi-6e-integrado/",
+        "imagen": "https://www.profesionalreview.com/wp-content/uploads/2026/08/B550M-Pro-A-WiFi-6E-ASRock-revive-el-socket-AM4_2.jpg",
+        "fecha": "2026-08-29T01:07:26.000Z",
+        "fuenteId": "profesional-review",
+        "fuenteTitle": "Profesional Review",
+        "categorias": [
+          "tecnologia"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Un buque paga 5,3 millones de dólares por cruzar el canal de Panamá",
         "url": "https://www.elmundo.es/internacional/2026/08/29/6a922a99fc6c831b228b457e.html",
         "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/29/17879637818080.jpg",
@@ -4366,18 +4378,6 @@
           "actualidad",
           "tecnologia",
           "ciencia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "¿Una actualización ha bloqueado tu Samsung Galaxy Watch? Aquí tienes la solución al problema",
-        "url": "https://www.larazon.es/tecnologia-consumo/samsung/actualizacion-ha-bloqueado-tu-samsung-galaxy-watch-aqui-tienes-solucion-problema_202608296a91f13ad16f763504a492ac.html",
-        "imagen": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/08/29/663FDA68-D8D6-4D25-8E3F-69840E48DF88/apps-galaxy-watch-ultra_96.jpg?crop=1600,900,x0,y150&amp;width=1200&amp;height=675&amp;optimize=low&amp;format=webply",
-        "fecha": "2026-08-28T22:00:00.000Z",
-        "fuenteId": "andro4all",
-        "fuenteTitle": "Andro4all",
-        "categorias": [
-          "tecnologia"
         ],
         "idioma": "es"
       }
