@@ -1,8 +1,20 @@
 {
-  "generado": "2026-08-29T00:33:27.828Z",
+  "generado": "2026-08-29T00:46:10.624Z",
   "limitePorCategoria": 20,
   "categorias": {
     "actualidad": [
+      {
+        "titulo": "Trump anuncia que EE.UU. ha tomado el control de parte de las reservas de petróleo de Venezuela",
+        "url": "https://www.abc.es/internacional/trump-anuncia-eeuu-tomado-control-parte-reservas-20260829015444-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/08/29/1516513375-kq5D-U301480110898tBG-1200x840@diario_abc.jpg",
+        "fecha": "2026-08-29T00:00:12.000Z",
+        "fuenteId": "abc",
+        "fuenteTitle": "ABC",
+        "categorias": [
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Trump asegura haber alcanzado con Venezuela el \"mayor acuerdo de petróleo de la historia\"",
         "url": "https://www.bbc.com/mundo/articles/cwyz1d15w9go?at_medium=RSS&at_campaign=rss",
@@ -21,11 +33,37 @@
         "url": "https://www.elmundo.es/economia/2026/08/29/6a91584521efa0e1128b4584.html",
         "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/28/17879105522997.jpg",
         "fecha": "2026-08-28T23:48:45.000Z",
-        "fuenteId": "el-mundo-economia",
-        "fuenteTitle": "El Mundo - Economía",
+        "fuenteId": "el-mundo",
+        "fuenteTitle": "El Mundo",
         "categorias": [
-          "economia",
-          "actualidad"
+          "actualidad",
+          "tecnologia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "La \"tibieza\" con Marruecos también agrieta el discurso oficial: Albares culpa a los \"bulos\" y Robles dice que Rabat sabrá \"lo que ha hecho y lo que no\"",
+        "url": "https://www.elmundo.es/espana/2026/08/29/6a91d2affdddff7d568b459d.html",
+        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/28/17879423231402.jpg",
+        "fecha": "2026-08-28T23:48:44.000Z",
+        "fuenteId": "el-mundo",
+        "fuenteTitle": "El Mundo",
+        "categorias": [
+          "actualidad",
+          "tecnologia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El juicio a Lindsay Clancy sigue en el aire: ¿dónde termina la enfermedad y empieza la culpa?",
+        "url": "https://www.elmundo.es/internacional/2026/08/29/6a91d2a2fc6c8382458b4572.html",
+        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/28/17879412910670.jpg",
+        "fecha": "2026-08-28T23:48:42.000Z",
+        "fuenteId": "el-mundo",
+        "fuenteTitle": "El Mundo",
+        "categorias": [
+          "actualidad",
+          "tecnologia"
         ],
         "idioma": "es"
       },
@@ -34,11 +72,11 @@
         "url": "https://www.elmundo.es/economia/empresas/2026/08/29/6a916ff121efa0a23f8b45a5.html",
         "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/28/17879361849414.jpg",
         "fecha": "2026-08-28T23:48:38.000Z",
-        "fuenteId": "el-mundo-economia",
-        "fuenteTitle": "El Mundo - Economía",
+        "fuenteId": "el-mundo",
+        "fuenteTitle": "El Mundo",
         "categorias": [
-          "economia",
-          "actualidad"
+          "actualidad",
+          "tecnologia"
         ],
         "idioma": "es"
       },
@@ -47,10 +85,49 @@
         "url": "https://www.elmundo.es/economia/empresas/2026/08/29/6a901b68fc6c8390258b45a6.html",
         "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/27/17878294476135.jpg",
         "fecha": "2026-08-28T23:48:36.000Z",
-        "fuenteId": "el-mundo-economia",
-        "fuenteTitle": "El Mundo - Economía",
+        "fuenteId": "el-mundo",
+        "fuenteTitle": "El Mundo",
         "categorias": [
-          "economia",
+          "actualidad",
+          "tecnologia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Joshua Kushner, el multimillonario detrás del caso Infantino: Trump, los Lakers y ahora, en el foco de la investigación",
+        "url": "https://www.elmundo.es/deportes/futbol/2026/08/29/6a91cc10e85ece5a628b458a.html",
+        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/28/17879396929601.jpg",
+        "fecha": "2026-08-28T23:48:35.000Z",
+        "fuenteId": "el-mundo",
+        "fuenteTitle": "El Mundo",
+        "categorias": [
+          "actualidad",
+          "tecnologia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "La Justicia evalúa la petición de indemnizaciones de familiares de víctimas del accidente de Germanwings al Estado alemán",
+        "url": "https://www.abc.es/internacional/justicia-evalua-peticion-indemnizaciones-familiares-victimas-accidente-20260828014520-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/08/28/germanwings-Rg1eD5gkk03YqIr7WDh0uXI-1200x840@diario_abc.jpg",
+        "fecha": "2026-08-28T23:45:20.000Z",
+        "fuenteId": "abc-internacional",
+        "fuenteTitle": "ABC - Internacional",
+        "categorias": [
+          "internacional",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "La desaparición del puerto Gyrong: cómo China ha perdido el punto comercial más importante del Tíbet",
+        "url": "https://www.abc.es/internacional/desaparicion-puerto-gyrong-china-perdido-punto-comercial-20260828014503-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/08/28/maps2-kKkH-U3014766312573vC-1200x840@diario_abc.png",
+        "fecha": "2026-08-28T23:45:03.000Z",
+        "fuenteId": "abc-internacional",
+        "fuenteTitle": "ABC - Internacional",
+        "categorias": [
+          "internacional",
           "actualidad"
         ],
         "idioma": "es"
@@ -171,79 +248,6 @@
         "url": "https://www.abc.es/cultura/pedro-sanchez-alimenta-mito-mediatico-kennedy-20260829011718-nt.html",
         "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/08/29/pedro-R1RJLr9hLxg0LDQO29vMnJO-1200x840@diario_abc.jpg",
         "fecha": "2026-08-28T23:17:18.000Z",
-        "fuenteId": "abc",
-        "fuenteTitle": "ABC",
-        "categorias": [
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Rally de Paraguay: Sami Pajari emerge del caos y se lanza en busca de su tercer triunfo consecutivo",
-        "url": "https://www.diariomotor.com/competicion/noticia/rally-de-paraguay-sami-pajari-tc8/",
-        "imagen": "https://www.diariomotor.com/imagenes/2026/08/Pajari11PAR26cm372-6a91fa12a7388.jpg?class=XL",
-        "fecha": "2026-08-28T23:15:04.000Z",
-        "fuenteId": "diariomotor",
-        "fuenteTitle": "Diariomotor",
-        "categorias": [
-          "tecnologia",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "«Ya nos hemos vengado. Ahora que sufra el pueblo»: tres décadas de la atroz matanza de Puerto Hurraco",
-        "url": "https://www.abc.es/espana/doscientos-dos-cartuchos-anos-masacre-puerto-hurraco-20260828011403-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/28/Captura%20de%20pantalla%202026-08-28%20161350-RQkkLFEbLLDLPTQHNeUC7mM-1200x840@diario_abc.png",
-        "fecha": "2026-08-28T23:14:37.000Z",
-        "fuenteId": "abc",
-        "fuenteTitle": "ABC",
-        "categorias": [
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "«No queda nada, solo barro»: la desesperada búsqueda de los familiares de los desaparecidos en Nepal",
-        "url": "https://www.abc.es/internacional/testimonios-busqueda-familiares-desaparecidos-nepal-20260828011356-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/08/28/nepal2-RseK4DXeCdMyCOErrysTzCJ-1200x840@diario_abc.jpg",
-        "fecha": "2026-08-28T23:13:56.000Z",
-        "fuenteId": "abc",
-        "fuenteTitle": "ABC",
-        "categorias": [
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Haakon asume el trono mientras Noruega llora la muerte del Rey Harald",
-        "url": "https://www.abc.es/internacional/haakon-asume-tron-noruega-llora-muerte-rey-20260828011350-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/08/28/noruega-RLwhRi9E15HdHo6X3FjvUcM-1200x840@diario_abc.jpg",
-        "fecha": "2026-08-28T23:13:50.000Z",
-        "fuenteId": "abc",
-        "fuenteTitle": "ABC",
-        "categorias": [
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Illa, cuando la «normalización» ya no es suficiente",
-        "url": "https://www.abc.es/espana/cataluna/illa-normalizacion-suficiente-20260829011202-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/29/illa2-R1lh9arWQzxwiasJmgQ61mI-1200x840@diario_abc.jpg",
-        "fecha": "2026-08-28T23:12:02.000Z",
-        "fuenteId": "abc",
-        "fuenteTitle": "ABC",
-        "categorias": [
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El Gobierno dice no a los centros de datos",
-        "url": "https://www.abc.es/economia/gobierno-dice-centros-datos-20260828011156-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/08/28/1506365600-R56rw2fhZp3scYcMRd00rHM-1200x840@diario_abc.jpg",
-        "fecha": "2026-08-28T23:11:56.000Z",
         "fuenteId": "abc",
         "fuenteTitle": "ABC",
         "categorias": [
@@ -796,6 +800,54 @@
     ],
     "cultura": [
       {
+        "titulo": "'Náufragos de las comarcales'",
+        "url": "https://www.abc.es/cultura/naufragos-comarcales-20260829021409-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/08/29/iaverano-7-R2TfFLNVHYrAyrkPGTPBnfK-1200x840@diario_abc.jpg",
+        "fecha": "2026-08-29T00:14:09.000Z",
+        "fuenteId": "abc-cultura",
+        "fuenteTitle": "ABC - Cultura",
+        "categorias": [
+          "cultura"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Fiesta asegurada, riesgo justo: un The Weeknd 'tribunero' conquista el Metropolitano sin deslumbrar",
+        "url": "https://www.elespanol.com/el-cultural/escenarios/musica/20260829/fiesta-asegurada-riesgo-justo-the-weeknd-tribunero-conquista-metropolitano-sin-deslumbrar/1003744366561_0.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11343426.jpg?p=c:2768:1564:nowe:77:1909/w:1706/h:960&h=MXigUJhj",
+        "fecha": "2026-08-29T00:02:12.000Z",
+        "fuenteId": "el-cultural",
+        "fuenteTitle": "El Cultural",
+        "categorias": [
+          "cultura"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "‘El patíbulo’: la comedia bizarra sobre el mayor fraude de la historia británica",
+        "url": "https://www.elespanol.com/el-cultural/blogs/en_plan_serie/20260829/patibulo-comedia-bizarra-mayor-fraude-historia-britanica/1003744365625_12.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11342827.jpg?p=w:1706/h:960&h=LS-q2iR9",
+        "fecha": "2026-08-28T23:52:00.000Z",
+        "fuenteId": "el-cultural",
+        "fuenteTitle": "El Cultural",
+        "categorias": [
+          "cultura"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "'I Was a Teenage Sex Pistol': la historia que faltaba por contar de los escandalosos padres del 'punk'",
+        "url": "https://www.elespanol.com/el-cultural/cine/20260829/was-teenage-sex-pistol-historia-faltaba-contar-escandalosos-padres-punk/1003744365794_0.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11342922.jpg?p=c:711:400:nowe:0:31/w:1706/h:960&h=8f8gHOu8",
+        "fecha": "2026-08-28T23:52:00.000Z",
+        "fuenteId": "el-cultural",
+        "fuenteTitle": "El Cultural",
+        "categorias": [
+          "cultura"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Pablo Heras-Casado: «La música es música, es un idioma sin fronteras ni culturas»",
         "url": "https://www.abc.es/cultura/musica/pablo-herascasado-musica-musica-idioma-fronteras-culturas-20260828011026-nt.html",
         "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/08/28/2_Pablo%20Heras-Casado%20%c2%a9%20Javier%20Salas-ROej5PE676bvK8MRU3kyaLM-1200x840@diario_abc.jpg",
@@ -996,67 +1048,16 @@
           "cultura"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "El Cirque du Soleil levanta con ‘Kurios’ por última vez su carpa en l’Hospitalet",
-        "url": "https://www.lavanguardia.com/cultura/20260828/11621906/cirque-du-soleil-kurios-carpa-hospitalet-circo.html",
-        "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/28/6a91bca5b549e.r_d.2063-1792-0.jpeg",
-        "fecha": "2026-08-28T17:17:18.000Z",
-        "fuenteId": "la-vanguardia-cultura",
-        "fuenteTitle": "La Vanguardia - Cultura",
-        "categorias": [
-          "cultura"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El Cirque du Soleil aixeca amb ‘Kurios’ per últim cop la carpa a l’Hospitalet",
-        "url": "https://www.lavanguardia.com/encatala/20260828/11621903/cirque-soleil-kurios-carpa-hospitalet-circ.html",
-        "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/28/6a91bca5b549e.r_d.2063-1792-0.jpeg",
-        "fecha": "2026-08-28T17:15:46.000Z",
-        "fuenteId": "la-vanguardia-cultura",
-        "fuenteTitle": "La Vanguardia - Cultura",
-        "categorias": [
-          "cultura"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "¿Por qué miles de personas pueden intentar cruzar la frontera de Ceuta al mismo tiempo? Esto dicen los estudios",
-        "url": "https://muyinteresante.okdiario.com/curiosidades/por-que-miles-personas-cruzan-frontera-ceuta.html",
-        "imagen": "",
-        "fecha": "2026-08-28T17:00:24.000Z",
-        "fuenteId": "muy-interesante",
-        "fuenteTitle": "Muy Interesante",
-        "categorias": [
-          "ciencia",
-          "tecnologia",
-          "cultura"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "“Una habitación demasiado cálida dificulta que las mujeres con menopausia regulen la temperatura mientras duermen”: cómo afecta el calor a la calidad del sueño",
-        "url": "https://www.lavanguardia.com/magazine/bienestar/20260828/11621589/habitacion-demasiado-calida-dificulta-mujeres-menopausia-regulen-temperatura-duermen-como-afecta-calor-calidad-sueno-gvm.html",
-        "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/28/6a914cfedf2ba.r_d.3117-2311-0.jpeg",
-        "fecha": "2026-08-28T17:00:00.000Z",
-        "fuenteId": "la-vanguardia-magazine",
-        "fuenteTitle": "La Vanguardia - Magazine",
-        "categorias": [
-          "cultura",
-          "entretenimiento"
-        ],
-        "idioma": "es"
       }
     ],
     "deportes": [
       {
-        "titulo": "Joshua Kushner, el multimillonario detrás del caso Infantino: Trump, los Lakers y ahora, en el foco de la investigación",
-        "url": "https://www.elmundo.es/deportes/futbol/2026/08/29/6a91cc10e85ece5a628b458a.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/28/17879396929601.jpg",
-        "fecha": "2026-08-28T23:48:35.000Z",
-        "fuenteId": "el-mundo-deportes",
-        "fuenteTitle": "El Mundo - Deportes",
+        "titulo": "Max Holloway y Paddy Pimblett, multados por saltar fuera del octágono en UFC 329",
+        "url": "https://www.abc.es/deportes/mma/max-holloway-paddy-pimblett-multados-saltar-octagono-20260827014735-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/08/27/paddy-pimblett-jaula-RRo5d5LLVOpOKto8rEkbrZI-1200x840@diario_abc.PNG",
+        "fecha": "2026-08-28T23:47:35.000Z",
+        "fuenteId": "abc-deportes",
+        "fuenteTitle": "ABC - Deportes",
         "categorias": [
           "deportes"
         ],
@@ -1293,41 +1294,122 @@
     ],
     "economia": [
       {
-        "titulo": "La subida de la inflación reaviva los temores a una nueva crisis de precios y eleva la presión sobre los bolsillos de la familia",
-        "url": "https://www.elmundo.es/economia/2026/08/29/6a91584521efa0e1128b4584.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/28/17879105522997.jpg",
-        "fecha": "2026-08-28T23:48:45.000Z",
-        "fuenteId": "el-mundo-economia",
-        "fuenteTitle": "El Mundo - Economía",
+        "titulo": "Truist y Fifth Third pausan productos vinculados a la firma de Mark Walter",
+        "url": "https://es.investing.com/news/stock-market-news/truist-y-fifth-third-pausan-productos-vinculados-a-la-firma-de-mark-walter-3815627",
+        "imagen": "",
+        "fecha": "2026-08-29T00:09:31.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
         "categorias": [
-          "economia",
-          "actualidad"
+          "economia"
         ],
         "idioma": "es"
       },
       {
-        "titulo": "Los programas de formación en IA del Gobierno tampoco cumplen objetivos y abocan a devolver más de 200 millones de fondos europeos",
-        "url": "https://www.elmundo.es/economia/empresas/2026/08/29/6a916ff121efa0a23f8b45a5.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/28/17879361849414.jpg",
-        "fecha": "2026-08-28T23:48:38.000Z",
-        "fuenteId": "el-mundo-economia",
-        "fuenteTitle": "El Mundo - Economía",
+        "titulo": "Director de Monopar Therapeutics Raymond Anderson vende 351.835 dólares en acciones",
+        "url": "https://es.investing.com/news/insider-trading-news/director-de-monopar-therapeutics-raymond-anderson-vende-351835-dolares-en-acciones-93CH-3815626",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM4416N_1200_L.jpg",
+        "fecha": "2026-08-29T00:02:09.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
         "categorias": [
-          "economia",
-          "actualidad"
+          "economia"
         ],
         "idioma": "es"
       },
       {
-        "titulo": "Apple cierra la era Cook, el sucesor de Jobs que multiplicó por 13 el valor de la compañía",
-        "url": "https://www.elmundo.es/economia/empresas/2026/08/29/6a901b68fc6c8390258b45a6.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/27/17878294476135.jpg",
-        "fecha": "2026-08-28T23:48:36.000Z",
-        "fuenteId": "el-mundo-economia",
-        "fuenteTitle": "El Mundo - Economía",
+        "titulo": "El director ejecutivo de 10x Genomics, Serge Saxonov, vende 667.900 dólares en acciones",
+        "url": "https://es.investing.com/news/insider-trading-news/el-director-ejecutivo-de-10x-genomics-serge-saxonov-vende-667900-dolares-en-acciones-93CH-3815625",
+        "imagen": "",
+        "fecha": "2026-08-29T00:01:55.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
         "categorias": [
-          "economia",
-          "actualidad"
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El director jurídico de AvePoint vende 852.000 dólares en acciones",
+        "url": "https://es.investing.com/news/insider-trading-news/el-director-juridico-de-avepoint-vende-852000-dolares-en-acciones-93CH-3815623",
+        "imagen": "",
+        "fecha": "2026-08-29T00:01:50.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El presidente y director ejecutivo de United States Antimony, Gary Evans, adquiere 98.400 dólares en acciones",
+        "url": "https://es.investing.com/news/insider-trading-news/el-presidente-y-director-ejecutivo-de-united-states-antimony-gary-evans-adquiere-98400-dolares-en-acciones-93CH-3815624",
+        "imagen": "",
+        "fecha": "2026-08-29T00:01:50.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El director de Life Time Group vende acciones por 126,1 millones de dólares",
+        "url": "https://es.investing.com/news/insider-trading-news/el-director-de-life-time-group-vende-acciones-por-1261-millones-de-dolares-93CH-3815622",
+        "imagen": "https://content-media.investing.com/news/moved_small-LYNXMPEM3T1AG_1200_L.jpg",
+        "fecha": "2026-08-28T23:46:51.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El COO de Rocket Lab, Frank Klein, vende 2,37 millones de dólares en acciones RKLB",
+        "url": "https://es.investing.com/news/insider-trading-news/el-coo-de-rocket-lab-frank-klein-vende-237-millones-de-dolares-en-acciones-rklb-93CH-3815621",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0V4_1200_L.jpg",
+        "fecha": "2026-08-28T23:46:47.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "IP Strategy recibe aviso de incumplimiento de Nasdaq por retraso en presentación",
+        "url": "https://es.investing.com/news/company-news/ip-strategy-recibe-aviso-de-incumplimiento-de-nasdaq-por-retraso-en-presentacion-93CH-3815618",
+        "imagen": "https://content-media.investing.com/news/LYNXMPEM4L1MC_150x108_S.jpg",
+        "fecha": "2026-08-28T23:37:11.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El director de Snowflake Benoit Dageville vende acciones por 15,47 millones de dólares",
+        "url": "https://es.investing.com/news/insider-trading-news/el-director-de-snowflake-benoit-dageville-vende-acciones-por-1547-millones-de-dolares-93CH-3815617",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0WG_1200_L.jpg",
+        "fecha": "2026-08-28T23:32:13.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Directora de Arcutis Terrie Curran vende acciones por 956.000 dólares",
+        "url": "https://es.investing.com/news/insider-trading-news/directora-de-arcutis-terrie-curran-vende-acciones-por-956000-dolares-93CH-3815616",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM431A2_1200_L.jpg",
+        "fecha": "2026-08-28T23:32:05.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
         ],
         "idioma": "es"
       },
@@ -1446,90 +1528,6 @@
         "fecha": "2026-08-28T23:00:14.000Z",
         "fuenteId": "abc-economia",
         "fuenteTitle": "ABC - Economía",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El vicepresidente de Rocket Lab, Arjun Kampani, vende acciones por 402.186 dólares",
-        "url": "https://es.investing.com/news/insider-trading-news/el-vicepresidente-de-rocket-lab-arjun-kampani-vende-acciones-por-402186-dolares-93CH-3815600",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM431A2_1200_L.jpg",
-        "fecha": "2026-08-28T22:47:09.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El director de Koil Energy, Neal Goldman, vende acciones por 19.603 dólares",
-        "url": "https://es.investing.com/news/insider-trading-news/el-director-de-koil-energy-neal-goldman-vende-acciones-por-19603-dolares-93CH-3815599",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3T1K3_1200_L.jpg",
-        "fecha": "2026-08-28T22:46:37.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La FDA aprueba Mimrylo de Takeda para la policitemia vera",
-        "url": "https://es.investing.com/news/company-news/la-fda-aprueba-mimrylo-de-takeda-para-la-policitemia-vera-93CH-3815598",
-        "imagen": "",
-        "fecha": "2026-08-28T22:45:18.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El director ejecutivo de Asana, Daniel Rogers, vende acciones por 16.550 dólares",
-        "url": "https://es.investing.com/news/insider-trading-news/el-director-ejecutivo-de-asana-daniel-rogers-vende-acciones-por-16550-dolares-93CH-3815596",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0WG_1200_L.jpg",
-        "fecha": "2026-08-28T22:33:42.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El COO de Fulgent Genetics, Xie Jian, vende acciones por 23.747 dólares",
-        "url": "https://es.investing.com/news/insider-trading-news/el-coo-de-fulgent-genetics-xie-jian-vende-acciones-por-23747-dolares-93CH-3815595",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM4416N_1200_L.jpg",
-        "fecha": "2026-08-28T22:33:17.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El director ejecutivo de Innsuites Hospitality Trust vende acciones por 825 millones de dólares",
-        "url": "https://es.investing.com/news/insider-trading-news/el-director-ejecutivo-de-innsuites-hospitality-trust-vende-acciones-por-825-millones-de-dolares-93CH-3815594",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM4416N_1200_L.jpg",
-        "fecha": "2026-08-28T22:33:11.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El director científico de Fulgent Genetics vende 18.691 dólares en acciones",
-        "url": "https://es.investing.com/news/insider-trading-news/el-director-cientifico-de-fulgent-genetics-vende-18691-dolares-en-acciones-93CH-3815593",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3S10Z_1200_L.jpg",
-        "fecha": "2026-08-28T22:33:04.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
         "categorias": [
           "economia"
         ],
@@ -2332,6 +2330,32 @@
         "idioma": "es"
       },
       {
+        "titulo": "La Justicia evalúa la petición de indemnizaciones de familiares de víctimas del accidente de Germanwings al Estado alemán",
+        "url": "https://www.abc.es/internacional/justicia-evalua-peticion-indemnizaciones-familiares-victimas-accidente-20260828014520-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/08/28/germanwings-Rg1eD5gkk03YqIr7WDh0uXI-1200x840@diario_abc.jpg",
+        "fecha": "2026-08-28T23:45:20.000Z",
+        "fuenteId": "abc-internacional",
+        "fuenteTitle": "ABC - Internacional",
+        "categorias": [
+          "internacional",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "La desaparición del puerto Gyrong: cómo China ha perdido el punto comercial más importante del Tíbet",
+        "url": "https://www.abc.es/internacional/desaparicion-puerto-gyrong-china-perdido-punto-comercial-20260828014503-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/08/28/maps2-kKkH-U3014766312573vC-1200x840@diario_abc.png",
+        "fecha": "2026-08-28T23:45:03.000Z",
+        "fuenteId": "abc-internacional",
+        "fuenteTitle": "ABC - Internacional",
+        "categorias": [
+          "internacional",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Ecuador: el expresidente Lenín Moreno es declarado culpable de cohecho por una trama de sobornos",
         "url": "https://www.france24.com/es/am%C3%A9rica-latina/20260828-ecuador-el-expresidente-len%C3%ADn-moreno-es-declarado-culpable-de-cohecho-por-una-trama-de-sobornos",
         "imagen": "https://s.france24.com/media/display/3a2ea80a-a330-11f1-92d7-005056bfb2b6/w:1024/p:16x9/FOTO-PORTADA-ECUADOR-LENIN-MORENO-JUICIO.jpg",
@@ -2449,32 +2473,6 @@
         "idioma": "es"
       },
       {
-        "titulo": "La Justicia de Ecuador declara culpable de corrupción al ex presidente Lenín Moreno",
-        "url": "https://www.elmundo.es/internacional/2026/08/29/6a920834e4d4d88e0e8b4571.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/29/17879551592008.jpg",
-        "fecha": "2026-08-28T22:15:00.000Z",
-        "fuenteId": "el-mundo-internacional",
-        "fuenteTitle": "El Mundo - Internacional",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Recogiendo el verano",
-        "url": "https://www.elmundo.es/internacional/2026/08/29/6a906042fc6c83441c8b45a8.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/27/17878467576344.jpg",
-        "fecha": "2026-08-28T22:12:36.000Z",
-        "fuenteId": "el-mundo-internacional",
-        "fuenteTitle": "El Mundo - Internacional",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
         "titulo": "Fertram Sigurjonsson, fundador de la empresa Kerecis: \"En la práctica, Islandia tendría una influencia muy limitada en la UE\"",
         "url": "https://www.elmundo.es/internacional/2026/08/29/6a91d9dffc6c839f558b458c.html",
         "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/28/17879434856392.jpg",
@@ -2566,15 +2564,15 @@
         "idioma": "es"
       },
       {
-        "titulo": "Muere el rey, arranca la maquinaria: en Noruega no hay coronación y el heredero ya es monarca",
-        "url": "https://www.elmundo.es/internacional/2026/08/28/6a91a13421efa0ce738b4599.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/28/17879290037375.jpg",
-        "fecha": "2026-08-28T20:45:03.000Z",
-        "fuenteId": "el-mundo-internacional",
-        "fuenteTitle": "El Mundo - Internacional",
+        "titulo": "«Todo por Noruega»: Haakon VIII asume el trono y mantiene el lema que ya usó su padre Harald",
+        "url": "https://www.abc.es/internacional/noruega-haakon-viii-asume-trono-mantiene-lema-20260828224253-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/08/28/1516503489-kuZD-U301478846652yiH-1200x840@diario_abc.JPG",
+        "fecha": "2026-08-28T20:42:53.000Z",
+        "fuenteId": "abc-internacional",
+        "fuenteTitle": "ABC - Internacional",
         "categorias": [
           "internacional",
-          "politica"
+          "actualidad"
         ],
         "idioma": "es"
       }
@@ -3446,32 +3444,6 @@
         "idioma": "es"
       },
       {
-        "titulo": "La Justicia de Ecuador declara culpable de corrupción al ex presidente Lenín Moreno",
-        "url": "https://www.elmundo.es/internacional/2026/08/29/6a920834e4d4d88e0e8b4571.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/29/17879551592008.jpg",
-        "fecha": "2026-08-28T22:15:00.000Z",
-        "fuenteId": "el-mundo-internacional",
-        "fuenteTitle": "El Mundo - Internacional",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Recogiendo el verano",
-        "url": "https://www.elmundo.es/internacional/2026/08/29/6a906042fc6c83441c8b45a8.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/27/17878467576344.jpg",
-        "fecha": "2026-08-28T22:12:36.000Z",
-        "fuenteId": "el-mundo-internacional",
-        "fuenteTitle": "El Mundo - Internacional",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
         "titulo": "Fertram Sigurjonsson, fundador de la empresa Kerecis: \"En la práctica, Islandia tendría una influencia muy limitada en la UE\"",
         "url": "https://www.elmundo.es/internacional/2026/08/29/6a91d9dffc6c839f558b458c.html",
         "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/28/17879434856392.jpg",
@@ -3576,10 +3548,10 @@
         "idioma": "es"
       },
       {
-        "titulo": "La Policía detecta que proxenetas marroquíes captan a niñas llegadas a Ceuta para prostituirlas a cambio de comida",
-        "url": "https://www.elmundo.es/espana/2026/08/28/6a91d08421efa0de108b4599.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/28/17879425317570.jpg",
-        "fecha": "2026-08-28T20:46:16.000Z",
+        "titulo": "La explosión de 8.000 botes de laca en dos chalés que mató a nueve personas: \"Los aerosoles salían despedidos como proyectiles\"",
+        "url": "https://www.elmundo.es/espana/2026/08/28/6a8dbcdce4d4d8347d8b45ac.html",
+        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/25/17876753515703.jpg",
+        "fecha": "2026-08-28T20:41:24.000Z",
         "fuenteId": "el-mundo-espana",
         "fuenteTitle": "El Mundo - España",
         "categorias": [
@@ -3587,9 +3559,59 @@
           "actualidad"
         ],
         "idioma": "es"
+      },
+      {
+        "titulo": "La investigación sobre Julio iglesias de elDiario.es y Univision Noticias, finalista en los Online Journalism Awards",
+        "url": "https://www.eldiario.es/redaccion/investigacion-julio-iglesias-eldiario-univision-noticias-finalista-online-journalism-awards_132_13473778.html",
+        "imagen": "https://static.eldiario.es/clip/df7bd2ed-3e82-479a-b4be-7c940dd2b867_16-9-discover-aspect-ratio_default_0_x828y266.jpg",
+        "fecha": "2026-08-28T20:32:42.000Z",
+        "fuenteId": "eldiario-es",
+        "fuenteTitle": "elDiario.es",
+        "categorias": [
+          "actualidad",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El Real Madrid ficha al pívot estadounidense Damian Jones hasta final de temporada",
+        "url": "https://theobjective.com/deportes/2026-08-28/damian-jones-fichaje-real-madrid/",
+        "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/07/jaime-pradilla-jugador-real-madrid-469x317.jpg",
+        "fecha": "2026-08-28T20:13:22.000Z",
+        "fuenteId": "the-objective",
+        "fuenteTitle": "The Objective",
+        "categorias": [
+          "actualidad",
+          "politica"
+        ],
+        "idioma": "es"
       }
     ],
     "salud": [
+      {
+        "titulo": "Ni sudokus ni crucigramas: cómo fabricar tu fertilizante cerebral frente a la niebla mental",
+        "url": "https://cuidateplus.marca.com/bienestar/2026/08/29/sudokus-crucigramas-fabricar-fertilizante-cerebral-frente-niebla-mental-185543.html",
+        "imagen": "https://cuidateplus.marca.com/sites/default/files/styles/ratio_16_9/public/2026-08/mujer-confundida.jpg.webp?itok=exlzJv9W",
+        "fecha": "2026-08-29T00:00:00.000Z",
+        "fuenteId": "cuidateplus",
+        "fuenteTitle": "CuídatePlus",
+        "categorias": [
+          "salud"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "10 tips que sí funcionan para cuidar tus pies si corres y disminuir el riesgo de lesiones",
+        "url": "https://cuidateplus.marca.com/ejercicio-fisico/2026/08/29/10-tips-funcionan-cuidar-pies-corres-disminuir-riesgo-lesiones-185542.html",
+        "imagen": "https://cuidateplus.marca.com/sites/default/files/styles/ratio_16_9/public/2026-08/zapatillas-correr.jpg.webp?itok=U2Kn7yYL",
+        "fecha": "2026-08-29T00:00:00.000Z",
+        "fuenteId": "cuidateplus",
+        "fuenteTitle": "CuídatePlus",
+        "categorias": [
+          "salud"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Hannah Arendt, filósofa alemana expatriada: \"Nosotros mismos nos llamamos unos a otros 'inmigrantes'. Que nos llamen 'refugiados' no nos gusta\"",
         "url": "https://www.elconfidencial.com/alma-corazon-vida/2026-08-28/hannah-arendt-inmigracion-refugiados-1qrt_4410586/",
@@ -3828,32 +3850,6 @@
         "fuenteTitle": "El Español - Ciencia",
         "categorias": [
           "ciencia",
-          "salud"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Viñas, meteorólogo: \"Es una realidad que el calentamiento global se acelera y pondrá a prueba nuestra supervivencia\"",
-        "url": "https://www.elespanol.com/ciencia/20260828/vinas-meteorologo-realidad-calentamiento-global-acelera-pondra-prueba-supervivencia/1003744364174_0.html",
-        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/10985685.jpg?p=w:1706/h:960&h=Y-70Gcpk",
-        "fecha": "2026-08-28T10:01:19.000Z",
-        "fuenteId": "el-espanol-ciencia",
-        "fuenteTitle": "El Español - Ciencia",
-        "categorias": [
-          "ciencia",
-          "salud"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La investigación apunta a que el fuego de El Saler ha sido intencionado: “Se ve impacto directo de la llama”",
-        "url": "https://www.lavanguardia.com/local/valencia/20260828/11621638/investigacion-apunta-fuego-saler-sido-intencionado-ve-impacto-directo-llama.html",
-        "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/28/6a9155ad808a2.r_d.3069-2464-0.jpeg",
-        "fecha": "2026-08-28T09:48:53.000Z",
-        "fuenteId": "la-vanguardia-vida",
-        "fuenteTitle": "La Vanguardia - Vida",
-        "categorias": [
-          "actualidad",
           "salud"
         ],
         "idioma": "es"
@@ -4123,6 +4119,84 @@
     ],
     "tecnologia": [
       {
+        "titulo": "La subida de la inflación reaviva los temores a una nueva crisis de precios y eleva la presión sobre los bolsillos de la familia",
+        "url": "https://www.elmundo.es/economia/2026/08/29/6a91584521efa0e1128b4584.html",
+        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/28/17879105522997.jpg",
+        "fecha": "2026-08-28T23:48:45.000Z",
+        "fuenteId": "el-mundo",
+        "fuenteTitle": "El Mundo",
+        "categorias": [
+          "actualidad",
+          "tecnologia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "La \"tibieza\" con Marruecos también agrieta el discurso oficial: Albares culpa a los \"bulos\" y Robles dice que Rabat sabrá \"lo que ha hecho y lo que no\"",
+        "url": "https://www.elmundo.es/espana/2026/08/29/6a91d2affdddff7d568b459d.html",
+        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/28/17879423231402.jpg",
+        "fecha": "2026-08-28T23:48:44.000Z",
+        "fuenteId": "el-mundo",
+        "fuenteTitle": "El Mundo",
+        "categorias": [
+          "actualidad",
+          "tecnologia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El juicio a Lindsay Clancy sigue en el aire: ¿dónde termina la enfermedad y empieza la culpa?",
+        "url": "https://www.elmundo.es/internacional/2026/08/29/6a91d2a2fc6c8382458b4572.html",
+        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/28/17879412910670.jpg",
+        "fecha": "2026-08-28T23:48:42.000Z",
+        "fuenteId": "el-mundo",
+        "fuenteTitle": "El Mundo",
+        "categorias": [
+          "actualidad",
+          "tecnologia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Los programas de formación en IA del Gobierno tampoco cumplen objetivos y abocan a devolver más de 200 millones de fondos europeos",
+        "url": "https://www.elmundo.es/economia/empresas/2026/08/29/6a916ff121efa0a23f8b45a5.html",
+        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/28/17879361849414.jpg",
+        "fecha": "2026-08-28T23:48:38.000Z",
+        "fuenteId": "el-mundo",
+        "fuenteTitle": "El Mundo",
+        "categorias": [
+          "actualidad",
+          "tecnologia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Apple cierra la era Cook, el sucesor de Jobs que multiplicó por 13 el valor de la compañía",
+        "url": "https://www.elmundo.es/economia/empresas/2026/08/29/6a901b68fc6c8390258b45a6.html",
+        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/27/17878294476135.jpg",
+        "fecha": "2026-08-28T23:48:36.000Z",
+        "fuenteId": "el-mundo",
+        "fuenteTitle": "El Mundo",
+        "categorias": [
+          "actualidad",
+          "tecnologia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Joshua Kushner, el multimillonario detrás del caso Infantino: Trump, los Lakers y ahora, en el foco de la investigación",
+        "url": "https://www.elmundo.es/deportes/futbol/2026/08/29/6a91cc10e85ece5a628b458a.html",
+        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/28/17879396929601.jpg",
+        "fecha": "2026-08-28T23:48:35.000Z",
+        "fuenteId": "el-mundo",
+        "fuenteTitle": "El Mundo",
+        "categorias": [
+          "actualidad",
+          "tecnologia"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Trump anuncia un acuerdo con Venezuela para adueñarse de parte de su sector petrolero",
         "url": "https://elpais.com/us/2026-08-28/trump-anuncia-un-acuerdo-con-venezuela-para-aduenarse-de-parte-de-su-sector-petrolero.html",
         "imagen": "https://imagenes.elpais.com/resizer/v2/HVR2MVKDDNL3LA7LZT54RXQND4.jpg?auth=effe781ac1c574f4168632364bcff6f973e778a1a25fc22cc6d6e5c4965fcd4d",
@@ -4164,6 +4238,32 @@
         "idioma": "es"
       },
       {
+        "titulo": "La familia madrileña que domina en femenino el esquí náutico español: de la inocente idea que surgió hace cuatro generaciones a intercambiarse medallas y crear una escuela referente en el mundo",
+        "url": "https://www.elmundo.es/madrid/2026/08/29/6a91638efc6c832e388b45ad.html",
+        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/28/17879147690344.jpg",
+        "fecha": "2026-08-28T22:23:15.000Z",
+        "fuenteId": "el-mundo",
+        "fuenteTitle": "El Mundo",
+        "categorias": [
+          "actualidad",
+          "tecnologia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Cae una banda de veteranos ladrones tras 15 asaltos en Madrid: de restaurantes a un almacén con 73.000 euros en cosméticos",
+        "url": "https://www.elmundo.es/madrid/2026/08/29/6a9208d6fdddff7d568b45a5.html",
+        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/29/17879555164523.jpg",
+        "fecha": "2026-08-28T22:20:21.000Z",
+        "fuenteId": "el-mundo",
+        "fuenteTitle": "El Mundo",
+        "categorias": [
+          "actualidad",
+          "tecnologia"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Windows 11 26H2 ya entró en fase de Release Preview y se acerca su lanzamiento para todo el mundo",
         "url": "https://www.profesionalreview.com/2026/08/29/windows-11-26h2-fase-release-preview/",
         "imagen": "https://www.profesionalreview.com/wp-content/uploads/2026/08/Windows-11-26H2-Esta-disponible-su-version-Release-Preview.jpg",
@@ -4171,6 +4271,32 @@
         "fuenteId": "profesional-review",
         "fuenteTitle": "Profesional Review",
         "categorias": [
+          "tecnologia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "La Justicia de Ecuador declara culpable de corrupción al ex presidente Lenín Moreno",
+        "url": "https://www.elmundo.es/internacional/2026/08/29/6a920834e4d4d88e0e8b4571.html",
+        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/29/17879551592008.jpg",
+        "fecha": "2026-08-28T22:15:00.000Z",
+        "fuenteId": "el-mundo",
+        "fuenteTitle": "El Mundo",
+        "categorias": [
+          "actualidad",
+          "tecnologia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Recogiendo el verano",
+        "url": "https://www.elmundo.es/internacional/2026/08/29/6a906042fc6c83441c8b45a8.html",
+        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/27/17878467576344.jpg",
+        "fecha": "2026-08-28T22:12:36.000Z",
+        "fuenteId": "el-mundo",
+        "fuenteTitle": "El Mundo",
+        "categorias": [
+          "actualidad",
           "tecnologia"
         ],
         "idioma": "es"
@@ -4246,137 +4372,6 @@
         "url": "https://elpais.com/deportes/baloncesto/2026-08-28/a-espana-se-le-atraganta-portugal.html",
         "imagen": "https://imagenes.elpais.com/resizer/v2/YG7ESBFYKZF2HGDW6QW6Z4CK7E.jpg?auth=f7b9231edefe30a4cc934f4ec49e3b8b60babc9d30766c0db315e9046896f9a8",
         "fecha": "2026-08-28T21:34:26.000Z",
-        "fuenteId": "el-pais",
-        "fuenteTitle": "El País",
-        "categorias": [
-          "actualidad",
-          "tecnologia",
-          "ciencia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Malas noticias: este superventas de Motorola no se actualizará a Android 17",
-        "url": "https://hipertextual.com/mobile/motorola-edge-40-no-actualizara-android-17/",
-        "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/08/motorola-edge-40-neo.jpg?fit=1024%2C683&quality=70&strip=all&ssl=1",
-        "fecha": "2026-08-28T21:30:00.000Z",
-        "fuenteId": "hipertextual",
-        "fuenteTitle": "Hipertextual",
-        "categorias": [
-          "tecnologia",
-          "ciencia",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "A Google le preocupa la crisis de la RAM: Android 17 limitará la memoria que pueden usar las apps",
-        "url": "https://www.larazon.es/tecnologia-consumo/android/google-le-preocupa-crisis-ram-android-17-limitara-memoria-pueden-usar-apps_202608286a91e3bad16f763504a47887.html",
-        "imagen": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/08/28/5B7BA55C-D82F-4962-B8B2-F663F1A978F5/android-17-limitara-consumo-memoria-ram-aplicaciones_96.jpg?crop=3557,2001,x221,y0&amp;width=1200&amp;height=675&amp;optimize=low&amp;format=webply",
-        "fecha": "2026-08-28T21:00:00.000Z",
-        "fuenteId": "andro4all",
-        "fuenteTitle": "Andro4all",
-        "categorias": [
-          "tecnologia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Guía de Elden Ring: Cómo derrotar a todos los jefes del juego base y Shadow of the Erdtree",
-        "url": "https://www.nintenderos.com/2026/08/guia-de-elden-ring-como-derrotar-a-todos-los-jefes-del-juego-base-y-shadow-of-the-erdtree/",
-        "imagen": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/06/elden-ring-shadow-of-the-erdtree_key-art.jpg",
-        "fecha": "2026-08-28T20:50:00.000Z",
-        "fuenteId": "nintenderos",
-        "fuenteTitle": "Nintenderos",
-        "categorias": [
-          "tecnologia",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Google cambia las reglas con Gemini Notebook (NotebookLM), que estrena nuevos límites",
-        "url": "https://hipertextual.com/inteligencia-artificial/google-cambia-las-reglas-con-gemini-notebook-notebooklm-que-estrena-nuevos-limites/",
-        "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/03/Google-Gemini-NotebookLM.jpg?fit=1024%2C683&quality=70&strip=all&ssl=1",
-        "fecha": "2026-08-28T20:37:25.000Z",
-        "fuenteId": "hipertextual",
-        "fuenteTitle": "Hipertextual",
-        "categorias": [
-          "tecnologia",
-          "ciencia",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Microsoft dice que no existe un Modo Dios en Windows 11, pero el truco sigue funcionando más de 15 años después",
-        "url": "https://computerhoy.20minutos.es/software/microsoft-dice-que-no-existe-un-modo-dios-windows-11-pero-truco-sigue-funcionando-mas-15-anos-despues_7030304_0.html",
-        "imagen": "https://imagenes.computerhoy.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/08/28/6a91eff82d7985-57005466.jpeg",
-        "fecha": "2026-08-28T20:34:23.000Z",
-        "fuenteId": "computer-hoy",
-        "fuenteTitle": "Computer Hoy",
-        "categorias": [
-          "tecnologia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El nuevo Galaxy Z Fold8 Ultra suspende en resistencia con JerryRigEverything",
-        "url": "https://www.larazon.es/tecnologia-consumo/samsung-galaxy-z/nuevo-galaxy-z-fold8-ultra-suspende-resistencia-jerryrigeverything_202608286a90b977ae2f3735da18a32e.html",
-        "imagen": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/08/28/8C25D9B5-1136-40D7-BF0E-61722926C976/nuevo-galaxy-z-fold8-ultra-sufriendo-jerryrigeverything_96.jpg?crop=1280,720,x0,y0&amp;width=1200&amp;height=675&amp;optimize=low&amp;format=webply",
-        "fecha": "2026-08-28T20:30:00.000Z",
-        "fuenteId": "andro4all",
-        "fuenteTitle": "Andro4all",
-        "categorias": [
-          "tecnologia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Gran tarde de toros en Bilbao: Marco Pérez muestra su dimensión de figura del toreo",
-        "url": "https://www.elmundo.es/cultura/toros/2026/08/28/6a91997ce9cf4a91158b45bb.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/28/17879485526852.jpg",
-        "fecha": "2026-08-28T20:23:33.000Z",
-        "fuenteId": "el-mundo",
-        "fuenteTitle": "El Mundo",
-        "categorias": [
-          "actualidad",
-          "tecnologia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El expresidente de Ecuador Lenin Moreno, condenado por recibir sobornos",
-        "url": "https://elpais.com/america/2026-08-28/el-expresidente-de-ecuador-lenin-moreno-condenado-por-recibir-sobornos.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/TUVE2WVPUZIWPGYLLUUFZZRCM4.jpg?auth=6b4bbb8bdf2fa6dbc94c83fc6ecaaa4afd0749b0add450858b47380192e393fb",
-        "fecha": "2026-08-28T20:20:23.000Z",
-        "fuenteId": "el-pais",
-        "fuenteTitle": "El País",
-        "categorias": [
-          "actualidad",
-          "tecnologia",
-          "ciencia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Ridley Scott se queda fuera de Blade Runner y admite que perdió el control de la saga: \"De alguna manera dejamos que se nos escapara\"",
-        "url": "https://www.hobbyconsolas.com/hobbycine/ridley-scott-se-queda-fuera-blade-runner-admite-que-perdio-control-saga-alguna-manera-dejamos-que-se-nos-escapara_7030516_0.html",
-        "imagen": "https://imagenes.hobbyconsolas.com/files/image_1920_1080/uploads/imagenes/2024/06/25/6903bdfb7bf52.jpeg",
-        "fecha": "2026-08-28T20:16:46.000Z",
-        "fuenteId": "hobby-consolas",
-        "fuenteTitle": "Hobby Consolas",
-        "categorias": [
-          "tecnologia",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Alcaraz, un tenista frente al miedo: “Me siento bien, debo confiar; ahora todo está en mi cabeza”",
-        "url": "https://elpais.com/deportes/tenis/2026-08-28/alcaraz-un-tenista-frente-al-miedo-me-siento-bien-debo-confiar-ahora-todo-esta-en-mi-cabeza.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/LERMAK32PZNHNE3GBGR6UVVNXU.jpg?auth=a1296d00e075f3bb554bd92e27918e9cd6612145cc9a6e56f9ec7c1105656e69",
-        "fecha": "2026-08-28T20:14:38.000Z",
         "fuenteId": "el-pais",
         "fuenteTitle": "El País",
         "categorias": [
