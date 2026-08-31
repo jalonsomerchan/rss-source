@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-31T02:28:39.889Z",
+  "generado": "2026-08-31T02:36:01.615Z",
   "limitePorCategoria": 20,
   "categorias": {
     "actualidad": [
@@ -12,6 +12,45 @@
         "fuenteTitle": "Diariomotor",
         "categorias": [
           "tecnologia",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Palou agranda su leyenda con su quinta corona en la IndyCar",
+        "url": "https://www.huffingtonpost.es/deporte/palou-agranda-leyenda-quinta-corona-indycar-f202608.html",
+        "imagen": "",
+        "fecha": "2026-08-31T02:07:50.000Z",
+        "fuenteId": "huffpost-espana",
+        "fuenteTitle": "HuffPost España",
+        "categorias": [
+          "actualidad",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "EE UU e Irán intercambian ataques por primera vez desde julio",
+        "url": "https://elpais.com/internacional/2026-08-30/el-primer-ataque-de-ee-uu-a-iran-desde-julio-provoca-varios-muertos-y-heridos.html",
+        "imagen": "https://imagenes.elpais.com/resizer/v2/TM2ZCFECXBAA5IRUYO5QYW4FQA.JPG?auth=34006559829997037c0fb1c05947745777d4a2bd7583ef8823806e6b9175fb16",
+        "fecha": "2026-08-31T01:57:20.000Z",
+        "fuenteId": "el-pais",
+        "fuenteTitle": "El País",
+        "categorias": [
+          "actualidad",
+          "tecnologia",
+          "ciencia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Irán ataca bases estadounidenses en Jordania como represalia al bombardeo de la isla Larak",
+        "url": "https://www.20minutos.es/internacional/iran-ataca-bases-estadounidenses-jordania-como-represalia-bombardeo-isla-larak_7030811_0.html",
+        "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/08/31/6a94da8ef30f09-06171036.jpeg",
+        "fecha": "2026-08-31T01:37:05.000Z",
+        "fuenteId": "20minutos",
+        "fuenteTitle": "20minutos",
+        "categorias": [
           "actualidad"
         ],
         "idioma": "es"
@@ -216,47 +255,23 @@
           "actualidad"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "Serrano gestó el 'enchufe' de Leire Díez en Correos tras un inusual cuestionario interno",
-        "url": "https://www.abc.es/espana/serrano-gesto-enchufe-leire-diez-correos-tras-20260727012810-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/07/27/1504162346%20(1)-R33Y1pvqCScEOnHqBih6sRK-1200x840@diario_abc.jpg",
-        "fecha": "2026-08-30T23:28:10.000Z",
-        "fuenteId": "abc-espana",
-        "fuenteTitle": "ABC - España",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Los niños de Ceuta, entre cuatro paredes: «Estoy todo el día con la tablet»",
-        "url": "https://www.abc.es/espana/infancia-ceuti-salir-casa-dia-tablet-20260829012556-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/29/nina-parque-inmigrantes-RR3UJeo0CNThmALSlf8KuxN-1200x840@diario_abc.jpg",
-        "fecha": "2026-08-30T23:26:53.000Z",
-        "fuenteId": "abc",
-        "fuenteTitle": "ABC",
-        "categorias": [
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Un informe de inteligencia aconseja replantear la relación con Marruecos: subir la guardia y más cautelas",
-        "url": "https://www.abc.es/espana/cooperacion-contravigilancias-directrices-inteligencia-futuro-relaciones-marruecos-20260820012406-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/20/1515469308-RfEfRAS4GblpLV05fEJS3AJ-1200x840@diario_abc.jpg",
-        "fecha": "2026-08-30T23:26:32.000Z",
-        "fuenteId": "abc-espana",
-        "fuenteTitle": "ABC - España",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
       }
     ],
     "ciencia": [
+      {
+        "titulo": "EE UU e Irán intercambian ataques por primera vez desde julio",
+        "url": "https://elpais.com/internacional/2026-08-30/el-primer-ataque-de-ee-uu-a-iran-desde-julio-provoca-varios-muertos-y-heridos.html",
+        "imagen": "https://imagenes.elpais.com/resizer/v2/TM2ZCFECXBAA5IRUYO5QYW4FQA.JPG?auth=34006559829997037c0fb1c05947745777d4a2bd7583ef8823806e6b9175fb16",
+        "fecha": "2026-08-31T01:57:20.000Z",
+        "fuenteId": "el-pais",
+        "fuenteTitle": "El País",
+        "categorias": [
+          "actualidad",
+          "tecnologia",
+          "ciencia"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Cine en comunidad: «toma una película, deja una película»: el retorno del Blockbuster de barrio, pero gratis",
         "url": "http://www.microsiervos.com/archivo/peliculas-tv/cine-comunidad-toma-pelicula-deja-pelicula-retorno-blockbuster-gratis.html",
@@ -508,20 +523,6 @@
         "url": "https://elpais.com/espana/catalunya/2026-08-30/ser-catalunya-amplia-su-programacion-en-catalan-y-apuesta-por-el-barca.html",
         "imagen": "https://imagenes.elpais.com/resizer/v2/PD3WQWQD6NDAPNWUIPREZTYPJM.jpeg?auth=ee224cab70102e076b23f19925fdc21ff97c6c9338166acb9f3839be1c2ef1be",
         "fecha": "2026-08-30T17:48:17.000Z",
-        "fuenteId": "el-pais",
-        "fuenteTitle": "El País",
-        "categorias": [
-          "actualidad",
-          "tecnologia",
-          "ciencia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El mejor Bellingham está de vuelta e impulsa al Real Madrid ante el Málaga",
-        "url": "https://elpais.com/deportes/futbol/2026-08-30/el-mejor-bellingham-esta-de-vuelta-en-el-real-madrid.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/E7VGHCAKLVNBJK6GM6KUVOWGB4.jpg?auth=93f57cc1b8054b6cec5221ba1dfd60e79997369b069453c6b6e28bc74ae0cfaa",
-        "fecha": "2026-08-30T17:34:21.000Z",
         "fuenteId": "el-pais",
         "fuenteTitle": "El País",
         "categorias": [
@@ -1299,9 +1300,33 @@
     ],
     "economia": [
       {
+        "titulo": "Las acciones tecnológicas asiáticas caen ante el temor a nuevas subidas de tipos",
+        "url": "https://es.investing.com/news/stock-market-news/las-acciones-tecnologicas-asiaticas-caen-ante-el-temor-a-nuevas-subidas-de-tipos-3815888",
+        "imagen": "https://content-media.investing.com/news/LYNXMPEB0F0DG_M.jpg",
+        "fecha": "2026-08-31T01:53:58.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "La actividad fabril de China se contrae por segundo mes consecutivo en agosto",
+        "url": "https://es.investing.com/news/economic-indicators/la-actividad-fabril-de-china-se-contrae-por-segundo-mes-consecutivo-en-agosto-3815883",
+        "imagen": "https://content-media.investing.com/news/LYNXNPEC6C0O4_M.jpg",
+        "fecha": "2026-08-31T01:52:25.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "¿Por qué las acciones de SK Innovation se disparan hoy?",
         "url": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-sk-innovation-se-disparan-hoy-93CH-3815882",
-        "imagen": "",
+        "imagen": "https://content-media.investing.com/news/LYNXNPEC0D0AP_M.jpg",
         "fecha": "2026-08-31T01:28:17.000Z",
         "fuenteId": "investing-es-noticias",
         "fuenteTitle": "Investing.com España - Noticias",
@@ -1313,7 +1338,7 @@
       {
         "titulo": "SK On suministrará celdas de batería a NeoVolta Power hasta 2031",
         "url": "https://es.investing.com/news/stock-market-news/sk-on-suministrara-celdas-de-bateria-a-neovolta-power-hasta-2031-93CH-3815881",
-        "imagen": "",
+        "imagen": "https://content-media.investing.com/news/LYNXNPEB6U0SH_M.jpg",
         "fecha": "2026-08-31T01:18:57.000Z",
         "fuenteId": "investing-es-noticias",
         "fuenteTitle": "Investing.com España - Noticias",
@@ -1325,7 +1350,7 @@
       {
         "titulo": "¿Por qué cae hoy la acción de Star Entertainment?",
         "url": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-star-entertainment-93CH-3815880",
-        "imagen": "",
+        "imagen": "https://content-media.investing.com/news/LYNXNPEB9606Q_M.jpg",
         "fecha": "2026-08-31T01:14:13.000Z",
         "fuenteId": "investing-es-noticias",
         "fuenteTitle": "Investing.com España - Noticias",
@@ -1513,34 +1538,22 @@
           "economia"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "¿Es la IA consciente?",
-        "url": "https://www.abc.es/economia/ia-consciente-20260831014740-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/08/31/Claude%20IA%20EFE-RK1PV8jkfS73Fai1O9B0iJO-1200x840@diario_abc.jpg",
-        "fecha": "2026-08-30T23:47:40.000Z",
-        "fuenteId": "abc-economia",
-        "fuenteTitle": "ABC - Economía",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "De rastrear bombas a vigilar la red eléctrica desde el aire: la segunda vida de Javier, el ex cabo primero jubilado a la fuerza a los 45 años",
-        "url": "https://www.elmundo.es/economia/empresas/2026/08/31/6a312d12fc6c8301028b4582.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/06/17/17816981589031.jpg",
-        "fecha": "2026-08-30T22:02:27.000Z",
-        "fuenteId": "el-mundo-economia",
-        "fuenteTitle": "El Mundo - Economía",
-        "categorias": [
-          "economia",
-          "actualidad"
-        ],
-        "idioma": "es"
       }
     ],
     "entretenimiento": [
+      {
+        "titulo": "Palou agranda su leyenda con su quinta corona en la IndyCar",
+        "url": "https://www.huffingtonpost.es/deporte/palou-agranda-leyenda-quinta-corona-indycar-f202608.html",
+        "imagen": "",
+        "fecha": "2026-08-31T02:07:50.000Z",
+        "fuenteId": "huffpost-espana",
+        "fuenteTitle": "HuffPost España",
+        "categorias": [
+          "actualidad",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Horóscopo semanal de Piscis, predicciones en amor, trabajo, salud y dinero del 31 al 6 de septiembre de 2026",
         "url": "https://www.lavanguardia.com/magazine/horoscopo/20260831/11619156/horoscopo-predicciones-piscis-semana-lunes-31-domingo-6-septiembre-ctx.html",
@@ -1784,18 +1797,6 @@
         "categorias": [
           "entretenimiento",
           "cultura"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Portada de EL MUNDO del lunes 31 de agosto de 2026",
-        "url": "https://www.elmundo.es/television/medios/2026/08/30/6a945c13e85eced67f8b4580.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/30/17881224988829.jpg",
-        "fecha": "2026-08-30T20:41:53.000Z",
-        "fuenteId": "el-mundo-television",
-        "fuenteTitle": "El Mundo - Televisión",
-        "categorias": [
-          "entretenimiento"
         ],
         "idioma": "es"
       }
@@ -2323,6 +2324,45 @@
     ],
     "internacional": [
       {
+        "titulo": "EE.UU. excluye a varios periodistas de la reunión del G20",
+        "url": "https://www.dw.com/es/ee-uu-excluye-a-varios-periodistas-de-la-reunión-del-g20/a-78567726?maca=spa-rss-sp-all-1122-xml-mrss",
+        "imagen": "",
+        "fecha": "2026-08-31T01:58:00.000Z",
+        "fuenteId": "dw-espanol",
+        "fuenteTitle": "DW Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "“La gente quiere recuperar a sus familiares, vivos o muertos”: la tragedia se extiende a las morgues de Nepal",
+        "url": "https://www.france24.com/es/asia-pac%C3%ADfico/20260831-la-gente-quiere-recuperar-a-sus-familiares-vivos-o-muertos-la-tragedia-se-extiende-a-las-morgues-de-nepal",
+        "imagen": "https://s.france24.com/media/display/2ed2d33c-a4de-11f1-abad-005056a97e36/w:1024/p:16x9/2026-08-30T164052Z-1845982200-RC2Y8NALSAGW-RTRMADP-3-NEPAL-FLOODS.jpg",
+        "fecha": "2026-08-31T01:49:55.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Disidencia de las FARC reivindica el secuestro de un soldado colombiano de la Legión Extranjera Francesa",
+        "url": "https://www.france24.com/es/am%C3%A9rica-latina/20260831-disidencia-de-las-farc-reivindica-el-secuestro-de-un-soldado-colombiano-de-la-legi%C3%B3n-extranjera-francesa",
+        "imagen": "https://s.france24.com/media/display/83193ed2-90c4-11f1-a907-005056a97e36/w:1024/p:16x9/d1518fc0ff1eac4042ed3b520069383164b7611a.jpg",
+        "fecha": "2026-08-31T01:26:41.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Carolina Espinoza: \"Muchos de los desaparecidos no se reportan en México por temor a represalias\"",
         "url": "https://www.france24.com/es/video/20260831-carolina-espinoza-muchos-de-los-desaparecidos-no-se-reportan-en-m%C3%A9xico-por-temor-a-represalias",
         "imagen": "https://s.france24.com/media/display/cf3765a8-a4d5-11f1-8e96-005056a97e36/w:1024/p:16x9/ES-20260830-190844-191240-CS.jpg",
@@ -2540,45 +2580,6 @@
         "categorias": [
           "internacional",
           "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Al menos 20 personas desaparecidas y decenas evacuadas por una gran riada en el Gran Cañón",
-        "url": "https://www.lavanguardia.com/internacional/20260830/11623437/personas-desaparecidas-decenas-evacuadas-gran-riada-gran-canon.html",
-        "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/30/6a94a6b21054e.r_d.1993-1370-0.jpeg",
-        "fecha": "2026-08-30T21:55:26.000Z",
-        "fuenteId": "la-vanguardia-internacional",
-        "fuenteTitle": "La Vanguardia - Internacional",
-        "categorias": [
-          "internacional",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Kristen Welker: ¿quién es esta periodista de 'NBC' y por qué Trump amenaza con denunciarla?",
-        "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260830-kristen-welker-qui%C3%A9n-es-esta-periodista-de-nbc-y-por-qu%C3%A9-trump-amenaza-con-denunciarla",
-        "imagen": "https://s.france24.com/media/display/596b3efe-a4bb-11f1-9219-005056a97e36/w:1024/p:16x9/feffe8f2d839b4ca4a7d775d974cabab2752cf47w-1.jpg",
-        "fecha": "2026-08-30T21:42:27.000Z",
-        "fuenteId": "france24-espanol",
-        "fuenteTitle": "France 24 Español",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "EE.UU. ataca contra drones iraníes en la isla de Larak y deja al menos dos muertos",
-        "url": "https://www.lavanguardia.com/internacional/20260830/11623432/ee-uu-ataca-drones-iranies-isla-larak-deja-dos-muertos.html",
-        "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/04/18/69e370cac08a5.r_d.600-400-0.jpeg",
-        "fecha": "2026-08-30T21:30:27.000Z",
-        "fuenteId": "la-vanguardia-internacional",
-        "fuenteTitle": "La Vanguardia - Internacional",
-        "categorias": [
-          "internacional",
-          "actualidad"
         ],
         "idioma": "es"
       }
@@ -3331,6 +3332,45 @@
     ],
     "politica": [
       {
+        "titulo": "EE.UU. excluye a varios periodistas de la reunión del G20",
+        "url": "https://www.dw.com/es/ee-uu-excluye-a-varios-periodistas-de-la-reunión-del-g20/a-78567726?maca=spa-rss-sp-all-1122-xml-mrss",
+        "imagen": "",
+        "fecha": "2026-08-31T01:58:00.000Z",
+        "fuenteId": "dw-espanol",
+        "fuenteTitle": "DW Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "“La gente quiere recuperar a sus familiares, vivos o muertos”: la tragedia se extiende a las morgues de Nepal",
+        "url": "https://www.france24.com/es/asia-pac%C3%ADfico/20260831-la-gente-quiere-recuperar-a-sus-familiares-vivos-o-muertos-la-tragedia-se-extiende-a-las-morgues-de-nepal",
+        "imagen": "https://s.france24.com/media/display/2ed2d33c-a4de-11f1-abad-005056a97e36/w:1024/p:16x9/2026-08-30T164052Z-1845982200-RC2Y8NALSAGW-RTRMADP-3-NEPAL-FLOODS.jpg",
+        "fecha": "2026-08-31T01:49:55.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Disidencia de las FARC reivindica el secuestro de un soldado colombiano de la Legión Extranjera Francesa",
+        "url": "https://www.france24.com/es/am%C3%A9rica-latina/20260831-disidencia-de-las-farc-reivindica-el-secuestro-de-un-soldado-colombiano-de-la-legi%C3%B3n-extranjera-francesa",
+        "imagen": "https://s.france24.com/media/display/83193ed2-90c4-11f1-a907-005056a97e36/w:1024/p:16x9/d1518fc0ff1eac4042ed3b520069383164b7611a.jpg",
+        "fecha": "2026-08-31T01:26:41.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Carolina Espinoza: \"Muchos de los desaparecidos no se reportan en México por temor a represalias\"",
         "url": "https://www.france24.com/es/video/20260831-carolina-espinoza-muchos-de-los-desaparecidos-no-se-reportan-en-m%C3%A9xico-por-temor-a-represalias",
         "imagen": "https://s.france24.com/media/display/cf3765a8-a4d5-11f1-8e96-005056a97e36/w:1024/p:16x9/ES-20260830-190844-191240-CS.jpg",
@@ -3548,45 +3588,6 @@
         "categorias": [
           "internacional",
           "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Los últimos diez retos pendientes de Bellido para redondear su mandato",
-        "url": "https://www.abc.es/espana/andalucia/cordoba/ultimos-diez-retos-pendientes-bellido-terminar-mandato-20260831183519-nts.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/31/1516385360-RiLfJPm21ALOtpKkK4OmmzK-1200x840@diario_abc.jpg",
-        "fecha": "2026-08-30T22:40:57.000Z",
-        "fuenteId": "abc-espana",
-        "fuenteTitle": "ABC - España",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Las notas de los jugadores del Córdoba CF tras la derrota ante el Granada",
-        "url": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/notas-jugadores-cordoba-tras-20260830120634-nts.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/30/cordobacf-granada-fina%c3%b1-RlBOIRSdgJ7bGsryJJWscaJ-1200x840@diario_abc.jpeg",
-        "fecha": "2026-08-30T22:38:21.000Z",
-        "fuenteId": "abc-espana",
-        "fuenteTitle": "ABC - España",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Tragedia, tristeza y oración maternal en la música para la Virgen de los Dolores de Córdoba",
-        "url": "https://www.abc.es/espana/andalucia/cordoba/semana-santa/tragedia-tristeza-oracion-maternal-musica-virgen-dolores-20260831003010-nts.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/31/patrimonio-musical-dolores-R6N6MQBjBrrofkI5kdyz1nK-1200x840@diario_abc.jpg",
-        "fecha": "2026-08-30T22:30:11.000Z",
-        "fuenteId": "abc-espana",
-        "fuenteTitle": "ABC - España",
-        "categorias": [
-          "politica",
-          "actualidad"
         ],
         "idioma": "es"
       }
@@ -4142,6 +4143,20 @@
         "idioma": "es"
       },
       {
+        "titulo": "EE UU e Irán intercambian ataques por primera vez desde julio",
+        "url": "https://elpais.com/internacional/2026-08-30/el-primer-ataque-de-ee-uu-a-iran-desde-julio-provoca-varios-muertos-y-heridos.html",
+        "imagen": "https://imagenes.elpais.com/resizer/v2/TM2ZCFECXBAA5IRUYO5QYW4FQA.JPG?auth=34006559829997037c0fb1c05947745777d4a2bd7583ef8823806e6b9175fb16",
+        "fecha": "2026-08-31T01:57:20.000Z",
+        "fuenteId": "el-pais",
+        "fuenteTitle": "El País",
+        "categorias": [
+          "actualidad",
+          "tecnologia",
+          "ciencia"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "EEUU se asegura el petróleo de Venezuela, pero ¿quién asegura la transición?",
         "url": "https://www.elmundo.es/internacional/2026/08/31/6a9452affc6c8396168b4588.html",
         "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/30/17881051617643.jpg",
@@ -4372,19 +4387,6 @@
         "categorias": [
           "tecnologia",
           "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El regreso de Alcaraz: un calentamiento específico, la incógnita de la malla protectora y los \"pensamientos intrusivos\"",
-        "url": "https://www.elmundo.es/deportes/tenis/us-open/2026/08/30/6a94443ce9cf4aad168b4589.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/30/17881016618835.jpg",
-        "fecha": "2026-08-30T21:48:51.000Z",
-        "fuenteId": "el-mundo",
-        "fuenteTitle": "El Mundo",
-        "categorias": [
-          "actualidad",
-          "tecnologia"
         ],
         "idioma": "es"
       }
