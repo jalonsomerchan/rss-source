@@ -1,8 +1,33 @@
 {
-  "generado": "2026-09-02T01:38:10.938Z",
+  "generado": "2026-09-02T01:51:03.300Z",
   "limitePorCategoria": 20,
   "categorias": {
     "actualidad": [
+      {
+        "titulo": "Putin vincula las acusaciones alemanas contra Rusia con la baja popularidad de Merz",
+        "url": "https://www.huffingtonpost.es/global/putin-vincula-acusaciones-alemanas-rusia-baja-popularidad-merz-f202609.html",
+        "imagen": "",
+        "fecha": "2026-09-02T01:22:16.000Z",
+        "fuenteId": "huffpost-espana",
+        "fuenteTitle": "HuffPost España",
+        "categorias": [
+          "actualidad",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "La cúpula militar venezolana apoya el acuerdo con EEUU y dice que no es una \"subordinación\"",
+        "url": "https://www.20minutos.es/internacional/cupula-militar-venezolana-apoya-acuerdo-con-eeuu-dice-que-no-es-una-subordinacion_7031753_0.html",
+        "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/02/6a977334752a97-84991525.jpeg",
+        "fecha": "2026-09-02T00:55:13.000Z",
+        "fuenteId": "20minutos",
+        "fuenteTitle": "20minutos",
+        "categorias": [
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Marlaska solicita al director de la Policía la información publicada por El Español para poder \"adoptar las decisiones oportunas\" sobre la crisis",
         "url": "https://www.elespanol.com/espana/politica/20260902/marlaska-solicita-director-policia-nacional-informacion-publicada-espanol-poder-adoptar-decisiones-oportunas/1003744369716_0.html",
@@ -221,31 +246,6 @@
         "url": "https://www.abc.es/deportes/tenis/solvencia-enemigos-alcaraz-planta-segunda-ronda-motivos-20260901002143-nt.html",
         "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/01/1516666521-U20609936686Zx-RY1mkRsIRA6YEnJpuwbIUiO-1200x840@diario_abc.jpg",
         "fecha": "2026-09-01T23:19:30.000Z",
-        "fuenteId": "abc",
-        "fuenteTitle": "ABC",
-        "categorias": [
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La torista de Illescas se salda con oreja por coleta",
-        "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/torista-illescas-salda-oreja-coleta-20260902011534-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/02/PEREZ%20ENTRA%20A%20MATAR%20CON%20UNA%20CORNADA%20EN%20EL%20MUSLO%20DERECHO-RHY0TwXbzfOrjsmP7TD3p6H-1200x840@diario_abc.jpg",
-        "fecha": "2026-09-01T23:17:46.000Z",
-        "fuenteId": "abc-espana",
-        "fuenteTitle": "ABC - España",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El Trofeo Príncipe de Asturias celebra su 41ª edición y 30 años de vela femenina",
-        "url": "https://www.abc.es/deportes/vela/vela-crucero/trofeo-principe-asturias-celebra-41a-edicion-anos-20260901191005-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/01/Presentacion%20Principe-Rn4ZfX0uxmFkqImGK2u2uZK-1200x840@diario_abc.jpg",
-        "fecha": "2026-09-01T23:17:11.000Z",
         "fuenteId": "abc",
         "fuenteTitle": "ABC",
         "categorias": [
@@ -1296,6 +1296,234 @@
     ],
     "economia": [
       {
+        "titulo": "El petróleo sube por 3er día consecutivo; el Brent supera los 96 dólares",
+        "url": "https://es.investing.com/news/commodities-news/el-petroleo-sube-por-3er-dia-consecutivo-el-brent-supera-los-96-dolares-3818850",
+        "imagen": "https://content-media.investing.com/news/LYNXMPEA601YK_M.jpg",
+        "fecha": "2026-09-02T01:03:24.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Squadron Capital vende acciones de OrthoPediatrics por 7,76 millones de dólares",
+        "url": "https://es.investing.com/news/insider-trading-news/squadron-capital-vende-acciones-de-orthopediatrics-por-776-millones-de-dolares-93CH-3818848",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3S10Z_1200_L.jpg",
+        "fecha": "2026-09-02T01:01:56.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El director de Block, Anthony Eisen, vende 1,49 millones de dólares en acciones",
+        "url": "https://es.investing.com/news/insider-trading-news/el-director-de-block-anthony-eisen-vende-149-millones-de-dolares-en-acciones-93CH-3818847",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3T1K3_1200_L.jpg",
+        "fecha": "2026-09-02T01:01:46.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Sipay se alía con Kloutit para dotar a los comercios online de tecnología para gestionar las reclamaciones de pago",
+        "url": "https://www.elespanol.com/invertia/empresas/banca/20260902/sipay-alia-kloutit-dotar-comercios-online-tecnologia-gestionar-reclamaciones-pago/1003744369471_0.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11345168.jpg?p=w:1706/h:960&h=73VSbs8X",
+        "fecha": "2026-09-02T00:58:18.000Z",
+        "fuenteId": "el-espanol-economia",
+        "fuenteTitle": "El Español - Economía",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Telefónica valida 1.000 soluciones y dispositivos IoT en su laboratorio TheThinX",
+        "url": "https://www.elespanol.com/invertia/empresas/tecnologia/20260902/telefonica-valida-soluciones-dispositivos-iot-laboratorio-thethinx/1003744369574_0.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/10714385.jpg?p=w:1706/h:960&h=wkM4Axmh",
+        "fecha": "2026-09-02T00:58:18.000Z",
+        "fuenteId": "el-espanol-economia",
+        "fuenteTitle": "El Español - Economía",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Las empresas controladas por la Sepi perdieron 41 millones en 2025 y cinco de ellas registraron números rojos",
+        "url": "https://www.elespanol.com/invertia/empresas/20260902/empresas-controladas-sepi-perdieron-millones-registraron-numeros-rojos/1003744369382_0.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11304773.jpg?p=w:1706/h:960&h=bDexbBqB",
+        "fecha": "2026-09-02T00:58:17.000Z",
+        "fuenteId": "el-espanol-economia",
+        "fuenteTitle": "El Español - Economía",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "EEUU consigue expulsar a las petroleras chinas y rusas de Venezuela tras su acuerdo con el magnate Alejandro Betancourt",
+        "url": "https://www.elespanol.com/invertia/empresas/energia/20260902/eeuu-consigue-expulsar-petroleras-chinas-rusas-venezuela-acuerdo-magnate-alejandro-betancourt/1003744369469_0.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11345197.jpg?p=w:1706/h:960&h=cpKShEl9",
+        "fecha": "2026-09-02T00:58:17.000Z",
+        "fuenteId": "el-espanol-economia",
+        "fuenteTitle": "El Español - Economía",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Sólo Cataluña y Canarias apoyan la nueva financiación autonómica de Sánchez: el resto de las CCAA la rechazan",
+        "url": "https://www.elespanol.com/invertia/economia/macroeconomia/20260902/solo-cataluna-canarias-apoyan-nueva-financiacion-autonomica-sanchez-resto-ccaa-rechazan/1003744368828_0.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11345117.jpg?p=w:1706/h:960&h=jNFmCxap",
+        "fecha": "2026-09-02T00:58:16.000Z",
+        "fuenteId": "el-espanol-economia",
+        "fuenteTitle": "El Español - Economía",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Alerta por el 'frenazo' del turismo nórdico en España: caen las visitas y el gasto de uno de los viajeros más rentables",
+        "url": "https://www.elespanol.com/invertia/empresas/turismo/20260902/alerta-frenazo-turismo-nordico-espana-caen-visitas-gasto-viajeros-rentables/1003744368831_0.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11344799.jpg?p=w:1706/h:960&h=xHWzavDF",
+        "fecha": "2026-09-02T00:58:16.000Z",
+        "fuenteId": "el-espanol-economia",
+        "fuenteTitle": "El Español - Economía",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El precio de la vivienda se come los salarios y dispara la población de 55 años que se ve obligada a compartir pisos",
+        "url": "https://www.elespanol.com/invertia/observatorios/vivienda/20260902/precio-vivienda-come-salarios-dispara-poblacion-anos-ve-obligada-compartir-pisos/1003744368883_0.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11345221.jpg?p=w:1706/h:960&h=GdM1AJ09",
+        "fecha": "2026-09-02T00:58:16.000Z",
+        "fuenteId": "el-espanol-economia",
+        "fuenteTitle": "El Español - Economía",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "¿Qué está pasando en Japón?",
+        "url": "https://www.elespanol.com/invertia/opinion/20260902/pasando-japon/1003744367419_12.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/10715088.png?p=w:1706/h:960&h=F2q8sjz3",
+        "fecha": "2026-09-02T00:58:15.000Z",
+        "fuenteId": "el-espanol-economia",
+        "fuenteTitle": "El Español - Economía",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El síndrome del comité perpetuo: por qué las grandes instituciones ya no deciden, solo se protegen",
+        "url": "https://www.elespanol.com/invertia/opinion/20260902/sindrome-comite-perpetuo-grandes-instituciones-no-deciden-solo-protegen/1003744368713_12.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11344722.jpg?p=w:1706/h:960&h=2gjK31IQ",
+        "fecha": "2026-09-02T00:58:15.000Z",
+        "fuenteId": "el-espanol-economia",
+        "fuenteTitle": "El Español - Economía",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Nvidia podría cerrar un acuerdo de 14.000 millones con Hugging Face",
+        "url": "https://es.investing.com/news/stock-market-news/nvidia-podria-cerrar-un-acuerdo-de-14000-millones-con-hugging-face-3818846",
+        "imagen": "",
+        "fecha": "2026-09-02T00:56:03.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Directora de Orthopediatrics Jennifer Pritzker vende 7,76 millones de dólares en acciones",
+        "url": "https://es.investing.com/news/insider-trading-news/la-directora-de-orthopediatrics-jennifer-pritzker-vende-776-millones-de-dolares-en-acciones-93CH-3818841",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3T1K3_1200_L.jpg",
+        "fecha": "2026-09-02T00:47:23.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "La directora de operaciones de Oruka Therapeutics vende 459.101 dólares en acciones",
+        "url": "https://es.investing.com/news/insider-trading-news/la-directora-de-operaciones-de-oruka-therapeutics-vende-459101-dolares-en-acciones-93CH-3818840",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0V4_1200_L.jpg",
+        "fecha": "2026-09-02T00:47:05.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El director ejecutivo de Oruka Therapeutics, Klein, vende acciones por 6,89 millones de dólares",
+        "url": "https://es.investing.com/news/insider-trading-news/el-director-ejecutivo-de-oruka-therapeutics-klein-vende-acciones-por-689-millones-de-dolares-93CH-3818839",
+        "imagen": "",
+        "fecha": "2026-09-02T00:47:04.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Director de Evercommerce Eric Remer vende 974.195 dólares en acciones",
+        "url": "https://es.investing.com/news/insider-trading-news/el-director-de-evercommerce-eric-remer-vende-974195-dolares-en-acciones-93CH-3818838",
+        "imagen": "",
+        "fecha": "2026-09-02T00:46:59.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "OpenAI lanzará pronto su nuevo modelo de IA Astra, dice su director ejecutivo Altman",
+        "url": "https://es.investing.com/news/stock-market-news/openai-lanzara-pronto-su-nuevo-modelo-de-ia-astra-dice-su-director-ejecutivo-altman-3818842",
+        "imagen": "https://content-media.investing.com/news/LYNXMPEA8I09H_M.jpg",
+        "fecha": "2026-09-02T00:45:15.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El director de desarrollo de Glaukos vende 2,48 millones de dólares en acciones",
+        "url": "https://es.investing.com/news/insider-trading-news/el-director-de-desarrollo-de-glaukos-vende-acciones-por-248-millones-de-dolares-93CH-3818831",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM431A2_1200_L.jpg",
+        "fecha": "2026-09-02T00:32:06.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Los futuros de EE.UU. caen por tipos de interés y ataques a Irán",
         "url": "https://es.investing.com/news/stock-market-news/los-futuros-de-eeuu-caen-por-tipos-de-interes-y-ataques-a-iran-3818824",
         "imagen": "https://content-media.investing.com/news/LYNXNPEB5S0BT_M.jpg",
@@ -1306,237 +1534,22 @@
           "economia"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "El riesgo del activo libre de riesgo",
-        "url": "https://www.expansion.com/opinion/2026/09/02/6a970fb6468aebfa4c8b4590.html",
-        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/09/01/17882849032532.jpg",
-        "fecha": "2026-09-02T00:03:32.000Z",
-        "fuenteId": "expansion",
-        "fuenteTitle": "Expansión",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El petróleo este año y los riesgos de un conflicto prolongado",
-        "url": "https://www.expansion.com/opinion/2026/09/02/6a970de9468aeb0d5d8b4591.html",
-        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/09/01/17882843236216.jpg",
-        "fecha": "2026-09-02T00:03:07.000Z",
-        "fuenteId": "expansion",
-        "fuenteTitle": "Expansión",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Por qué reservar un viaje puede ayudar a superar la vuelta al trabajo",
-        "url": "https://www.expansion.com/estilo-vida/viajes/2026/09/02/6a96f044e5fdea915d8b457d.html",
-        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/09/01/17882797251138.png",
-        "fecha": "2026-09-02T00:03:06.000Z",
-        "fuenteId": "expansion",
-        "fuenteTitle": "Expansión",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Así comienza la nueva temporada de Matadero Madrid",
-        "url": "https://www.expansion.com/estilo-vida/cultura/2026/09/02/6a96fd5fe5fdea4b068b4578.html",
-        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/09/01/17882809576116.jpg",
-        "fecha": "2026-09-02T00:03:05.000Z",
-        "fuenteId": "expansion",
-        "fuenteTitle": "Expansión",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El Supremo confirma que los plazos de reclamación judicial no corren en agosto",
-        "url": "https://www.expansion.com/economia/2026/09/02/6a96ebc0e5fdea98458b457e.html",
-        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2019/01/10/15471315827797.jpg",
-        "fecha": "2026-09-02T00:02:43.000Z",
-        "fuenteId": "expansion",
-        "fuenteTitle": "Expansión",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Las grandes fortunas que más partido han sacado a este verano",
-        "url": "https://www.expansion.com/inversion/2026/09/02/6a955940e5fdea2d448b4573.html",
-        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/08/31/17881839546898.jpg",
-        "fecha": "2026-09-02T00:02:41.000Z",
-        "fuenteId": "expansion",
-        "fuenteTitle": "Expansión",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Prueba de fuego para Inditex, que cotiza cerca de récord",
-        "url": "https://www.expansion.com/inversion/2026/09/02/6a970ae9468aeb4f2d8b4580.html",
-        "imagen": "http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&cg=rss-expansion&ci=es-widgetueditorial&si=https://www.expansion.com/rss/portada.xml",
-        "fecha": "2026-09-02T00:02:40.000Z",
-        "fuenteId": "expansion",
-        "fuenteTitle": "Expansión",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Trece valores para poner en el radar en septiembre",
-        "url": "https://www.expansion.com/mercados/2026/09/02/6a96bffce5fdea40098b456d.html",
-        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/09/01/17882693725484.jpg",
-        "fecha": "2026-09-02T00:02:32.000Z",
-        "fuenteId": "expansion",
-        "fuenteTitle": "Expansión",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Cómo entender la actual paradoja de los bonos y las acciones",
-        "url": "https://www.expansion.com/economia/financial-times/2026/09/02/6a971422e5fdea64518b4580.html",
-        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/09/01/17882859545397.jpg",
-        "fecha": "2026-09-02T00:02:30.000Z",
-        "fuenteId": "expansion",
-        "fuenteTitle": "Expansión",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Mahou, Heineken y Damm aceleran su diversificación",
-        "url": "https://www.expansion.com/empresas/distribucion/2026/09/02/6a970f51468aeb0d5d8b4598.html",
-        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2024/02/13/17078434721759.jpg",
-        "fecha": "2026-09-02T00:02:29.000Z",
-        "fuenteId": "expansion",
-        "fuenteTitle": "Expansión",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El director de Nlight William Gossman vende acciones por 665.400 dólares",
-        "url": "https://es.investing.com/news/insider-trading-news/el-director-de-nlight-william-gossman-vende-acciones-por-665400-dolares-93CH-3818364",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM40318_1200_L.jpg",
-        "fecha": "2026-09-02T00:02:02.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Director de Provident Financial, Shara, vende 1,3 millones de dólares en acciones",
-        "url": "https://es.investing.com/news/insider-trading-news/director-de-provident-financial-shara-vende-13-millones-de-dolares-en-acciones-93CH-3818363",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0V4_1200_L.jpg",
-        "fecha": "2026-09-02T00:02:01.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El co-CIO de Chicago Atlantic BDC, Scott Gordon, compra 1.369 dólares en acciones",
-        "url": "https://es.investing.com/news/insider-trading-news/el-cocio-de-chicago-atlantic-bdc-scott-gordon-compra-1369-dolares-en-acciones-93CH-3818362",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0WG_1200_L.jpg",
-        "fecha": "2026-09-02T00:01:52.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Reconnaissance Energy Africa anuncia una operación de compra garantizada de 15 millones de dólares canadienses",
-        "url": "https://es.investing.com/news/company-news/reconnaissance-energy-africa-anuncia-una-operacion-de-compra-garantizada-de-15-millones-de-dolares-canadienses-93CH-3818360",
-        "imagen": "https://content-media.investing.com/news/LYNXMPEM0M17X_150x108_S.jpg",
-        "fecha": "2026-09-01T23:49:24.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "TDS retira su oferta de adquisición de Array y reanudará recompras",
-        "url": "https://es.investing.com/news/company-news/tds-retira-su-oferta-de-adquisicion-de-array-y-reanudara-recompras-93CH-3818359",
-        "imagen": "https://content-media.investing.com/news/LYNXMPEM4R1OV_1200_L.jpg",
-        "fecha": "2026-09-01T23:49:15.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Advent International vende acciones de NCS Multistage (NCSM)",
-        "url": "https://es.investing.com/news/insider-trading-news/advent-international-vende-acciones-de-ncs-multistage-ncsm-93CH-3818358",
-        "imagen": "https://content-media.investing.com/news/moved_small-LYNXMPEM3T1AG_1200_L.jpg",
-        "fecha": "2026-09-01T23:47:09.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El presidente de Chicago Atlantic BDC, Colonna, adquiere 10.230 dólares en acciones",
-        "url": "https://es.investing.com/news/insider-trading-news/el-presidente-de-chicago-atlantic-bdc-colonna-adquiere-10230-dolares-en-acciones-93CH-3818357",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0V4_1200_L.jpg",
-        "fecha": "2026-09-01T23:46:50.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El presidente de ServiceNow, Paul Fipps, vende acciones por 300.777 dólares",
-        "url": "https://es.investing.com/news/insider-trading-news/el-presidente-de-servicenow-paul-fipps-vende-acciones-por-300777-dolares-93CH-3818356",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0WG_1200_L.jpg",
-        "fecha": "2026-09-01T23:46:48.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La directora de Personal e IA de ServiceNow vende acciones por 1,08 millones de dólares",
-        "url": "https://es.investing.com/news/insider-trading-news/la-directora-de-personal-e-ia-de-servicenow-vende-acciones-por-108-millones-de-dolares-93CH-3818355",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM4510G_1200_L.jpg",
-        "fecha": "2026-09-01T23:46:44.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
       }
     ],
     "entretenimiento": [
+      {
+        "titulo": "Putin vincula las acusaciones alemanas contra Rusia con la baja popularidad de Merz",
+        "url": "https://www.huffingtonpost.es/global/putin-vincula-acusaciones-alemanas-rusia-baja-popularidad-merz-f202609.html",
+        "imagen": "",
+        "fecha": "2026-09-02T01:22:16.000Z",
+        "fuenteId": "huffpost-espana",
+        "fuenteTitle": "HuffPost España",
+        "categorias": [
+          "actualidad",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "La cúpula militar venezolana respalda el acuerdo petrolero con EE.UU y niega que sea una \"subordinación\"",
         "url": "https://www.huffingtonpost.es/global/la-cupula-militar-venezolana-respalda-acuerdo-petrolero-eeuu-niega-sea-subordinacion-f202609.html",
@@ -1779,20 +1792,6 @@
         "fuenteId": "el-mundo-television",
         "fuenteTitle": "El Mundo - Televisión",
         "categorias": [
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Anthropic lanza Claude Mythos 5.1 y Fable 5.1, sus IA más avanzadas, y hay muy buenas noticias para tu bolsillo",
-        "url": "https://hipertextual.com/inteligencia-artificial/anthropic-claude-mythos-5-1-y-fable-5-1/",
-        "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/mythos-y-fable-51.jpg?fit=1024%2C538&quality=70&strip=all&ssl=1",
-        "fecha": "2026-09-01T20:38:48.000Z",
-        "fuenteId": "hipertextual",
-        "fuenteTitle": "Hipertextual",
-        "categorias": [
-          "tecnologia",
-          "ciencia",
           "entretenimiento"
         ],
         "idioma": "es"
@@ -2317,6 +2316,19 @@
     ],
     "internacional": [
       {
+        "titulo": "Parlamento de Nicaragua aprueba en lo general una reforma que veta a la oposición de las elecciones",
+        "url": "https://www.france24.com/es/minuto-a-minuto/20260902-parlamento-de-nicaragua-aprueba-en-lo-general-una-reforma-que-veta-a-la-oposici%C3%B3n-de-las-elecciones",
+        "imagen": "",
+        "fecha": "2026-09-02T01:09:08.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Nepal: se reduce la esperanza de hallar sobrevivientes",
         "url": "https://www.france24.com/es/video/20260902-nepal-se-reduce-la-esperanza-de-hallar-sobrevivientes",
         "imagen": "https://s.france24.com/media/display/2d5b4596-a661-11f1-b649-005056a90284/w:1024/p:16x9/FORMATO-1-34.png",
@@ -2556,19 +2568,6 @@
         "fecha": "2026-09-01T20:48:53.000Z",
         "fuenteId": "france24-espanol",
         "fuenteTitle": "France 24 Español",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La edad de oro de Kim Jong-un: más rico, más armado y menos aislado que nunca",
-        "url": "https://www.elmundo.es/internacional/2026/09/01/6a8b7b1dfdddff49108b457e.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/24/17875251138366.jpg",
-        "fecha": "2026-09-01T20:43:52.000Z",
-        "fuenteId": "el-mundo-internacional",
-        "fuenteTitle": "El Mundo - Internacional",
         "categorias": [
           "internacional",
           "politica"
@@ -3331,6 +3330,19 @@
     ],
     "politica": [
       {
+        "titulo": "Parlamento de Nicaragua aprueba en lo general una reforma que veta a la oposición de las elecciones",
+        "url": "https://www.france24.com/es/minuto-a-minuto/20260902-parlamento-de-nicaragua-aprueba-en-lo-general-una-reforma-que-veta-a-la-oposici%C3%B3n-de-las-elecciones",
+        "imagen": "",
+        "fecha": "2026-09-02T01:09:08.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Marlaska solicita al director de la Policía la información publicada por El Español para poder \"adoptar las decisiones oportunas\" sobre la crisis",
         "url": "https://www.elespanol.com/espana/politica/20260902/marlaska-solicita-director-policia-nacional-informacion-publicada-espanol-poder-adoptar-decisiones-oportunas/1003744369716_0.html",
         "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11345316.jpg?p=w:1706/h:960&h=Fuljn00P",
@@ -3574,19 +3586,6 @@
         "categorias": [
           "politica",
           "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Informe desde Washington: EE. UU. busca fortalecer la hegemonía occidental tras pacto con Venezuela",
-        "url": "https://www.france24.com/es/video/20260901-informe-desde-washington-ee-uu-busca-fortalecer-la-hegemon%C3%ADa-occidental-tras-pacto-con-venezuela",
-        "imagen": "https://s.france24.com/media/display/0e2f18be-a63e-11f1-ae39-005056bf30b7/w:1024/p:16x9/ES-20260901-130613-130903-CS.jpg",
-        "fecha": "2026-09-01T22:10:28.000Z",
-        "fuenteId": "france24-espanol",
-        "fuenteTitle": "France 24 Español",
-        "categorias": [
-          "internacional",
-          "politica"
         ],
         "idioma": "es"
       }
