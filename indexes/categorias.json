@@ -1,8 +1,20 @@
 {
-  "generado": "2026-09-03T02:38:22.567Z",
+  "generado": "2026-09-03T02:46:15.392Z",
   "limitePorCategoria": 20,
   "categorias": {
     "actualidad": [
+      {
+        "titulo": "Muere un extranjero de 29 años atropellado de madrugada cerca de una discoteca de Palma",
+        "url": "https://www.20minutos.es/baleares/muere-un-extranjero-29-anos-atropellado-madrugada-cerca-una-discoteca-palma_7032235_0.html",
+        "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/03/6a98d2e8d65b33-27521773.jpeg",
+        "fecha": "2026-09-03T02:08:50.000Z",
+        "fuenteId": "20minutos",
+        "fuenteTitle": "20minutos",
+        "categorias": [
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Maduro pide a la Justicia de EE.UU que desestime su caso alegando inmunidad como jefe de Estado",
         "url": "https://www.huffingtonpost.es/global/maduro-pide-justicia-eeuu-desestime-caso-alegando-inmunidad-jefe-f202609.html",
@@ -240,18 +252,6 @@
         "categorias": [
           "actualidad",
           "tecnologia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La última voluntad de los soldados de los Tercios españoles antes de morir: «Uno encargó 200 misas»",
-        "url": "https://www.abc.es/historia/ultima-voluntad-soldados-tercios-espanoles-morir-20260903013731-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/historia/2026/09/03/ROCROI-RyCzAGEnvzWv82n9zM1PKwO-1200x840@diario_abc.jpg",
-        "fecha": "2026-09-02T23:37:31.000Z",
-        "fuenteId": "abc",
-        "fuenteTitle": "ABC",
-        "categorias": [
-          "actualidad"
         ],
         "idioma": "es"
       }
@@ -1295,6 +1295,102 @@
     ],
     "economia": [
       {
+        "titulo": "Ming Shing completa la adquisición de Meals Through Seasons por 510 millones de dólares",
+        "url": "https://es.investing.com/news/company-news/ming-shing-completa-la-adquisicion-de-meals-through-seasons-por-510-millones-de-dolares-93CH-3820625",
+        "imagen": "",
+        "fecha": "2026-09-03T02:17:25.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El COO de Vaxcyte, Jim Wassil, vende más de 212.000 dólares en acciones",
+        "url": "https://es.investing.com/news/insider-trading-news/el-coo-de-vaxcyte-jim-wassil-vende-mas-de-212000-dolares-en-acciones-93CH-3820624",
+        "imagen": "",
+        "fecha": "2026-09-03T02:16:56.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "PMI de servicios de China supera previsiones en agosto",
+        "url": "https://es.investing.com/news/economic-indicators/pmi-de-servicios-de-china-supera-previsiones-en-agosto-3820622",
+        "imagen": "",
+        "fecha": "2026-09-03T02:05:25.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El director de desarrollo de negocio de RxSight, Eric Weinberg, vende 14.205 dólares en acciones",
+        "url": "https://es.investing.com/news/insider-trading-news/el-director-de-desarrollo-de-negocio-de-rxsight-eric-weinberg-vende-14205-dolares-en-acciones-93CH-3820619",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0V4_1200_L.jpg",
+        "fecha": "2026-09-03T02:02:21.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "La directora jurídica de Nurix Therapeutics vende acciones por más de 149.000 dólares",
+        "url": "https://es.investing.com/news/insider-trading-news/la-directora-juridica-de-nurix-therapeutics-vende-acciones-por-mas-de-149000-dolares-93CH-3820617",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM4416N_1200_L.jpg",
+        "fecha": "2026-09-03T02:02:13.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El presidente y director ejecutivo de VirnetX vende 163.484 dólares en acciones",
+        "url": "https://es.investing.com/news/insider-trading-news/el-presidente-y-director-ejecutivo-de-virnetx-vende-163484-dolares-en-acciones-93CH-3820616",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM4416N_1200_L.jpg",
+        "fecha": "2026-09-03T02:02:10.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El director ejecutivo de National Energy Services vende acciones por 3,5 millones de dólares",
+        "url": "https://es.investing.com/news/insider-trading-news/el-director-ejecutivo-de-national-energy-services-vende-acciones-por-35-millones-de-dolares-93CH-3820615",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM4510G_1200_L.jpg",
+        "fecha": "2026-09-03T02:01:56.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Superávit comercial de Australia supera previsiones en julio pese a caída de exportaciones",
+        "url": "https://es.investing.com/news/economic-indicators/superavit-comercial-de-australia-supera-previsiones-en-julio-pese-a-caida-de-exportaciones-3820621",
+        "imagen": "https://content-media.investing.com/news/LYNXMPED6H07K_M.jpg",
+        "fecha": "2026-09-03T02:01:30.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Director de Aura Minerals Bruno Sousa Mauad vende 10,35 millones de dólares en acciones",
         "url": "https://es.investing.com/news/insider-trading-news/director-de-aura-minerals-bruno-sousa-mauad-vende-1035-millones-de-dolares-en-acciones-93CH-3820612",
         "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM40318_1200_L.jpg",
@@ -1433,102 +1529,6 @@
         "fecha": "2026-09-03T00:46:55.000Z",
         "fuenteId": "investing-es-noticias",
         "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El vicepresidente ejecutivo de Liquidity Services vende 29.508 dólares en acciones de LQDT",
-        "url": "https://es.investing.com/news/insider-trading-news/el-vicepresidente-ejecutivo-de-liquidity-services-vende-29508-dolares-en-acciones-de-lqdt-93CH-3820596",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM450ND_1200_L.jpg",
-        "fecha": "2026-09-03T00:46:40.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El director ejecutivo de Exozymes, Michael Heltzen, compra 6.405 dólares en acciones",
-        "url": "https://es.investing.com/news/insider-trading-news/el-director-ejecutivo-de-exozymes-michael-heltzen-compra-6405-dolares-en-acciones-93CH-3820595",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM4510G_1200_L.jpg",
-        "fecha": "2026-09-03T00:46:37.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "A las patrullas militares de Ceuta les faltan tres fusiles",
-        "url": "https://www.elespanol.com/observatorio-defensa/20260903/patrullas-militares-ceuta-faltan-fusiles/1003744370732_12.html",
-        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11345923.jpg?p=w:1706/h:960&h=zQ6SPRE_",
-        "fecha": "2026-09-03T00:37:22.000Z",
-        "fuenteId": "el-espanol-economia",
-        "fuenteTitle": "El Español - Economía",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La 'operación reforzada' de Redeia encarece 3.570 millones la factura de la luz mientras las renovables tiran 400 millones",
-        "url": "https://www.elespanol.com/invertia/empresas/energia/20260903/operacion-reforzada-redeia-encarece-millones-factura-luz-renovables-tiran/1003744370660_0.html",
-        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11256178.jpg?p=w:1706/h:960&h=NQGgSYmw",
-        "fecha": "2026-09-03T00:37:21.000Z",
-        "fuenteId": "el-espanol-economia",
-        "fuenteTitle": "El Español - Economía",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La industria andaluza triplica la potencia renovable instalada para autoconsumo en tres años y alcanza 1 GW",
-        "url": "https://www.elespanol.com/invertia/empresas/energia/20260903/industria-andaluza-triplica-potencia-renovable-instalada-autoconsumo-anos-alcanza-gw/1003744370691_0.html",
-        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/10913574.jpg?p=w:1706/h:960&h=MjlaLrpk",
-        "fecha": "2026-09-03T00:37:21.000Z",
-        "fuenteId": "el-espanol-economia",
-        "fuenteTitle": "El Español - Economía",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La bajada de 20 céntimos del impuesto al diésel aprobada por el Gobierno tardará unos días en ser efectiva en las gasolineras",
-        "url": "https://www.elespanol.com/invertia/empresas/energia/20260903/bajada-centimos-impuesto-diesel-aprobada-gobierno-tardara-dias-efectiva-gasolineras/1003744370649_0.html",
-        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/10580046.jpg?p=w:1706/h:960&h=X1fsIQym",
-        "fecha": "2026-09-03T00:37:20.000Z",
-        "fuenteId": "el-espanol-economia",
-        "fuenteTitle": "El Español - Economía",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Las nuevas caras que guiarán la banca privada en España: Sabadell, CaixaBank, BBVA, ING-Singular o Inveready",
-        "url": "https://www.elespanol.com/invertia/mis-finanzas/fondos-de-inversion/20260903/nuevas-caras-guiaran-banca-privada-espana-sabadell-caixabank-bbva-ing-singular-inveready/1003744370626_0.html",
-        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11345847.jpg?p=c:4000:2251:nowe:0:416/w:1706/h:960&h=LJws3CT5",
-        "fecha": "2026-09-03T00:37:19.000Z",
-        "fuenteId": "el-espanol-economia",
-        "fuenteTitle": "El Español - Economía",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "España sigue sin repartir 20.000 millones de fondos 'Next Generation' a falta del último dato oficial de agosto",
-        "url": "https://www.elespanol.com/invertia/economia/macroeconomia/20260903/espana-sigue-sin-repartir-millones-fondos-next-generation-falta-ultimo-dato-oficial-agosto/1003744370468_0.html",
-        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/10999116.jpg?p=w:1706/h:960&h=-OGJmSZ-",
-        "fecha": "2026-09-03T00:37:18.000Z",
-        "fuenteId": "el-espanol-economia",
-        "fuenteTitle": "El Español - Economía",
         "categorias": [
           "economia"
         ],
@@ -2313,6 +2313,19 @@
     ],
     "internacional": [
       {
+        "titulo": "Maduro pide desestimar su caso en EEUU y argumenta inmunidad",
+        "url": "https://www.dw.com/es/maduro-pide-desestimar-su-caso-en-eeuu-y-argumenta-inmunidad/a-78815165?maca=spa-rss-sp-all-1122-xml-mrss",
+        "imagen": "",
+        "fecha": "2026-09-03T01:55:00.000Z",
+        "fuenteId": "dw-espanol",
+        "fuenteTitle": "DW Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "¿Habrá elecciones en Venezuela?: esto dicen Delcy Rodríguez, Trump y la Constitución",
         "url": "https://www.france24.com/es/am%C3%A9rica-latina/20260903-habr%C3%A1-elecciones-en-venezuela-esto-dicen-delcy-rodr%C3%ADguez-trump-y-la-constituci%C3%B3n",
         "imagen": "https://s.france24.com/media/display/adbec728-a731-11f1-a23b-005056a97e36/w:1024/p:16x9/AP26106647192127.jpg",
@@ -2551,19 +2564,6 @@
         "url": "https://www.france24.com/es/video/20260902-la-rep%C3%BAblica-democr%C3%A1tica-del-congo-reporta-m%C3%A1s-de-3-000-muertos-por-%C3%A9bola",
         "imagen": "https://s.france24.com/media/display/b23b6444-a71a-11f1-a0bd-005056bf30b7/w:1024/p:16x9/ES-20260902-124147-124339-CS.jpg",
         "fecha": "2026-09-02T22:53:09.000Z",
-        "fuenteId": "france24-espanol",
-        "fuenteTitle": "France 24 Español",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Informe desde Londres: Macron y rey Carlos III inauguran el tapiz de Bayeux",
-        "url": "https://www.france24.com/es/video/20260902-informe-desde-londres-macron-y-rey-carlos-iii-inauguran-el-tapiz-de-bayeux",
-        "imagen": "https://s.france24.com/media/display/b3730ba6-a71e-11f1-b5c5-005056a90284/w:1024/p:16x9/ES-20260902-143854-144233-CS.jpg",
-        "fecha": "2026-09-02T22:52:51.000Z",
         "fuenteId": "france24-espanol",
         "fuenteTitle": "France 24 Español",
         "categorias": [
@@ -3328,6 +3328,19 @@
     ],
     "politica": [
       {
+        "titulo": "Maduro pide desestimar su caso en EEUU y argumenta inmunidad",
+        "url": "https://www.dw.com/es/maduro-pide-desestimar-su-caso-en-eeuu-y-argumenta-inmunidad/a-78815165?maca=spa-rss-sp-all-1122-xml-mrss",
+        "imagen": "",
+        "fecha": "2026-09-03T01:55:00.000Z",
+        "fuenteId": "dw-espanol",
+        "fuenteTitle": "DW Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "¿Habrá elecciones en Venezuela?: esto dicen Delcy Rodríguez, Trump y la Constitución",
         "url": "https://www.france24.com/es/am%C3%A9rica-latina/20260903-habr%C3%A1-elecciones-en-venezuela-esto-dicen-delcy-rodr%C3%ADguez-trump-y-la-constituci%C3%B3n",
         "imagen": "https://s.france24.com/media/display/adbec728-a731-11f1-a23b-005056a97e36/w:1024/p:16x9/AP26106647192127.jpg",
@@ -3571,19 +3584,6 @@
         "categorias": [
           "politica",
           "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El Día de Ceuta: miles de españoles se movilizan ante la crisis migratoria del enclave del país en África",
-        "url": "https://www.france24.com/es/europa/20260902-el-d%C3%ADa-de-ceuta-miles-de-espa%C3%B1oles-se-movilizan-ante-la-crisis-migratoria-del-enclave-del-pa%C3%ADs-en-%C3%A1frica",
-        "imagen": "https://s.france24.com/media/display/e5e7f1ea-a71f-11f1-b543-005056a97e36/w:1024/p:16x9/e58a015c770bdcb4f1629fa977ff75bd93daf4d7w.jpg",
-        "fecha": "2026-09-02T23:01:00.000Z",
-        "fuenteId": "france24-espanol",
-        "fuenteTitle": "France 24 Español",
-        "categorias": [
-          "internacional",
-          "politica"
         ],
         "idioma": "es"
       }
@@ -4119,6 +4119,18 @@
     ],
     "tecnologia": [
       {
+        "titulo": "Chrome 152 llega con soporte de criptografía postcuántica y soporte flatpak",
+        "url": "https://blog.desdelinux.net/chrome-152-llega-con-soporte-de-criptografia-postcuantica-y-soporte-flatpak/",
+        "imagen": "https://blog.desdelinux.net/wp-content/uploads/2022/04/Google-Chrome.png",
+        "fecha": "2026-09-03T01:58:53.000Z",
+        "fuenteId": "desde-linux",
+        "fuenteTitle": "Desde Linux",
+        "categorias": [
+          "tecnologia"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "El sistema de batalla de The Hundred Line fue diseñado para ser «exactamente lo opuesto a Fire Emblem»",
         "url": "https://www.nintenderos.com/2026/09/el-sistema-de-batalla-de-the-hundred-line-fue-disenado-para-ser-exactamente-lo-opuesto-a-fire-emblem/",
         "imagen": "",
@@ -4360,19 +4372,6 @@
           "actualidad",
           "tecnologia",
           "ciencia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "¿Qué pasa en The Blood of Dawnwalker cuando se acaba el tiempo y por qué te recomiendo probarlo al menos una vez?",
-        "url": "https://www.vidaextra.com/rpg/que-pasa-the-blood-of-dawnwalker-cuando-se-acaba-tiempo-que-te-recomiendo-probarlo-al-vez",
-        "imagen": "https://i.blogs.es/6a834c/dawnwalker-2/1024_2000.jpeg",
-        "fecha": "2026-09-02T22:30:15.000Z",
-        "fuenteId": "vidaextra",
-        "fuenteTitle": "Vida Extra",
-        "categorias": [
-          "tecnologia",
-          "entretenimiento"
         ],
         "idioma": "es"
       }
