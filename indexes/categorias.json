@@ -1,11 +1,24 @@
 {
-  "generado": "2026-09-05T00:56:06.532Z",
+  "generado": "2026-09-05T01:28:49.270Z",
   "limitePorCategoria": 20,
   "categorias": {
     "actualidad": [
       {
         "titulo": "Milei afirma que el cambio geopolítico permitirá avanzar en el reclamo argentino por Malvinas",
         "url": "https://theobjective.com/actualidad/2026-09-05/milei-cambio-geopolitico-reclamo-malvinas/",
+        "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/09/el-presidente-de-argentina-javier-milei-469x317.jpg",
+        "fecha": "2026-09-05T00:43:31.000Z",
+        "fuenteId": "the-objective",
+        "fuenteTitle": "The Objective",
+        "categorias": [
+          "actualidad",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Milei afirma que el cambio geopolítico permitirá avanzar en el reclamo argentino por Malvinas",
+        "url": "https://theobjective.com/internacional/2026-09-05/milei-cambio-geopolitico-reclamo-malvinas/",
         "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/09/el-presidente-de-argentina-javier-milei-469x317.jpg",
         "fecha": "2026-09-05T00:43:31.000Z",
         "fuenteId": "the-objective",
@@ -226,18 +239,6 @@
         "url": "https://www.abc.es/familia/educacion/desinteres-desobediencia-falta-madurez-ninos-aprenden-ritmo-20260905014120-nt.html",
         "imagen": "https://s1.abcstatics.com/abc/www/multimedia/familia/2026/09/05/52988073-U206738294977HD-RYAd52Pfk0EtdpNER30YngN-1200x840@diario_abc.jpg",
         "fecha": "2026-09-04T23:41:20.000Z",
-        "fuenteId": "abc",
-        "fuenteTitle": "ABC",
-        "categorias": [
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Leonor empieza Políticas en la Carlos III, la universidad 'progre'",
-        "url": "https://www.abc.es/sociedad/leonor-empieza-politicas-carlos-iii-universidad-progre-20260905014112-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/09/05/1516672525-R6n9jZsCyJjfUix6i7o0xiO-1200x840@diario_abc.jpg",
-        "fecha": "2026-09-04T23:41:12.000Z",
         "fuenteId": "abc",
         "fuenteTitle": "ABC",
         "categorias": [
@@ -1036,6 +1037,18 @@
     ],
     "deportes": [
       {
+        "titulo": "El murciano supera sus nervios: «¡No puedo estar jugando así!»",
+        "url": "https://www.abc.es/deportes/tenis/murciano-supera-nervios-puedo-estar-jugando-20260904024028-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/05/1516820479--758x531.jpg",
+        "fecha": "2026-09-05T00:41:29.000Z",
+        "fuenteId": "abc-deportes",
+        "fuenteTitle": "ABC - Deportes",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Al casino inglés le faltan las mejores fichas",
         "url": "https://as.com/futbol/primera/al-casino-ingles-le-faltan-las-mejores-fichas-f202609-n/",
         "imagen": "https://img.asmedia.epimg.net/resizer/v2/FIR75P5QWJGLHIIRSPBNT63M7A.jpg?auth=e0e9461439567c62ac5e338f0323c3693ca69ec7d7f987d87f803f2daaa10502",
@@ -1262,21 +1275,93 @@
           "deportes"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "Arturo Coello y el ritmo sin freno de un número uno: \"No sé parar, no me gusta, me agobio aunque sean vacaciones\"",
-        "url": "https://www.elmundo.es/deportes/padel/2026/09/05/6a9ae32021efa099318b459e.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/04/17885354241526.jpg",
-        "fecha": "2026-09-04T22:11:54.000Z",
-        "fuenteId": "el-mundo-deportes",
-        "fuenteTitle": "El Mundo - Deportes",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
       }
     ],
     "economia": [
+      {
+        "titulo": "El director ejecutivo de NMI Holdings vende acciones por 7,75 millones de dólares",
+        "url": "https://es.investing.com/news/insider-trading-news/el-director-ejecutivo-de-nmi-holdings-vende-acciones-por-775-millones-de-dolares-93CH-3823819",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0V4_1200_L.jpg",
+        "fecha": "2026-09-05T00:46:46.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El auge de contratación por IA podría impulsar el software: Bernstein",
+        "url": "https://es.investing.com/news/stock-market-news/el-auge-de-contratacion-por-ia-podria-impulsar-el-software-bernstein-3823816",
+        "imagen": "https://content-media.investing.com/news/LYNXNPEB6J0AJ_M.jpg",
+        "fecha": "2026-09-05T00:37:34.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El director ejecutivo de CrowdStrike, George Kurtz, vende 4,16 millones de dólares en acciones",
+        "url": "https://es.investing.com/news/insider-trading-news/el-director-ejecutivo-de-crowdstrike-george-kurtz-vende-416-millones-de-dolares-en-acciones-93CH-3823815",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEK740X7_L.jpg",
+        "fecha": "2026-09-05T00:35:48.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Director de Warner Bros. Discovery Lowe vende acciones por 5,67 millones de dólares",
+        "url": "https://es.investing.com/news/insider-trading-news/director-de-warner-bros-discovery-lowe-vende-acciones-por-567-millones-de-dolares-93CH-3823814",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0WG_1200_L.jpg",
+        "fecha": "2026-09-05T00:32:02.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El presidente de StubHub, Nayaab Islam, vende 899.000 dólares en acciones",
+        "url": "https://es.investing.com/news/insider-trading-news/el-presidente-de-stubhub-nayaab-islam-vende-899000-dolares-en-acciones-93CH-3823813",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0WG_1200_L.jpg",
+        "fecha": "2026-09-05T00:31:58.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El director de Salesforce Craig Conway vende 1,17 millones de dólares en acciones",
+        "url": "https://es.investing.com/news/insider-trading-news/el-director-de-salesforce-craig-conway-vende-117-millones-de-dolares-en-acciones-93CH-3823812",
+        "imagen": "",
+        "fecha": "2026-09-05T00:31:51.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El director de Neostellar Capital, Lott, vende 50.646 dólares en acciones",
+        "url": "https://es.investing.com/news/insider-trading-news/el-director-de-neostellar-capital-lott-vende-50646-dolares-en-acciones-93CH-3823811",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM450ND_1200_L.jpg",
+        "fecha": "2026-09-05T00:31:43.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "El CTO de Paysign, Bradley Cunningham, vende 96.420 dólares en acciones",
         "url": "https://es.investing.com/news/insider-trading-news/el-cto-de-paysign-bradley-cunningham-vende-96420-dolares-en-acciones-93CH-3823810",
@@ -1428,90 +1513,6 @@
         "fecha": "2026-09-05T00:10:00.000Z",
         "fuenteId": "el-espanol-economia",
         "fuenteTitle": "El Español - Economía",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Naves nodrizas no tripuladas, satélites cazadores y armas láser: EEUU y China se alistan para una guerra en el espacio",
-        "url": "https://www.elespanol.com/observatorio-defensa/20260905/naves-nodrizas-no-tripuladas-satelites-cazadores-armas-laser-eeuu-china-alistan-guerra-espacio/1003744372673_0.html",
-        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11347720.jpg?p=w:1706/h:960&h=WNURy3eL",
-        "fecha": "2026-09-05T00:10:00.000Z",
-        "fuenteId": "el-espanol-economia",
-        "fuenteTitle": "El Español - Economía",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Indra y Hanwha abren una nueva etapa de cooperación en defensa entre España y Corea del Sur",
-        "url": "https://www.elespanol.com/observatorio-defensa/20260905/indra-hanwha-abren-nueva-etapa-cooperacion-defensa-espana-corea-sur/1003744372057_12.html",
-        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11223925.jpg?p=c:1215:685:nowe:0:96/w:1706/h:960&h=jVlpYCGz",
-        "fecha": "2026-09-05T00:10:00.000Z",
-        "fuenteId": "el-espanol-economia",
-        "fuenteTitle": "El Español - Economía",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El director de Illumina, Keith Meister, vende 57,2 millones de dólares en acciones",
-        "url": "https://es.investing.com/news/insider-trading-news/el-director-de-illumina-keith-meister-vende-572-millones-de-dolares-en-acciones-93CH-3823804",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3T1K3_1200_L.jpg",
-        "fecha": "2026-09-05T00:02:08.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El presidente de Paysign, Matthew Turner, vende acciones por 62.637 dólares",
-        "url": "https://es.investing.com/news/insider-trading-news/el-presidente-de-paysign-matthew-turner-vende-acciones-por-62637-dolares-93CH-3823803",
-        "imagen": "",
-        "fecha": "2026-09-05T00:02:01.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El vicepresidente ejecutivo de StubHub, Mark Streams, vende 1.053.237 dólares en acciones",
-        "url": "https://es.investing.com/news/insider-trading-news/el-vicepresidente-ejecutivo-de-stubhub-mark-streams-vende-1053237-dolares-en-acciones-93CH-3823802",
-        "imagen": "",
-        "fecha": "2026-09-05T00:01:51.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El consejero general de Happen Inc., Jordania Cheng, vende 49.168 dólares en acciones",
-        "url": "https://es.investing.com/news/insider-trading-news/el-consejero-general-de-happen-inc-jordania-cheng-vende-49168-dolares-en-acciones-93CH-3823801",
-        "imagen": "",
-        "fecha": "2026-09-05T00:01:45.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Reino Unido reduce la tasa de descuento para impulsar la inversión en infraestructuras",
-        "url": "https://es.investing.com/news/economy-news/reino-unido-reduce-la-tasa-de-descuento-para-impulsar-la-inversion-en-infraestructuras-3823805",
-        "imagen": "https://content-media.investing.com/news/LYNXNPEB8L0CB_L.jpg",
-        "fecha": "2026-09-04T23:59:25.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
         "categorias": [
           "economia"
         ],
@@ -2300,6 +2301,32 @@
     ],
     "internacional": [
       {
+        "titulo": "Detonación accidental de material pirotécnico deja más de 50 heridos en un cuartel de Bolivia",
+        "url": "https://www.france24.com/es/am%C3%A9rica-latina/20260905-detonaci%C3%B3n-accidental-de-material-pirot%C3%A9cnico-deja-m%C3%A1s-de-50-heridos-en-un-cuartel-de-bolivia",
+        "imagen": "https://s.france24.com/media/display/7cef0d86-a8c3-11f1-97e3-005056bfb2b6/w:1024/p:16x9/Screenshot-2026-09-04-204554.png",
+        "fecha": "2026-09-05T00:50:16.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Detonación accidental de material pirotécnico deja más de 50 heridos en un cuartel de Bolivia",
+        "url": "https://www.france24.com/es/minuto-a-minuto/20260905-detonaci%C3%B3n-accidental-de-material-pirot%C3%A9cnico-deja-m%C3%A1s-de-50-heridos-en-un-cuartel-de-bolivia",
+        "imagen": "",
+        "fecha": "2026-09-05T00:14:13.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Dos exempleadas vuelven a demandar a Julio Iglesias",
         "url": "https://www.dw.com/es/dos-exempleadas-vuelven-a-demandar-a-julio-iglesias/a-79040654?maca=spa-rss-sp-all-1122-xml-mrss",
         "imagen": "",
@@ -2526,32 +2553,6 @@
         "fecha": "2026-09-04T19:52:00.000Z",
         "fuenteId": "dw-espanol",
         "fuenteTitle": "DW Español",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La ONU aprueba un nuevo mapamundi que refleja el tamaño real de África",
-        "url": "https://www.bbc.com/mundo/articles/cn8evenx6epo?at_medium=RSS&at_campaign=rss",
-        "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1f88/live/bff197b0-a874-11f1-b109-879e35c24276.png",
-        "fecha": "2026-09-04T19:40:36.000Z",
-        "fuenteId": "bbc-mundo",
-        "fuenteTitle": "BBC News Mundo",
-        "categorias": [
-          "internacional",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Hallan muerto de un disparo al diputado mexicano Zenyazen Escobar",
-        "url": "https://www.elmundo.es/internacional/2026/09/04/6a9b1903e4d4d824608b45b5.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/04/17885495222275.jpg",
-        "fecha": "2026-09-04T19:31:06.000Z",
-        "fuenteId": "el-mundo-internacional",
-        "fuenteTitle": "El Mundo - Internacional",
         "categorias": [
           "internacional",
           "politica"
@@ -3315,6 +3316,19 @@
     ],
     "politica": [
       {
+        "titulo": "Detonación accidental de material pirotécnico deja más de 50 heridos en un cuartel de Bolivia",
+        "url": "https://www.france24.com/es/am%C3%A9rica-latina/20260905-detonaci%C3%B3n-accidental-de-material-pirot%C3%A9cnico-deja-m%C3%A1s-de-50-heridos-en-un-cuartel-de-bolivia",
+        "imagen": "https://s.france24.com/media/display/7cef0d86-a8c3-11f1-97e3-005056bfb2b6/w:1024/p:16x9/Screenshot-2026-09-04-204554.png",
+        "fecha": "2026-09-05T00:50:16.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Milei afirma que el cambio geopolítico permitirá avanzar en el reclamo argentino por Malvinas",
         "url": "https://theobjective.com/actualidad/2026-09-05/milei-cambio-geopolitico-reclamo-malvinas/",
         "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/09/el-presidente-de-argentina-javier-milei-469x317.jpg",
@@ -3323,6 +3337,32 @@
         "fuenteTitle": "The Objective",
         "categorias": [
           "actualidad",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Milei afirma que el cambio geopolítico permitirá avanzar en el reclamo argentino por Malvinas",
+        "url": "https://theobjective.com/internacional/2026-09-05/milei-cambio-geopolitico-reclamo-malvinas/",
+        "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/09/el-presidente-de-argentina-javier-milei-469x317.jpg",
+        "fecha": "2026-09-05T00:43:31.000Z",
+        "fuenteId": "the-objective",
+        "fuenteTitle": "The Objective",
+        "categorias": [
+          "actualidad",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Detonación accidental de material pirotécnico deja más de 50 heridos en un cuartel de Bolivia",
+        "url": "https://www.france24.com/es/minuto-a-minuto/20260905-detonaci%C3%B3n-accidental-de-material-pirot%C3%A9cnico-deja-m%C3%A1s-de-50-heridos-en-un-cuartel-de-bolivia",
+        "imagen": "",
+        "fecha": "2026-09-05T00:14:13.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
           "politica"
         ],
         "idioma": "es"
@@ -3529,45 +3569,6 @@
         "fecha": "2026-09-04T21:25:08.000Z",
         "fuenteId": "el-mundo-internacional",
         "fuenteTitle": "El Mundo - Internacional",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Carlos Alcaraz se deshace del chino Wu por la vía rápida y ya espera Tommy Paul en octavos",
-        "url": "https://theobjective.com/deportes/2026-09-04/carlos-alcaraz-wu-via-rapida-tommy-paul-octavos/",
-        "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/09/carlos-alcaraz-us-open-469x317.jpg",
-        "fecha": "2026-09-04T21:22:08.000Z",
-        "fuenteId": "the-objective",
-        "fuenteTitle": "The Objective",
-        "categorias": [
-          "actualidad",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Prisión provisional sin fianza para los padres del bebé muerto de Santa Bàrbara (Tarragona)",
-        "url": "https://theobjective.com/sociedad/suceso/2026-09-04/prision-provisional-fianza-padres-bebe-muerto-santa-barbara-tarragona/",
-        "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/07/mossos-desquadra-coche-469x317.jpg",
-        "fecha": "2026-09-04T21:18:44.000Z",
-        "fuenteId": "the-objective",
-        "fuenteTitle": "The Objective",
-        "categorias": [
-          "actualidad",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El partido Reform UK bajo investigación por donaciones extranjeras: Farage niega infringir la ley",
-        "url": "https://www.france24.com/es/video/20260904-el-partido-reform-uk-bajo-investigaci%C3%B3n-por-donaciones-extranjeras-farage-niega-infringir-la-ley",
-        "imagen": "https://s.france24.com/media/display/200384de-a89c-11f1-8cc8-005056bfb2b6/w:1024/p:16x9/ES-20260904-131137-131321-CS.jpg",
-        "fecha": "2026-09-04T21:14:17.000Z",
-        "fuenteId": "france24-espanol",
-        "fuenteTitle": "France 24 Español",
         "categorias": [
           "internacional",
           "politica"
