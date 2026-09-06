@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-06T01:33:26.646Z",
+  "generado": "2026-09-06T01:41:13.539Z",
   "limitePorCategoria": 20,
   "categorias": {
     "actualidad": [
@@ -132,7 +132,7 @@
       {
         "titulo": "Manuel Contreras: «Si el Estado tiene voluntad de acabar con el narcotráfico sí puede arrinconarlo»",
         "url": "https://www.abc.es/espana/andalucia/estado-voluntad-acabar-narcotrafico-puede-arrinconarlo-20260906200229-nts.html",
-        "imagen": "",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/04/general-contreras-abc-RbRXN9gDeawQ0abOEC5gLrK-1200x840@diario_abc.jpg",
         "fecha": "2026-09-05T23:52:26.000Z",
         "fuenteId": "abc",
         "fuenteTitle": "ABC",
@@ -1284,6 +1284,18 @@
     ],
     "economia": [
       {
+        "titulo": "Por qué algunos inversores creen que Volkswagen \"no tiene arreglo\"",
+        "url": "https://es.investing.com/news/stock-market-news/por-que-algunos-inversores-creen-que-volkswagen-no-tiene-arreglo-3823947",
+        "imagen": "https://content-media.investing.com/news/LYNXNPEE2C0M5_M.jpg",
+        "fecha": "2026-09-06T00:39:48.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Las ambiciones espaciales de Europa despegan con cohete alemán en órbita",
         "url": "https://es.investing.com/news/economy-news/las-ambiciones-espaciales-de-europa-despegan-con-cohete-aleman-en-orbita-3823943",
         "imagen": "https://content-media.investing.com/news/satellite_M_1440051110.jpg",
@@ -1517,18 +1529,6 @@
         "url": "https://www.expansion.com/mercados/2026/09/05/6a9c1b4e468aebb5348b4579.html",
         "imagen": "http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&cg=rss-expansion&ci=es-widgetueditorial&si=https://www.expansion.com/rss/portada.xml",
         "fecha": "2026-09-05T18:36:15.000Z",
-        "fuenteId": "expansion",
-        "fuenteTitle": "Expansión",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Madrid y Barcelona: los precios de la vivienda siguen al alza en la mayoría de sus barrios",
-        "url": "https://www.expansion.com/inmobiliario/mercado/2026/09/05/6a9a7f92e5fdea06618b45a5.html",
-        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2023/03/02/16777671934532.jpg",
-        "fecha": "2026-09-05T18:36:14.000Z",
         "fuenteId": "expansion",
         "fuenteTitle": "Expansión",
         "categorias": [
@@ -4376,6 +4376,18 @@
     ],
     "viajes": [
       {
+        "titulo": "El castillo andaluz cuyo patio renacentista se expone en el MET de Nueva York",
+        "url": "https://www.abc.es/viajar/destinos/espana/castillo-andaluz-patio-renacentista-expone-met-nueva-20260906220949-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/viajar/2026/09/04/velez-1-RUpXj8ocjP476QLovEjqrKN-1200x840@diario_abc.jpg",
+        "fecha": "2026-09-06T00:50:45.000Z",
+        "fuenteId": "abc-viajar",
+        "fuenteTitle": "ABC - Viajar",
+        "categorias": [
+          "viajes"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Dicen que es la selva escondida de Andalucía: un bosque de niebla con helechos, ríos y árboles que cubre parte de dos provincias",
         "url": "https://www.abc.es/viajar/andalucia/dicen-selva-escondida-andalucia-bosque-niebla-helechos-20260905160643-nts.html",
         "imagen": "https://s1.abcstatics.com/abc/www/multimedia/viajar/2026/09/05/viajar-alcornocales-portada-R7o6S2453kl7Epj8IsCIUrI-1200x840@diario_abc.jpg",
@@ -4614,19 +4626,6 @@
           "viajes",
           "cultura",
           "gastronomia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Las mejores rutas de senderismo de Asturias para descubrir paso a paso una naturaleza sin igual",
-        "url": "https://www.escapadarural.com/blog/mejores-rutas-senderismo-asturias/",
-        "imagen": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f97e.png",
-        "fecha": "2026-09-03T09:29:04.000Z",
-        "fuenteId": "escapada-rural",
-        "fuenteTitle": "Escapada Rural",
-        "categorias": [
-          "viajes",
-          "cultura"
         ],
         "idioma": "es"
       }
