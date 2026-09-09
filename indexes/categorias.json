@@ -1,8 +1,21 @@
 {
-  "generado": "2026-09-09T02:58:45.463Z",
+  "generado": "2026-09-09T03:11:13.251Z",
   "limitePorCategoria": 20,
   "categorias": {
     "actualidad": [
+      {
+        "titulo": "Rubio augura una \"época dorada\" con Colombia y refuerza la cooperación contra el narcoterrorismo y en la frontera con Venezuela",
+        "url": "https://www.20minutos.es/internacional/rubio-augura-una-epoca-dorada-con-colombia-refuerza-cooperacion-contra-narcoterrorismo-frontera-con-venezuela_7034413_0.html",
+        "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/09/6aa0c318958411-26293820.jpeg",
+        "fecha": "2026-09-09T02:30:08.000Z",
+        "fuenteId": "20minutos-internacional",
+        "fuenteTitle": "20minutos - Internacional",
+        "categorias": [
+          "internacional",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "EEUU confirma la destrucción de cinco petroleros iraníes tras ataques contra un buque de guerra estadounidense",
         "url": "https://www.20minutos.es/internacional/eeuu-confirma-destruccion-cinco-petroleros-iranies-tras-ataques-contra-un-buque-guerra-estadounidense_7034414_0.html",
@@ -243,19 +256,6 @@
         "categorias": [
           "politica",
           "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La Audiencia pide a los ex directivos de Plus Ultra que aporten las actas de las reuniones con la SEPI por el rescate",
-        "url": "https://www.elmundo.es/espana/2026/09/09/6aa04b9ee4d4d8f8318b457e.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/08/17888940559621.jpg",
-        "fecha": "2026-09-09T00:12:05.000Z",
-        "fuenteId": "el-mundo",
-        "fuenteTitle": "El Mundo",
-        "categorias": [
-          "actualidad",
-          "tecnologia"
         ],
         "idioma": "es"
       }
@@ -2317,6 +2317,84 @@
     ],
     "internacional": [
       {
+        "titulo": "Un mes del terremoto en Colombia: más de 300 muertos, miles de damnificados y el reto de volver a empezar",
+        "url": "https://www.france24.com/es/am%C3%A9rica-latina/20260909-un-mes-del-terremoto-en-colombia-m%C3%A1s-de-300-muertos-miles-de-damnificados-y-el-reto-de-volver-a-empezar",
+        "imagen": "https://s.france24.com/media/display/7ac9dd4c-954f-11f1-a26c-005056a90284/w:1024/p:16x9/2026-08-10T233201Z-2087280239-RC2MVMA0LP65-RTRMADP-3-COLOMBIA-QUAKE.jpg",
+        "fecha": "2026-09-09T02:32:12.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Rubio augura una \"época dorada\" con Colombia y refuerza la cooperación contra el narcoterrorismo y en la frontera con Venezuela",
+        "url": "https://www.20minutos.es/internacional/rubio-augura-una-epoca-dorada-con-colombia-refuerza-cooperacion-contra-narcoterrorismo-frontera-con-venezuela_7034413_0.html",
+        "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/09/6aa0c318958411-26293820.jpeg",
+        "fecha": "2026-09-09T02:30:08.000Z",
+        "fuenteId": "20minutos-internacional",
+        "fuenteTitle": "20minutos - Internacional",
+        "categorias": [
+          "internacional",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Trump saluda \"gran noche\" de triunfo para AfD en Alemania",
+        "url": "https://www.dw.com/es/trump-saluda-gran-noche-de-triunfo-para-afd-en-alemania/a-79195009?maca=spa-rss-sp-all-1122-xml-mrss",
+        "imagen": "",
+        "fecha": "2026-09-09T02:22:00.000Z",
+        "fuenteId": "dw-espanol",
+        "fuenteTitle": "DW Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Trump y Putin hablan sobre Ucrania mientras Moscú recrudece sus bombardeos",
+        "url": "https://www.france24.com/es/video/20260909-trump-y-putin-hablan-sobre-ucrania-mientras-mosc%C3%BA-recrudece-sus-bombardeos",
+        "imagen": "https://s.france24.com/media/display/d6eaf656-abf2-11f1-adc8-005056bfb2b6/w:1024/p:16x9/ES-20260908-191819-191941-CS.jpg",
+        "fecha": "2026-09-09T02:10:07.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Investigación de 'Haaretz' revela que EAU advirtió a Netanyahu del ataque del 7-O",
+        "url": "https://www.france24.com/es/video/20260909-investigaci%C3%B3n-de-haaretz-revela-que-eau-advirti%C3%B3-a-netanyahu-del-ataque-del-7-o",
+        "imagen": "https://s.france24.com/media/display/ea6c01ba-abe9-11f1-893b-005056a97e36/w:1024/p:16x9/ES-20260908-183410-183605-CS.jpg",
+        "fecha": "2026-09-09T02:07:11.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Colombia flexibiliza el porte de armas: ¿cuál es el riesgo de la medida?",
+        "url": "https://www.france24.com/es/video/20260909-colombia-flexibiliza-el-porte-de-armas-cu%C3%A1l-es-el-riesgo-de-la-medida",
+        "imagen": "https://s.france24.com/media/display/1708366e-abf2-11f1-a0fd-005056bf30b7/w:1024/p:16x9/ES-20260908-190909-191436-CS.jpg",
+        "fecha": "2026-09-09T02:06:45.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "EE. UU. y Colombia firman acuerdos para \"reconstruir\" el país y fortalecer su relación",
         "url": "https://www.france24.com/es/video/20260909-ee-uu-y-colombia-firman-acuerdos-para-reconstruir-el-pa%C3%ADs-y-fortalecer-su-relaci%C3%B3n",
         "imagen": "https://s.france24.com/media/display/8bee8dd0-abe7-11f1-b66c-005056a97e36/w:1024/p:16x9/ES-20260908-183730-183921-CS.jpg",
@@ -2492,84 +2570,6 @@
         "fecha": "2026-09-08T21:51:00.000Z",
         "fuenteId": "dw-espanol",
         "fuenteTitle": "DW Español",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El ex 'número 2' del espionaje marroquí: la cúpula de Rabat sabía lo que iba a ocurrir en la frontera",
-        "url": "https://www.elconfidencial.com/mundo/2026-09-08/ex-numero-2-espionaje-marroqui-rabat-sabia-frontera_4420212/",
-        "imagen": "https://images.ecestaticos.com/uf9JHu61dHPImG-kznno-V52ocY=/0x0:2000x1500/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F16b%2F391%2F58a%2F16b39158a471324d17510b46859d56b1.jpg",
-        "fecha": "2026-09-08T21:30:00.000Z",
-        "fuenteId": "el-confidencial-mundo",
-        "fuenteTitle": "El Confidencial - Mundo",
-        "categorias": [
-          "internacional",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Irán asegura que EE.UU. ha atacado otro de sus petroleros y amenaza con responder",
-        "url": "https://www.abc.es/internacional/iran-asegura-eeuu-atacado-petroleros-amenaza-responder-20260908231815-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/08/1510002774-k9HG-U301631436240m4B-1200x840@diario_abc.JPG",
-        "fecha": "2026-09-08T21:20:50.000Z",
-        "fuenteId": "abc-internacional",
-        "fuenteTitle": "ABC - Internacional",
-        "categorias": [
-          "internacional",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Comprar una casa en España: ¿un lujo para pocos?",
-        "url": "https://www.france24.com/es/programas/en-5-minutos/20260908-comprar-una-casa-en-espa%C3%B1a-un-lujo-para-pocos",
-        "imagen": "https://s.france24.com/media/display/a1e6960c-a875-11f1-a9ab-005056a97e36/w:1024/p:16x9/IMG-0199.png",
-        "fecha": "2026-09-08T21:12:06.000Z",
-        "fuenteId": "france24-espanol",
-        "fuenteTitle": "France 24 Español",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Un petrolero iraní sufre un ataque cerca de la isla de Jarg y Teherán señala a EEUU",
-        "url": "https://www.elconfidencial.com/mundo/2026-09-08/ataque-misiles-petrolero-irani-1tps_4420204/",
-        "imagen": "https://images.ecestaticos.com/pWY52_fh7K81e6_Psl85A8JwH80=/0x0:2272x1818/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F3c3%2F3bf%2Fead%2F3c33bfead31945cbe28a72f53046d8c6.jpg",
-        "fecha": "2026-09-08T21:06:00.000Z",
-        "fuenteId": "el-confidencial-mundo",
-        "fuenteTitle": "El Confidencial - Mundo",
-        "categorias": [
-          "internacional",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Quién es el líder político mejor pagado del mundo y por qué le subirán el salario US$1 millón",
-        "url": "https://www.bbc.com/mundo/articles/c3v43l909n3o?at_medium=RSS&at_campaign=rss",
-        "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/25d5/live/40541500-ab58-11f1-b471-ff02eb3eac27.jpg",
-        "fecha": "2026-09-08T21:02:54.000Z",
-        "fuenteId": "bbc-mundo",
-        "fuenteTitle": "BBC News Mundo",
-        "categorias": [
-          "internacional",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Hutíes de Yemen atacan con misiles y drones instalaciones de Aramco en Arabia Saudita",
-        "url": "https://www.france24.com/es/video/20260908-hut%C3%ADes-de-yemen-atacan-con-misiles-y-drones-instalaciones-de-aramco-en-arabia-saudita",
-        "imagen": "https://s.france24.com/media/display/e2e7d116-abc7-11f1-9032-005056a97e36/w:1024/p:16x9/ES-20260908-150857-151047-CS.jpg",
-        "fecha": "2026-09-08T21:02:28.000Z",
-        "fuenteId": "france24-espanol",
-        "fuenteTitle": "France 24 Español",
         "categorias": [
           "internacional",
           "politica"
@@ -3330,6 +3330,71 @@
     ],
     "politica": [
       {
+        "titulo": "Un mes del terremoto en Colombia: más de 300 muertos, miles de damnificados y el reto de volver a empezar",
+        "url": "https://www.france24.com/es/am%C3%A9rica-latina/20260909-un-mes-del-terremoto-en-colombia-m%C3%A1s-de-300-muertos-miles-de-damnificados-y-el-reto-de-volver-a-empezar",
+        "imagen": "https://s.france24.com/media/display/7ac9dd4c-954f-11f1-a26c-005056a90284/w:1024/p:16x9/2026-08-10T233201Z-2087280239-RC2MVMA0LP65-RTRMADP-3-COLOMBIA-QUAKE.jpg",
+        "fecha": "2026-09-09T02:32:12.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Trump saluda \"gran noche\" de triunfo para AfD en Alemania",
+        "url": "https://www.dw.com/es/trump-saluda-gran-noche-de-triunfo-para-afd-en-alemania/a-79195009?maca=spa-rss-sp-all-1122-xml-mrss",
+        "imagen": "",
+        "fecha": "2026-09-09T02:22:00.000Z",
+        "fuenteId": "dw-espanol",
+        "fuenteTitle": "DW Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Trump y Putin hablan sobre Ucrania mientras Moscú recrudece sus bombardeos",
+        "url": "https://www.france24.com/es/video/20260909-trump-y-putin-hablan-sobre-ucrania-mientras-mosc%C3%BA-recrudece-sus-bombardeos",
+        "imagen": "https://s.france24.com/media/display/d6eaf656-abf2-11f1-adc8-005056bfb2b6/w:1024/p:16x9/ES-20260908-191819-191941-CS.jpg",
+        "fecha": "2026-09-09T02:10:07.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Investigación de 'Haaretz' revela que EAU advirtió a Netanyahu del ataque del 7-O",
+        "url": "https://www.france24.com/es/video/20260909-investigaci%C3%B3n-de-haaretz-revela-que-eau-advirti%C3%B3-a-netanyahu-del-ataque-del-7-o",
+        "imagen": "https://s.france24.com/media/display/ea6c01ba-abe9-11f1-893b-005056a97e36/w:1024/p:16x9/ES-20260908-183410-183605-CS.jpg",
+        "fecha": "2026-09-09T02:07:11.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Colombia flexibiliza el porte de armas: ¿cuál es el riesgo de la medida?",
+        "url": "https://www.france24.com/es/video/20260909-colombia-flexibiliza-el-porte-de-armas-cu%C3%A1l-es-el-riesgo-de-la-medida",
+        "imagen": "https://s.france24.com/media/display/1708366e-abf2-11f1-a0fd-005056bf30b7/w:1024/p:16x9/ES-20260908-190909-191436-CS.jpg",
+        "fecha": "2026-09-09T02:06:45.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "EE. UU. y Colombia firman acuerdos para \"reconstruir\" el país y fortalecer su relación",
         "url": "https://www.france24.com/es/video/20260909-ee-uu-y-colombia-firman-acuerdos-para-reconstruir-el-pa%C3%ADs-y-fortalecer-su-relaci%C3%B3n",
         "imagen": "https://s.france24.com/media/display/8bee8dd0-abe7-11f1-b66c-005056a97e36/w:1024/p:16x9/ES-20260908-183730-183921-CS.jpg",
@@ -3518,71 +3583,6 @@
         "fecha": "2026-09-08T22:26:00.000Z",
         "fuenteId": "el-confidencial-espana",
         "fuenteTitle": "El Confidencial - España",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Hutíes vs. Arabia Saudita: cómo la guerra entre Irán y Estados Unidos reaviva el conflicto de Yemen",
-        "url": "https://www.france24.com/es/medio-oriente/20260908-hut%C3%ADes-vs-arabia-saudita-c%C3%B3mo-la-guerra-entre-ir%C3%A1n-y-estados-unidos-reaviva-el-conflicto-de-yemen",
-        "imagen": "https://s.france24.com/media/display/5b0b7c0c-aacd-11f1-b7f8-005056bf30b7/w:1024/p:16x9/000-C7EW4UQ.jpg",
-        "fecha": "2026-09-08T22:20:40.000Z",
-        "fuenteId": "france24-espanol",
-        "fuenteTitle": "France 24 Español",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Vuelta al cole sin seguridad para todos en Ceuta",
-        "url": "https://www.lavanguardia.com/politica/20260909/11630413/vuelta-cole-seguridad-todos-ceuta.html",
-        "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/08/6aa04ecd6e3ac.jpeg",
-        "fecha": "2026-09-08T22:05:00.000Z",
-        "fuenteId": "la-vanguardia-politica",
-        "fuenteTitle": "La Vanguardia - Política",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El Gobierno desclasifica los informes de Ceuta sin ver pruebas contra Marruecos",
-        "url": "https://www.lavanguardia.com/politica/20260909/11630378/gobierno-desclasifica-informes-ceuta-ver-pruebas-marruecos.html",
-        "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/08/6a9ff1c28f874.jpeg",
-        "fecha": "2026-09-08T22:05:00.000Z",
-        "fuenteId": "la-vanguardia-politica",
-        "fuenteTitle": "La Vanguardia - Política",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Nueve meses en el mar a bordo del USS Abraham Lincoln: soledad, fatiga y orgullo",
-        "url": "https://www.elmundo.es/internacional/2026/09/09/6aa01c56e85ece2e118b458a.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/08/17888780372885.jpg",
-        "fecha": "2026-09-08T22:04:20.000Z",
-        "fuenteId": "el-mundo-internacional",
-        "fuenteTitle": "El Mundo - Internacional",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Los tres detenidos por el tiroteo mortal en Isla Cristina, vinculados al clan de los Moriña",
-        "url": "https://www.elmundo.es/andalucia/2026/09/09/6aa04a7bfc6c830b708b45ba.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/08/17888897597510.jpg",
-        "fecha": "2026-09-08T22:00:10.000Z",
-        "fuenteId": "el-mundo-espana",
-        "fuenteTitle": "El Mundo - España",
         "categorias": [
           "politica",
           "actualidad"
