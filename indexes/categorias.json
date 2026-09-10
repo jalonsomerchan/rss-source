@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-10T02:13:54.753Z",
+  "generado": "2026-09-10T02:21:16.027Z",
   "limitePorCategoria": 20,
   "categorias": {
     "actualidad": [
@@ -12,6 +12,30 @@
         "fuenteTitle": "El Confidencial - España",
         "categorias": [
           "politica",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Esta era la droga que el ser humano ya consumía hace unos 25.000 años",
+        "url": "https://www.20minutos.es/ciencia/ser-humano-ya-habria-usado-drogas-hace-unos-25-000-anos-forma-nueces-betel_7034915_0.html",
+        "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/10/6aa20a9368cd10-97611839.png",
+        "fecha": "2026-09-10T01:41:51.000Z",
+        "fuenteId": "20minutos",
+        "fuenteTitle": "20minutos",
+        "categorias": [
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Los primeros pisos del portal público de vivienda se ofertan en pueblos y exigen rentas por encima de la media",
+        "url": "https://www.abc.es/economia/primeros-pisos-casa-ofertan-municipios-pequenos-exigen-20260910014213-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/10/1507443506-RF7HhIzSjHfbmRDjnVGv6zI-1200x840@diario_abc.jpg",
+        "fecha": "2026-09-10T01:21:08.000Z",
+        "fuenteId": "abc",
+        "fuenteTitle": "ABC",
+        "categorias": [
           "actualidad"
         ],
         "idioma": "es"
@@ -218,30 +242,6 @@
         "url": "https://www.abc.es/ciencia/cariclo-unica-roca-anillos-sistema-solar-tener-20260909014745-nt.html",
         "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/09/09/Cariclo-R10EQjDdsL4s4YVSLjlGOqL-1200x840@diario_abc.jpg",
         "fecha": "2026-09-09T23:47:45.000Z",
-        "fuenteId": "abc",
-        "fuenteTitle": "ABC",
-        "categorias": [
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "María Amaro, experta en pérdida de peso: «Estos son los alimentos que siempre debes tener en la nevera para adelgazar»",
-        "url": "https://www.abc.es/bienestar/alimentacion/maria-amaro-experta-perdida-peso-alimentos-siempre-20260910014737-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/bienestar/2026/09/10/Amaro2-RyTJIr8YVUg1NvuXimo36sO-1200x840@diario_abc.jpg",
-        "fecha": "2026-09-09T23:47:37.000Z",
-        "fuenteId": "abc",
-        "fuenteTitle": "ABC",
-        "categorias": [
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "PISA, el caro negocio de los exámenes del que España es el mayor cliente y no lo aprovecha",
-        "url": "https://www.abc.es/sociedad/pisa-caro-negocio-examenes-espana-mayor-cliente-20260909014730-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/09/09/1512570300-U206738294970VD-R7gu8xGfyEdChJGY5Lbns3L-1200x840@diario_abc.jpg",
-        "fecha": "2026-09-09T23:47:30.000Z",
         "fuenteId": "abc",
         "fuenteTitle": "ABC",
         "categorias": [
@@ -1281,6 +1281,126 @@
     ],
     "economia": [
       {
+        "titulo": "El CFO de Belite Bio, Chuang Hao-Yuan, vende 12,8 millones de dólares en ADS",
+        "url": "https://es.investing.com/news/insider-trading-news/el-cfo-de-belite-bio-chuang-haoyuan-vende-128-millones-de-dolares-en-ads-93CH-3828768",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM40318_1200_L.jpg",
+        "fecha": "2026-09-10T01:46:49.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El director jurídico de SentinelOne vende acciones por 164.494 dólares",
+        "url": "https://es.investing.com/news/insider-trading-news/el-director-juridico-de-sentinelone-vende-acciones-por-164494-dolares-93CH-3828769",
+        "imagen": "https://content-media.investing.com/news/SentinelOne_800x533_L_1625122871.jpg",
+        "fecha": "2026-09-10T01:46:49.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Gerald Spencer, SVP de NRG Energy, vende 191.069 dólares en acciones",
+        "url": "https://es.investing.com/news/insider-trading-news/gerald-spencer-svp-de-nrg-energy-vende-191069-dolares-en-acciones-93CH-3828767",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM450ND_1200_L.jpg",
+        "fecha": "2026-09-10T01:46:38.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El director de contabilidad de Macerich vende acciones por 63.787 dólares",
+        "url": "https://es.investing.com/news/insider-trading-news/el-director-de-contabilidad-de-macerich-vende-acciones-por-63787-dolares-93CH-3828766",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM4519D_1200_L.jpg",
+        "fecha": "2026-09-10T01:46:37.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Robinhood en la conferencia Goldman Sachs Communacopia + Tecnología 2026",
+        "url": "https://es.investing.com/news/transcripts/robinhood-en-la-conferencia-goldman-sachs-communacopia--tecnologia-2026-93CH-3828765",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3S10Z_1200_L.jpg",
+        "fecha": "2026-09-10T01:43:05.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Una acción de chips sube un 11,7% impulsada por la demanda de IA",
+        "url": "https://es.investing.com/news/stock-market-news/una-accion-de-chips-sube-un-117-impulsada-por-la-demanda-de-ia-3828764",
+        "imagen": "https://content-media.investing.com/news/Traders_800x533_L_1644228156.jpg",
+        "fecha": "2026-09-10T01:34:40.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Singtel y Gulf se asocian para mejorar los cables submarinos entre Tailandia y Singapur",
+        "url": "https://es.investing.com/news/stock-market-news/singtel-y-gulf-se-asocian-para-mejorar-los-cables-submarinos-entre-tailandia-y-singapur-3828762",
+        "imagen": "https://content-media.investing.com/news/LYNXMPEE14062_M.jpg",
+        "fecha": "2026-09-10T01:34:05.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El director ejecutivo de Belite Bio, Lin Yu-Hsin, vende 19,08 millones de dólares en acciones",
+        "url": "https://es.investing.com/news/insider-trading-news/el-director-ejecutivo-de-belite-bio-lin-yuhsin-vende-1908-millones-de-dolares-en-acciones-93CH-3828760",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM450ND_1200_L.jpg",
+        "fecha": "2026-09-10T01:31:56.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Director de Intuit Richard L. Dalzell vende acciones por 92.727 dólares",
+        "url": "https://es.investing.com/news/insider-trading-news/director-de-intuit-richard-l-dalzell-vende-acciones-por-92727-dolares-93CH-3828759",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEL7K0WS_L.jpg",
+        "fecha": "2026-09-10T01:31:38.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Quince Therapeutics en Cantor: la rapamicina inhalada gana terreno",
+        "url": "https://es.investing.com/news/transcripts/quince-therapeutics-en-cantor-la-rapamicina-inhalada-gana-terreno-93CH-3828758",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0V4_1200_L.jpg",
+        "fecha": "2026-09-10T01:31:30.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Marqeta en la conferencia Goldman Sachs Communacopia + Tecnología: cambios en el crecimiento",
         "url": "https://es.investing.com/news/transcripts/marqeta-en-la-conferencia-goldman-sachs-communacopia--tecnologia-cambios-en-el-crecimiento-93CH-3828756",
         "imagen": "https://content-media.investing.com/news/LYNXMPEB230DM_M.jpg",
@@ -1399,129 +1519,22 @@
           "economia"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "El 98% de los inversores españoles invierte en ETF activos",
-        "url": "https://www.expansion.com/mercados/2026/09/10/6aa19d7ee5fdea761d8b457d.html",
-        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/09/09/17889764886673.jpg",
-        "fecha": "2026-09-10T01:03:26.000Z",
-        "fuenteId": "expansion",
-        "fuenteTitle": "Expansión",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Los dividendos de septiembre más suculentos para el inversor",
-        "url": "https://www.expansion.com/mercados/2026/09/10/6aa1d1bb468aeb15478b4581.html",
-        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2022/12/11/16707575754630.jpg",
-        "fecha": "2026-09-10T01:03:25.000Z",
-        "fuenteId": "expansion",
-        "fuenteTitle": "Expansión",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "BBVA busca 13.000 millones para financiar el crecimiento del crédito",
-        "url": "https://www.expansion.com/empresas/banca/2026/09/10/6a9fe8b9e5fdea2c338b4580.html",
-        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/09/08/17888646473681.jpg",
-        "fecha": "2026-09-10T00:42:32.000Z",
-        "fuenteId": "expansion",
-        "fuenteTitle": "Expansión",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Ayuso: primera 'Tarifa Cero' para autónomos de Madrid que se acojan a la jubilación activa",
-        "url": "https://www.expansion.com/economia/2026/09/10/6aa1a04de5fdea9e5d8b4576.html",
-        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/09/09/17889771667113.jpg",
-        "fecha": "2026-09-10T00:42:31.000Z",
-        "fuenteId": "expansion",
-        "fuenteTitle": "Expansión",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Iberdrola se lanza a por 13.000 millones de Google en Finlandia",
-        "url": "https://www.expansion.com/empresas/energia/2026/09/10/6aa1c4e6e5fdea59598b4574.html",
-        "imagen": "http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&cg=rss-expansion&ci=es-widgetueditorial&si=https://www.expansion.com/rss/portada.xml",
-        "fecha": "2026-09-10T00:42:30.000Z",
-        "fuenteId": "expansion",
-        "fuenteTitle": "Expansión",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Vertex en la conferencia sanitaria de Wells Fargo: el pipeline renal, protagonista",
-        "url": "https://es.investing.com/news/transcripts/vertex-en-la-conferencia-sanitaria-de-wells-fargo-el-pipeline-renal-protagonista-93CH-3828723",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3T1K3_1200_L.jpg",
-        "fecha": "2026-09-10T00:40:04.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Chime en la Conferencia Communacopia + Tecnología 2026 de Goldman Sachs",
-        "url": "https://es.investing.com/news/transcripts/chime-en-la-conferencia-communacopia--tecnologia-2026-de-goldman-sachs-93CH-3828722",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM431A2_1200_L.jpg",
-        "fecha": "2026-09-10T00:37:41.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "HeartFlow en la conferencia de Wells Fargo: el análisis de placa impulsa el crecimiento",
-        "url": "https://es.investing.com/news/transcripts/heartflow-en-la-conferencia-de-wells-fargo-el-analisis-de-placa-impulsa-el-crecimiento-93CH-3828719",
-        "imagen": "",
-        "fecha": "2026-09-10T00:33:25.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El cónyuge del EVP y CTO de Dynatrace vende acciones por 5.138 dólares",
-        "url": "https://es.investing.com/news/insider-trading-news/el-conyuge-del-evp-y-cto-de-dynatrace-vende-acciones-por-5138-dolares-93CH-3828718",
-        "imagen": "",
-        "fecha": "2026-09-10T00:32:41.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Nvidia se asocia para ampliar su capacidad en centros de datos en Australia",
-        "url": "https://es.investing.com/news/stock-market-news/nvidia-se-asocia-para-ampliar-su-capacidad-en-centros-de-datos-en-australia-3828720",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM4Q092_L.jpg",
-        "fecha": "2026-09-10T00:32:38.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
       }
     ],
     "entretenimiento": [
+      {
+        "titulo": "Spyro: A Realm Beyond muestra nuevas imágenes por el Spyro Community Day",
+        "url": "https://www.nintenderos.com/nintendo-switch-2/spyro-a-realm-beyond-muestra-nuevas-imagenes-por-el-spyro-community-day/",
+        "imagen": "https://i.imgur.com/yh20c8c.jpeg",
+        "fecha": "2026-09-10T01:45:56.000Z",
+        "fuenteId": "nintenderos",
+        "fuenteTitle": "Nintenderos",
+        "categorias": [
+          "tecnologia",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Tomb Raider: Legacy of Atlantis apunta a ser la puerta de entrada perfecta a la nueva era de la saga",
         "url": "https://www.nintenderos.com/nintendo-switch-2/tomb-raider-legacy-of-atlantis-apunta-a-ser-la-puerta-de-entrada-perfecta-a-la-nueva-era-de-la-saga/",
@@ -1754,18 +1767,6 @@
         "url": "https://eltelevisero.huffingtonpost.es/2026/09/quienes-son-sergio-y-paola-pareja-de-la-isla-de-las-tentaciones-11-con-un-secreto-controvertido-detras/",
         "imagen": "",
         "fecha": "2026-09-09T21:10:53.000Z",
-        "fuenteId": "el-televisero",
-        "fuenteTitle": "El Televisero",
-        "categorias": [
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "¿Quiénes son Gema y Rubén, pareja de 'La Isla de las Tentaciones 11' con un pasado muy tormentoso?",
-        "url": "https://eltelevisero.huffingtonpost.es/2026/09/quienes-son-gema-y-ruben-pareja-de-la-isla-de-las-tentaciones-11-con-un-pasado-muy-tormentoso/",
-        "imagen": "",
-        "fecha": "2026-09-09T21:09:38.000Z",
         "fuenteId": "el-televisero",
         "fuenteTitle": "El Televisero",
         "categorias": [
@@ -2324,6 +2325,19 @@
         "idioma": "es"
       },
       {
+        "titulo": "Colombia: De la Espriella firma decreto que pone fin a suspensión general al porte de armas",
+        "url": "https://www.france24.com/es/video/20260910-colombia-de-la-espriella-firma-decreto-que-pone-fin-a-suspensi%C3%B3n-general-al-porte-de-armas",
+        "imagen": "https://s.france24.com/media/display/29d90a3c-ac6c-11f1-a1eb-005056bf30b7/w:1024/p:16x9/ES-20260909-074152-074341-CS.jpg",
+        "fecha": "2026-09-10T00:14:40.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "¿Ajustes o censura?: qué pasa con las Emisoras de Paz en Colombia con la llegada de De la Espriella",
         "url": "https://www.france24.com/es/am%C3%A9rica-latina/20260909-ajustes-o-censura-qu%C3%A9-pasa-con-las-emisoras-de-paz-en-colombia-con-la-llegada-de-de-la-espriella",
         "imagen": "https://s.france24.com/media/display/39c929f2-6b41-11f1-97ba-005056a97e36/w:1024/p:16x9/WEB-PORTADA-ARTICULO-17JUN.png",
@@ -2542,19 +2556,6 @@
           "politica"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "Trump intenta remontar el vuelo republicano en las elecciones de medio mandato",
-        "url": "https://www.abc.es/internacional/trump-preside-convencion-republicana-acudira-homenaje-11s-20260909212045-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/09/dallas-RHRSKsnfJ4UHVUHkIfsePDP-1200x840@diario_abc.JPG",
-        "fecha": "2026-09-09T19:20:45.000Z",
-        "fuenteId": "abc-internacional",
-        "fuenteTitle": "ABC - Internacional",
-        "categorias": [
-          "internacional",
-          "actualidad"
-        ],
-        "idioma": "es"
       }
     ],
     "local": [
@@ -2563,6 +2564,18 @@
         "url": "https://www.elperiodicoextremadura.com/extremadura/2026/09/10/consulta-portada-papel-periodico-extremadura-134126460.html",
         "imagen": "https://estaticos-cdn.prensaiberica.es/clip/9646ba64-92e5-4ce0-a110-e27f54f4e4e5_16-9-aspect-ratio_default_0_x786y1263.jpg",
         "fecha": "2026-09-10T04:45:00.000Z",
+        "fuenteId": "el-periodico-extremadura",
+        "fuenteTitle": "El Periódico Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "De jubilado, youtuber: el profesor asturiano que enseña filosofía en redes sociales con “un lenguaje adaptado a lo que hoy en día consumen”",
+        "url": "https://www.elperiodicoextremadura.com/sociedad/2026/09/10/jubilado-youtuber-profesor-asturiano-ensena-134127954.html",
+        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/8b3d80c3-cc47-4e0e-990b-9e5873c6ff1e_16-9-aspect-ratio_default_0_x959y240.jpg",
+        "fecha": "2026-09-10T02:00:39.000Z",
         "fuenteId": "el-periodico-extremadura",
         "fuenteTitle": "El Periódico Extremadura",
         "categorias": [
@@ -2785,21 +2798,21 @@
           "local"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "La desclasificación de los papeles de Ceuta acentúa el choque interno en el Gobierno por los avisos del CNI",
-        "url": "https://www.elperiodicoextremadura.com/espana/2026/09/09/desclasificacion-papeles-ceuta-acentua-choque-interno-gobierno-preguntas-sin-contestar-134125254.html",
-        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/815d0d7f-a0b9-4436-b6bc-2602bfb21fbb_16-9-aspect-ratio_default_0_x513y227.jpg",
-        "fecha": "2026-09-09T19:49:42.000Z",
-        "fuenteId": "el-periodico-extremadura",
-        "fuenteTitle": "El Periódico Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
       }
     ],
     "medio-ambiente": [
+      {
+        "titulo": "Agosto de 2026 fue el mes más caluroso registrado jamás, con 16,96 grados",
+        "url": "https://efeverde.com/agosto-2026-mes-mas-caluroso-registrado-jamas/",
+        "imagen": "",
+        "fecha": "2026-09-10T02:01:01.000Z",
+        "fuenteId": "efe-verde",
+        "fuenteTitle": "EFE Verde",
+        "categorias": [
+          "medio-ambiente"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Las ciudades europeas, cada vez más expuestas a los riesgos climáticos pese a las medidas de adaptación",
         "url": "https://efeverde.com/ciudades-europeas-expuestas-riesgos-climaticos-adaptacion/",
@@ -3038,21 +3051,21 @@
           "tecnologia"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "Brasil crea cuatro áreas naturales cerca de una polémica carretera en la Amazonía",
-        "url": "https://efeverde.com/brasil-crea-cuatro-areas-naturales-cerca-de-una-polemica-carretera-en-la-amazonia/",
-        "imagen": "",
-        "fecha": "2026-09-09T07:54:15.000Z",
-        "fuenteId": "efe-verde",
-        "fuenteTitle": "EFE Verde",
-        "categorias": [
-          "medio-ambiente"
-        ],
-        "idioma": "es"
       }
     ],
     "moda": [
+      {
+        "titulo": "COACH",
+        "url": "https://www.harpersbazaar.com/es/pasarelas/primavera-verano-2027/g73660114/coach-i-p5inp/",
+        "imagen": "https://hips.hearstapps.com/hmg-catwalk/catwalk/coach/0e22e664-b1bf-4162-bee5-9d67c7f8e7aa.jpg",
+        "fecha": "2026-09-10T01:45:10.000Z",
+        "fuenteId": "harpers-bazaar-espana",
+        "fuenteTitle": "Harper's Bazaar España",
+        "categorias": [
+          "moda"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "RALPH LAUREN - Detalles",
         "url": "https://www.elle.com/es/pasarelas/primavera-verano-2027/g73659607/ralph-lauren-8dnifi-l-detalles/",
@@ -3287,18 +3300,6 @@
           "corazon"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "Cinco zapatillas Skechers color pastel que se calzan sin agacharse para elevar los looks cómodos de otoño",
-        "url": "https://www.trendencias.com/shopping/cinco-zapatillas-skechers-color-pastel-que-se-calzan-agacharse-para-elevar-looks-comodos-otono",
-        "imagen": "https://i.blogs.es/cff157/saveclip.app_759017104_18608949097007546_25509776317692060_n/1024_2000.jpeg",
-        "fecha": "2026-09-09T19:01:00.000Z",
-        "fuenteId": "trendencias",
-        "fuenteTitle": "Trendencias",
-        "categorias": [
-          "moda"
-        ],
-        "idioma": "es"
       }
     ],
     "politica": [
@@ -3335,6 +3336,19 @@
         "fecha": "2026-09-10T00:15:38.000Z",
         "fuenteId": "el-pais-internacional",
         "fuenteTitle": "El País - Internacional",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Colombia: De la Espriella firma decreto que pone fin a suspensión general al porte de armas",
+        "url": "https://www.france24.com/es/video/20260910-colombia-de-la-espriella-firma-decreto-que-pone-fin-a-suspensi%C3%B3n-general-al-porte-de-armas",
+        "imagen": "https://s.france24.com/media/display/29d90a3c-ac6c-11f1-a1eb-005056bf30b7/w:1024/p:16x9/ES-20260909-074152-074341-CS.jpg",
+        "fecha": "2026-09-10T00:14:40.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
         "categorias": [
           "internacional",
           "politica"
@@ -3546,19 +3560,6 @@
         "categorias": [
           "politica",
           "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Trump: “La guerra terminará inmediatamente después de las elecciones\"",
-        "url": "https://www.dw.com/es/trump-la-guerra-terminará-inmediatamente-después-de-las-elecciones/a-79208039?maca=spa-rss-sp-all-1122-xml-mrss",
-        "imagen": "",
-        "fecha": "2026-09-09T21:45:00.000Z",
-        "fuenteId": "dw-espanol",
-        "fuenteTitle": "DW Español",
-        "categorias": [
-          "internacional",
-          "politica"
         ],
         "idioma": "es"
       }
@@ -4094,6 +4095,19 @@
     ],
     "tecnologia": [
       {
+        "titulo": "Spyro: A Realm Beyond muestra nuevas imágenes por el Spyro Community Day",
+        "url": "https://www.nintenderos.com/nintendo-switch-2/spyro-a-realm-beyond-muestra-nuevas-imagenes-por-el-spyro-community-day/",
+        "imagen": "https://i.imgur.com/yh20c8c.jpeg",
+        "fecha": "2026-09-10T01:45:56.000Z",
+        "fuenteId": "nintenderos",
+        "fuenteTitle": "Nintenderos",
+        "categorias": [
+          "tecnologia",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Tomb Raider: Legacy of Atlantis apunta a ser la puerta de entrada perfecta a la nueva era de la saga",
         "url": "https://www.nintenderos.com/nintendo-switch-2/tomb-raider-legacy-of-atlantis-apunta-a-ser-la-puerta-de-entrada-perfecta-a-la-nueva-era-de-la-saga/",
         "imagen": "https://i.imgur.com/8tcIAbI.jpeg",
@@ -4337,20 +4351,6 @@
         "fuenteTitle": "Andro4all",
         "categorias": [
           "tecnologia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El Liverpool apaga el efecto Julián Alvarez",
-        "url": "https://elpais.com/deportes/futbol/2026-09-09/el-liverpool-apaga-el-efecto-julian-alvarez.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/QT4F53CEQJE6LDQ5YWQ7ZJF56A.jpg?auth=68f0936b780156274129a887ec66bd2d9b847ec73d0659495b12f3674ed40f67",
-        "fecha": "2026-09-09T21:13:27.000Z",
-        "fuenteId": "el-pais",
-        "fuenteTitle": "El País",
-        "categorias": [
-          "actualidad",
-          "tecnologia",
-          "ciencia"
         ],
         "idioma": "es"
       }
