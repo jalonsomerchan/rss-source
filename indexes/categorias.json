@@ -1,18 +1,391 @@
 {
-  "generado": "2026-09-12T04:18:44.616Z",
+  "generado": "2026-09-12T04:26:16.733Z",
   "limitePorCategoria": 20,
   "categorias": {
     "actualidad": [
       {
-        "titulo": "Mujeres en la conquista de América (I): Inés de Suárez y la toma de Chile",
-        "url": "https://theobjective.com/podcasts/ilustres-olvidados/ines-de-suarez-conquista-chile/",
-        "imagen": "https://theobjective.com/wp-content/uploads/2024/12/356x356-ILUSTRES-OLVIDADOS.jpg",
-        "fecha": "2026-09-12T03:30:40.000Z",
-        "fuenteId": "the-objective",
-        "fuenteTitle": "The Objective",
+        "titulo": "Lo inventaron los alemanes, lo perfeccionaron los japoneses, y ahora el motor más querido y polémico de la historia podría regresar con turbo",
+        "url": "https://www.diariomotor.com/noticia/patente-motor-rotativo-turbo-mazda/",
+        "imagen": "https://www.diariomotor.com/imagenes/2024/01/motor-rotativo-mazda-mx-30-r-ev-2023-01.jpg?class=XL",
+        "fecha": "2026-09-12T06:00:41.000Z",
+        "fuenteId": "diariomotor",
+        "fuenteTitle": "Diariomotor",
+        "categorias": [
+          "tecnologia",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "¿Quién puede expulsar a un niño?",
+        "url": "https://www.infolibre.es/opinion/columnas/nada-que-decir/expulsar-nino_129_2236160.html",
+        "imagen": "https://static.infolibre.es/clip/68476658-0876-431f-b8be-0b3051f76cf3_16-9-discover-aspect-ratio_default_0.jpg",
+        "fecha": "2026-09-12T04:00:44.000Z",
+        "fuenteId": "infolibre",
+        "fuenteTitle": "InfoLibre",
         "categorias": [
           "actualidad",
           "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Re-regulación",
+        "url": "https://www.infolibre.es/opinion/plaza-publica/re-regulacion_129_2235936.html",
+        "imagen": "https://static.infolibre.es/clip/4b785310-101b-493b-8819-93069c4ef1b8_16-9-discover-aspect-ratio_default_0.jpg",
+        "fecha": "2026-09-12T04:00:44.000Z",
+        "fuenteId": "infolibre",
+        "fuenteTitle": "InfoLibre",
+        "categorias": [
+          "actualidad",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Ceuta, sin orden mundial",
+        "url": "https://www.infolibre.es/opinion/plaza-publica/ceuta-orden-mundial_129_2235956.html",
+        "imagen": "https://static.infolibre.es/clip/9aeeed02-987c-4d87-aa2f-05a4c79c2805_16-9-discover-aspect-ratio_default_0.jpg",
+        "fecha": "2026-09-12T04:00:44.000Z",
+        "fuenteId": "infolibre",
+        "fuenteTitle": "InfoLibre",
+        "categorias": [
+          "actualidad",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "¡Es la política, estúpido!",
+        "url": "https://www.infolibre.es/club-infolibre/librepensadores/politica-estupido_129_2236020.html",
+        "imagen": "https://static.infolibre.es/clip/c49f9b1d-f56a-4168-992a-11cc5d4f35b7_16-9-discover-aspect-ratio_default_0.jpg",
+        "fecha": "2026-09-12T04:00:44.000Z",
+        "fuenteId": "infolibre",
+        "fuenteTitle": "InfoLibre",
+        "categorias": [
+          "actualidad",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Víctimas de Angrois respaldan por mayoría el indulto al maquinista",
+        "url": "https://www.infolibre.es/politica/victimas-angrois-respaldan-mayoria-indulto-maquinista_1_2236171.html",
+        "imagen": "https://static.infolibre.es/clip/2792431d-74f1-49c2-9bf1-000fabecfe0e_16-9-aspect-ratio_default_0.jpg",
+        "fecha": "2026-09-12T04:00:43.000Z",
+        "fuenteId": "infolibre",
+        "fuenteTitle": "InfoLibre",
+        "categorias": [
+          "actualidad",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Una guerra por dos alijos de cocaína entre España y Países Bajos deja un muerto y amenazas entre cárteles",
+        "url": "https://www.infolibre.es/narcotrafico/guerra-alijos-cocaina-espana-paises-bajos-deja-muerto-amenazas-cartel_1_2236164.html",
+        "imagen": "https://static.infolibre.es/clip/1da40559-e8e8-4aa3-ac3e-f9ee9ee1aa45_16-9-aspect-ratio_default_0.jpg",
+        "fecha": "2026-09-12T04:00:43.000Z",
+        "fuenteId": "infolibre",
+        "fuenteTitle": "InfoLibre",
+        "categorias": [
+          "actualidad",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Qué aclara y qué no la desclasificación de informes sobre la crisis de Ceuta",
+        "url": "https://www.infolibre.es/politica/aclara-no-desclasificacion-informes-crisis-ceuta_1_2236216.html",
+        "imagen": "https://static.infolibre.es/clip/5d412d54-204d-4a70-866b-e16e30d3462b_16-9-aspect-ratio_default_0.jpg",
+        "fecha": "2026-09-12T04:00:42.000Z",
+        "fuenteId": "infolibre",
+        "fuenteTitle": "InfoLibre",
+        "categorias": [
+          "actualidad",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Ruido, cortes y un muro frente a casa: la F1 contradice las promesas de Ifema a los vecinos",
+        "url": "https://www.infolibre.es/medioambiente/ruido-cortes-muro-frente-casa-f1-contradice-promesas-ifema-vecinos_1_2236212.html",
+        "imagen": "https://static.infolibre.es/clip/f42d6124-bbf8-4488-af28-a4b0c929f76b_16-9-aspect-ratio_default_0.jpg",
+        "fecha": "2026-09-12T04:00:42.000Z",
+        "fuenteId": "infolibre",
+        "fuenteTitle": "InfoLibre",
+        "categorias": [
+          "actualidad",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El monje benedictino que desafió hace 300 años la supuesta inferioridad de las mujeres",
+        "url": "https://www.infolibre.es/politica/monje-benedictino-desafio-300-anos-supuesta-inferioridad-mujeres_1_2235963.html",
+        "imagen": "https://static.infolibre.es/clip/18fff042-4bd9-46cc-b951-6832b658f0c1_16-9-aspect-ratio_default_0.jpg",
+        "fecha": "2026-09-12T04:00:42.000Z",
+        "fuenteId": "infolibre",
+        "fuenteTitle": "InfoLibre",
+        "categorias": [
+          "actualidad",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Llegó de Irán con 14 años y ahora puede ser expulsado: el rostro del endurecimiento migratorio en Suecia",
+        "url": "https://www.infolibre.es/mediapart/llego-iran-14-anos-ahora-expulsado-rostro-endurecimiento-migratorio-suecia_1_2236183.html",
+        "imagen": "https://static.infolibre.es/clip/1d1e126a-5381-49a4-8d83-a201b1297e11_16-9-aspect-ratio_default_0.jpg",
+        "fecha": "2026-09-12T04:00:42.000Z",
+        "fuenteId": "infolibre",
+        "fuenteTitle": "InfoLibre",
+        "categorias": [
+          "actualidad",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Mantiene el frío 8h y el café caliente 6h: el termo portátil que sustituye a los vasos de plástico",
+        "url": "https://www.20minutos.es/ofertas-descuentos/mantiene-frio-8h-cafe-caliente-6h-termo-portatil-que-sustituye-los-vasos-plastico_7034906_0.html",
+        "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/10/6aa1dc81d89560-87787720.png",
+        "fecha": "2026-09-12T04:00:00.000Z",
+        "fuenteId": "20minutos",
+        "fuenteTitle": "20minutos",
+        "categorias": [
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Silvia Orriols escenifica en la última Diada sin Puigdemont la consolidación de la extrema derecha como referente 'indepe'",
+        "url": "https://www.elespanol.com/espana/20260912/silvia-orriols-escenifica-ultima-diada-sin-puigdemont-consolidacion-extrema-derecha-referente-indepe/1003744381185_0.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11352425.jpg?p=w:1706/h:960&h=0QYifKsz",
+        "fecha": "2026-09-12T04:00:00.000Z",
+        "fuenteId": "el-espanol-espana",
+        "fuenteTitle": "El Español - España",
+        "categorias": [
+          "politica",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "La última novela de Gonzalo Sanz, el hijo de militar aficionado al espionaje que ejercía de interlocutor del CNI",
+        "url": "https://www.elespanol.com/espana/20260912/ultima-novela-gonzalo-sanz-hijo-militar-aficionado-espionaje-ejercia-interlocutor-cni/1003744381027_0.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11352467.jpg?p=w:1706/h:960&h=7yOjCgf_",
+        "fecha": "2026-09-12T04:00:00.000Z",
+        "fuenteId": "el-espanol-espana",
+        "fuenteTitle": "El Español - España",
+        "categorias": [
+          "politica",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El ponente del TC defiende la decisión del Supremo de no amnistiar a Puigdemont: \"Su interpretación no es caprichosa\"",
+        "url": "https://www.elespanol.com/espana/tribunales/20260912/ponente-tc-defiende-decision-supremo-no-amnistiar-puigdemont-interpretacion-caprichosa/1003744380638_0.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11033253.jpg?p=w:1706/h:960&h=GgYdZXFB",
+        "fecha": "2026-09-12T04:00:00.000Z",
+        "fuenteId": "el-espanol-espana",
+        "fuenteTitle": "El Español - España",
+        "categorias": [
+          "politica",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Moncloa presenta la dimisión del jefe de Gabinete que era el contacto del CNI en Ceuta como una desavenencia personal",
+        "url": "https://www.elespanol.com/espana/politica/20260912/moncloa-presenta-dimision-jefe-gabinete-contacto-cni-ceuta-desavenencia-personal/1003744380535_0.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11352471.jpg?p=w:1706/h:960&h=qbozALba",
+        "fecha": "2026-09-12T04:00:00.000Z",
+        "fuenteId": "el-espanol-espana",
+        "fuenteTitle": "El Español - España",
+        "categorias": [
+          "politica",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Fiscalía vuelve a alertar del caos con las pulseras antimaltrato: hay \"desigualdad territorial\" y \"carencias\" en su uso",
+        "url": "https://www.elespanol.com/espana/tribunales/20260912/fiscalia-vuelve-alertar-caos-pulseras-antimaltrato-desigualdad-territorial-carencias-uso/1003744378078_0.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11066522.jpg?p=w:1706/h:960&h=sbIN-SUT",
+        "fecha": "2026-09-12T04:00:00.000Z",
+        "fuenteId": "el-espanol-espana",
+        "fuenteTitle": "El Español - España",
+        "categorias": [
+          "politica",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Por qué España registró sus peores resultados educativos en la historia del informe PISA (y las causas de que hayan caído en todo el mundo)",
+        "url": "https://www.bbc.com/mundo/articles/cz6z0407lnlo?at_medium=RSS&at_campaign=rss",
+        "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cc79/live/f9380c00-ae07-11f1-b561-83a33482e04f.jpg",
+        "fecha": "2026-09-12T03:58:57.000Z",
+        "fuenteId": "bbc-mundo",
+        "fuenteTitle": "BBC News Mundo",
+        "categorias": [
+          "internacional",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "¿Quién está detrás de los artistas hechos con IA?: “Al quitar el obstáculo del ser humano podemos ser más arriesgados”",
+        "url": "https://elpais.com/podcasts/hoy-en-el-pais/2026-09-12/quien-esta-detras-de-los-artistas-hechos-con-ia-al-quitar-el-obstaculo-del-ser-humano-podemos-ser-mas-arriesgados.html",
+        "imagen": "https://imagenes.elpais.com/resizer/v2/S5HYTTT4YNAMXL5UT6ADXZVNLQ.jpg?auth=23928295fddcff05ebd188dfb8d2111c7c16d9120b2bd243830ec6a3d280a2d3",
+        "fecha": "2026-09-12T03:45:01.000Z",
+        "fuenteId": "el-pais",
+        "fuenteTitle": "El País",
+        "categorias": [
+          "actualidad",
+          "tecnologia",
+          "ciencia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Cortes de tráfico en algunas de las zonas más céntricas de Madrid durante hoy, sábado 12 de septiembre: las calles afectadas",
+        "url": "https://www.elconfidencial.com/espana/madrid/2026-09-12/cortes-trafico-madrid-zonas-afectadas-1qrt-1tna_4422115/",
+        "imagen": "https://images.ecestaticos.com/bcdB_0Pzz34tg8UUlMsw_ikHPII=/0x237:2272x1515/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fbc1%2F6c2%2Fdbd%2Fbc16c2dbd06673630e5a66ca58827bf0.jpg",
+        "fecha": "2026-09-12T03:45:00.000Z",
+        "fuenteId": "el-confidencial-espana",
+        "fuenteTitle": "El Confidencial - España",
+        "categorias": [
+          "politica",
+          "actualidad"
+        ],
+        "idioma": "es"
+      }
+    ],
+    "ciencia": [
+      {
+        "titulo": "Los meteorólogos coinciden: España debe prepararse para un aumento de 1,5 ºC de calentamiento global en 10 años",
+        "url": "https://www.elespanol.com/ciencia/20260912/meteorologos-coinciden-espana-debe-prepararse-aumento-calentamiento-global-anos/1003744375592_0.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11344208.jpg?p=w:1706/h:960&h=AJ8J4_NF",
+        "fecha": "2026-09-12T04:00:00.000Z",
+        "fuenteId": "el-espanol-ciencia",
+        "fuenteTitle": "El Español - Ciencia",
+        "categorias": [
+          "ciencia",
+          "salud"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Expertos en longevidad recomiendan: \"Caminar no es suficiente para mejorar la salud, entrena siempre fuerza\"",
+        "url": "https://www.elespanol.com/ciencia/salud/20260912/expertos-longevidad-recomiendan-caminar-no-suficiente-mejorar-salud-entrena-siempre-fuerza/1003744372674_0.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11200609.jpg?p=c:1083:610:nowe:0:191/w:1706/h:960&h=Z-qWowTe",
+        "fecha": "2026-09-12T04:00:00.000Z",
+        "fuenteId": "el-espanol-ciencia",
+        "fuenteTitle": "El Español - Ciencia",
+        "categorias": [
+          "ciencia",
+          "salud"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "¿Quién está detrás de los artistas hechos con IA?: “Al quitar el obstáculo del ser humano podemos ser más arriesgados”",
+        "url": "https://elpais.com/podcasts/hoy-en-el-pais/2026-09-12/quien-esta-detras-de-los-artistas-hechos-con-ia-al-quitar-el-obstaculo-del-ser-humano-podemos-ser-mas-arriesgados.html",
+        "imagen": "https://imagenes.elpais.com/resizer/v2/S5HYTTT4YNAMXL5UT6ADXZVNLQ.jpg?auth=23928295fddcff05ebd188dfb8d2111c7c16d9120b2bd243830ec6a3d280a2d3",
+        "fecha": "2026-09-12T03:45:01.000Z",
+        "fuenteId": "el-pais",
+        "fuenteTitle": "El País",
+        "categorias": [
+          "actualidad",
+          "tecnologia",
+          "ciencia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Putin envía a sus tropas las reliquias del príncipe Donskói, mito de su guerra milenaria contra Occidente",
+        "url": "https://elpais.com/internacional/2026-09-12/putin-envia-a-sus-tropas-las-reliquias-del-principe-donskoi-mito-de-su-guerra-milenaria-contra-occidente.html",
+        "imagen": "https://imagenes.elpais.com/resizer/v2/HKEAKDNPNRP5VAFR5XPJFG7TQY.jpg?auth=050a3318e7a41d8860534e79f39f502a594cdf138a92fc98148a71e7fdb49360",
+        "fecha": "2026-09-12T03:40:00.000Z",
+        "fuenteId": "el-pais",
+        "fuenteTitle": "El País",
+        "categorias": [
+          "actualidad",
+          "tecnologia",
+          "ciencia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Entre tropas del Kremlin y aroma soviético en Transnistria, la entelequia pro rusa de Moldavia",
+        "url": "https://elpais.com/internacional/2026-09-12/entre-tropas-del-kremlin-y-aroma-sovietico-en-transnistria-la-entelequia-pro-rusa-de-moldavia.html",
+        "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260826/1207944_135220_video_1800.mp4",
+        "fecha": "2026-09-12T03:40:00.000Z",
+        "fuenteId": "el-pais",
+        "fuenteTitle": "El País",
+        "categorias": [
+          "actualidad",
+          "tecnologia",
+          "ciencia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "La película casera que ha conquistado la taquilla china",
+        "url": "https://elpais.com/internacional/historias-de-corresponsal/2026-09-12/la-pelicula-casera-que-ha-conquistado-la-taquilla-china.html",
+        "imagen": "https://imagenes.elpais.com/resizer/v2/D4LKZFIORVLMRNNJKDENRJ3DMU.jpg?auth=c609ad691058fa3008954c8e874fc1105e81e751e1f96cff49975e2fb4f0671b",
+        "fecha": "2026-09-12T03:40:00.000Z",
+        "fuenteId": "el-pais",
+        "fuenteTitle": "El País",
+        "categorias": [
+          "actualidad",
+          "tecnologia",
+          "ciencia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Raúl Incertis, médico español en Gaza: “Perdí la cuenta de los niños heridos que se quedaban sin familia en Gaza”",
+        "url": "https://elpais.com/internacional/2026-09-12/raul-incertis-medico-espanol-en-gaza-perdi-la-cuenta-de-los-ninos-heridos-que-se-quedaban-sin-familia-en-gaza.html",
+        "imagen": "https://imagenes.elpais.com/resizer/v2/2LBMOV5KDRFPBNPDMRX7UXOOIM.jpg?auth=c3c28cf3140270959eddaac285267ac0a9101a1ef7070dfce270480cf1895f65",
+        "fecha": "2026-09-12T03:40:00.000Z",
+        "fuenteId": "el-pais",
+        "fuenteTitle": "El País",
+        "categorias": [
+          "actualidad",
+          "tecnologia",
+          "ciencia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "¿Están las pantallas atontando a los niños? ¿Y a los adultos no?",
+        "url": "https://cincodias.elpais.com/opinion/2026-09-12/estan-las-pantallas-atontando-a-los-ninos-y-a-los-adultos-no.html",
+        "imagen": "https://imagenes.elpais.com/resizer/v2/XWZVLRJ2QFBYRLLRPTTHJBZERI.jpg?auth=860acf0b408bf9608e2447b5a14806dec6387d8e431dd7b206cf9398ec2edb6b",
+        "fecha": "2026-09-12T03:40:00.000Z",
+        "fuenteId": "el-pais",
+        "fuenteTitle": "El País",
+        "categorias": [
+          "actualidad",
+          "tecnologia",
+          "ciencia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "¿Quién manda en Al Qaeda? Por qué no hay otro Osama Bin Laden",
+        "url": "https://elpais.com/internacional/2026-09-12/quien-manda-en-al-qaeda-por-que-no-hay-otro-osama-bin-laden.html",
+        "imagen": "https://imagenes.elpais.com/resizer/v2/4RS46ISLT5KOXL4VXSROVGHAUU.jpg?auth=b0976cec3da5f8a07479a97157fe5f44002950eb1bea0f2791590ad0df32106a",
+        "fecha": "2026-09-12T03:39:00.000Z",
+        "fuenteId": "el-pais",
+        "fuenteTitle": "El País",
+        "categorias": [
+          "actualidad",
+          "tecnologia",
+          "ciencia"
         ],
         "idioma": "es"
       },
@@ -77,24 +450,12 @@
         "url": "https://elpais.com/espana/2026-09-12/la-guerra-abierta-en-la-delegacion-de-ceuta-por-los-avisos-del-salto-fronterizo-atrapa-al-gobierno-en-un-nuevo-cruce-de-versiones.html",
         "imagen": "https://imagenes.elpais.com/resizer/v2/C33U4NPQEBANTMD5XRVP65VVAY.jpg?auth=a096756a730c0536a46cfe2b952b500c700069c2339bde76802c4bb1fb6128f5",
         "fecha": "2026-09-12T03:30:01.000Z",
-        "fuenteId": "el-pais-espana",
-        "fuenteTitle": "El País - España",
+        "fuenteId": "el-pais",
+        "fuenteTitle": "El País",
         "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Fátima Hamed: “Ceuta merece una verdadera política de Estado”",
-        "url": "https://elpais.com/espana/2026-09-12/fatima-hamed-ceuta-merece-una-verdadera-politica-de-estado.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/MO7MEJ3RK5AGLIIFI22DYZEP3I.jpg?auth=c496f8e746a98f525d575f8404fb2d2ccf9103eb178e450b9f697c99bf356cd1",
-        "fecha": "2026-09-12T03:30:01.000Z",
-        "fuenteId": "el-pais-espana",
-        "fuenteTitle": "El País - España",
-        "categorias": [
-          "politica",
-          "actualidad"
+          "actualidad",
+          "tecnologia",
+          "ciencia"
         ],
         "idioma": "es"
       },
@@ -103,32 +464,6 @@
         "url": "https://elpais.com/espana/2026-09-12/de-indra-a-correos-y-la-ley-de-nietos-cuatro-anos-del-pp-y-vox-renovando-la-teoria-de-la-trampa-electoral.html",
         "imagen": "https://imagenes.elpais.com/resizer/v2/6YYTBHQBQJCVNJKZRXUTUFJD2U.jpg?auth=b88418a9efeb1b2720344fd7419f23fe0beae0340f5affb287360688c8d3c186",
         "fecha": "2026-09-12T03:30:01.000Z",
-        "fuenteId": "el-pais-espana",
-        "fuenteTitle": "El País - España",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Las derecha, Junts, empresarios y sindicatos rechazan la regulación de los lobbies del Gobierno",
-        "url": "https://elpais.com/espana/2026-09-12/las-derecha-junts-empresarios-y-sindicatos-rechazan-la-regulacion-de-los-lobbies-del-gobierno.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/2YPZM3WWRRANPHO3IFW7PA72VY.jpg?auth=6bb54387f93de2cf853f6597646ad216b395a7b21043760e2228a528a742b804",
-        "fecha": "2026-09-12T03:30:01.000Z",
-        "fuenteId": "el-pais-espana",
-        "fuenteTitle": "El País - España",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Germán Sánchez Ruipérez: el editor que supo leer el futuro",
-        "url": "https://elpais.com/educacion/2026-09-11/german-sanchez-ruiperez-el-editor-que-supo-leer-el-futuro.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/M6OCGSI7BTA5FYENGSU4QIWEVE.jpg?auth=d3fa486a058bad364d26ad75ba2f5a316aa527219de8613cb3e1fa2733561f10",
-        "fecha": "2026-09-12T03:30:00.000Z",
         "fuenteId": "el-pais",
         "fuenteTitle": "El País",
         "categorias": [
@@ -139,143 +474,9 @@
         "idioma": "es"
       },
       {
-        "titulo": "La épica vida de Schwarzenegger, un culturista convertido en mito: “Si hubiera nacido en EE UU sería presidente”",
-        "url": "https://elpais.com/icon/2026-09-10/schwarzenegger-el-camino-a-la-perfeccion-de-un-mito-si-hubiera-nacido-en-ee-uu-seria-presidente.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/3TEBI3FJNZHRVPLNC4V7LBXJPE.jpg?auth=93dee76f9a4c2d0b02d646aa757e0fe1764ab910dd9a1c67ab6bedf723e23ee0",
-        "fecha": "2026-09-12T03:30:00.000Z",
-        "fuenteId": "el-pais",
-        "fuenteTitle": "El País",
-        "categorias": [
-          "actualidad",
-          "tecnologia",
-          "ciencia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "¿Cómo dejan el pelo los champús sólidos? Comparamos cuatro y tenemos un claro favorito",
-        "url": "https://elpais.com/escaparate/comparativas/mejores-champus-solidos.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/DUROMPLMTRHTTKLB56RNSBYU6I.png?auth=24f602c3e26d4905c895f40582f48ab33c8b2ee41d65c67d7486558bf9946ba7",
-        "fecha": "2026-09-12T03:30:00.000Z",
-        "fuenteId": "el-pais",
-        "fuenteTitle": "El País",
-        "categorias": [
-          "actualidad",
-          "tecnologia",
-          "ciencia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La polémica trampa de la ley de nietos… en dos minutos",
-        "url": "https://theobjective.com/podcasts/en-dos-minutos/la-polemica-trampa-de-la-ley-de-nietos-en-dos-minutos/",
-        "imagen": "https://theobjective.com/wp-content/uploads/2026/07/bansssss01-copia-1200x675.jpg",
-        "fecha": "2026-09-12T03:25:59.000Z",
-        "fuenteId": "the-objective",
-        "fuenteTitle": "The Objective",
-        "categorias": [
-          "actualidad",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Maleducados",
-        "url": "https://theobjective.com/elsubjetivo/opinion/2026-09-12/maleducados-articulo-azua/",
-        "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/09/ilustracion-dos-principios-469x317.jpg",
-        "fecha": "2026-09-12T03:25:00.000Z",
-        "fuenteId": "the-objective",
-        "fuenteTitle": "The Objective",
-        "categorias": [
-          "actualidad",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Clancy y la banalidad del mal (feminismo)",
-        "url": "https://theobjective.com/elsubjetivo/opinion/2026-09-12/clancy-banalidad-mal-feminismo-articulo-de-lora/",
-        "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/09/ilustracion-congelas-banquillo-469x317.jpg",
-        "fecha": "2026-09-12T03:25:00.000Z",
-        "fuenteId": "the-objective",
-        "fuenteTitle": "The Objective",
-        "categorias": [
-          "actualidad",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Nadie al volante",
-        "url": "https://theobjective.com/elsubjetivo/opinion/2026-09-12/nadie-volante-articulo-dudda/",
-        "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/09/ilustracion-te-quiero-amigo-469x317.jpg",
-        "fecha": "2026-09-12T03:25:00.000Z",
-        "fuenteId": "the-objective",
-        "fuenteTitle": "The Objective",
-        "categorias": [
-          "actualidad",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "«Si yo no fuera pobre»",
-        "url": "https://theobjective.com/elsubjetivo/opinion/2026-09-12/si-no-fuera-pobre-articulo-varsavsky/",
-        "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2025/02/TRUMP_xi-jinping_0502-469x317.jpg",
-        "fecha": "2026-09-12T03:25:00.000Z",
-        "fuenteId": "the-objective",
-        "fuenteTitle": "The Objective",
-        "categorias": [
-          "actualidad",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La ingeniería del fraude sanchista",
-        "url": "https://theobjective.com/elsubjetivo/opinion/2026-09-12/ingenieria-fraude-sanchista-articulo-vilches/",
-        "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/09/ilustracion-inmigrantes-corrupcion-469x317.jpg",
-        "fecha": "2026-09-12T03:25:00.000Z",
-        "fuenteId": "the-objective",
-        "fuenteTitle": "The Objective",
-        "categorias": [
-          "actualidad",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El vasallo marroquí de Moncloa",
-        "url": "https://theobjective.com/elsubjetivo/opinion/2026-09-12/vasallo-marroqui-articulo-paulino-guerra/",
-        "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/08/ilustracion-sanchez-ceuta-odio-469x317.jpg",
-        "fecha": "2026-09-12T03:25:00.000Z",
-        "fuenteId": "the-objective",
-        "fuenteTitle": "The Objective",
-        "categorias": [
-          "actualidad",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Borja Yus, entrenador: «No es necesario pasar hambre ni matarte a cardio para adelgazar: hay 30 microhábitos que ayudan a perder grasa aunque parezcan insignificantes»",
-        "url": "https://theobjective.com/lifestyle/fitness/2026-09-12/borja-yus-entrenador-no-es-necesario-pasar-hambre-ni-matarte-a-cardio-para-adelgazar-hay-30-microhabitos-que-ayudan-a-perder-grasa-aunque-parezcan-insignificantes/",
-        "imagen": "https://www.youtube.com/embed/_GK-VCJglQk",
-        "fecha": "2026-09-12T03:25:00.000Z",
-        "fuenteId": "the-objective",
-        "fuenteTitle": "The Objective",
-        "categorias": [
-          "actualidad",
-          "politica"
-        ],
-        "idioma": "es"
-      }
-    ],
-    "ciencia": [
-      {
-        "titulo": "Madrid quiere 1.602 bancos para hacer frente a las quejas de los vecinos y los asientos ‘ilegales’",
-        "url": "https://elpais.com/espana/madrid/2026-09-12/madrid-quiere-1602-bancos-para-hacer-frente-a-las-quejas-de-los-vecinos-y-los-asientos-ilegales.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/XWJ4WDI7HZEIDMBPKILOAL7QDU.jpg?auth=84bbc004e959923edadcc1fb5768a16a708bb8a585b8b4991e4c83ee2c25839a",
+        "titulo": "Los riesgos de la IA según los que la han visto desde dentro: “El mundo no está preparado y nosotros no estamos preparados”",
+        "url": "https://elpais.com/tecnologia/2026-09-12/los-riesgos-de-la-ia-segun-los-que-la-han-visto-desde-dentro-el-mundo-no-esta-preparado-y-nosotros-no-estamos-preparados.html",
+        "imagen": "https://imagenes.elpais.com/resizer/v2/7NQM3NV4JJBSZCF2FB3GEN7AOU.jpg?auth=b900720aec5c0afeab6134432a8ae8bb07af5b9f5890d5ffac82a2918fbbaf57",
         "fecha": "2026-09-12T03:30:01.000Z",
         "fuenteId": "el-pais",
         "fuenteTitle": "El País",
@@ -287,9 +488,9 @@
         "idioma": "es"
       },
       {
-        "titulo": "Tremendita y Arcángel, dos caminos nuevos del flamenco se cruzan en Sevilla",
-        "url": "https://elpais.com/cultura/2026-09-12/tremendita-y-arcangel-dos-caminos-nuevos-del-flamenco-se-cruzan-en-sevilla.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/4W5NRNQW7FDJNFLYGLIWA7V3VM.jpg?auth=d33fb06ff91c206dbf846e8aac6b06afa302d5eeabc05d03bed6436016665198",
+        "titulo": "El cheque electoral de Trump enciende las alarmas con el mercado de deuda al rojo vivo",
+        "url": "https://elpais.com/economia/2026-09-12/el-bono-electoral-de-trump-enciende-las-alarmas-con-el-mercado-de-deuda-al-rojo-vivo.html",
+        "imagen": "https://imagenes.elpais.com/resizer/v2/6RAWWXONZNIXFNGYEJTSNHGP3U.jpg?auth=df23a1014c6991f01be775895615a1ecf17a220f9602bf05965c27e6ce52d089",
         "fecha": "2026-09-12T03:30:01.000Z",
         "fuenteId": "el-pais",
         "fuenteTitle": "El País",
@@ -301,9 +502,9 @@
         "idioma": "es"
       },
       {
-        "titulo": "El último presidente de la Segunda República",
-        "url": "https://elpais.com/cultura/2026-09-12/el-ultimo-presidente-de-la-segunda-republica.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/7Q5VDYMQE5FP7H6VYWGFZI7S5Q.jpg?auth=b325dd1e202764a5b7223c42282266bed0f8c3e424d70c381cdfc3ca8cc8ed01",
+        "titulo": "Zoe Bonafonte: “Hay que disfrutar cada proyecto como si fuera el último y gestionar bien el dinero, por favor”",
+        "url": "https://elpais.com/smoda/famosos/2026-09-12/zoe-bonafonte-hay-que-disfrutar-cada-proyecto-como-si-fuera-el-ultimo-y-gestionar-bien-el-dinero-por-favor.html",
+        "imagen": "https://imagenes.elpais.com/resizer/v2/O7GDTF7WSZHRPDUGZDIC4PWHIU.jpg?auth=ffe3dee6ec18202a7b7197fe6df567b7582d5801e929130f1b075403fe0d751f",
         "fecha": "2026-09-12T03:30:01.000Z",
         "fuenteId": "el-pais",
         "fuenteTitle": "El País",
@@ -315,9 +516,9 @@
         "idioma": "es"
       },
       {
-        "titulo": "La obscenidad sin límites del rey del mundo",
-        "url": "https://elpais.com/television/2026-09-12/la-obscenidad-sin-limites-del-rey-del-mundo.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/TFLTDJQNLZPKJGE6MHZ3K5S4JU.jpg?auth=02c1a4cd1cd086b21f1153e56fd1f204e9f83a835e6a6fd3795f0723099314b0",
+        "titulo": "Kent Nagano, director de la Orquesta Nacional de España: “Rosalía va más allá del pop, sería un sueño colaborar con ella”",
+        "url": "https://elpais.com/eps/2026-09-12/kent-nagano-rosalia-va-mas-alla-del-pop-seria-un-sueno-colaborar-con-ella.html",
+        "imagen": "https://imagenes.elpais.com/resizer/v2/MP3QWBZDH5D6RAC4ZIIFJHOEBU.jpg?auth=883eb426a114a5996f5eaeb000e698dad2b7e791c97a3593b7157ac54eb8cf5f",
         "fecha": "2026-09-12T03:30:01.000Z",
         "fuenteId": "el-pais",
         "fuenteTitle": "El País",
@@ -329,218 +530,10 @@
         "idioma": "es"
       },
       {
-        "titulo": "Germán Sánchez Ruipérez: el editor que supo leer el futuro",
-        "url": "https://elpais.com/educacion/2026-09-11/german-sanchez-ruiperez-el-editor-que-supo-leer-el-futuro.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/M6OCGSI7BTA5FYENGSU4QIWEVE.jpg?auth=d3fa486a058bad364d26ad75ba2f5a316aa527219de8613cb3e1fa2733561f10",
-        "fecha": "2026-09-12T03:30:00.000Z",
-        "fuenteId": "el-pais",
-        "fuenteTitle": "El País",
-        "categorias": [
-          "actualidad",
-          "tecnologia",
-          "ciencia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La épica vida de Schwarzenegger, un culturista convertido en mito: “Si hubiera nacido en EE UU sería presidente”",
-        "url": "https://elpais.com/icon/2026-09-10/schwarzenegger-el-camino-a-la-perfeccion-de-un-mito-si-hubiera-nacido-en-ee-uu-seria-presidente.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/3TEBI3FJNZHRVPLNC4V7LBXJPE.jpg?auth=93dee76f9a4c2d0b02d646aa757e0fe1764ab910dd9a1c67ab6bedf723e23ee0",
-        "fecha": "2026-09-12T03:30:00.000Z",
-        "fuenteId": "el-pais",
-        "fuenteTitle": "El País",
-        "categorias": [
-          "actualidad",
-          "tecnologia",
-          "ciencia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "¿Cómo dejan el pelo los champús sólidos? Comparamos cuatro y tenemos un claro favorito",
-        "url": "https://elpais.com/escaparate/comparativas/mejores-champus-solidos.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/DUROMPLMTRHTTKLB56RNSBYU6I.png?auth=24f602c3e26d4905c895f40582f48ab33c8b2ee41d65c67d7486558bf9946ba7",
-        "fecha": "2026-09-12T03:30:00.000Z",
-        "fuenteId": "el-pais",
-        "fuenteTitle": "El País",
-        "categorias": [
-          "actualidad",
-          "tecnologia",
-          "ciencia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El catalanismo busca en la Diada un revulsivo contra la ola reaccionaria",
-        "url": "https://elpais.com/espana/catalunya/2026-09-12/el-catalanismo-busca-en-la-diada-un-revulsivo-contra-la-ola-reaccionaria.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/KPLVEH7KWNDPLMPUSJWKX53D2U.jpg?auth=84bde54beb817fe33a6202708f578ce3d6a1ea9e629e79d102f2cde1a4aa3700",
-        "fecha": "2026-09-12T03:15:00.000Z",
-        "fuenteId": "el-pais",
-        "fuenteTitle": "El País",
-        "categorias": [
-          "actualidad",
-          "tecnologia",
-          "ciencia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La Diada y los profesionales del desastre",
-        "url": "https://elpais.com/espana/catalunya/2026-09-12/la-diada-y-los-profesionales-del-desastre.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/WL6I6WKHQJAGPFC72QMZ7ELFWE.jpg?auth=f4bdc700bc17469630f2e1ac84063a31ff21918016bca0967b248d30cedb481e",
-        "fecha": "2026-09-12T03:15:00.000Z",
-        "fuenteId": "el-pais",
-        "fuenteTitle": "El País",
-        "categorias": [
-          "actualidad",
-          "tecnologia",
-          "ciencia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Hoy No Circula sabatino: qué autos pueden circular y cuáles descansan el 12 de septiembre",
-        "url": "https://www.xataka.com/mexico/hoy-no-circula-sabatino-que-autos-pueden-circular-cuales-descansan-12-septiembre",
-        "imagen": "https://i.blogs.es/b5150a/erik-mclean-ctnwvtptul0-unsplash/1024_2000.jpeg",
-        "fecha": "2026-09-12T03:01:00.000Z",
-        "fuenteId": "xataka",
-        "fuenteTitle": "Xataka",
-        "categorias": [
-          "tecnologia",
-          "ciencia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Cosas curiosas que le suceden a la gente, algunas de las cuales son raras, raras y otras parecen superpoderes",
-        "url": "http://www.microsiervos.com/archivo/ciencia/curiosidades-habilidades-cuerpos-reflexos-ilusiones.html",
-        "imagen": "https://img.microsiervos.com/images2026/bodily-oddities.webp",
-        "fecha": "2026-09-11T23:32:49.000Z",
-        "fuenteId": "microsiervos",
-        "fuenteTitle": "Microsiervos",
-        "categorias": [
-          "tecnologia",
-          "ciencia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El descarrilamiento de un tren en la Normandía francesa causa 44 heridos",
-        "url": "https://elpais.com/internacional/2026-09-11/el-descarrilamiento-de-un-tren-en-la-normandia-francesa-causa-44-heridos.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/JWDUB4NOLBCGBKMKNAXM4DDDVM.jpg?auth=d5e1b6b45a6d872264d17e101a4bc611c86464c214157b08cb058a057580686b",
-        "fecha": "2026-09-11T22:01:12.000Z",
-        "fuenteId": "el-pais",
-        "fuenteTitle": "El País",
-        "categorias": [
-          "actualidad",
-          "tecnologia",
-          "ciencia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El Sevilla hurga en la herida del Valencia",
-        "url": "https://elpais.com/deportes/futbol/2026-09-11/el-sevilla-hurga-en-la-herida-del-valencia.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/PADSHYQAIZNFNNBYLI2YSD725Q.jpg?auth=794beab20307f860e2fec67afadfc59515b5975dcc08478819c2bbafa391e2b0",
-        "fecha": "2026-09-11T21:41:59.000Z",
-        "fuenteId": "el-pais",
-        "fuenteTitle": "El País",
-        "categorias": [
-          "actualidad",
-          "tecnologia",
-          "ciencia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El creador de ‘VisionQuest’ explica por qué Ultrón aparece en forma humana: «No es por presupuesto»",
-        "url": "https://hipertextual.com/cine-television/creador-visionquest-james-spader-ultron-forma-humana/",
-        "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/Ultron-scaled.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
-        "fecha": "2026-09-11T21:10:00.000Z",
-        "fuenteId": "hipertextual",
-        "fuenteTitle": "Hipertextual",
-        "categorias": [
-          "tecnologia",
-          "ciencia",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Scope Rating mejora la calificación de la deuda de España, que queda muy cerca de la de Francia",
-        "url": "https://elpais.com/economia/2026-09-11/scope-rating-mejora-la-calificacion-de-la-deuda-de-espana-que-queda-muy-cerca-de-la-de-francia.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/CKADFYFF6FO3PHZJZLSAF7I724.jpg?auth=372074ae494500bd9a69b2a2270d6254aedebeff17ba5c9ff992e65bdae4be93",
-        "fecha": "2026-09-11T21:05:36.000Z",
-        "fuenteId": "el-pais",
-        "fuenteTitle": "El País",
-        "categorias": [
-          "actualidad",
-          "tecnologia",
-          "ciencia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Ingebrigtsen y Duplantis reinan supremos en el campeonato Ultimate de atletismo",
-        "url": "https://elpais.com/deportes/2026-09-11/ingebrigtsen-y-duplantis-reinan-supremos-en-el-campeonato-ultimate-de-atletismo.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/Q6ZS7EK7SNKQPDEKPGLS5SVR24.jpg?auth=39d8417693bdf2f296b58bab8ce5d1f4a7bbbfd8ca410817c3c580f52406f57f",
-        "fecha": "2026-09-11T20:39:15.000Z",
-        "fuenteId": "el-pais",
-        "fuenteTitle": "El País",
-        "categorias": [
-          "actualidad",
-          "tecnologia",
-          "ciencia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Keiko Fujimori anuncia a Álvaro Vargas Llosa como próximo embajador de Perú en Estados Unidos",
-        "url": "https://elpais.com/america/2026-09-11/keiko-fujimori-anuncia-a-alvaro-vargas-llosa-como-proximo-embajador-de-peru-en-estados-unidos.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/KWF7MIZWXFDO5AGLTPWYRZJYNM.jpg?auth=de1814335f01db51a14211c4d852c6c307d16240030f2160daeddcb6556084de",
-        "fecha": "2026-09-11T20:35:33.000Z",
-        "fuenteId": "el-pais",
-        "fuenteTitle": "El País",
-        "categorias": [
-          "actualidad",
-          "tecnologia",
-          "ciencia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Meta filtra por error sus nuevas gafas de realidad mixta que sustituirán al Quest Pro",
-        "url": "https://hipertextual.com/tecnologia/meta-project-phoenix-filtracion-diseno-especificaciones/",
-        "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/08/ray-ban-meta-mark-zuckerberg.jpg?fit=1024%2C658&quality=70&strip=all&ssl=1",
-        "fecha": "2026-09-11T20:15:00.000Z",
-        "fuenteId": "hipertextual",
-        "fuenteTitle": "Hipertextual",
-        "categorias": [
-          "tecnologia",
-          "ciencia",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Kast reescribe la memoria del golpe de Pinochet y llama a no quedar “anclados en el pasado”",
-        "url": "https://elpais.com/chile/2026-09-11/kast-reescribe-la-memoria-del-golpe-de-pinochet-y-llama-a-no-quedar-anclados-en-el-pasado.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/WVCBB3N4WJAHXI2HLPPTUJR4QI.jpg?auth=e8b57ce75d92842fc6b0bdcc9d4b918df9847434845b90613946f06560082399",
-        "fecha": "2026-09-11T20:07:37.000Z",
-        "fuenteId": "el-pais",
-        "fuenteTitle": "El País",
-        "categorias": [
-          "actualidad",
-          "tecnologia",
-          "ciencia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La propuesta de Trump de sacar a los migrantes sin residencia permanente del censo viola la Constitución, según los expertos",
-        "url": "https://elpais.com/us/migracion/2026-09-11/la-propuesta-de-trump-de-sacar-a-los-migrantes-sin-residencia-permanente-del-censo-viola-la-constitucion-segun-los-expertos.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/JYFOX5TW5JFNFIHNYGOMDCXWZY.jpg?auth=2cf99cb53612809f455b7bf04c0c08b060d78ed5b704bea9f81bc706178fc015",
-        "fecha": "2026-09-11T19:54:59.000Z",
+        "titulo": "David Szalay, escritor: “El sexo y la violencia son experiencias no verbales. Por eso cuesta tanto escribir sobre ellas”",
+        "url": "https://elpais.com/babelia/2026-09-12/david-szalay-escritor-el-sexo-y-la-violencia-son-experiencias-no-verbales-por-eso-cuesta-escribir-sobre-ellas.html",
+        "imagen": "https://imagenes.elpais.com/resizer/v2/JFBI35XCB5GIZCAZ73LZWQDNP4.jpg?auth=201d2a9c170a1d6b499c49d26c1d1c69fe172788117a6dfa2c06a41fa97dd22b",
+        "fecha": "2026-09-12T03:30:01.000Z",
         "fuenteId": "el-pais",
         "fuenteTitle": "El País",
         "categorias": [
@@ -821,24 +814,12 @@
     ],
     "cultura": [
       {
-        "titulo": "Vuelven Sandra Bullock y Nicole Kidman, las brujas que fueron demasiado brujas para el público de los noventa",
-        "url": "https://elpais.com/cultura/cine/2026-09-12/vuelven-sandra-bullock-y-nicole-kidman-las-brujas-que-fueron-demasiado-brujas-para-el-publico-de-los-noventa.html",
-        "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260910/1212939_134041_video_1800.mp4",
-        "fecha": "2026-09-12T03:30:01.000Z",
-        "fuenteId": "el-pais-cultura",
-        "fuenteTitle": "El País - Cultura",
-        "categorias": [
-          "cultura"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "‘NAZA’, ‘DAU’ y ‘Possible Love’, entre las películas favoritas para el palmarés de Venecia",
-        "url": "https://elpais.com/cultura/cine/2026-09-12/naza-dau-y-possible-love-entre-las-peliculas-favoritas-para-el-palmares-de-venecia.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/EDS5AB2U6BMBJBMCXX4VTZ5G5Q.jpg?auth=d41e832bf1c75eb67da1f9455ff09236794bb58f3c9d967d92fc1bca200e3eb9",
-        "fecha": "2026-09-12T03:30:01.000Z",
-        "fuenteId": "el-pais-cultura",
-        "fuenteTitle": "El País - Cultura",
+        "titulo": "MANGA y terror cósmico clásico, Lovecraft por Gou Tanabe",
+        "url": "https://www.20minutos.es/cultura/blogs/motel-margot/manga-terror-cosmico-clasico-lovecraft-por-gou-tanabe_6979938_0.html",
+        "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/06/05/6a230cab9cdd67-27779615.jpeg",
+        "fecha": "2026-09-12T03:08:00.000Z",
+        "fuenteId": "20minutos-cultura",
+        "fuenteTitle": "20minutos - Cultura",
         "categorias": [
           "cultura"
         ],
@@ -1059,86 +1040,50 @@
           "cultura"
         ],
         "idioma": "es"
+      },
+      {
+        "titulo": "La idea de belleza invade el Hay Festival de Segovia, que convoca a 100 pensadores",
+        "url": "https://www.lavanguardia.com/cultura/20260911/11632928/idea-belleza-invade-hay-festival-segovia-convoca-100-pensadores.html",
+        "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/11/6aa45a75874a4.r_d.459-306-0.jpeg",
+        "fecha": "2026-09-11T19:55:13.000Z",
+        "fuenteId": "la-vanguardia-cultura",
+        "fuenteTitle": "La Vanguardia - Cultura",
+        "categorias": [
+          "cultura"
+        ],
+        "idioma": "es"
       }
     ],
     "deportes": [
+      {
+        "titulo": "Diseñado para entrenar y a buen precio: así es el chándal de Hummel que encanta a los deportistas",
+        "url": "https://as.com/showroom/deporte/chandal-hombre-hummel-entrenamiento-buen-precio-f202609-n/",
+        "imagen": "https://img.asmedia.epimg.net/resizer/v2/OTH332I5XNGDTFRXLTVXRVY7TQ.png?auth=f8d8420b83986979bd391be78ea6e938c5d298d093040b8520b529790f58d0cc",
+        "fecha": "2026-09-12T04:00:00.000Z",
+        "fuenteId": "as",
+        "fuenteTitle": "AS",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Y el peso de la historia del tenis estadounidense recae... en Shelton",
+        "url": "https://as.com/tenis/us_open/y-el-peso-de-la-historia-del-tenis-estadounidense-recae-en-shelton-f202609-n/",
+        "imagen": "https://img.asmedia.epimg.net/resizer/v2/6HAYMCIMT5KRZGDJK46YNFXE7Y.jpg?auth=8c136a3d122172b2878eb44783573610436a516fddbf01bbb71bf8d0b8902424",
+        "fecha": "2026-09-12T03:44:40.000Z",
+        "fuenteId": "as",
+        "fuenteTitle": "AS",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "España mira a los ojos a Estados Unidos en las semifinales del Mundial",
         "url": "https://elpais.com/deportes/baloncesto/2026-09-12/espana-mira-a-los-ojos-a-estados-unidos-en-las-semifinales-del-mundial.html",
         "imagen": "https://imagenes.elpais.com/resizer/v2/NKFHCWW74ZCMXOUPVV7CT5CVG4.jpg?auth=601c7898a3359267137fc2df6155a2ca733317f8a7282e0b96d3e5f483bf830b",
         "fecha": "2026-09-12T03:30:01.000Z",
-        "fuenteId": "el-pais-deportes",
-        "fuenteTitle": "El País - Deportes",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Awa Fam: “¿Yo una estrella? Soy la primera que tiene los pies en el suelo\"",
-        "url": "https://elpais.com/deportes/baloncesto/2026-09-12/awa-fam-yo-una-estrella-soy-la-primera-que-tiene-los-pies-en-el-suelo.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/CWQBCBKYNNGKXFWGYULRD63UQE.jpg?auth=1875e9d55b7efeb13bc5b6b080313c8576c55a2cef9a0acb255a31c1e3cc2fe9",
-        "fecha": "2026-09-12T03:30:01.000Z",
-        "fuenteId": "el-pais-deportes",
-        "fuenteTitle": "El País - Deportes",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Balón de Oro: la batalla del prestigio",
-        "url": "https://elpais.com/deportes/futbol/2026-09-12/balon-de-oro-la-batalla-del-prestigio.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/5UA24Z5HPVKBNPN2GRFPV53MS4.jpg?auth=907f4c56f2025535be322eae316c0d2633693b70b8606bf2259bce4e92746097",
-        "fecha": "2026-09-12T03:30:01.000Z",
-        "fuenteId": "el-pais-deportes",
-        "fuenteTitle": "El País - Deportes",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Los asuntos pendientes de Mourinho: la vuelta de Tchouameni junto a Valverde, la gestión de Diomande y la espera por Vinicius",
-        "url": "https://elpais.com/deportes/futbol/2026-09-12/los-asuntos-pendientes-de-mourinho-la-vuelta-de-tchouameni-junto-a-valverde-la-gestion-de-diomande-y-la-espera-por-vinicius.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/YDFZXP7OK5JPJC7ICIGB2XTKWY.jpg?auth=6c820461f376843bc31c7fdb20f704d102495e12985dcdc6f8f6b380c79cd90a",
-        "fecha": "2026-09-12T03:30:01.000Z",
-        "fuenteId": "el-pais-deportes",
-        "fuenteTitle": "El País - Deportes",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Giacomo Agostini: “Marc Márquez es puro espectáculo, hace cosas que no puede hacer todo el mundo”",
-        "url": "https://elpais.com/deportes/motociclismo/2026-09-12/giacomo-agostini-marc-marquez-es-puro-espectaculo-hace-cosas-que-no-puede-hacer-todo-el-mundo.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/YFS6OE34CRGJXEHN62GA4T5EPA.jpg?auth=6816f5ad2b2488bb5e3274ab068b15f9b129bbc325965968470deb063fdbd456",
-        "fecha": "2026-09-12T03:30:01.000Z",
-        "fuenteId": "el-pais-deportes",
-        "fuenteTitle": "El País - Deportes",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El Barça encadena su segundo pleno de victorias mientras el Atlético sigue a la espera del estreno de Jenni Hermoso",
-        "url": "https://elpais.com/deportes/futbol/2026-09-12/el-barca-encadena-su-segundo-pleno-de-victorias-mientras-el-atletico-sigue-a-la-espera-del-estreno-de-jenni-hermoso.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/L7GH3UH5DJHQLAIEATT5JNDL6E.jpg?auth=3ff307f9ce14387848caa4d24e2e24c363dbf6d19f6e5b39bed433c6751b128b",
-        "fecha": "2026-09-12T03:30:01.000Z",
-        "fuenteId": "el-pais-deportes",
-        "fuenteTitle": "El País - Deportes",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Sabalenka, un tornado en pista dura y cuatro años de final en final: “Ya no es solo potencia”",
-        "url": "https://elpais.com/deportes/tenis/2026-09-12/sabalenka-un-tornado-en-dura-y-cuatro-anos-de-final-en-final.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/YP2AY2UOTJM5XJEZEPX55NLBOU.jpg?auth=d736522fbf09ee63c6dafebbb2676d187961de4d7ae32bde7b086f5ccd04fe90",
-        "fecha": "2026-09-12T03:30:00.000Z",
         "fuenteId": "el-pais-deportes",
         "fuenteTitle": "El País - Deportes",
         "categorias": [
@@ -1302,14 +1247,113 @@
           "deportes"
         ],
         "idioma": "es"
+      },
+      {
+        "titulo": "El análisis de Palop del Sevilla - Valencia: «Una victoria justa y trabajada del Sevilla FC»",
+        "url": "https://www.abc.es/deportes/orgullodenervion/noticias-sevilla-fc/analisis-palop-sevilla-valencia-victoria-justa-trabajada-20260912003006-nts.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/11/pizarra-palop-758x531-RTbuEbH7JaVtkDjSDxja8MP-1200x840@diario_abc.jpg",
+        "fecha": "2026-09-11T22:30:11.000Z",
+        "fuenteId": "abc-deportes",
+        "fuenteTitle": "ABC - Deportes",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Pitos, perdón y goles",
+        "url": "https://as.com/opinion/pitos-perdon-y-goles-f202609-n/",
+        "imagen": "https://img.asmedia.epimg.net/resizer/v2/HAOKN75DMVCY3MYXQWHPKZXGZQ.JPG?auth=de873618c6df540cb1baac5c3f4b77a8e2f966d282b1637478d0b122eb28da2e",
+        "fecha": "2026-09-11T22:30:00.000Z",
+        "fuenteId": "as",
+        "fuenteTitle": "AS",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "La inteligencia superior de Mbappé",
+        "url": "https://as.com/opinion/la-inteligencia-superior-de-mbappe-f202609-n/",
+        "imagen": "https://img.asmedia.epimg.net/resizer/v2/PLZT732JJJD6ZCF3MZYNPNXK5A.JPG?auth=73a3bd496108abf52a94e0a2718d8745b714cabf8d3f3ab8974689cd019686de",
+        "fecha": "2026-09-11T22:29:21.000Z",
+        "fuenteId": "as",
+        "fuenteTitle": "AS",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Paliza colosal de Zverev en el US Open:",
+        "url": "https://www.mundodeportivo.com/tenis/open-usa/20260912/1004226130/paliza-colosal-zverev-us-open.html",
+        "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/09/11/6aa4779f58ffa.jpeg",
+        "fecha": "2026-09-11T22:16:07.000Z",
+        "fuenteId": "mundo-deportivo",
+        "fuenteTitle": "Mundo Deportivo",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
       }
     ],
     "economia": [
       {
-        "titulo": "Los ‘data centers’ de Amazon, Microsoft y Google van al Consejo de Estado para frenar el golpe regulatorio",
-        "url": "https://elpais.com/economia/2026-09-12/los-data-centers-de-amazon-microsoft-y-google-van-al-consejo-de-estado-para-frenar-el-golpe-regulatorio.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/PA4P6XCXVNDJZBSC2WKB6Y5GJU.jpg?auth=d7bab1f16bab5f91aa0a692abaf40a2ce30892fe737fba97e7a52897e0d35bf3",
-        "fecha": "2026-09-12T03:15:00.000Z",
+        "titulo": "Juanma Lorente, abogado laboralista, avisa a los que solicitan la excedencia voluntaria que pueden perder su puesto: \"Solo tienes derecho a volver si hay una vacante\"",
+        "url": "https://www.elconfidencial.com/economia/2026-09-12/juanma-lorente-abogado-laboralista_4418706/",
+        "imagen": "https://images.ecestaticos.com/oojIqPhrgG2nNUs2x8Q0flz06H4=/0x0:1200x900/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fcd5%2F2f7%2F6e4%2Fcd52f76e482994e022f956162146e658.jpg",
+        "fecha": "2026-09-12T04:00:00.000Z",
+        "fuenteId": "el-confidencial-economia",
+        "fuenteTitle": "El Confidencial - Economía",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "La nueva riqueza de las naciones",
+        "url": "https://cincodias.elpais.com/opinion/2026-09-12/la-nueva-riqueza-de-las-naciones.html",
+        "imagen": "https://imagenes.elpais.com/resizer/v2/T2PWY7XOIZGUHI2CZX5JU2DGDM.jpg?auth=06ce474ee0ff6e703cbd789ccc9be4ede2149e73e8564d87978ec226b488f1c5",
+        "fecha": "2026-09-12T03:40:00.000Z",
+        "fuenteId": "el-pais-economia",
+        "fuenteTitle": "El País - Economía",
+        "categorias": [
+          "economia",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "La marea de los tipos cambia el mapa de la inversión",
+        "url": "https://cincodias.elpais.com/opinion/2026-09-12/la-marea-de-los-tipos-cambia-el-mapa-de-la-inversion.html",
+        "imagen": "https://imagenes.elpais.com/resizer/v2/7P6GZYOEV5MLLGF6SSITBH57QA.jpg?auth=ae057f0191a15f0d5fad7f9fc29d0b9adf79206540d7bc33a1e27822aad0ea25",
+        "fecha": "2026-09-12T03:40:00.000Z",
+        "fuenteId": "el-pais-economia",
+        "fuenteTitle": "El País - Economía",
+        "categorias": [
+          "economia",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Los centros de datos reviven el frenesí por la banda ancha",
+        "url": "https://cincodias.elpais.com/opinion/2026-09-12/los-centros-de-datos-reviven-el-frenesi-por-la-banda-ancha.html",
+        "imagen": "https://imagenes.elpais.com/resizer/v2/ODFM6NEWTFNYTNU6AZR5O55JKA.jpg?auth=58662e109add50b28a2abbadb01763cc7b19895791d9514a510855cc8db38f1e",
+        "fecha": "2026-09-12T03:40:00.000Z",
+        "fuenteId": "el-pais-economia",
+        "fuenteTitle": "El País - Economía",
+        "categorias": [
+          "economia",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "La UE interviene al fin en vivienda",
+        "url": "https://elpais.com/economia/2026-09-12/la-ue-interviene-al-fin-en-vivienda.html",
+        "imagen": "https://imagenes.elpais.com/resizer/v2/AUDLGCINRFHMBKUYFXFVJ73KAE.JPG?auth=c497e3aa8a6f0bab40861f116a0fd1a880f13ba4ed5ba3f0a0b2f674abbe64ac",
+        "fecha": "2026-09-12T03:30:01.000Z",
         "fuenteId": "el-pais-economia",
         "fuenteTitle": "El País - Economía",
         "categorias": [
@@ -1497,54 +1541,6 @@
         "url": "https://es.investing.com/news/insider-trading-news/la-directora-de-docusign-teresa-briggs-vende-35400-dolares-en-acciones-93CH-3832394",
         "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM450ND_1200_L.jpg",
         "fecha": "2026-09-12T01:31:41.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La startup de IA Discovery Loop busca financiación con una valoración de 50.000 millones de dólares",
-        "url": "https://es.investing.com/news/company-news/la-startup-de-ia-discovery-loop-busca-financiacion-con-una-valoracion-de-50000-millones-de-dolares-3832398",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM5A0N4_L.jpg",
-        "fecha": "2026-09-12T01:30:13.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El director ejecutivo de Alignment Healthcare vende acciones por 7,1 millones de dólares",
-        "url": "https://es.investing.com/news/insider-trading-news/el-director-ejecutivo-de-alignment-healthcare-vende-acciones-por-71-millones-de-dolares-93CH-3832393",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3T1AG_1200_L.jpg",
-        "fecha": "2026-09-12T01:06:07.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Director de Warner Bros. Discovery vende acciones por 5,64 millones de dólares",
-        "url": "https://es.investing.com/news/insider-trading-news/director-de-warner-bros-discovery-vende-acciones-por-564-millones-de-dolares-93CH-3832392",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM40318_1200_L.jpg",
-        "fecha": "2026-09-12T01:05:43.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La presidenta y directora ejecutiva de Halozyme vende acciones por 6,4 millones de dólares",
-        "url": "https://es.investing.com/news/insider-trading-news/la-presidenta-y-directora-ejecutiva-de-halozyme-vende-acciones-por-64-millones-de-dolares-93CH-3832391",
-        "imagen": "",
-        "fecha": "2026-09-12T01:05:41.000Z",
         "fuenteId": "investing-es-noticias",
         "fuenteTitle": "Investing.com España - Noticias",
         "categorias": [
@@ -2339,6 +2335,19 @@
     ],
     "internacional": [
       {
+        "titulo": "Por qué España registró sus peores resultados educativos en la historia del informe PISA (y las causas de que hayan caído en todo el mundo)",
+        "url": "https://www.bbc.com/mundo/articles/cz6z0407lnlo?at_medium=RSS&at_campaign=rss",
+        "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cc79/live/f9380c00-ae07-11f1-b561-83a33482e04f.jpg",
+        "fecha": "2026-09-12T03:58:57.000Z",
+        "fuenteId": "bbc-mundo",
+        "fuenteTitle": "BBC News Mundo",
+        "categorias": [
+          "internacional",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Trabajar para llenar la nevera: los rusos gastan más en comida y recortan en lo demás",
         "url": "https://es.euronews.com/2026/09/12/trabajar-llenar-nevera-rusos-gastan-comida-recortan",
         "imagen": "",
@@ -2583,19 +2592,6 @@
           "politica"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "La madre subrogada que se negó a abortar y ahora pelea por la custodia del bebé en EE.UU.",
-        "url": "https://www.bbc.com/mundo/articles/c5yjky5zl7no?at_medium=RSS&at_campaign=rss",
-        "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/25d3/live/77c2e390-ae00-11f1-9b77-ddcb406ce9c0.jpg",
-        "fecha": "2026-09-11T22:25:07.000Z",
-        "fuenteId": "bbc-mundo",
-        "fuenteTitle": "BBC News Mundo",
-        "categorias": [
-          "internacional",
-          "actualidad"
-        ],
-        "idioma": "es"
       }
     ],
     "local": [
@@ -2604,6 +2600,102 @@
         "url": "https://www.elperiodicoextremadura.com/extremadura/2026/09/12/consulta-portada-papel-periodico-extremadura-134203740.html",
         "imagen": "https://estaticos-cdn.prensaiberica.es/clip/845d9009-07a9-4f75-bc1f-05ed02bde63b_16-9-aspect-ratio_default_0_x853y728.jpg",
         "fecha": "2026-09-12T04:45:00.000Z",
+        "fuenteId": "el-periodico-extremadura",
+        "fuenteTitle": "El Periódico Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Reyes Bellver, directora de fútbol femenino de la RFEF, ante el plan de fertilidad para las jugadoras: \"Ofrecemos todos los recursos para que cada mujer elija lo que necesita\"",
+        "url": "https://www.elperiodicoextremadura.com/deportes/2026/09/12/reyes-bellver-directora-futbol-femenino-134206776.html",
+        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/63ddf811-0e3a-4139-839d-d667904dfc05_16-9-aspect-ratio_default_0_x482y203.jpg",
+        "fecha": "2026-09-12T04:04:36.000Z",
+        "fuenteId": "el-periodico-extremadura",
+        "fuenteTitle": "El Periódico Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "La legendaria máquina Enigma que compró Franco y acabó en Mallorca",
+        "url": "https://www.elperiodicoextremadura.com/sociedad/2026/09/12/legendaria-maquina-enigma-compro-franco-acabo-mallorca-134206782.html",
+        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/8980f637-e183-48e4-ba0b-098008f0dc32_16-9-aspect-ratio_default_0_x600y225.jpg",
+        "fecha": "2026-09-12T04:04:35.000Z",
+        "fuenteId": "el-periodico-extremadura",
+        "fuenteTitle": "El Periódico Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El tiempo en Alburquerque: previsión meteorológica para hoy, sábado 12 de septiembre",
+        "url": "https://www.elperiodicoextremadura.com/tiempo/2026/09/12/tiempo-alburquerque-prevision-meteorologica-hoy-134206672.html",
+        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/a66dc480-6962-421b-a4f1-d10001bd7b4a_16-9-aspect-ratio_default_0_x600y225.jpg",
+        "fecha": "2026-09-12T04:04:33.000Z",
+        "fuenteId": "el-periodico-extremadura",
+        "fuenteTitle": "El Periódico Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El tiempo en Aceuchal: previsión meteorológica para hoy, sábado 12 de septiembre",
+        "url": "https://www.elperiodicoextremadura.com/tiempo/2026/09/12/tiempo-aceuchal-prevision-meteorologica-hoy-134206652.html",
+        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/8c7780b7-72f3-4624-8106-b54fc3a4e670_16-9-aspect-ratio_default_0_x600y225.jpg",
+        "fecha": "2026-09-12T04:02:50.000Z",
+        "fuenteId": "el-periodico-extremadura",
+        "fuenteTitle": "El Periódico Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Entrevista a Reyes Bellver, directora de fútbol femenino de la RFEF",
+        "url": "https://www.elperiodicoextremadura.com/videos/deportes/2026/09/12/entrevista-reyes-bellver-directora-futbol-134206552.html",
+        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/63ddf811-0e3a-4139-839d-d667904dfc05_16-9-aspect-ratio_default_0_x482y203.jpg",
+        "fecha": "2026-09-12T04:00:58.000Z",
+        "fuenteId": "el-periodico-extremadura",
+        "fuenteTitle": "El Periódico Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El pasado desconocido del padre de Rita Barberá: dos años en tres prisiones diferentes",
+        "url": "https://www.elperiodicoextremadura.com/espana/2026/09/12/padre-rita-barbera-prision-valencia-guerra-134206640.html",
+        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/05093bdc-c4da-4dfb-9ebc-04879d2dc32a_16-9-aspect-ratio_default_0_x1509y325.jpg",
+        "fecha": "2026-09-12T04:00:57.000Z",
+        "fuenteId": "el-periodico-extremadura",
+        "fuenteTitle": "El Periódico Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Adiós al alquiler de barcos sin titulación en Ibiza y Formentera",
+        "url": "https://www.elperiodicoextremadura.com/sociedad/2026/09/12/adios-alquiler-barcos-titulacion-ibiza-134206508.html",
+        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/7123a8bc-d1c8-4e6a-b4ca-b28cc6f624cb_16-9-aspect-ratio_default_0_x1207y389.jpg",
+        "fecha": "2026-09-12T04:00:57.000Z",
+        "fuenteId": "el-periodico-extremadura",
+        "fuenteTitle": "El Periódico Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Nvidia invierte en iPronics, la 'startup' valenciana que quiere revolucionar la IA",
+        "url": "https://www.elperiodicoextremadura.com/economia/2026/09/12/nvidia-invierte-ipronics-startup-valenciana-134206452.html",
+        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/bcc5a2f7-c464-468a-93ea-dc2ea5a27db4_16-9-aspect-ratio_default_0_x996y262.jpg",
+        "fecha": "2026-09-12T04:00:57.000Z",
         "fuenteId": "el-periodico-extremadura",
         "fuenteTitle": "El Periódico Extremadura",
         "categorias": [
@@ -2736,102 +2828,6 @@
         "url": "https://www.elperiodicoextremadura.com/fotos/caceres-local/2026/09/11/fotogaleria-primera-noche-patrimonio-caceres-134203697.html",
         "imagen": "https://estaticos-cdn.prensaiberica.es/clip/db0f6b2d-f546-4ae9-af16-b3e908e6d013_16-9-aspect-ratio_default_0_x810y360.jpg",
         "fecha": "2026-09-11T20:14:33.000Z",
-        "fuenteId": "el-periodico-extremadura",
-        "fuenteTitle": "El Periódico Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "David Rocha, tras la derrota en Barakaldo: \"Sinceramente creo que si estamos a este nivel durante todo el año fuera de casa, vamos a poder sacar muchos puntos\"",
-        "url": "https://www.cope.es/emisoras/extremadura/badajoz-provincia/almendralejo-tierra-de-barros/deportes-almendralejo/noticias/david-rocha-derrota-barakaldo-sinceramente-creo-nivel-ano-fuera-casa-sacar-puntos-20260911_3435276.html",
-        "imagen": "https://imagenes.cope.es/files/og_thumbnail/uploads/2026/09/11/6aa45f060690a.jpeg",
-        "fecha": "2026-09-11T20:10:18.000Z",
-        "fuenteId": "cope-extremadura",
-        "fuenteTitle": "COPE Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La insólita sanción que recibe un piloto de F2 porque su hermana estaba en la zona restringida del 'pit lane' sin pantalones largos",
-        "url": "https://www.cope.es/programas/tiempo-de-juego/noticias/insolita-sancion-recibe-piloto-f2-hermana-zona-restringida-pit-lane-pantalones-largos-20260911_3435273.html",
-        "imagen": "https://imagenes.cope.es/files/og_thumbnail/uploads/2026/09/11/6aa45e5a0b555.jpeg",
-        "fecha": "2026-09-11T20:05:55.000Z",
-        "fuenteId": "cope-extremadura",
-        "fuenteTitle": "COPE Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "21:00 | 11 SEP 2026 | TIEMPO DE JUEGO",
-        "url": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/21-00-11-sep-2026-juego-20260911_3435271.html",
-        "imagen": "",
-        "fecha": "2026-09-11T20:02:08.000Z",
-        "fuenteId": "cope-extremadura",
-        "fuenteTitle": "COPE Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Vídeo | Valdastillas, el pueblo en el que un cuco da nombre a sus habitantes",
-        "url": "https://www.elperiodicoextremadura.com/videos/caceres/2026/09/11/video-valdastillas-pueblo-cuco-da-134203487.html",
-        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/b721b4cc-03e9-4cbb-a1b5-e7326c961248_16-9-aspect-ratio_default_0_x960y360.jpg",
-        "fecha": "2026-09-11T19:54:04.000Z",
-        "fuenteId": "el-periodico-extremadura",
-        "fuenteTitle": "El Periódico Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Dos bólidos y un extraño espectro rojo dejan imágenes sorprendentes en España",
-        "url": "https://www.elperiodicoextremadura.com/videos/sociedad/2026/09/11/bolidos-extrano-espectro-rojo-imagenes-sorprendentes-espana-134203408.html",
-        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/5c2bbb89-77d8-4d0b-9a07-2f327d4e7557_16-9-aspect-ratio_default_0_x960y360.jpg",
-        "fecha": "2026-09-11T19:44:15.000Z",
-        "fuenteId": "el-periodico-extremadura",
-        "fuenteTitle": "El Periódico Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Sorteo Bonoloto del viernes 11 de septiembre de 2026",
-        "url": "https://www.elperiodicoextremadura.com/sociedad/2026/09/11/sorteo-bonoloto-viernes-11-septiembre-134203356.html",
-        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/9b886712-0ec5-4918-b7db-db54e79493d0_16-9-aspect-ratio_default_0.jpg",
-        "fecha": "2026-09-11T19:42:44.000Z",
-        "fuenteId": "el-periodico-extremadura",
-        "fuenteTitle": "El Periódico Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Vídeo | Cáceres abre la Cueva del Conejar",
-        "url": "https://www.elperiodicoextremadura.com/videos/caceres-local/2026/09/11/video-caceres-abre-cueva-conejar-134203094.html",
-        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/7cac784e-d894-44ea-80c3-6b80e05a7918_16-9-aspect-ratio_default_0_x640y284.jpg",
-        "fecha": "2026-09-11T19:39:33.000Z",
-        "fuenteId": "el-periodico-extremadura",
-        "fuenteTitle": "El Periódico Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Sorteo Euromillones del viernes 11 de septiembre de 2026",
-        "url": "https://www.elperiodicoextremadura.com/sociedad/2026/09/11/sorteo-euromillones-viernes-11-septiembre-134202987.html",
-        "imagen": "https://estaticos-cdn.prensaiberica.es/clip/7c3fcced-ea53-49c9-bdcf-2a8e7c52d77f_16-9-aspect-ratio_default_0.jpg",
-        "fecha": "2026-09-11T19:31:15.000Z",
         "fuenteId": "el-periodico-extremadura",
         "fuenteTitle": "El Periódico Extremadura",
         "categorias": [
@@ -3344,6 +3340,214 @@
     ],
     "politica": [
       {
+        "titulo": "¿Quién puede expulsar a un niño?",
+        "url": "https://www.infolibre.es/opinion/columnas/nada-que-decir/expulsar-nino_129_2236160.html",
+        "imagen": "https://static.infolibre.es/clip/68476658-0876-431f-b8be-0b3051f76cf3_16-9-discover-aspect-ratio_default_0.jpg",
+        "fecha": "2026-09-12T04:00:44.000Z",
+        "fuenteId": "infolibre",
+        "fuenteTitle": "InfoLibre",
+        "categorias": [
+          "actualidad",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Re-regulación",
+        "url": "https://www.infolibre.es/opinion/plaza-publica/re-regulacion_129_2235936.html",
+        "imagen": "https://static.infolibre.es/clip/4b785310-101b-493b-8819-93069c4ef1b8_16-9-discover-aspect-ratio_default_0.jpg",
+        "fecha": "2026-09-12T04:00:44.000Z",
+        "fuenteId": "infolibre",
+        "fuenteTitle": "InfoLibre",
+        "categorias": [
+          "actualidad",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Ceuta, sin orden mundial",
+        "url": "https://www.infolibre.es/opinion/plaza-publica/ceuta-orden-mundial_129_2235956.html",
+        "imagen": "https://static.infolibre.es/clip/9aeeed02-987c-4d87-aa2f-05a4c79c2805_16-9-discover-aspect-ratio_default_0.jpg",
+        "fecha": "2026-09-12T04:00:44.000Z",
+        "fuenteId": "infolibre",
+        "fuenteTitle": "InfoLibre",
+        "categorias": [
+          "actualidad",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "¡Es la política, estúpido!",
+        "url": "https://www.infolibre.es/club-infolibre/librepensadores/politica-estupido_129_2236020.html",
+        "imagen": "https://static.infolibre.es/clip/c49f9b1d-f56a-4168-992a-11cc5d4f35b7_16-9-discover-aspect-ratio_default_0.jpg",
+        "fecha": "2026-09-12T04:00:44.000Z",
+        "fuenteId": "infolibre",
+        "fuenteTitle": "InfoLibre",
+        "categorias": [
+          "actualidad",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Víctimas de Angrois respaldan por mayoría el indulto al maquinista",
+        "url": "https://www.infolibre.es/politica/victimas-angrois-respaldan-mayoria-indulto-maquinista_1_2236171.html",
+        "imagen": "https://static.infolibre.es/clip/2792431d-74f1-49c2-9bf1-000fabecfe0e_16-9-aspect-ratio_default_0.jpg",
+        "fecha": "2026-09-12T04:00:43.000Z",
+        "fuenteId": "infolibre",
+        "fuenteTitle": "InfoLibre",
+        "categorias": [
+          "actualidad",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Una guerra por dos alijos de cocaína entre España y Países Bajos deja un muerto y amenazas entre cárteles",
+        "url": "https://www.infolibre.es/narcotrafico/guerra-alijos-cocaina-espana-paises-bajos-deja-muerto-amenazas-cartel_1_2236164.html",
+        "imagen": "https://static.infolibre.es/clip/1da40559-e8e8-4aa3-ac3e-f9ee9ee1aa45_16-9-aspect-ratio_default_0.jpg",
+        "fecha": "2026-09-12T04:00:43.000Z",
+        "fuenteId": "infolibre",
+        "fuenteTitle": "InfoLibre",
+        "categorias": [
+          "actualidad",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Qué aclara y qué no la desclasificación de informes sobre la crisis de Ceuta",
+        "url": "https://www.infolibre.es/politica/aclara-no-desclasificacion-informes-crisis-ceuta_1_2236216.html",
+        "imagen": "https://static.infolibre.es/clip/5d412d54-204d-4a70-866b-e16e30d3462b_16-9-aspect-ratio_default_0.jpg",
+        "fecha": "2026-09-12T04:00:42.000Z",
+        "fuenteId": "infolibre",
+        "fuenteTitle": "InfoLibre",
+        "categorias": [
+          "actualidad",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Ruido, cortes y un muro frente a casa: la F1 contradice las promesas de Ifema a los vecinos",
+        "url": "https://www.infolibre.es/medioambiente/ruido-cortes-muro-frente-casa-f1-contradice-promesas-ifema-vecinos_1_2236212.html",
+        "imagen": "https://static.infolibre.es/clip/f42d6124-bbf8-4488-af28-a4b0c929f76b_16-9-aspect-ratio_default_0.jpg",
+        "fecha": "2026-09-12T04:00:42.000Z",
+        "fuenteId": "infolibre",
+        "fuenteTitle": "InfoLibre",
+        "categorias": [
+          "actualidad",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El monje benedictino que desafió hace 300 años la supuesta inferioridad de las mujeres",
+        "url": "https://www.infolibre.es/politica/monje-benedictino-desafio-300-anos-supuesta-inferioridad-mujeres_1_2235963.html",
+        "imagen": "https://static.infolibre.es/clip/18fff042-4bd9-46cc-b951-6832b658f0c1_16-9-aspect-ratio_default_0.jpg",
+        "fecha": "2026-09-12T04:00:42.000Z",
+        "fuenteId": "infolibre",
+        "fuenteTitle": "InfoLibre",
+        "categorias": [
+          "actualidad",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Llegó de Irán con 14 años y ahora puede ser expulsado: el rostro del endurecimiento migratorio en Suecia",
+        "url": "https://www.infolibre.es/mediapart/llego-iran-14-anos-ahora-expulsado-rostro-endurecimiento-migratorio-suecia_1_2236183.html",
+        "imagen": "https://static.infolibre.es/clip/1d1e126a-5381-49a4-8d83-a201b1297e11_16-9-aspect-ratio_default_0.jpg",
+        "fecha": "2026-09-12T04:00:42.000Z",
+        "fuenteId": "infolibre",
+        "fuenteTitle": "InfoLibre",
+        "categorias": [
+          "actualidad",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Silvia Orriols escenifica en la última Diada sin Puigdemont la consolidación de la extrema derecha como referente 'indepe'",
+        "url": "https://www.elespanol.com/espana/20260912/silvia-orriols-escenifica-ultima-diada-sin-puigdemont-consolidacion-extrema-derecha-referente-indepe/1003744381185_0.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11352425.jpg?p=w:1706/h:960&h=0QYifKsz",
+        "fecha": "2026-09-12T04:00:00.000Z",
+        "fuenteId": "el-espanol-espana",
+        "fuenteTitle": "El Español - España",
+        "categorias": [
+          "politica",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "La última novela de Gonzalo Sanz, el hijo de militar aficionado al espionaje que ejercía de interlocutor del CNI",
+        "url": "https://www.elespanol.com/espana/20260912/ultima-novela-gonzalo-sanz-hijo-militar-aficionado-espionaje-ejercia-interlocutor-cni/1003744381027_0.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11352467.jpg?p=w:1706/h:960&h=7yOjCgf_",
+        "fecha": "2026-09-12T04:00:00.000Z",
+        "fuenteId": "el-espanol-espana",
+        "fuenteTitle": "El Español - España",
+        "categorias": [
+          "politica",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El ponente del TC defiende la decisión del Supremo de no amnistiar a Puigdemont: \"Su interpretación no es caprichosa\"",
+        "url": "https://www.elespanol.com/espana/tribunales/20260912/ponente-tc-defiende-decision-supremo-no-amnistiar-puigdemont-interpretacion-caprichosa/1003744380638_0.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11033253.jpg?p=w:1706/h:960&h=GgYdZXFB",
+        "fecha": "2026-09-12T04:00:00.000Z",
+        "fuenteId": "el-espanol-espana",
+        "fuenteTitle": "El Español - España",
+        "categorias": [
+          "politica",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Moncloa presenta la dimisión del jefe de Gabinete que era el contacto del CNI en Ceuta como una desavenencia personal",
+        "url": "https://www.elespanol.com/espana/politica/20260912/moncloa-presenta-dimision-jefe-gabinete-contacto-cni-ceuta-desavenencia-personal/1003744380535_0.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11352471.jpg?p=w:1706/h:960&h=qbozALba",
+        "fecha": "2026-09-12T04:00:00.000Z",
+        "fuenteId": "el-espanol-espana",
+        "fuenteTitle": "El Español - España",
+        "categorias": [
+          "politica",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Fiscalía vuelve a alertar del caos con las pulseras antimaltrato: hay \"desigualdad territorial\" y \"carencias\" en su uso",
+        "url": "https://www.elespanol.com/espana/tribunales/20260912/fiscalia-vuelve-alertar-caos-pulseras-antimaltrato-desigualdad-territorial-carencias-uso/1003744378078_0.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11066522.jpg?p=w:1706/h:960&h=sbIN-SUT",
+        "fecha": "2026-09-12T04:00:00.000Z",
+        "fuenteId": "el-espanol-espana",
+        "fuenteTitle": "El Español - España",
+        "categorias": [
+          "politica",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Cortes de tráfico en algunas de las zonas más céntricas de Madrid durante hoy, sábado 12 de septiembre: las calles afectadas",
+        "url": "https://www.elconfidencial.com/espana/madrid/2026-09-12/cortes-trafico-madrid-zonas-afectadas-1qrt-1tna_4422115/",
+        "imagen": "https://images.ecestaticos.com/bcdB_0Pzz34tg8UUlMsw_ikHPII=/0x237:2272x1515/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fbc1%2F6c2%2Fdbd%2Fbc16c2dbd06673630e5a66ca58827bf0.jpg",
+        "fecha": "2026-09-12T03:45:00.000Z",
+        "fuenteId": "el-confidencial-espana",
+        "fuenteTitle": "El Confidencial - España",
+        "categorias": [
+          "politica",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Mujeres en la conquista de América (I): Inés de Suárez y la toma de Chile",
         "url": "https://theobjective.com/podcasts/ilustres-olvidados/ines-de-suarez-conquista-chile/",
         "imagen": "https://theobjective.com/wp-content/uploads/2024/12/356x356-ILUSTRES-OLVIDADOS.jpg",
@@ -3353,19 +3557,6 @@
         "categorias": [
           "actualidad",
           "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La guerra abierta en la Delegación de Ceuta por los avisos del salto fronterizo atrapa al Gobierno en un nuevo cruce de versiones",
-        "url": "https://elpais.com/espana/2026-09-12/la-guerra-abierta-en-la-delegacion-de-ceuta-por-los-avisos-del-salto-fronterizo-atrapa-al-gobierno-en-un-nuevo-cruce-de-versiones.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/C33U4NPQEBANTMD5XRVP65VVAY.jpg?auth=a096756a730c0536a46cfe2b952b500c700069c2339bde76802c4bb1fb6128f5",
-        "fecha": "2026-09-12T03:30:01.000Z",
-        "fuenteId": "el-pais-espana",
-        "fuenteTitle": "El País - España",
-        "categorias": [
-          "politica",
-          "actualidad"
         ],
         "idioma": "es"
       },
@@ -3383,25 +3574,12 @@
         "idioma": "es"
       },
       {
-        "titulo": "De Indra a Correos y la ‘ley de nietos’: cuatro años del PP y Vox renovando la teoría de la trampa electoral",
-        "url": "https://elpais.com/espana/2026-09-12/de-indra-a-correos-y-la-ley-de-nietos-cuatro-anos-del-pp-y-vox-renovando-la-teoria-de-la-trampa-electoral.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/6YYTBHQBQJCVNJKZRXUTUFJD2U.jpg?auth=b88418a9efeb1b2720344fd7419f23fe0beae0340f5affb287360688c8d3c186",
-        "fecha": "2026-09-12T03:30:01.000Z",
-        "fuenteId": "el-pais-espana",
-        "fuenteTitle": "El País - España",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Las derecha, Junts, empresarios y sindicatos rechazan la regulación de los lobbies del Gobierno",
-        "url": "https://elpais.com/espana/2026-09-12/las-derecha-junts-empresarios-y-sindicatos-rechazan-la-regulacion-de-los-lobbies-del-gobierno.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/2YPZM3WWRRANPHO3IFW7PA72VY.jpg?auth=6bb54387f93de2cf853f6597646ad216b395a7b21043760e2228a528a742b804",
-        "fecha": "2026-09-12T03:30:01.000Z",
-        "fuenteId": "el-pais-espana",
-        "fuenteTitle": "El País - España",
+        "titulo": "Llorca enfatiza el discurso nacional en el inicio de curso: la política valenciana se 'ceutifica'",
+        "url": "https://www.lavanguardia.com/local/valencia/20260912/11632710/llorca-enfatiza-discurso-nacional-inicio-curso-politica-valenciana-ceutifica.html",
+        "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/07/6a9e9f91eaa8c.jpeg",
+        "fecha": "2026-09-12T03:30:00.000Z",
+        "fuenteId": "la-vanguardia-politica",
+        "fuenteTitle": "La Vanguardia - Política",
         "categorias": [
           "politica",
           "actualidad"
@@ -3420,191 +3598,48 @@
           "politica"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "Maleducados",
-        "url": "https://theobjective.com/elsubjetivo/opinion/2026-09-12/maleducados-articulo-azua/",
-        "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/09/ilustracion-dos-principios-469x317.jpg",
-        "fecha": "2026-09-12T03:25:00.000Z",
-        "fuenteId": "the-objective",
-        "fuenteTitle": "The Objective",
-        "categorias": [
-          "actualidad",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Clancy y la banalidad del mal (feminismo)",
-        "url": "https://theobjective.com/elsubjetivo/opinion/2026-09-12/clancy-banalidad-mal-feminismo-articulo-de-lora/",
-        "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/09/ilustracion-congelas-banquillo-469x317.jpg",
-        "fecha": "2026-09-12T03:25:00.000Z",
-        "fuenteId": "the-objective",
-        "fuenteTitle": "The Objective",
-        "categorias": [
-          "actualidad",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Nadie al volante",
-        "url": "https://theobjective.com/elsubjetivo/opinion/2026-09-12/nadie-volante-articulo-dudda/",
-        "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/09/ilustracion-te-quiero-amigo-469x317.jpg",
-        "fecha": "2026-09-12T03:25:00.000Z",
-        "fuenteId": "the-objective",
-        "fuenteTitle": "The Objective",
-        "categorias": [
-          "actualidad",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "«Si yo no fuera pobre»",
-        "url": "https://theobjective.com/elsubjetivo/opinion/2026-09-12/si-no-fuera-pobre-articulo-varsavsky/",
-        "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2025/02/TRUMP_xi-jinping_0502-469x317.jpg",
-        "fecha": "2026-09-12T03:25:00.000Z",
-        "fuenteId": "the-objective",
-        "fuenteTitle": "The Objective",
-        "categorias": [
-          "actualidad",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La ingeniería del fraude sanchista",
-        "url": "https://theobjective.com/elsubjetivo/opinion/2026-09-12/ingenieria-fraude-sanchista-articulo-vilches/",
-        "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/09/ilustracion-inmigrantes-corrupcion-469x317.jpg",
-        "fecha": "2026-09-12T03:25:00.000Z",
-        "fuenteId": "the-objective",
-        "fuenteTitle": "The Objective",
-        "categorias": [
-          "actualidad",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El vasallo marroquí de Moncloa",
-        "url": "https://theobjective.com/elsubjetivo/opinion/2026-09-12/vasallo-marroqui-articulo-paulino-guerra/",
-        "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/08/ilustracion-sanchez-ceuta-odio-469x317.jpg",
-        "fecha": "2026-09-12T03:25:00.000Z",
-        "fuenteId": "the-objective",
-        "fuenteTitle": "The Objective",
-        "categorias": [
-          "actualidad",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Borja Yus, entrenador: «No es necesario pasar hambre ni matarte a cardio para adelgazar: hay 30 microhábitos que ayudan a perder grasa aunque parezcan insignificantes»",
-        "url": "https://theobjective.com/lifestyle/fitness/2026-09-12/borja-yus-entrenador-no-es-necesario-pasar-hambre-ni-matarte-a-cardio-para-adelgazar-hay-30-microhabitos-que-ayudan-a-perder-grasa-aunque-parezcan-insignificantes/",
-        "imagen": "https://www.youtube.com/embed/_GK-VCJglQk",
-        "fecha": "2026-09-12T03:25:00.000Z",
-        "fuenteId": "the-objective",
-        "fuenteTitle": "The Objective",
-        "categorias": [
-          "actualidad",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Mujeres en la conquista de América (I): Inés de Suárez y la toma de Chile",
-        "url": "https://theobjective.com/cultura/2026-09-12/conquista-chile-ines-suarez/",
-        "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/03/gonzalo-sandoval-469x317.png",
-        "fecha": "2026-09-12T03:25:00.000Z",
-        "fuenteId": "the-objective",
-        "fuenteTitle": "The Objective",
-        "categorias": [
-          "actualidad",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Toni Carceller, chef: «La paella valenciana de toda la vida se hace con 900 g de arroz, pollo, conejo y judía verde, pero el secreto está en sofreír bien la carne»",
-        "url": "https://theobjective.com/gastronomia/2026-09-12/toni-carceller-chef-la-paella-valenciana-de-toda-la-vida-se-hace-con-900-g-de-arroz-pollo-conejo-y-judia-verde-pero-el-secreto-esta-en-sofreir-bien-la-carne/",
-        "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/05/puesto-comida-cuba-26-5-469x317.jpg",
-        "fecha": "2026-09-12T03:25:00.000Z",
-        "fuenteId": "the-objective",
-        "fuenteTitle": "The Objective",
-        "categorias": [
-          "actualidad",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El Puerto de Bilbao prorrogó su contrato con Hamlyn hasta 2051 pese a que estaba huido",
-        "url": "https://theobjective.com/economia/energia/2026-09-12/puerto-bilbao-contrato-hamlyn-2051-huido/",
-        "imagen": "https://theobjective.com/wp-content/uploads/2026/09/captura-de-pantalla-2026-09-11-a-las-8-19-31.png",
-        "fecha": "2026-09-12T03:25:00.000Z",
-        "fuenteId": "the-objective",
-        "fuenteTitle": "The Objective",
-        "categorias": [
-          "actualidad",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Desconocida para muchos, la crítica le da un 10 de nota y ya es la serie de HBO mejor valorada de la historia",
-        "url": "https://theobjective.com/cultura/series/2026-09-12/desconocida-para-muchos-la-critica-le-da-un-10-de-nota-y-ya-es-la-serie-de-hbo-mejor-valorada-de-la-historia/",
-        "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/09/jackass-filmin-estreno-469x317.jpg",
-        "fecha": "2026-09-12T03:25:00.000Z",
-        "fuenteId": "the-objective",
-        "fuenteTitle": "The Objective",
-        "categorias": [
-          "actualidad",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Transparencia obliga a Exteriores a detallar las nacionalizaciones de la ‘ley de nietos’",
-        "url": "https://theobjective.com/espana/2026-09-12/ley-nietos-exteriores-nacionalidades/",
-        "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/05/supremo-interinos-oposicion-469x317.jpg",
-        "fecha": "2026-09-12T03:25:00.000Z",
-        "fuenteId": "the-objective",
-        "fuenteTitle": "The Objective",
-        "categorias": [
-          "actualidad",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El «imparable ascenso» del cibercrimen: el 20% de los delitos se cometen ya en la red",
-        "url": "https://theobjective.com/espana/tribunales/2026-09-12/ascenso-cibercrimen-delitos-red/",
-        "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/02/Ciberseguridad-469x317.jpg",
-        "fecha": "2026-09-12T03:25:00.000Z",
-        "fuenteId": "the-objective",
-        "fuenteTitle": "The Objective",
-        "categorias": [
-          "actualidad",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Carmen Laforet, escritora española, sobre llegar a ser feliz: «La felicidad real no es algo que se pueda perseguir, sino algo que aparece cuando menos lo esperas»",
-        "url": "https://theobjective.com/lifestyle/2026-09-12/carmen-laforet-escritora-espanola-sobre-llegar-a-ser-feliz-la-felicidad-real-no-es-algo-que-se-pueda-perseguir-sino-algo-que-aparece-cuando-menos-lo-esperas/",
-        "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/09/fiodor-dostoyevski-469x317.jpg",
-        "fecha": "2026-09-12T03:25:00.000Z",
-        "fuenteId": "the-objective",
-        "fuenteTitle": "The Objective",
-        "categorias": [
-          "actualidad",
-          "politica"
-        ],
-        "idioma": "es"
       }
     ],
     "salud": [
+      {
+        "titulo": "Los meteorólogos coinciden: España debe prepararse para un aumento de 1,5 ºC de calentamiento global en 10 años",
+        "url": "https://www.elespanol.com/ciencia/20260912/meteorologos-coinciden-espana-debe-prepararse-aumento-calentamiento-global-anos/1003744375592_0.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11344208.jpg?p=w:1706/h:960&h=AJ8J4_NF",
+        "fecha": "2026-09-12T04:00:00.000Z",
+        "fuenteId": "el-espanol-ciencia",
+        "fuenteTitle": "El Español - Ciencia",
+        "categorias": [
+          "ciencia",
+          "salud"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Expertos en longevidad recomiendan: \"Caminar no es suficiente para mejorar la salud, entrena siempre fuerza\"",
+        "url": "https://www.elespanol.com/ciencia/salud/20260912/expertos-longevidad-recomiendan-caminar-no-suficiente-mejorar-salud-entrena-siempre-fuerza/1003744372674_0.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11200609.jpg?p=c:1083:610:nowe:0:191/w:1706/h:960&h=Z-qWowTe",
+        "fecha": "2026-09-12T04:00:00.000Z",
+        "fuenteId": "el-espanol-ciencia",
+        "fuenteTitle": "El Español - Ciencia",
+        "categorias": [
+          "ciencia",
+          "salud"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Roman, el nuevo ojo de la NASA para trazar el gran mapa del universo",
+        "url": "https://www.lavanguardia.com/vida/20260912/11630088/roman-nuevo-ojo-nasa-trazar-gran-mapa-universo.html",
+        "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/08/6a9ffea08673c.jpeg",
+        "fecha": "2026-09-12T03:30:00.000Z",
+        "fuenteId": "la-vanguardia-vida",
+        "fuenteTitle": "La Vanguardia - Vida",
+        "categorias": [
+          "actualidad",
+          "salud"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Úrsula Campos, experta en oposiciones, aprobó dos a la primera y miles de alumnos ya han aplicado su método: \"Es el mejor momento para opositar\"",
         "url": "https://www.elconfidencial.com/alma-corazon-vida/2026-09-12/1qrt-ursula-campos-experta-oposiciones-aprobo-primera-metodo-miles-alumnos_4420552/",
@@ -3830,46 +3865,6 @@
           "salud",
           "hogar",
           "corazon"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Alfonso Navarro, psicólogo de adolescentes: \"El problema no es que tu hijo se aburra, es que tu no soportas verle aburrido\"",
-        "url": "https://www.elconfidencial.com/alma-corazon-vida/2026-09-11/1qrt-alfonso-navarro-psicologo-no-soportas-ver-hijo-aburrido_4404461/",
-        "imagen": "https://images.ecestaticos.com/ZJdUwSnGfwujk3xCX1iUbDIYepE=/0x12:1230x704/0x900/filters:format(png)/f.elconfidencial.com%2Foriginal%2Ffab%2F090%2F0ff%2Ffab0900ff4f48d30e37433a99d540464.png",
-        "fecha": "2026-09-11T14:45:00.000Z",
-        "fuenteId": "el-confidencial-alma-corazon-vida",
-        "fuenteTitle": "El Confidencial - Alma, Corazón y Vida",
-        "categorias": [
-          "salud",
-          "hogar",
-          "corazon"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Los entrenadores recomiendan: \"Si a los 50 años aguantas 30 segundos de puntillas, tienes fuerza y estabilidad suficiente\"",
-        "url": "https://www.elespanol.com/ciencia/20260911/entrenadores-recomiendan-anos-aguantas-segundos-puntillas-fuerza-estabilidad-suficiente/1003744377117_0.html",
-        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11349898.jpg?p=w:1706/h:960&h=hBpV1Zne",
-        "fecha": "2026-09-11T14:19:27.000Z",
-        "fuenteId": "el-espanol-ciencia",
-        "fuenteTitle": "El Español - Ciencia",
-        "categorias": [
-          "ciencia",
-          "salud"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Los meteorólogos lo confirman: \"El descenso térmico es pasajero, este fin de semana vuelven los 40 ºC a España\"",
-        "url": "https://www.elespanol.com/ciencia/meteorologia/20260911/meteorologos-confirman-descenso-termico-pasajero-fin-semana-vuelven-espana/1003744379737_0.html",
-        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11351504.jpg?p=c:1233:695:nowe:0:66/w:1706/h:960&h=09FY_hdu",
-        "fecha": "2026-09-11T14:17:01.000Z",
-        "fuenteId": "el-espanol-ciencia",
-        "fuenteTitle": "El Español - Ciencia",
-        "categorias": [
-          "ciencia",
-          "salud"
         ],
         "idioma": "es"
       }
@@ -4138,6 +4133,117 @@
     ],
     "tecnologia": [
       {
+        "titulo": "Lo inventaron los alemanes, lo perfeccionaron los japoneses, y ahora el motor más querido y polémico de la historia podría regresar con turbo",
+        "url": "https://www.diariomotor.com/noticia/patente-motor-rotativo-turbo-mazda/",
+        "imagen": "https://www.diariomotor.com/imagenes/2024/01/motor-rotativo-mazda-mx-30-r-ev-2023-01.jpg?class=XL",
+        "fecha": "2026-09-12T06:00:41.000Z",
+        "fuenteId": "diariomotor",
+        "fuenteTitle": "Diariomotor",
+        "categorias": [
+          "tecnologia",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "¿Quién está detrás de los artistas hechos con IA?: “Al quitar el obstáculo del ser humano podemos ser más arriesgados”",
+        "url": "https://elpais.com/podcasts/hoy-en-el-pais/2026-09-12/quien-esta-detras-de-los-artistas-hechos-con-ia-al-quitar-el-obstaculo-del-ser-humano-podemos-ser-mas-arriesgados.html",
+        "imagen": "https://imagenes.elpais.com/resizer/v2/S5HYTTT4YNAMXL5UT6ADXZVNLQ.jpg?auth=23928295fddcff05ebd188dfb8d2111c7c16d9120b2bd243830ec6a3d280a2d3",
+        "fecha": "2026-09-12T03:45:01.000Z",
+        "fuenteId": "el-pais",
+        "fuenteTitle": "El País",
+        "categorias": [
+          "actualidad",
+          "tecnologia",
+          "ciencia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Putin envía a sus tropas las reliquias del príncipe Donskói, mito de su guerra milenaria contra Occidente",
+        "url": "https://elpais.com/internacional/2026-09-12/putin-envia-a-sus-tropas-las-reliquias-del-principe-donskoi-mito-de-su-guerra-milenaria-contra-occidente.html",
+        "imagen": "https://imagenes.elpais.com/resizer/v2/HKEAKDNPNRP5VAFR5XPJFG7TQY.jpg?auth=050a3318e7a41d8860534e79f39f502a594cdf138a92fc98148a71e7fdb49360",
+        "fecha": "2026-09-12T03:40:00.000Z",
+        "fuenteId": "el-pais",
+        "fuenteTitle": "El País",
+        "categorias": [
+          "actualidad",
+          "tecnologia",
+          "ciencia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Entre tropas del Kremlin y aroma soviético en Transnistria, la entelequia pro rusa de Moldavia",
+        "url": "https://elpais.com/internacional/2026-09-12/entre-tropas-del-kremlin-y-aroma-sovietico-en-transnistria-la-entelequia-pro-rusa-de-moldavia.html",
+        "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260826/1207944_135220_video_1800.mp4",
+        "fecha": "2026-09-12T03:40:00.000Z",
+        "fuenteId": "el-pais",
+        "fuenteTitle": "El País",
+        "categorias": [
+          "actualidad",
+          "tecnologia",
+          "ciencia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "La película casera que ha conquistado la taquilla china",
+        "url": "https://elpais.com/internacional/historias-de-corresponsal/2026-09-12/la-pelicula-casera-que-ha-conquistado-la-taquilla-china.html",
+        "imagen": "https://imagenes.elpais.com/resizer/v2/D4LKZFIORVLMRNNJKDENRJ3DMU.jpg?auth=c609ad691058fa3008954c8e874fc1105e81e751e1f96cff49975e2fb4f0671b",
+        "fecha": "2026-09-12T03:40:00.000Z",
+        "fuenteId": "el-pais",
+        "fuenteTitle": "El País",
+        "categorias": [
+          "actualidad",
+          "tecnologia",
+          "ciencia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Raúl Incertis, médico español en Gaza: “Perdí la cuenta de los niños heridos que se quedaban sin familia en Gaza”",
+        "url": "https://elpais.com/internacional/2026-09-12/raul-incertis-medico-espanol-en-gaza-perdi-la-cuenta-de-los-ninos-heridos-que-se-quedaban-sin-familia-en-gaza.html",
+        "imagen": "https://imagenes.elpais.com/resizer/v2/2LBMOV5KDRFPBNPDMRX7UXOOIM.jpg?auth=c3c28cf3140270959eddaac285267ac0a9101a1ef7070dfce270480cf1895f65",
+        "fecha": "2026-09-12T03:40:00.000Z",
+        "fuenteId": "el-pais",
+        "fuenteTitle": "El País",
+        "categorias": [
+          "actualidad",
+          "tecnologia",
+          "ciencia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "¿Están las pantallas atontando a los niños? ¿Y a los adultos no?",
+        "url": "https://cincodias.elpais.com/opinion/2026-09-12/estan-las-pantallas-atontando-a-los-ninos-y-a-los-adultos-no.html",
+        "imagen": "https://imagenes.elpais.com/resizer/v2/XWZVLRJ2QFBYRLLRPTTHJBZERI.jpg?auth=860acf0b408bf9608e2447b5a14806dec6387d8e431dd7b206cf9398ec2edb6b",
+        "fecha": "2026-09-12T03:40:00.000Z",
+        "fuenteId": "el-pais",
+        "fuenteTitle": "El País",
+        "categorias": [
+          "actualidad",
+          "tecnologia",
+          "ciencia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "¿Quién manda en Al Qaeda? Por qué no hay otro Osama Bin Laden",
+        "url": "https://elpais.com/internacional/2026-09-12/quien-manda-en-al-qaeda-por-que-no-hay-otro-osama-bin-laden.html",
+        "imagen": "https://imagenes.elpais.com/resizer/v2/4RS46ISLT5KOXL4VXSROVGHAUU.jpg?auth=b0976cec3da5f8a07479a97157fe5f44002950eb1bea0f2791590ad0df32106a",
+        "fecha": "2026-09-12T03:39:00.000Z",
+        "fuenteId": "el-pais",
+        "fuenteTitle": "El País",
+        "categorias": [
+          "actualidad",
+          "tecnologia",
+          "ciencia"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Madrid quiere 1.602 bancos para hacer frente a las quejas de los vecinos y los asientos ‘ilegales’",
         "url": "https://elpais.com/espana/madrid/2026-09-12/madrid-quiere-1602-bancos-para-hacer-frente-a-las-quejas-de-los-vecinos-y-los-asientos-ilegales.html",
         "imagen": "https://imagenes.elpais.com/resizer/v2/XWJ4WDI7HZEIDMBPKILOAL7QDU.jpg?auth=84bbc004e959923edadcc1fb5768a16a708bb8a585b8b4991e4c83ee2c25839a",
@@ -4194,10 +4300,10 @@
         "idioma": "es"
       },
       {
-        "titulo": "Germán Sánchez Ruipérez: el editor que supo leer el futuro",
-        "url": "https://elpais.com/educacion/2026-09-11/german-sanchez-ruiperez-el-editor-que-supo-leer-el-futuro.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/M6OCGSI7BTA5FYENGSU4QIWEVE.jpg?auth=d3fa486a058bad364d26ad75ba2f5a316aa527219de8613cb3e1fa2733561f10",
-        "fecha": "2026-09-12T03:30:00.000Z",
+        "titulo": "La guerra abierta en la Delegación de Ceuta por los avisos del salto fronterizo atrapa al Gobierno en un nuevo cruce de versiones",
+        "url": "https://elpais.com/espana/2026-09-12/la-guerra-abierta-en-la-delegacion-de-ceuta-por-los-avisos-del-salto-fronterizo-atrapa-al-gobierno-en-un-nuevo-cruce-de-versiones.html",
+        "imagen": "https://imagenes.elpais.com/resizer/v2/C33U4NPQEBANTMD5XRVP65VVAY.jpg?auth=a096756a730c0536a46cfe2b952b500c700069c2339bde76802c4bb1fb6128f5",
+        "fecha": "2026-09-12T03:30:01.000Z",
         "fuenteId": "el-pais",
         "fuenteTitle": "El País",
         "categorias": [
@@ -4208,10 +4314,10 @@
         "idioma": "es"
       },
       {
-        "titulo": "La épica vida de Schwarzenegger, un culturista convertido en mito: “Si hubiera nacido en EE UU sería presidente”",
-        "url": "https://elpais.com/icon/2026-09-10/schwarzenegger-el-camino-a-la-perfeccion-de-un-mito-si-hubiera-nacido-en-ee-uu-seria-presidente.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/3TEBI3FJNZHRVPLNC4V7LBXJPE.jpg?auth=93dee76f9a4c2d0b02d646aa757e0fe1764ab910dd9a1c67ab6bedf723e23ee0",
-        "fecha": "2026-09-12T03:30:00.000Z",
+        "titulo": "De Indra a Correos y la ‘ley de nietos’: cuatro años del PP y Vox renovando la teoría de la trampa electoral",
+        "url": "https://elpais.com/espana/2026-09-12/de-indra-a-correos-y-la-ley-de-nietos-cuatro-anos-del-pp-y-vox-renovando-la-teoria-de-la-trampa-electoral.html",
+        "imagen": "https://imagenes.elpais.com/resizer/v2/6YYTBHQBQJCVNJKZRXUTUFJD2U.jpg?auth=b88418a9efeb1b2720344fd7419f23fe0beae0340f5affb287360688c8d3c186",
+        "fecha": "2026-09-12T03:30:01.000Z",
         "fuenteId": "el-pais",
         "fuenteTitle": "El País",
         "categorias": [
@@ -4222,10 +4328,10 @@
         "idioma": "es"
       },
       {
-        "titulo": "¿Cómo dejan el pelo los champús sólidos? Comparamos cuatro y tenemos un claro favorito",
-        "url": "https://elpais.com/escaparate/comparativas/mejores-champus-solidos.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/DUROMPLMTRHTTKLB56RNSBYU6I.png?auth=24f602c3e26d4905c895f40582f48ab33c8b2ee41d65c67d7486558bf9946ba7",
-        "fecha": "2026-09-12T03:30:00.000Z",
+        "titulo": "Los riesgos de la IA según los que la han visto desde dentro: “El mundo no está preparado y nosotros no estamos preparados”",
+        "url": "https://elpais.com/tecnologia/2026-09-12/los-riesgos-de-la-ia-segun-los-que-la-han-visto-desde-dentro-el-mundo-no-esta-preparado-y-nosotros-no-estamos-preparados.html",
+        "imagen": "https://imagenes.elpais.com/resizer/v2/7NQM3NV4JJBSZCF2FB3GEN7AOU.jpg?auth=b900720aec5c0afeab6134432a8ae8bb07af5b9f5890d5ffac82a2918fbbaf57",
+        "fecha": "2026-09-12T03:30:01.000Z",
         "fuenteId": "el-pais",
         "fuenteTitle": "El País",
         "categorias": [
@@ -4236,10 +4342,10 @@
         "idioma": "es"
       },
       {
-        "titulo": "El catalanismo busca en la Diada un revulsivo contra la ola reaccionaria",
-        "url": "https://elpais.com/espana/catalunya/2026-09-12/el-catalanismo-busca-en-la-diada-un-revulsivo-contra-la-ola-reaccionaria.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/KPLVEH7KWNDPLMPUSJWKX53D2U.jpg?auth=84bde54beb817fe33a6202708f578ce3d6a1ea9e629e79d102f2cde1a4aa3700",
-        "fecha": "2026-09-12T03:15:00.000Z",
+        "titulo": "El cheque electoral de Trump enciende las alarmas con el mercado de deuda al rojo vivo",
+        "url": "https://elpais.com/economia/2026-09-12/el-bono-electoral-de-trump-enciende-las-alarmas-con-el-mercado-de-deuda-al-rojo-vivo.html",
+        "imagen": "https://imagenes.elpais.com/resizer/v2/6RAWWXONZNIXFNGYEJTSNHGP3U.jpg?auth=df23a1014c6991f01be775895615a1ecf17a220f9602bf05965c27e6ce52d089",
+        "fecha": "2026-09-12T03:30:01.000Z",
         "fuenteId": "el-pais",
         "fuenteTitle": "El País",
         "categorias": [
@@ -4250,10 +4356,10 @@
         "idioma": "es"
       },
       {
-        "titulo": "La Diada y los profesionales del desastre",
-        "url": "https://elpais.com/espana/catalunya/2026-09-12/la-diada-y-los-profesionales-del-desastre.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/WL6I6WKHQJAGPFC72QMZ7ELFWE.jpg?auth=f4bdc700bc17469630f2e1ac84063a31ff21918016bca0967b248d30cedb481e",
-        "fecha": "2026-09-12T03:15:00.000Z",
+        "titulo": "Zoe Bonafonte: “Hay que disfrutar cada proyecto como si fuera el último y gestionar bien el dinero, por favor”",
+        "url": "https://elpais.com/smoda/famosos/2026-09-12/zoe-bonafonte-hay-que-disfrutar-cada-proyecto-como-si-fuera-el-ultimo-y-gestionar-bien-el-dinero-por-favor.html",
+        "imagen": "https://imagenes.elpais.com/resizer/v2/O7GDTF7WSZHRPDUGZDIC4PWHIU.jpg?auth=ffe3dee6ec18202a7b7197fe6df567b7582d5801e929130f1b075403fe0d751f",
+        "fecha": "2026-09-12T03:30:01.000Z",
         "fuenteId": "el-pais",
         "fuenteTitle": "El País",
         "categorias": [
@@ -4264,144 +4370,44 @@
         "idioma": "es"
       },
       {
-        "titulo": "Hoy No Circula sabatino: qué autos pueden circular y cuáles descansan el 12 de septiembre",
-        "url": "https://www.xataka.com/mexico/hoy-no-circula-sabatino-que-autos-pueden-circular-cuales-descansan-12-septiembre",
-        "imagen": "https://i.blogs.es/b5150a/erik-mclean-ctnwvtptul0-unsplash/1024_2000.jpeg",
-        "fecha": "2026-09-12T03:01:00.000Z",
-        "fuenteId": "xataka",
-        "fuenteTitle": "Xataka",
+        "titulo": "Kent Nagano, director de la Orquesta Nacional de España: “Rosalía va más allá del pop, sería un sueño colaborar con ella”",
+        "url": "https://elpais.com/eps/2026-09-12/kent-nagano-rosalia-va-mas-alla-del-pop-seria-un-sueno-colaborar-con-ella.html",
+        "imagen": "https://imagenes.elpais.com/resizer/v2/MP3QWBZDH5D6RAC4ZIIFJHOEBU.jpg?auth=883eb426a114a5996f5eaeb000e698dad2b7e791c97a3593b7157ac54eb8cf5f",
+        "fecha": "2026-09-12T03:30:01.000Z",
+        "fuenteId": "el-pais",
+        "fuenteTitle": "El País",
         "categorias": [
+          "actualidad",
           "tecnologia",
           "ciencia"
         ],
         "idioma": "es"
       },
       {
-        "titulo": "La 'medusa espacial': el espectacular fenómeno atmosférico que todo el mundo quiere ver",
-        "url": "https://www.elconfidencial.com/tecnologia/novaceno/2026-09-12/medusa-espacial-nuevo-feno_4422191/",
-        "imagen": "https://images.ecestaticos.com/jic_AxHdJiIBwnv8xibGaxDBGBc=/0x0:2272x1704/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fdbf%2F406%2F656%2Fdbf40665607379a56a21706655acfd5f.jpg",
-        "fecha": "2026-09-12T03:00:00.000Z",
-        "fuenteId": "el-confidencial-tecnologia",
-        "fuenteTitle": "El Confidencial - Tecnología",
-        "categorias": [
-          "tecnologia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Zelda: Ocarina of Time Remake parece tener referencias a Tears of the Kingdom",
-        "url": "https://www.nintenderos.com/nintendo-switch-2/zelda-ocarina-of-time-remake-parece-tener-referencias-a-tears-of-the-kingdom/",
-        "imagen": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f440.png",
-        "fecha": "2026-09-12T02:45:44.000Z",
-        "fuenteId": "nintenderos",
-        "fuenteTitle": "Nintenderos",
-        "categorias": [
-          "tecnologia",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Europa relanza su carrera espacial: \"Necesitamos llegar a la Luna por nuestros propios medios\"",
-        "url": "https://www.elmundo.es/ciencia/2026/09/12/6aa2d0c6e85ece160b8b458b.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/10/17890556826147.jpg",
-        "fecha": "2026-09-12T00:29:49.000Z",
-        "fuenteId": "el-mundo",
-        "fuenteTitle": "El Mundo",
+        "titulo": "David Szalay, escritor: “El sexo y la violencia son experiencias no verbales. Por eso cuesta tanto escribir sobre ellas”",
+        "url": "https://elpais.com/babelia/2026-09-12/david-szalay-escritor-el-sexo-y-la-violencia-son-experiencias-no-verbales-por-eso-cuesta-escribir-sobre-ellas.html",
+        "imagen": "https://imagenes.elpais.com/resizer/v2/JFBI35XCB5GIZCAZ73LZWQDNP4.jpg?auth=201d2a9c170a1d6b499c49d26c1d1c69fe172788117a6dfa2c06a41fa97dd22b",
+        "fecha": "2026-09-12T03:30:01.000Z",
+        "fuenteId": "el-pais",
+        "fuenteTitle": "El País",
         "categorias": [
           "actualidad",
-          "tecnologia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El envejecimiento poblacional desata unos juegos del hambre para viajar con el Imserso",
-        "url": "https://www.elmundo.es/economia/empresas/2026/09/12/6aa41b6221efa081688b45ad.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/11/17891469415333.jpg",
-        "fecha": "2026-09-12T00:29:23.000Z",
-        "fuenteId": "el-mundo",
-        "fuenteTitle": "El Mundo",
-        "categorias": [
-          "actualidad",
-          "tecnologia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La investigación sobre Ceuta que teme el PSOE engorda con documentos y testigos clave",
-        "url": "https://www.elmundo.es/espana/2026/09/12/6aa43f1721efa078738b4573.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/11/17891521391382.jpg",
-        "fecha": "2026-09-12T00:29:22.000Z",
-        "fuenteId": "el-mundo",
-        "fuenteTitle": "El Mundo",
-        "categorias": [
-          "actualidad",
-          "tecnologia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Rally de Chile: Oliver Solberg manda con autoridad, Elfyn Evans pierde terreno y Thierry Neuville cae al sexto",
-        "url": "https://www.diariomotor.com/competicion/noticia/rally-de-chile-oliver-solberg-tc6/",
-        "imagen": "https://www.diariomotor.com/imagenes/2026/09/SOLBERG12CHL26tb107-6aa4758abbbc5.jpg?class=XL",
-        "fecha": "2026-09-11T23:42:41.000Z",
-        "fuenteId": "diariomotor",
-        "fuenteTitle": "Diariomotor",
-        "categorias": [
-          "tecnologia",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Cosas curiosas que le suceden a la gente, algunas de las cuales son raras, raras y otras parecen superpoderes",
-        "url": "http://www.microsiervos.com/archivo/ciencia/curiosidades-habilidades-cuerpos-reflexos-ilusiones.html",
-        "imagen": "https://img.microsiervos.com/images2026/bodily-oddities.webp",
-        "fecha": "2026-09-11T23:32:49.000Z",
-        "fuenteId": "microsiervos",
-        "fuenteTitle": "Microsiervos",
-        "categorias": [
           "tecnologia",
           "ciencia"
         ],
         "idioma": "es"
       },
       {
-        "titulo": "Seis pandilleros detenidos por el brutal apuñalamiento del 'Nene', ex líder de los DDP de Alcobendas condenado por el crimen de las fiestas de Guadalix en 2017",
-        "url": "https://www.elmundo.es/madrid/2026/09/12/6aa3eec9fc6c832d018b45ab.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/12/17891662892597.png",
-        "fecha": "2026-09-11T22:50:12.000Z",
-        "fuenteId": "el-mundo",
-        "fuenteTitle": "El Mundo",
+        "titulo": "“Busco mujer para sexo después de misa”: cuando encontrábamos pareja a través de los anuncios por palabras",
+        "url": "https://elpais.com/icon/2026-09-12/busco-mujer-para-sexo-despues-de-misa-cuando-encontrabamos-pareja-a-traves-de-los-anuncios-por-palabras.html",
+        "imagen": "https://imagenes.elpais.com/resizer/v2/T6DLASO4NZHFZJG4GQMYTZGWLE.jpg?auth=33a9ad189cd1711d809eb96669e4869d73e13083a35f8d55ab7cf0c65451f4a5",
+        "fecha": "2026-09-12T03:30:01.000Z",
+        "fuenteId": "el-pais",
+        "fuenteTitle": "El País",
         "categorias": [
           "actualidad",
-          "tecnologia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Fire Emblem: Fortune’s Weave confirma sus primeros artículos de merchandising",
-        "url": "https://www.nintenderos.com/nintendo-switch-2/fire-emblem-fortunes-weave-confirma-sus-primeros-articulos-de-merchandising/",
-        "imagen": "",
-        "fecha": "2026-09-11T22:50:09.000Z",
-        "fuenteId": "nintenderos",
-        "fuenteTitle": "Nintenderos",
-        "categorias": [
           "tecnologia",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Los vecinos de Valdebebas ante el estreno del Gran Premio: «Me molesta más el ruido del cortacésped que el de la F1»",
-        "url": "https://www.elmundo.es/madrid/2026/09/12/6aa44ea0fc6c83a20b8b45cf.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/11/17891529965261.jpg",
-        "fecha": "2026-09-11T22:39:43.000Z",
-        "fuenteId": "el-mundo",
-        "fuenteTitle": "El Mundo",
-        "categorias": [
-          "actualidad",
-          "tecnologia"
+          "ciencia"
         ],
         "idioma": "es"
       }
