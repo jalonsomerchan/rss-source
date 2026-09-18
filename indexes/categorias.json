@@ -1,8 +1,21 @@
 {
-  "generado": "2026-09-18T00:38:45.135Z",
+  "generado": "2026-09-18T00:52:40.163Z",
   "limitePorCategoria": 20,
   "categorias": {
     "actualidad": [
+      {
+        "titulo": "Muere un motorista tras chocar con un coche en una carretera de Segovia",
+        "url": "https://www.huffingtonpost.es/sociedad/muere-motorista-chocar-coche-carretera-segovia-f202609.html",
+        "imagen": "",
+        "fecha": "2026-09-18T00:11:28.000Z",
+        "fuenteId": "huffpost-espana",
+        "fuenteTitle": "HuffPost España",
+        "categorias": [
+          "actualidad",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "OpenAI revela seis nuevos casos en los que sus modelos ocultaron errores y sortearon sus controles",
         "url": "https://www.elmundo.es/tecnologia/innovacion/2026/09/18/6aac7e7ce85ece1f628b458d.html",
@@ -229,18 +242,6 @@
         "url": "https://www.abc.es/economia/empresas-afectadas-encargan-informes-periciales-apagon-red-20260916012719-nt.html",
         "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/16/centro-control-RYyHxKE5e8LV2hdAqVfqe4J-1200x840@diario_abc.jpg",
         "fecha": "2026-09-17T23:27:19.000Z",
-        "fuenteId": "abc",
-        "fuenteTitle": "ABC",
-        "categorias": [
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Quién puede permitirse frenar la IA: el miedo a la extinción como estrategia de mercado",
-        "url": "https://www.abc.es/tecnologia/puede-permitirse-frenar-ia-miedo-extincion-estrategia-20260918012528-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/18/1517307360-RA8QASROZwKwIbjpfBpXXFL-1200x840@diario_abc.jpg",
-        "fecha": "2026-09-17T23:25:28.000Z",
         "fuenteId": "abc",
         "fuenteTitle": "ABC",
         "categorias": [
@@ -1036,6 +1037,18 @@
     ],
     "deportes": [
       {
+        "titulo": "Nicole van der Velden o el progreso de la mujer en la vela",
+        "url": "https://as.com/masdeporte/nicole-van-der-velden-o-el-progreso-de-la-mujer-en-la-vela-f202609-n/",
+        "imagen": "https://img.asmedia.epimg.net/resizer/v2/5XS3ZYB2WZBRVF7IPXV2GSZDUI.JPG?auth=cce0f73bf4e826f16ae64cc0e29d7c96135e3fb12623f83dfff090d4ab31d8f6",
+        "fecha": "2026-09-18T00:11:58.000Z",
+        "fuenteId": "as",
+        "fuenteTitle": "AS",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Jean Silva, sobre Topuria: «Gracias a Dios que se fue de mi categoría, está a otro nivel»",
         "url": "https://www.abc.es/deportes/mma/jean-silva-sobre-topuria-gracias-dios-categoria-20260918020355-nt.html",
         "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/18/jean-silva-efe-RNYHWcbGuujFuCbTWHRaC2I-1200x840@diario_abc.JPG",
@@ -1262,21 +1275,69 @@
           "deportes"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "Así está la clasificación de Primera y así estaría sin el VAR: 6ª jornada",
-        "url": "https://as.com/futbol/primera/asi-esta-la-clasificacion-de-primera-y-asi-estaria-sin-el-var-6-jornada-f202609-n/",
-        "imagen": "https://img.asmedia.epimg.net/resizer/v2/L2GUZQJXRVHR5DIWGNI2DTUT44.png?auth=93c009ca5cb058639617d82c2f78b5fdc40bda72e745ec79d6987783a038d538",
-        "fecha": "2026-09-17T21:39:00.000Z",
-        "fuenteId": "as",
-        "fuenteTitle": "AS",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
       }
     ],
     "economia": [
+      {
+        "titulo": "El director ejecutivo de XBP Global Holdings, Andrej Jonovic, compra 89.145 dólares en acciones",
+        "url": "https://es.investing.com/news/insider-trading-news/el-director-ejecutivo-de-xbp-global-holdings-andrej-jonovic-compra-89145-dolares-en-acciones-93CH-3840006",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM4519D_1200_L.jpg",
+        "fecha": "2026-09-18T00:05:41.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "La vicepresidenta sénior de Apple, Jennifer Newstead, vende acciones por 474.813 dólares",
+        "url": "https://es.investing.com/news/insider-trading-news/la-vicepresidenta-senior-de-apple-jennifer-newstead-vende-acciones-por-474813-dolares-93CH-3840004",
+        "imagen": "https://content-media.investing.com/news/apple_M_1440049056.jpg",
+        "fecha": "2026-09-18T00:02:01.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "La directora de Happen, Erin Selleck, vende acciones por 119.228 dólares",
+        "url": "https://es.investing.com/news/insider-trading-news/la-directora-de-happen-erin-selleck-vende-acciones-por-119228-dolares-93CH-3840003",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3S10Z_1200_L.jpg",
+        "fecha": "2026-09-18T00:01:53.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El director ejecutivo de Dolphin Entertainment compra acciones por 6.856 dólares",
+        "url": "https://es.investing.com/news/insider-trading-news/el-director-ejecutivo-de-dolphin-entertainment-compra-acciones-por-6856-dolares-93CH-3840002",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM4510G_1200_L.jpg",
+        "fecha": "2026-09-18T00:01:52.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Directivo de Amalgamated Financial vende acciones por 158.000 dólares",
+        "url": "https://es.investing.com/news/insider-trading-news/directivo-de-amalgamated-financial-vende-acciones-por-158000-dolares-93CH-3840001",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM4519D_1200_L.jpg",
+        "fecha": "2026-09-18T00:01:43.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Bankinter acelera el crédito en Irlanda y Portugal",
         "url": "https://www.expansion.com/empresas/banca/2026/09/18/6aac2e16e5fdea376a8b45b8.html",
@@ -1340,7 +1401,7 @@
       {
         "titulo": "DataMeds AI llega a un acuerdo, recompra acciones y reduce pasivos",
         "url": "https://es.investing.com/news/sec-filings/datameds-ai-llega-a-un-acuerdo-recompra-acciones-y-reduce-pasivos-93CH-3839999",
-        "imagen": "",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM4519D_1200_L.jpg",
         "fecha": "2026-09-17T23:47:27.000Z",
         "fuenteId": "investing-es-noticias",
         "fuenteTitle": "Investing.com España - Noticias",
@@ -1456,69 +1517,34 @@
           "economia"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "El Gobierno afronta el tercer paquete de ayudas con los combustibles descontrolados en máximos anuales",
-        "url": "https://www.abc.es/economia/cuentas-corrientes/escalada-combustibles-verano-complica-gobierno-definicion-nuevas-20260918012852-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/18/cuerpo-diazespanaayudas-RHQCZOvIF2M4wq2GOiAGSbL-1200x840@diario_abc.jpg",
-        "fecha": "2026-09-17T23:28:52.000Z",
-        "fuenteId": "abc-economia",
-        "fuenteTitle": "ABC - Economía",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El aprendiz, el brujo y la IA",
-        "url": "https://www.expansion.com/opinion/2026/09/18/6aac7352e5fdea05608b457c.html",
-        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/09/18/17896872215982.jpg",
-        "fecha": "2026-09-17T23:23:07.000Z",
-        "fuenteId": "expansion",
-        "fuenteTitle": "Expansión",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "SPB, el proveedor de limpieza de Mercadona, roza los 240 millones",
-        "url": "https://www.expansion.com/empresas/distribucion/2026/09/18/6aac71abe5fdeabb0f8b4596.html",
-        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2020/11/24/16062158728682.jpg",
-        "fecha": "2026-09-17T23:08:22.000Z",
-        "fuenteId": "expansion",
-        "fuenteTitle": "Expansión",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Fondo de Silver Lake vende 582.093 dólares en acciones de Dell Technologies",
-        "url": "https://es.investing.com/news/insider-trading-news/fondo-de-silver-lake-vende-582093-dolares-en-acciones-de-dell-technologies-93CH-3839986",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM4519D_1200_L.jpg",
-        "fecha": "2026-09-17T23:02:13.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Fernando Corral (ASOBAL): \"El balonmano no es una gran cadena; somos un restaurante de autor pequeño\"",
-        "url": "https://www.expansion.com/deporte-negocio/2026/09/18/6aac2412e5fdeaf6288b458e.html",
-        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/09/17/17896662612439.jpg",
-        "fecha": "2026-09-17T23:02:06.000Z",
-        "fuenteId": "expansion",
-        "fuenteTitle": "Expansión",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
       }
     ],
     "entretenimiento": [
+      {
+        "titulo": "'Supervivientes All Stars' deja en suspenso las votaciones para la expulsión ante una lista de nominados explosiva pero aún provisional",
+        "url": "https://eltelevisero.huffingtonpost.es/2026/09/supervivientes-all-stars-deja-en-suspenso-las-votaciones-para-la-expulsion-ante-una-lista-de-nominados-explosiva-pero-aun-provisional/",
+        "imagen": "",
+        "fecha": "2026-09-18T00:13:01.000Z",
+        "fuenteId": "el-televisero",
+        "fuenteTitle": "El Televisero",
+        "categorias": [
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Muere un motorista tras chocar con un coche en una carretera de Segovia",
+        "url": "https://www.huffingtonpost.es/sociedad/muere-motorista-chocar-coche-carretera-segovia-f202609.html",
+        "imagen": "",
+        "fecha": "2026-09-18T00:11:28.000Z",
+        "fuenteId": "huffpost-espana",
+        "fuenteTitle": "HuffPost España",
+        "categorias": [
+          "actualidad",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Nuria Roca tiene el pantalón de rayas que eleva cualquier look de entretiempo",
         "url": "https://www.elespanol.com/corazon/estilo/20260918/nuria-roca-pantalon-rayas-eleva-cualquier-look-entretiempo/1003744383787_0.html",
@@ -1740,32 +1766,6 @@
         "fuenteId": "lavanguardia-television",
         "fuenteTitle": "La Vanguardia - Televisión",
         "categorias": [
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Broncano recuerda cuál fue el vídeo más visto del programa durante mucho tiempo, con María Valverde como protagonista: \"No sé si la gente lo entendió\"",
-        "url": "https://www.huffingtonpost.es/virales/broncano-recuerda-cual-video-mas-visto-programa-maria-valverde-protagonista-no-se-gente-entendio-f202609.html",
-        "imagen": "",
-        "fecha": "2026-09-17T20:59:13.000Z",
-        "fuenteId": "huffpost-espana",
-        "fuenteTitle": "HuffPost España",
-        "categorias": [
-          "actualidad",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "\"Es un infierno\": la reacción de los concursantes tras su traslado más duro en 'Supervivientes All Stars'",
-        "url": "https://www.diezminutos.es/teleprograma/programas-tv/a73779566/reaccion-concursantes-traslado-laguna-cacao-supervivientes-all-stars/",
-        "imagen": "https://hips.hearstapps.com/hmg-prod/images/c4dbaeec-cada-4ab9-b0f7-358a90073458.jpg",
-        "fecha": "2026-09-17T20:55:00.000Z",
-        "fuenteId": "diez-minutos",
-        "fuenteTitle": "Diez Minutos",
-        "categorias": [
-          "corazon",
           "entretenimiento"
         ],
         "idioma": "es"
@@ -2291,6 +2291,19 @@
     ],
     "internacional": [
       {
+        "titulo": "Guerra en Irán empuja los precios del diésel a máximos históricos",
+        "url": "https://www.france24.com/es/programas/econom%C3%ADa/20260918-guerra-en-ir%C3%A1n-empuja-los-precios-del-di%C3%A9sel-a-m%C3%A1ximos-hist%C3%B3ricos",
+        "imagen": "https://s.france24.com/media/display/94f6472e-b2f4-11f1-95ba-61f6f55d211c/w:1024/p:16x9/2026-09-16T171401Z-792338523-RC2GKNAAXGZM-RTRMADP-3-GLOBAL-OIL.jpg",
+        "fecha": "2026-09-18T00:19:09.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Revelan una supuesta exigencia de EE. UU. para permitir \"disidentes\" en comicios de Brasil",
         "url": "https://www.france24.com/es/video/20260917-revelan-una-supuesta-exigencia-de-ee-uu-para-permitir-disidentes-en-comicios-de-brasil",
         "imagen": "https://s.france24.com/media/display/d3e34a8a-b2f0-11f1-a9e7-430f3874e448/w:1024/p:16x9/ES-20260917-163434-163614-CS.jpg",
@@ -2532,19 +2545,6 @@
         "fuenteTitle": "Euronews Español",
         "categorias": [
           "internacional"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El despegue de la India: el tercer mercado aeroespacial del mundo",
-        "url": "https://www.france24.com/es/programas/en-foco/20260917-el-despegue-de-la-india-el-tercer-mercado-aeroespacial-del-mundo",
-        "imagen": "https://s.france24.com/media/display/bcc2727a-b2c5-11f1-9cf1-5570cf9529c5/w:1024/p:16x9/En-Foco-India.jfif",
-        "fecha": "2026-09-17T20:12:08.000Z",
-        "fuenteId": "france24-espanol",
-        "fuenteTitle": "France 24 Español",
-        "categorias": [
-          "internacional",
-          "politica"
         ],
         "idioma": "es"
       }
@@ -3303,6 +3303,19 @@
     ],
     "politica": [
       {
+        "titulo": "Guerra en Irán empuja los precios del diésel a máximos históricos",
+        "url": "https://www.france24.com/es/programas/econom%C3%ADa/20260918-guerra-en-ir%C3%A1n-empuja-los-precios-del-di%C3%A9sel-a-m%C3%A1ximos-hist%C3%B3ricos",
+        "imagen": "https://s.france24.com/media/display/94f6472e-b2f4-11f1-95ba-61f6f55d211c/w:1024/p:16x9/2026-09-16T171401Z-792338523-RC2GKNAAXGZM-RTRMADP-3-GLOBAL-OIL.jpg",
+        "fecha": "2026-09-18T00:19:09.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Bruselas presiona al Gobierno en privado: «Ni un asaltante a la Península»",
         "url": "https://www.abc.es/espana/ue-presiona-gobierno-sanchez-ceuta-asaltante-peninsula-20260918013033-nt.html",
         "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/18/1517440588-U301767962474THB-1200x840@diario_abc.jpg",
@@ -3545,19 +3558,6 @@
         "fuenteTitle": "France 24 Español",
         "categorias": [
           "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Page carga contra la estrategia del Gobierno en Ceuta: «No entiendo nada desde el 30 de julio»",
-        "url": "https://theobjective.com/espana/politica/2026-09-17/page-gobierno-ceuta-entrevista/",
-        "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/06/emiliano-garcia-page-decreto-469x317.jpg",
-        "fecha": "2026-09-17T21:21:42.000Z",
-        "fuenteId": "the-objective",
-        "fuenteTitle": "The Objective",
-        "categorias": [
-          "actualidad",
           "politica"
         ],
         "idioma": "es"
