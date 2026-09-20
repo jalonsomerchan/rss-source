@@ -1,8 +1,21 @@
 {
-  "generado": "2026-09-20T02:38:45.008Z",
+  "generado": "2026-09-20T02:51:26.096Z",
   "limitePorCategoria": 20,
   "categorias": {
     "actualidad": [
+      {
+        "titulo": "Ed Sheeran admite en un concierto haber cometido \"errores\" tras la polémica por la exclusión de su gira del rapero Macklemore",
+        "url": "https://www.bbc.com/mundo/articles/cm790jgwj0z4o?at_medium=RSS&at_campaign=rss",
+        "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/846c/live/65039890-b494-11f1-8153-85d44903e598.jpg",
+        "fecha": "2026-09-20T02:22:20.000Z",
+        "fuenteId": "bbc-mundo",
+        "fuenteTitle": "BBC News Mundo",
+        "categorias": [
+          "internacional",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "La mayoría de los votantes del PSOE de Castilla-La Mancha quieren que sus 8 diputados voten en contra del modelo de financiación de Sánchez",
         "url": "https://www.elespanol.com/espana/politica/20260920/mayoria-votantes-psoe-castilla-la-mancha-quieren-diputados-voten-modelo-financiacion-sanchez/1003744389478_0.html",
@@ -227,19 +240,6 @@
         "url": "https://www.elmundo.es/internacional/2026/09/20/6aaecc11e4d4d81a288b457c.html",
         "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/19/17898403248436.jpg",
         "fecha": "2026-09-19T23:29:05.000Z",
-        "fuenteId": "el-mundo",
-        "fuenteTitle": "El Mundo",
-        "categorias": [
-          "actualidad",
-          "tecnologia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Operación independentista en España aprovechando el 'procés' británico",
-        "url": "https://www.elmundo.es/cataluna/2026/09/20/6aaeb7dae9cf4acc098b4578.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/19/17898370769114.jpg",
-        "fecha": "2026-09-19T23:28:56.000Z",
         "fuenteId": "el-mundo",
         "fuenteTitle": "El Mundo",
         "categorias": [
@@ -1285,9 +1285,21 @@
     ],
     "economia": [
       {
+        "titulo": "¿Qué tiene la UE que no tiene EE.UU.?",
+        "url": "https://es.investing.com/news/economy-news/que-tiene-la-ue-que-no-tiene-eeuu-3841560",
+        "imagen": "https://content-media.investing.com/news/LYNXMPED1J0Z4_M.jpg",
+        "fecha": "2026-09-20T02:00:44.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Cook, de Apple, elogia las restricciones de Australia en redes sociales",
         "url": "https://es.investing.com/news/economy-news/cook-de-apple-elogia-las-restricciones-de-australia-en-redes-sociales-3841558",
-        "imagen": "",
+        "imagen": "https://content-media.investing.com/news/LYNXMPED9T0W6_M.jpg",
         "fecha": "2026-09-20T01:28:18.000Z",
         "fuenteId": "investing-es-noticias",
         "fuenteTitle": "Investing.com España - Noticias",
@@ -1512,18 +1524,6 @@
         "url": "https://es.investing.com/news/stock-market-news/acabara-el-miedo-a-la-ia-con-el-boom-de-la-inteligencia-artificial-3841541",
         "imagen": "https://content-media.investing.com/news/LYNXNPEC180BO_M.jpg",
         "fecha": "2026-09-19T20:16:51.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Un analista explica por qué evitar las acciones de Nike pese a su fuerte caída",
-        "url": "https://es.investing.com/news/stock-market-news/un-analista-explica-por-que-evitar-las-acciones-de-nike-pese-a-su-fuerte-caida-3841539",
-        "imagen": "https://content-media.investing.com/news/Nike_800x533_L_1601892889.jpg",
-        "fecha": "2026-09-19T20:10:04.000Z",
         "fuenteId": "investing-es-noticias",
         "fuenteTitle": "Investing.com España - Noticias",
         "categorias": [
@@ -2309,6 +2309,32 @@
     ],
     "internacional": [
       {
+        "titulo": "Ed Sheeran admite en un concierto haber cometido \"errores\" tras la polémica por la exclusión de su gira del rapero Macklemore",
+        "url": "https://www.bbc.com/mundo/articles/cm790jgwj0z4o?at_medium=RSS&at_campaign=rss",
+        "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/846c/live/65039890-b494-11f1-8153-85d44903e598.jpg",
+        "fecha": "2026-09-20T02:22:20.000Z",
+        "fuenteId": "bbc-mundo",
+        "fuenteTitle": "BBC News Mundo",
+        "categorias": [
+          "internacional",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "\"Marcha de la bronca' en Buenos Aires contra el plan económico de Milei",
+        "url": "https://www.france24.com/es/am%C3%A9rica-latina/20260920-marcha-de-la-bronca-en-buenos-aires-contra-el-plan-econ%C3%B3mico-de-milei",
+        "imagen": "https://s.france24.com/media/display/66282cfc-b496-11f1-ad7f-9ff5c3f464d4/w:1024/p:16x9/14ccacc8c1da13a14f7034d149a3fcfe8b140a34.jpg",
+        "fecha": "2026-09-20T02:01:09.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "El adiós de Guterres, Groenlandia y la ausencia de Xi y Putin: las claves de la Asamblea General de la ONU",
         "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260920-el-adi%C3%B3s-de-guterres-groenlandia-y-la-ausencia-de-xi-y-putin-las-claves-de-la-asamblea-general-de-la-onu",
         "imagen": "https://s.france24.com/media/display/6c6ee34c-b47f-11f1-91a2-6f779f079bc8/w:1024/p:16x9/AP25270585972788.jpg",
@@ -2539,32 +2565,6 @@
         "categorias": [
           "internacional",
           "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Luis Botello: \"La Corte de EE. UU. tiene la última palabra sobre veto de Trump a los medios\"",
-        "url": "https://www.france24.com/es/video/20260919-luis-botello-la-corte-de-ee-uu-tiene-la-%C3%BAltima-palabra-sobre-veto-de-trump-a-los-medios",
-        "imagen": "https://s.france24.com/media/display/1c3988d2-b46b-11f1-8fc9-6f779f079bc8/w:1024/p:16x9/ES-20260919-150440-150951-CS.jpg",
-        "fecha": "2026-09-19T21:45:43.000Z",
-        "fuenteId": "france24-espanol",
-        "fuenteTitle": "France 24 Español",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Irán advierte de que las acciones de EEUU e Israel podrían llevarlo a abandonar el Tratado de No Proliferación Nuclear",
-        "url": "https://www.elconfidencial.com/mundo/2026-09-19/iran-condiciones-negociacion-estados-unidos-1tps_4427604/",
-        "imagen": "https://images.ecestaticos.com/H2ENA4teTWDD-gHjeqQw_aKTKBs=/0x0:2272x1501/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fdf5%2Ff8e%2F672%2Fdf5f8e67214ebabe8ac190af9ef4d4b0.jpg",
-        "fecha": "2026-09-19T21:23:00.000Z",
-        "fuenteId": "el-confidencial-mundo",
-        "fuenteTitle": "El Confidencial - Mundo",
-        "categorias": [
-          "internacional",
-          "actualidad"
         ],
         "idioma": "es"
       }
@@ -3069,6 +3069,18 @@
     ],
     "moda": [
       {
+        "titulo": "Horóscopo diario de hoy, domingo 20 de septiembre de 2026: predicción para todos los signos del Zodíaco",
+        "url": "https://www.marie-claire.es/horoscopo/horoscopo-diario-20-septiembre-2026.html",
+        "imagen": "",
+        "fecha": "2026-09-20T02:00:00.000Z",
+        "fuenteId": "marie-claire-espana",
+        "fuenteTitle": "Marie Claire España",
+        "categorias": [
+          "moda"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "CHOPOVA LOWENA - Detalles",
         "url": "https://www.harpersbazaar.com/es/pasarelas/primavera-verano-2027/g73805192/chopova-lowena-iul8-ynr-detalles/",
         "imagen": "https://hips.hearstapps.com/hmg-catwalk/catwalk/chopova-lowena/4e849adf-7bbd-4480-9091-4bc6527f3784.jpg",
@@ -3298,21 +3310,22 @@
           "moda"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "DREAMING ELI - Backstage",
-        "url": "https://www.elle.com/es/pasarelas/primavera-verano-2027/g73803392/dreaming-eli-3syeoaui-backstage/",
-        "imagen": "https://hips.hearstapps.com/hmg-catwalk/catwalk/dreaming-eli/d61f89f1-3648-4d27-bf37-80a7f4785ae0.jpg",
-        "fecha": "2026-09-19T19:45:07.000Z",
-        "fuenteId": "elle-espana",
-        "fuenteTitle": "Elle España",
-        "categorias": [
-          "moda"
-        ],
-        "idioma": "es"
       }
     ],
     "politica": [
+      {
+        "titulo": "\"Marcha de la bronca' en Buenos Aires contra el plan económico de Milei",
+        "url": "https://www.france24.com/es/am%C3%A9rica-latina/20260920-marcha-de-la-bronca-en-buenos-aires-contra-el-plan-econ%C3%B3mico-de-milei",
+        "imagen": "https://s.france24.com/media/display/66282cfc-b496-11f1-ad7f-9ff5c3f464d4/w:1024/p:16x9/14ccacc8c1da13a14f7034d149a3fcfe8b140a34.jpg",
+        "fecha": "2026-09-20T02:01:09.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "El adiós de Guterres, Groenlandia y la ausencia de Xi y Putin: las claves de la Asamblea General de la ONU",
         "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260920-el-adi%C3%B3s-de-guterres-groenlandia-y-la-ausencia-de-xi-y-putin-las-claves-de-la-asamblea-general-de-la-onu",
@@ -3552,19 +3565,6 @@
         "url": "https://www.abc.es/espana/vox-rebaja-presion-pp-beneficiar-sanchez-20260918012253-nt.html",
         "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/18/1517365623-RAViLNcdcpjFWnzeer20OrK-1200x840@diario_abc.JPG",
         "fecha": "2026-09-19T23:23:06.000Z",
-        "fuenteId": "abc-espana",
-        "fuenteTitle": "ABC - España",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Feijóo multiplica movimientos en Europa para acorralar a Sánchez con la gestión de Ceuta",
-        "url": "https://www.abc.es/espana/feijoo-multiplica-movimientos-europa-acorralar-sanchez-gestion-20260920012223-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/20/1516934392-RvowH01xErqjebPB7rzqiIP-1200x840@diario_abc.jpg",
-        "fecha": "2026-09-19T23:23:00.000Z",
         "fuenteId": "abc-espana",
         "fuenteTitle": "ABC - España",
         "categorias": [
