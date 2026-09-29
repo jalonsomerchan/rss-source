@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-29T01:45:05.286Z",
+  "generado": "2026-09-29T01:51:37.076Z",
   "limitePorCategoria": 20,
   "categorias": {
     "actualidad": [
@@ -12,6 +12,18 @@
         "fuenteTitle": "Diariomotor",
         "categorias": [
           "tecnologia",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Trump deroga las normas de Biden que ampliaban la protección de los alumnos LGTBI frente a la discriminación sexual",
+        "url": "https://www.20minutos.es/internacional/trump-deroga-las-normas-biden-que-ampliaban-proteccion-los-alumnos-lgtbi-frente-discriminacion-sexual_7042472_0.html",
+        "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/29/6abb0c6e721c28-40187159.jpeg",
+        "fecha": "2026-09-29T01:00:15.000Z",
+        "fuenteId": "20minutos",
+        "fuenteTitle": "20minutos",
+        "categorias": [
           "actualidad"
         ],
         "idioma": "es"
@@ -241,19 +253,6 @@
         "url": "https://www.lavanguardia.com/vida/20260929/11646244/habria-caso-maricarmen.html",
         "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
         "fecha": "2026-09-28T23:35:02.000Z",
-        "fuenteId": "la-vanguardia-vida",
-        "fuenteTitle": "La Vanguardia - Vida",
-        "categorias": [
-          "actualidad",
-          "salud"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "“Patriotismo es evitar que una anciana acabe en la calle”",
-        "url": "https://www.lavanguardia.com/vida/20260929/11646243/patriotismo-evitar-anciana-acabe-calle.html",
-        "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/29/6abaf99a92dee.jpeg",
-        "fecha": "2026-09-28T23:34:59.000Z",
         "fuenteId": "la-vanguardia-vida",
         "fuenteTitle": "La Vanguardia - Vida",
         "categorias": [
@@ -1305,6 +1304,78 @@
     ],
     "economia": [
       {
+        "titulo": "El director ejecutivo de Monopar Therapeutics Robinson vende 2,56 millones de dólares en acciones",
+        "url": "https://es.investing.com/news/insider-trading-news/el-director-ejecutivo-de-monopar-therapeutics-robinson-vende-256-millones-de-dolares-en-acciones-93CH-3852546",
+        "imagen": "",
+        "fecha": "2026-09-29T01:16:53.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Director de Photronics Lee vende acciones por 221.250 dólares",
+        "url": "https://es.investing.com/news/insider-trading-news/director-de-photronics-lee-vende-acciones-por-221250-dolares-93CH-3852545",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3S10Z_1200_L.jpg",
+        "fecha": "2026-09-29T01:16:49.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "CSL se asocia con AWS para impulsar la IA en investigación farmacéutica",
+        "url": "https://es.investing.com/news/stock-market-news/csl-se-asocia-con-aws-para-impulsar-la-ia-en-investigacion-farmaceutica-93CH-3852543",
+        "imagen": "https://content-media.investing.com/news/amazon_M_1440049058.jpg",
+        "fecha": "2026-09-29T01:12:55.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Los futuros de EE.UU. se estabilizan tras el alza de rendimientos y el nerviosismo por la IA",
+        "url": "https://es.investing.com/news/stock-market-news/los-futuros-de-las-acciones-en-eeuu-se-estabilizan-tras-el-alza-de-rendimientos-y-el-nerviosismo-por-la-ia-3852542",
+        "imagen": "https://content-media.investing.com/news/LYNXMPEM5F17R_1200_L.jpg",
+        "fecha": "2026-09-29T00:58:17.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El CFO de Zscaler, Kevin Rubin, vende 102.390 dólares en acciones ZS",
+        "url": "https://es.investing.com/news/insider-trading-news/el-cfo-de-zscaler-kevin-rubin-vende-102390-dolares-en-acciones-zs-93CH-3852540",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM4510G_1200_L.jpg",
+        "fecha": "2026-09-29T00:46:52.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Steven Binder vende 128.477 dólares en acciones de MannKind (MNKD)",
+        "url": "https://es.investing.com/news/insider-trading-news/steven-binder-vende-128477-dolares-en-acciones-de-mannkind-mnkd-93CH-3852539",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3S10Z_1200_L.jpg",
+        "fecha": "2026-09-29T00:46:49.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Julong anuncia una colocación privada de 897.750 dólares en acciones y warrants",
         "url": "https://es.investing.com/news/company-news/julong-anuncia-una-colocacion-privada-de-897750-dolares-en-acciones-y-warrants-93CH-3852538",
         "imagen": "https://content-media.investing.com/news/LYNXMPEM451H2_1200_L.jpg",
@@ -1466,78 +1537,6 @@
         "url": "https://www.expansion.com/opinion/2026/09/29/6abada6be5fdea7e378b458a.html",
         "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/09/28/17906309029577.jpg",
         "fecha": "2026-09-28T23:58:45.000Z",
-        "fuenteId": "expansion",
-        "fuenteTitle": "Expansión",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Javier Quirós toma el relevo en Grupo Cañadío",
-        "url": "https://www.expansion.com/estilo-vida/rincones-gastronomicos/2026/09/29/6abaf92de5fdeae73c8b4589.html",
-        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/09/29/17906391475326.jpg",
-        "fecha": "2026-09-28T23:48:25.000Z",
-        "fuenteId": "expansion",
-        "fuenteTitle": "Expansión",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "OpenAI cancela el lanzamiento de un nuevo modelo por problemas de seguridad",
-        "url": "https://es.investing.com/news/stock-market-news/openai-cancela-el-lanzamiento-de-un-nuevo-modelo-por-problemas-de-seguridad-3852521",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEL4K0QW_L.jpg",
-        "fecha": "2026-09-28T23:47:09.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Director de Hennessy Advisors Thomas Seavey vende 19.031 dólares en acciones",
-        "url": "https://es.investing.com/news/insider-trading-news/director-de-hennessy-advisors-thomas-seavey-vende-19031-dolares-en-acciones-93CH-3852519",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM450ND_1200_L.jpg",
-        "fecha": "2026-09-28T23:46:15.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "First Atlantic Nickel cierra una financiación de 3,77 millones de dólares para perforaciones",
-        "url": "https://es.investing.com/news/company-news/first-atlantic-nickel-cierra-una-financiacion-de-377-millones-de-dolares-para-perforaciones-93CH-3852518",
-        "imagen": "https://content-media.investing.com/news/LYNXMPEM1H1CM_1200_L.jpg",
-        "fecha": "2026-09-28T23:41:43.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Ivanhoe Mines en Mining Forum Americas 2026: cobre y metales críticos",
-        "url": "https://es.investing.com/news/transcripts/ivanhoe-mines-en-mining-forum-americas-2026-cobre-y-metales-criticos-93CH-3852517",
-        "imagen": "https://content-media.investing.com/news/LYNXNPEB65083_M.jpg",
-        "fecha": "2026-09-28T23:41:39.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Trump confirma que estudia vetar la exportación de diésel \"seriamente\"",
-        "url": "https://www.expansion.com/economia/2026/09/29/6abaf768468aeb083d8b4589.html",
-        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/09/29/17906381925172.jpg",
-        "fecha": "2026-09-28T23:31:31.000Z",
         "fuenteId": "expansion",
         "fuenteTitle": "Expansión",
         "categorias": [
