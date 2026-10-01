@@ -1,8 +1,21 @@
 {
-  "generado": "2026-10-01T02:49:49.138Z",
+  "generado": "2026-10-01T02:51:40.356Z",
   "limitePorCategoria": 20,
   "categorias": {
     "actualidad": [
+      {
+        "titulo": "Nacho Duato ve quién va a actuar en los Teatros del Canal y lanza un aviso: \"Si no lo suspenden, iremos a la puerta a manifestarnos\"",
+        "url": "https://www.huffingtonpost.es/virales/nacho-duato-ve-actuar-teatros-canal-lanza-aviso-si-suspenden-iremos-puerta-manifestarnos-f202610.html",
+        "imagen": "",
+        "fecha": "2026-10-01T01:58:38.000Z",
+        "fuenteId": "huffpost-espana",
+        "fuenteTitle": "HuffPost España",
+        "categorias": [
+          "actualidad",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Vida de magnate de Sean Combs en prisión: reclusos que le limpian, le cocinan o le hacen masaje chinos",
         "url": "https://www.lavanguardia.com/gente/20261001/11647967/vida-magnate-sean-combs-prision-reclusos-le-limpian-le-cocinan-le-masaje-chinos.html",
@@ -240,19 +253,6 @@
         "url": "https://www.elmundo.es/economia/empresas/2026/10/01/6abd3e5921efa04e1a8b45c5.html",
         "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/30/17907874540406.jpg",
         "fecha": "2026-09-30T23:50:33.000Z",
-        "fuenteId": "el-mundo",
-        "fuenteTitle": "El Mundo",
-        "categorias": [
-          "actualidad",
-          "tecnologia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El escándalo que hizo temblar la torre Eiffel",
-        "url": "https://www.elmundo.es/internacional/2026/10/01/6abd0e5021efa038428b458c.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/30/17907761424183.jpg",
-        "fecha": "2026-09-30T23:50:32.000Z",
         "fuenteId": "el-mundo",
         "fuenteTitle": "El Mundo",
         "categorias": [
@@ -1057,6 +1057,18 @@
     ],
     "deportes": [
       {
+        "titulo": "Nico Paz es el sucesor",
+        "url": "https://as.com/futbol/internacional/paz-es-el-sucesor-f202610-n/",
+        "imagen": "https://img.asmedia.epimg.net/resizer/v2/H6KQ4TTU55M3TCMNH4DONYRIGU.jpg?auth=6c7a4f154942579fe0e0eb414a0b7375b7b151e659f4d2f0e74de3b3d4921eb1",
+        "fecha": "2026-10-01T01:55:32.000Z",
+        "fuenteId": "as",
+        "fuenteTitle": "AS",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "El último tren de Camavinga",
         "url": "https://as.com/opinion/el-ultimo-tren-de-camavinga-f202610-n/",
         "imagen": "https://img.asmedia.epimg.net/resizer/v2/UJ4V6R2FSZO2JKBRSHYRQSK75Y.jpg?auth=2f669aaba7df7a27af4eaa696007569d8bbd29c87f025304caf9143c0b5cd170",
@@ -1298,22 +1310,69 @@
           "economia"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "El CEO de FC Barcelona sale del club y el director financiero promociona",
-        "url": "https://palco23.mundodeportivo.com/clubes/el-ceo-de-fc-barcelona-sale-del-club-y-el-director-financiero-promociona",
-        "imagen": "",
-        "fecha": "2026-10-01T00:26:34.751Z",
-        "fuenteId": "palco23",
-        "fuenteTitle": "Palco23",
-        "categorias": [
-          "deportes",
-          "economia"
-        ],
-        "idioma": "es"
       }
     ],
     "economia": [
+      {
+        "titulo": "¿Por qué se desploma hoy la acción de Nidec?",
+        "url": "https://es.investing.com/news/stock-market-news/por-que-se-desploma-hoy-la-accion-de-nidec-93CH-3856360",
+        "imagen": "https://content-media.investing.com/news/LYNXNPEC0D0AP_M.jpg",
+        "fecha": "2026-10-01T02:24:03.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Li Auto entrega 31.817 vehículos en septiembre de 2026",
+        "url": "https://es.investing.com/news/company-news/li-auto-entrega-31817-vehiculos-en-septiembre-de-2026-93CH-3856357",
+        "imagen": "https://content-media.investing.com/news/LYNXMPEM0M17X_1200_L.jpg",
+        "fecha": "2026-10-01T02:17:10.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "BX Buzz ML-1 GP LLC vende acciones de Bumble (BMBL) por 11,07 millones de dólares",
+        "url": "https://es.investing.com/news/insider-trading-news/bx-buzz-ml1-gp-llc-vende-acciones-de-bumble-bmbl-por-1107-millones-de-dolares-93CH-3856356",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3T1K3_1200_L.jpg",
+        "fecha": "2026-10-01T02:17:09.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Las acciones de Nidec se desploman tras la negativa de su auditor a avalar sus resultados",
+        "url": "https://es.investing.com/news/stock-market-news/las-acciones-de-nidec-se-desploman-tras-la-negativa-de-su-auditor-a-avalar-sus-resultados-3856359",
+        "imagen": "https://content-media.investing.com/news/Bearish_2_M_1440047892.jpg",
+        "fecha": "2026-10-01T02:16:23.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "+35%, +33%: Las acciones de chips de IA cierran un septiembre histórico",
+        "url": "https://es.investing.com/news/investment-ideas/35-33-las-acciones-de-chips-de-ia-cierran-un-septiembre-historico-3856354",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM4510G_1200_L.jpg",
+        "fecha": "2026-10-01T01:52:19.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "El superávit comercial de Australia se reduce a 495 millones de dólares australianos en agosto",
         "url": "https://es.investing.com/news/economic-indicators/el-superavit-comercial-de-australia-se-reduce-a-495-millones-de-dolares-australianos-en-agosto-3856352",
@@ -1496,74 +1555,22 @@
           "economia"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "La licitación de instalaciones deportivas crece y roza los 1.400 millones hasta agosto",
-        "url": "https://palco23.mundodeportivo.com/entorno/la-licitacion-de-instalaciones-deportivas-crece-y-roza-los-1400-millones-hasta-agosto",
-        "imagen": "",
-        "fecha": "2026-10-01T00:26:34.751Z",
-        "fuenteId": "palco23",
-        "fuenteTitle": "Palco23",
-        "categorias": [
-          "deportes",
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Girondins de Burdeos cambia de manos: Gérard López vende el club al fondo Park Bench",
-        "url": "https://palco23.mundodeportivo.com/clubes/girondins-de-burdeos-cambia-de-manos-gerard-lopez-vende-el-club-al-fondo-britanico-park-bench",
-        "imagen": "",
-        "fecha": "2026-10-01T00:26:34.751Z",
-        "fuenteId": "palco23",
-        "fuenteTitle": "Palco23",
-        "categorias": [
-          "deportes",
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "YouTube refuerza su equipo deportivo con la llegada de un veterano de la MLB",
-        "url": "https://palco23.mundodeportivo.com/media/youtube-refuerza-su-equipo-deportivo-con-la-llegada-de-un-veterano-de-la-mlb",
-        "imagen": "",
-        "fecha": "2026-10-01T00:26:34.751Z",
-        "fuenteId": "palco23",
-        "fuenteTitle": "Palco23",
-        "categorias": [
-          "deportes",
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La NBA reduce a tres candidaturas la puja por su franquicia de expansión en Las Vegas",
-        "url": "https://palco23.mundodeportivo.com/competiciones/la-nba-reduce-a-tres-candidaturas-la-puja-por-su-franquicia-de-expansion-en-las-vegas",
-        "imagen": "",
-        "fecha": "2026-10-01T00:26:34.751Z",
-        "fuenteId": "palco23",
-        "fuenteTitle": "Palco23",
-        "categorias": [
-          "deportes",
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Juventus pierde 66 millones en 2025-2026 y prepara una ampliación de 250 millones",
-        "url": "https://palco23.mundodeportivo.com/clubes/juventus-cierra-el-ejercicio-25-26-con-66-millones-de-perdidas-y-prepara-una-ampliacion-de-capital-de-250-millones",
-        "imagen": "",
-        "fecha": "2026-10-01T00:26:34.751Z",
-        "fuenteId": "palco23",
-        "fuenteTitle": "Palco23",
-        "categorias": [
-          "deportes",
-          "economia"
-        ],
-        "idioma": "es"
       }
     ],
     "entretenimiento": [
+      {
+        "titulo": "Nacho Duato ve quién va a actuar en los Teatros del Canal y lanza un aviso: \"Si no lo suspenden, iremos a la puerta a manifestarnos\"",
+        "url": "https://www.huffingtonpost.es/virales/nacho-duato-ve-actuar-teatros-canal-lanza-aviso-si-suspenden-iremos-puerta-manifestarnos-f202610.html",
+        "imagen": "",
+        "fecha": "2026-10-01T01:58:38.000Z",
+        "fuenteId": "huffpost-espana",
+        "fuenteTitle": "HuffPost España",
+        "categorias": [
+          "actualidad",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Este curioso error estaba presente en la versión preliminar de New Super Luigi U",
         "url": "https://www.nintenderos.com/2026/10/este-curioso-error-estaba-presente-en-la-version-preliminar-de-new-super-luigi-u/",
@@ -1802,19 +1809,6 @@
         "fuenteId": "el-televisero",
         "fuenteTitle": "El Televisero",
         "categorias": [
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "The Witcher 3: Wild Hunt Remastered en Nintendo Switch 2: Todos los cambios, mejoras visuales y novedades",
-        "url": "https://www.nintenderos.com/2026/10/the-witcher-3-wild-hunt-remastered-en-nintendo-switch-2-todos-los-cambios-mejoras-visuales-y-novedades/",
-        "imagen": "https://imagenes2.mundodeportivo.com/uploads/2026/09/28/6aba4a4d0db2c.jpeg",
-        "fecha": "2026-09-30T22:50:00.000Z",
-        "fuenteId": "nintenderos",
-        "fuenteTitle": "Nintenderos",
-        "categorias": [
-          "tecnologia",
           "entretenimiento"
         ],
         "idioma": "es"
@@ -2340,6 +2334,19 @@
     ],
     "internacional": [
       {
+        "titulo": "Hollywood se sacude: una jueza aprueba la histórica fusión de Warner Bros. Discovery con Paramount",
+        "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261001-hollywood-se-sacude-una-jueza-aprueba-la-hist%C3%B3rica-fusi%C3%B3n-de-warner-bros-discovery-con-paramount",
+        "imagen": "https://s.france24.com/media/display/2c2a999a-bd1a-11f1-8121-d367a0468893/w:1024/p:16x9/063-2296482973.jpg",
+        "fecha": "2026-10-01T02:09:58.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "La Corte Suprema de EE.UU. autoriza finalmente la ejecución de Christa Pike, la mujer condenada a muerte en Tennessee por un brutal asesinato",
         "url": "https://www.bbc.com/mundo/articles/cmx2zrrqqx92o?at_medium=RSS&at_campaign=rss",
         "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c395/live/93e18220-bcdd-11f1-afec-ebbb2634c4cd.png",
@@ -2583,18 +2590,6 @@
         "categorias": [
           "internacional",
           "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Colombia prepara nuevas reglas para las protestas: qué cambia y cuándo podrá intervenir la Policía",
-        "url": "https://es.euronews.com/2026/09/30/colombia-nuevas-reglas-protestas-policia-decreto",
-        "imagen": "",
-        "fecha": "2026-09-30T21:00:27.000Z",
-        "fuenteId": "euronews-espanol",
-        "fuenteTitle": "Euronews Español",
-        "categorias": [
-          "internacional"
         ],
         "idioma": "es"
       }
@@ -3344,6 +3339,19 @@
     ],
     "politica": [
       {
+        "titulo": "Hollywood se sacude: una jueza aprueba la histórica fusión de Warner Bros. Discovery con Paramount",
+        "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261001-hollywood-se-sacude-una-jueza-aprueba-la-hist%C3%B3rica-fusi%C3%B3n-de-warner-bros-discovery-con-paramount",
+        "imagen": "https://s.france24.com/media/display/2c2a999a-bd1a-11f1-8121-d367a0468893/w:1024/p:16x9/063-2296482973.jpg",
+        "fecha": "2026-10-01T02:09:58.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Netanyahu felicita a pasajero del vuelo Dubái-Tel Aviv que ayudó a neutralizar al copiloto",
         "url": "https://www.france24.com/es/video/20261001-netanyahu-felicita-a-pasajero-del-vuelo-dub%C3%A1i-tel-aviv-que-ayud%C3%B3-a-neutralizar-al-copiloto",
         "imagen": "https://s.france24.com/media/display/cf525032-bd28-11f1-9fdb-ddce071186a9/w:1024/p:16x9/ES-20260930-180159-180346-CS.jpg",
@@ -3587,19 +3595,6 @@
         "categorias": [
           "internacional",
           "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Las lluvias y tormentas pondrán mañana en aviso a 9 CCAA, 5 en nivel naranja por precipitaciones",
-        "url": "https://www.elconfidencial.com/espana/2026-10-01/lluvias-tormentas-avisos-aemet-1hms_4435798/",
-        "imagen": "https://images.ecestaticos.com/13QJB_Z61TnK-6xl8RRGcDLE0XM=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F1aa%2Ff3e%2F052%2F1aaf3e052f0d65e7665320aa1f3a5bd3.jpg",
-        "fecha": "2026-09-30T22:22:00.000Z",
-        "fuenteId": "el-confidencial-espana",
-        "fuenteTitle": "El Confidencial - España",
-        "categorias": [
-          "politica",
-          "actualidad"
         ],
         "idioma": "es"
       }
