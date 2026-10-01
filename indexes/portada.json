@@ -1,8 +1,528 @@
 {
-  "generado": "2026-10-01T23:21:34.968Z",
+  "generado": "2026-10-01T23:41:33.574Z",
   "limite": 50,
-  "total": 389065,
+  "total": 389109,
   "noticias": [
+    {
+      "titulo": "Así sería España en vivienda, según el PP: 'shock' de construcción en 18 meses y 3 millones en 14 años",
+      "url": "https://www.elmundo.es/espana/2026/10/01/6abe7c36e85ecec0108b45c0.html",
+      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/01/17908746329354.jpg",
+      "fecha": "2026-10-01T23:20:20.000Z",
+      "fuenteId": "el-mundo",
+      "fuenteTitle": "El Mundo",
+      "categorias": [
+        "actualidad",
+        "tecnologia"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "El vicepresidente ejecutivo de HPE, Rami Rahim, vende acciones por 2,12 millones de dólares",
+      "url": "https://es.investing.com/news/insider-trading-news/el-vicepresidente-ejecutivo-de-hpe-rami-rahim-vende-acciones-por-212-millones-de-dolares-93CH-3858222",
+      "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3S10Z_1200_L.jpg",
+      "fecha": "2026-10-01T23:17:06.000Z",
+      "fuenteId": "investing-es-noticias",
+      "fuenteTitle": "Investing.com España - Noticias",
+      "categorias": [
+        "economia"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Ni cocida ni con bechamel: tres recetas con coliflor para aprovechar una de las verduras estrella del otoño",
+      "url": "https://www.hola.com/cocina/recetas/20261001902115/coliflor-recetas-faciles-originales/",
+      "imagen": "https://www.hola.com/horizon/landscape/a95f6f0836ae-base-de-pizza-2.jpg",
+      "fecha": "2026-10-01T23:14:00.000Z",
+      "fuenteId": "hola",
+      "fuenteTitle": "¡Hola!",
+      "categorias": [
+        "corazon",
+        "moda"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "El engaño del Gobierno en la 'ley de nietos': el Constitucional fijó hace 15 años que las enmiendas intrusas no son legales",
+      "url": "https://www.elmundo.es/espana/2026/10/02/6abe7c13e85ecedf328b4582.html",
+      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/01/17908777230822.jpg",
+      "fecha": "2026-10-01T23:13:46.000Z",
+      "fuenteId": "el-mundo",
+      "fuenteTitle": "El Mundo",
+      "categorias": [
+        "actualidad",
+        "tecnologia"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "El Rey Felipe no llamará a Mohamed VI antes de visitar Ceuta y Melilla y España espera una \"respuesta\" de Marruecos",
+      "url": "https://www.elmundo.es/espana/2026/10/02/6abe760ae4d4d88f6e8b45a2.html",
+      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/01/17908670182322.jpg",
+      "fecha": "2026-10-01T23:13:45.000Z",
+      "fuenteId": "el-mundo",
+      "fuenteTitle": "El Mundo",
+      "categorias": [
+        "actualidad",
+        "tecnologia"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Junts rechaza el decreto de vivienda y mete a Sánchez en la UCI: \"Es terrible, un fracaso\"",
+      "url": "https://www.elmundo.es/espana/2026/10/02/6abe935ce4d4d8bf498b45ab.html",
+      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/01/17908910933765.jpg",
+      "fecha": "2026-10-01T23:13:44.000Z",
+      "fuenteId": "el-mundo",
+      "fuenteTitle": "El Mundo",
+      "categorias": [
+        "actualidad",
+        "tecnologia"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Los demócratas preparan el cerco a Trump por Venezuela",
+      "url": "https://www.abc.es/internacional/democratas-preparan-cerco-trump-venezuela-20260927011313-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/27/foto%20alandete_20260929195151-RNISDzXg1qHXEZLKprWQbsM-1200x672@diario_abc.jpg",
+      "fecha": "2026-10-01T23:13:13.000Z",
+      "fuenteId": "abc",
+      "fuenteTitle": "ABC",
+      "categorias": [
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Su Eminencia, el barrio de Sevilla que desafío al franquismo",
+      "url": "https://www.abc.es/podcast/estamos-en-la-historia/eminencia-barrio-sevilla-desafio-franquismo-20261002011306-aud.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/podcast/2026/10/02/cuadrada-R9SgON6cFopMddYbRhLzHhJ-1200x1200@diario_abc.jpg",
+      "fecha": "2026-10-01T23:13:06.000Z",
+      "fuenteId": "abc",
+      "fuenteTitle": "ABC",
+      "categorias": [
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Niños de apenas tres años ante un juez: la crisis de los menores migrantes sin abogado en EE.UU.",
+      "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261001-ni%C3%B1os-de-apenas-tres-a%C3%B1os-ante-un-juez-la-crisis-de-los-menores-migrantes-sin-abogado-en-ee-uu",
+      "imagen": "https://s.france24.com/media/display/d62da91a-3c18-11f1-9fea-005056bf30b7/w:1024/p:16x9/AP26073038372184.jpg",
+      "fecha": "2026-10-01T23:09:45.000Z",
+      "fuenteId": "france24-espanol",
+      "fuenteTitle": "France 24 Español",
+      "categorias": [
+        "internacional",
+        "politica"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Luis Hernández, el 'sheriff' de Miami: de los grilletes a las guantillas de la UFC",
+      "url": "https://www.abc.es/deportes/mma/luis-hernandez-sheriff-miami-grilletes-guantillas-ufc-20261002010937-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/10/02/luis-hernandez-ufc-RgL2kKBu4KTlBuwuD5tXh1J-1200x840@diario_abc.jpeg",
+      "fecha": "2026-10-01T23:09:37.000Z",
+      "fuenteId": "abc-deportes",
+      "fuenteTitle": "ABC - Deportes",
+      "categorias": [
+        "deportes"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "De futbolista a 'hooligan': la foto de Cazorla que emociona en Oviedo",
+      "url": "https://www.abc.es/deportes/futbol/cazorla-hugo-mallo-futbolistas-convierten-hooligans-20260930010929-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/30/cazorla-RCyyjqq7qYJqjARvY6Nx6ON-1200x840@diario_abc.jpg",
+      "fecha": "2026-10-01T23:09:29.000Z",
+      "fuenteId": "abc-deportes",
+      "fuenteTitle": "ABC - Deportes",
+      "categorias": [
+        "deportes"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Nicola D'Amelio, investigador: «Queremos tratar el cáncer utilizando el yogur como caballo de Troya»",
+      "url": "https://www.abc.es/salud/enfermedades/nicola-damelio-investigador-queremos-tratar-cancer-utilizando-20260821010921-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/salud/2026/08/21/260622_JorgeLMartinez_ChE_MDM_LQ-1-Rtp5phLfAyxTs4YtlZ184zL-1200x840@diario_abc.jpg",
+      "fecha": "2026-10-01T23:09:21.000Z",
+      "fuenteId": "abc-salud",
+      "fuenteTitle": "ABC - Salud",
+      "categorias": [
+        "salud"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "'El alma al aire': Alejandro Sanz llega al teatro con la fuerza del Levante",
+      "url": "https://www.abc.es/cultura/teatros/alma-aire-alejandro-sanz-llega-teatro-fuerza-20261001010910-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/01/1518043877-REejRHL1QPiArAyrmwq2xSP-1200x840@diario_abc.jpg",
+      "fecha": "2026-10-01T23:09:10.000Z",
+      "fuenteId": "abc-cultura",
+      "fuenteTitle": "ABC - Cultura",
+      "categorias": [
+        "cultura"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "La Unión, un aullido para gobernarlos a todos",
+      "url": "https://www.abc.es/cultura/musica/union-aullido-gobernarlos-20261002010858-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/02/1-union-vinilo-REgYoD0Ci6WNphtJwvzvi1K-1200x840@diario_abc.jpg",
+      "fecha": "2026-10-01T23:08:58.000Z",
+      "fuenteId": "abc-cultura",
+      "fuenteTitle": "ABC - Cultura",
+      "categorias": [
+        "cultura"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "El último refugio",
+      "url": "https://www.abc.es/cultura/ultimo-refugio-20261002010640-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/02/feria-libro-antiguo-ep-RIw6W6uJ9cg1IeqBWlRKKzK-1200x840@diario_abc.jpg",
+      "fecha": "2026-10-01T23:06:40.000Z",
+      "fuenteId": "abc-cultura",
+      "fuenteTitle": "ABC - Cultura",
+      "categorias": [
+        "cultura"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "'El perro andaluz' conecta con Ignatius Farray en la acampada de Sol: \"Esto es la democracia frente al fascismo\"",
+      "url": "https://www.eldiario.es/vertele/noticias/perro-andaluz-conecta-ignatius-farray-acampada-sol-democracia-frente-fascismo_1_13555339.html",
+      "imagen": "https://static.eldiario.es/clip/991d526d-b0ae-4b8d-b8c5-47bcdf56535a_16-9-discover-aspect-ratio_default_0.jpg",
+      "fecha": "2026-10-01T23:06:03.000Z",
+      "fuenteId": "vertele",
+      "fuenteTitle": "Vertele",
+      "categorias": [
+        "entretenimiento"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "'Supervivientes All Stars 2026': todos los concursantes nominados y expulsados en Telecinco",
+      "url": "https://www.diezminutos.es/teleprograma/programas-tv/g73680534/supervivientes-all-stars-2026-concursantes-expulsados-nominados/",
+      "imagen": "https://hips.hearstapps.com/hmg-prod/images/33e668b8-912d-4bf3-b50b-ff9c9a487954.jpg",
+      "fecha": "2026-10-01T23:06:00.000Z",
+      "fuenteId": "diez-minutos",
+      "fuenteTitle": "Diez Minutos",
+      "categorias": [
+        "corazon",
+        "entretenimiento"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "El tuit de Sánchez contra PP, Vox y Junts: \"Su voto les retratará durante generaciones\"",
+      "url": "https://www.huffingtonpost.es/politica/el-tuit-sanchez-pp-vox-junts-su-voto-les-retratara-generaciones-f202610.html",
+      "imagen": "",
+      "fecha": "2026-10-01T23:04:18.000Z",
+      "fuenteId": "huffpost-espana",
+      "fuenteTitle": "HuffPost España",
+      "categorias": [
+        "actualidad",
+        "entretenimiento"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "'Supervivientes All Stars 2026' expulsa definitivamente a un \"gran concursante\", alabado por su enorme implicación en el reality",
+      "url": "https://eltelevisero.huffingtonpost.es/2026/10/supervivientes-all-stars-2026-expulsa-definitivamente-a-un-gran-concursante-alabado-por-su-enorme-implicacion-en-el-reality/",
+      "imagen": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f525.png",
+      "fecha": "2026-10-01T23:04:01.000Z",
+      "fuenteId": "el-televisero",
+      "fuenteTitle": "El Televisero",
+      "categorias": [
+        "entretenimiento"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Discos de la semana: las rarezas y batallas musicales de Cara Delevingne",
+      "url": "https://www.abc.es/cultura/musica/discos-semana-rarezas-batallas-musicales-cara-delevingne-20261002010317-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/02/cara_delevingne-2-REeCMFFFcDkQZNvV05dk9DO-1200x840@diario_abc.jpg",
+      "fecha": "2026-10-01T23:03:17.000Z",
+      "fuenteId": "abc-cultura",
+      "fuenteTitle": "ABC - Cultura",
+      "categorias": [
+        "cultura"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "El futbolista más tímido de la selección, un aprendiz de Lamine",
+      "url": "https://www.abc.es/deportes/futbol/futbolista-timido-seleccion-aprendiz-lamine-20261001184925-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/10/01/victor-R7wzMnRxT9H7eBFbRjuqTmK-1200x840@diario_abc.jpg",
+      "fecha": "2026-10-01T23:02:22.000Z",
+      "fuenteId": "abc",
+      "fuenteTitle": "ABC",
+      "categorias": [
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Lamine-Mbappé: la batalla por el Melón de Oro",
+      "url": "https://www.abc.es/deportes/futbol/melon-dor-20261001010217-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/10/01/DAMBin-Rh0jzSbMumL3XC7xBsFuZ9K-1200x840@diario_abc.jpg",
+      "fecha": "2026-10-01T23:02:17.000Z",
+      "fuenteId": "abc",
+      "fuenteTitle": "ABC",
+      "categorias": [
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Pablo Claver, psicólogo: «'Sonreír al entrar y al salir'. Yo lo pondría en ascensores, oficinas, colegios y hogares»",
+      "url": "https://www.abc.es/bienestar/psicologia-sexo/pablo-claver-psicologo-sonreir-entrar-salir-pondria-20261001010133-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/bienestar/2026/10/01/Pablo1_20260928162103-RbRf5sYwCTnLrH5BRzkFJhI-1200x840@diario_abc.jpg",
+      "fecha": "2026-10-01T23:02:08.000Z",
+      "fuenteId": "abc",
+      "fuenteTitle": "ABC",
+      "categorias": [
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "El director de Oracle, Stephen Rusckowski, compra 3,48 millones de dólares en acciones",
+      "url": "https://es.investing.com/news/insider-trading-news/el-director-de-oracle-stephen-rusckowski-compra-348-millones-de-dolares-en-acciones-93CH-3858221",
+      "imagen": "https://content-media.investing.com/news/oracle_2_M_1440048709.jpg",
+      "fecha": "2026-10-01T23:01:47.000Z",
+      "fuenteId": "investing-es-noticias",
+      "fuenteTitle": "Investing.com España - Noticias",
+      "categorias": [
+        "economia"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Ojo vago en niños: detectarlo antes de los diez años podría marcar la diferencia en el aprendizaje",
+      "url": "https://www.abc.es/familia/padres-hijos/ojo-vago-ninos-detectarlo-diez-anos-marcar-20261002010145-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/familia/2026/10/02/ojo-vago-R4b6oT3JFAVspo0VR4ZgNxK-1200x840@diario_abc.jpg",
+      "fecha": "2026-10-01T23:01:45.000Z",
+      "fuenteId": "abc",
+      "fuenteTitle": "ABC",
+      "categorias": [
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "La vicepresidenta de Apple Jennifer Newstead vende 806.495 dólares en acciones AAPL",
+      "url": "https://es.investing.com/news/insider-trading-news/la-vicepresidenta-de-apple-jennifer-newstead-vende-806495-dolares-en-acciones-aapl-93CH-3858220",
+      "imagen": "https://content-media.investing.com/news/apple_M_1440049056.jpg",
+      "fecha": "2026-10-01T23:01:40.000Z",
+      "fuenteId": "investing-es-noticias",
+      "fuenteTitle": "Investing.com España - Noticias",
+      "categorias": [
+        "economia"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Christa Pike sobrevive a inyección letal: ¿qué ocurre en el cuerpo al recibir este fármaco?",
+      "url": "https://www.france24.com/es/video/20261001-christa-pike-sobrevive-a-inyecci%C3%B3n-letal-qu%C3%A9-ocurre-en-el-cuerpo-al-recibir-este-f%C3%A1rmaco",
+      "imagen": "https://s.france24.com/media/display/36cdd298-bde9-11f1-8631-1ff0321dbbd3/w:1024/p:16x9/ES-20261001-131805-132834-CS.jpg",
+      "fecha": "2026-10-01T23:01:28.000Z",
+      "fuenteId": "france24-espanol",
+      "fuenteTitle": "France 24 Español",
+      "categorias": [
+        "internacional",
+        "politica"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Director de Presurance Holdings compra acciones por 48.935 dólares",
+      "url": "https://es.investing.com/news/insider-trading-news/director-de-presurance-holdings-compra-acciones-por-48935-dolares-93CH-3858218",
+      "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3T1AG_1200_L.jpg",
+      "fecha": "2026-10-01T23:01:27.000Z",
+      "fuenteId": "investing-es-noticias",
+      "fuenteTitle": "Investing.com España - Noticias",
+      "categorias": [
+        "economia"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "La expulsión de Jesús Rodríguez, el lunar de la exhibición de España",
+      "url": "https://as.com/futbol/seleccion/la-expulsion-de-jesus-rodriguez-el-lunar-de-la-exhibicion-de-espana-f202610-n/",
+      "imagen": "https://img.asmedia.epimg.net/resizer/v2/CMNTQF26ANCS5EGZLNT4AMLDR4.jpg?auth=1a7d75b9b6c591ae55c6cd227318e97ca4412fc12c5dc15d850f3d83cd97c1f2",
+      "fecha": "2026-10-01T23:01:14.000Z",
+      "fuenteId": "as",
+      "fuenteTitle": "AS",
+      "categorias": [
+        "deportes"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "La inesperada tarea doméstica que los Príncipes de Gales disfrutan en familia: «Somos un buen dúo»",
+      "url": "https://www.abc.es/gente/inesperada-tarea-domestica-principes-gales-disfrutan-familia-20261001010112-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gente/2026/10/01/kate-guillermo-Rw9jb5u86jFm5eqaCJFsW2L-1200x840@diario_abc.jpg",
+      "fecha": "2026-10-01T23:01:13.000Z",
+      "fuenteId": "abc-gente",
+      "fuenteTitle": "ABC - Gente",
+      "categorias": [
+        "corazon",
+        "entretenimiento"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "'La oveja Shaun: Misión calabaza' y el arte de la animación sin atajos",
+      "url": "https://www.abc.es/play/cine/oveja-shaun-mision-calabaza-arte-animacion-atajos-20261031010054-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/10/31/image-w1280-RlVqYEkXhMGJM2qr7et0q3O-1200x840@diario_abc.jpg",
+      "fecha": "2026-10-01T23:00:54.000Z",
+      "fuenteId": "abc",
+      "fuenteTitle": "ABC",
+      "categorias": [
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "La Seguridad Social avisa: el drástico cambio que podría 'poner en jaque' tu jubilación",
+      "url": "https://www.abc.es/economia/cuentas-corrientes/seguridad-social-avisa-drastico-cambio-poner-jaque-20261001010011-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/01/jubilacion-2027-requisito-imprescindible-RH6WH7QqI7upO2JBxvM1v6I-1200x840@diario_abc.jpg",
+      "fecha": "2026-10-01T23:00:47.000Z",
+      "fuenteId": "abc",
+      "fuenteTitle": "ABC",
+      "categorias": [
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Cuidado con lo que publicas: El error en redes que te puede costar el despido estando de baja",
+      "url": "https://www.abc.es/economia/cuentas-corrientes/cuidado-publicas-error-redes-puede-costar-despido-20261001010023-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/01/despido-baja-redes-sociales-RtuFK2wreTqHfsDSvJQ0H4I-1200x840@diario_abc.jpg",
+      "fecha": "2026-10-01T23:00:35.000Z",
+      "fuenteId": "abc",
+      "fuenteTitle": "ABC",
+      "categorias": [
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Directo a... Santa Cruz y el proceso para nombrar a un nuevo fiscal general",
+      "url": "https://www.france24.com/es/video/20261001-directo-a-santa-cruz-y-el-proceso-para-nombrar-a-un-nuevo-fiscal-general",
+      "imagen": "https://s.france24.com/media/display/d27a0b6e-bde7-11f1-8c95-69fad0a7cb9f/w:1024/p:16x9/ES-20261001-124510-124757-CS.jpg",
+      "fecha": "2026-10-01T23:00:28.000Z",
+      "fuenteId": "france24-espanol",
+      "fuenteTitle": "France 24 Español",
+      "categorias": [
+        "internacional",
+        "politica"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Así funciona la nueva cuenta de inversión: qué ventajas fiscales tiene, cuánto dinero puedes tener y qué productos incluye",
+      "url": "https://www.abc.es/economia/cuentas-corrientes/funciona-nueva-cuenta-inversion-ventajas-fiscales-dinero-20261002010017-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/02/ibex-kS0E-U3019866494962NF-1200x840@diario_abc.jpg",
+      "fecha": "2026-10-01T23:00:17.000Z",
+      "fuenteId": "abc",
+      "fuenteTitle": "ABC",
+      "categorias": [
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "ISABEL MARANT - Detalles",
+      "url": "https://www.harpersbazaar.com/es/pasarelas/primavera-verano-2027/g73986224/isabel-marant-l-7b-31-detalles/",
+      "imagen": "https://hips.hearstapps.com/hmg-catwalk/catwalk/isabel-marant/e950e147-50fd-4f1d-ba43-1af997d086fb.jpg",
+      "fecha": "2026-10-01T23:00:16.000Z",
+      "fuenteId": "harpers-bazaar-espana",
+      "fuenteTitle": "Harper's Bazaar España",
+      "categorias": [
+        "moda"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "ISABEL MARANT - Detalles",
+      "url": "https://www.elle.com/es/pasarelas/primavera-verano-2027/g73986217/isabel-marant-7-3ni-21-detalles/",
+      "imagen": "https://hips.hearstapps.com/hmg-catwalk/catwalk/isabel-marant/cb2575ef-4a24-4087-a126-8e7d2bf4a755.jpg",
+      "fecha": "2026-10-01T23:00:09.000Z",
+      "fuenteId": "elle-espana",
+      "fuenteTitle": "Elle España",
+      "categorias": [
+        "moda"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Filomeno García, el hombre que vio pasar Madrid",
+      "url": "https://www.abc.es/espana/madrid/filomeno-garcia-hombre-vio-pasar-madrid-20261001010001-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/01/filo-RZckBHkpTzW5TN3H8CZk2rO-1200x840@diario_abc.jpg",
+      "fecha": "2026-10-01T23:00:02.000Z",
+      "fuenteId": "abc-espana",
+      "fuenteTitle": "ABC - España",
+      "categorias": [
+        "politica",
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Vivienda niega que los decretos dañen la oferta o las herencias",
+      "url": "https://theobjective.com/espana/politica/2026-10-02/vivienda-decretos-oferta-herencias/",
+      "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/09/vivienda-fondos-gobierno-469x317.jpg",
+      "fecha": "2026-10-01T22:59:18.000Z",
+      "fuenteId": "the-objective",
+      "fuenteTitle": "The Objective",
+      "categorias": [
+        "actualidad",
+        "politica"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "El cansancio con Lula en Brasil: \"No le voto más, es un bandido\"",
+      "url": "https://www.elmundo.es/internacional/2026/10/02/6abe676a21efa0db518b45cd.html",
+      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/01/17908748972996.jpg",
+      "fecha": "2026-10-01T22:57:32.000Z",
+      "fuenteId": "el-mundo",
+      "fuenteTitle": "El Mundo",
+      "categorias": [
+        "actualidad",
+        "tecnologia"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Trump mide hoy en la OEA la deriva norcoreana de la dictadura sandinista",
+      "url": "https://www.elmundo.es/internacional/2026/10/02/6abe86d7e85eceb3628b456f.html",
+      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/01/17908725328423.jpg",
+      "fecha": "2026-10-01T22:57:27.000Z",
+      "fuenteId": "el-mundo",
+      "fuenteTitle": "El Mundo",
+      "categorias": [
+        "actualidad",
+        "tecnologia"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Hacienda recauda ya este año 8.000 millones más que lo que dedica a aliviar los precios energéticos en nuevo récord de ingresos",
+      "url": "https://www.elmundo.es/economia/2026/10/02/6abe7bd6e9cf4ab9388b45c2.html",
+      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/01/17908685828860.jpg",
+      "fecha": "2026-10-01T22:57:26.000Z",
+      "fuenteId": "el-mundo",
+      "fuenteTitle": "El Mundo",
+      "categorias": [
+        "actualidad",
+        "tecnologia"
+      ],
+      "idioma": "es"
+    },
     {
       "titulo": "Todos los móviles de Samsung que ya han recibido la actualización a Android 17",
       "url": "https://www.larazon.es/tecnologia-consumo/samsung/todos-moviles-samsung-ya-han-recibido-actualizacion-android-17_202610026abec93d15d6b21c72975925.html",
@@ -41,6 +561,18 @@
       "idioma": "es"
     },
     {
+      "titulo": "Ayuso cree que Junts está \"tomando el pelo\" a la ciudadanía y acusa a Sánchez de preparar el terreno \"para seguir quemando las calles\"",
+      "url": "https://www.20minutos.es/madrid/ayuso-cree-que-junts-esta-tomando-pelo-ciudadania-acusa-sanchez-preparar-terreno-para-seguir-quemando-las-calles_7043961_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/10/02/6abee2d64750b3-31059320.r_d.960-540-16345.jpeg",
+      "fecha": "2026-10-01T22:49:03.000Z",
+      "fuenteId": "20minutos",
+      "fuenteTitle": "20minutos",
+      "categorias": [
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
       "titulo": "Curso de Finanzas Personales, gratis con Expansión",
       "url": "https://www.expansion.com/inversion/2026/10/02/6abebd1a468aeb65478b4591.html",
       "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/01/17908851236897.jpg",
@@ -53,50 +585,10 @@
       "idioma": "es"
     },
     {
-      "titulo": "Alejandra Osborne le da un tirón de orejas a Bertín Osborne y le pide ese encuentro con su hermano pequeño",
-      "url": "https://www.diezminutos.es/famosos-corazon/famosos-espanoles/a73985911/alejandra-osborne-encuentro-hijo-gabriela-guillen/",
-      "imagen": "https://hips.hearstapps.com/hmg-prod/images/alejandra-osborne-hermano-68fb29a50a464.jpg",
-      "fecha": "2026-10-01T22:42:00.000Z",
-      "fuenteId": "diez-minutos",
-      "fuenteTitle": "Diez Minutos",
-      "categorias": [
-        "corazon",
-        "entretenimiento"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Ayuso enumera 5 \"nos estamos acostumbrando\" contra los que se rebela: \"Es una situación que no habíamos vivido jamás\"",
-      "url": "https://www.elespanol.com/espana/20261002/ayuso-enumera-acostumbrando-rebela-situacion-no-vivido-jamas/1003744405738_0.html",
-      "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11368322.jpg?p=w:1706/h:960&h=Yod0iMtd",
-      "fecha": "2026-10-01T22:37:52.000Z",
-      "fuenteId": "el-espanol-espana",
-      "fuenteTitle": "El Español - España",
-      "categorias": [
-        "politica",
-        "actualidad"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El rapero Rick Ross es acusado de agresión y estrangulamiento contra su expareja",
-      "url": "https://elpais.com/us/2026-10-01/el-rapero-rick-ross-es-acusado-de-agresion-y-estrangulamiento-contra-su-expareja.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/JRCPYUAFOFLFBHOPUEYHZE5RTA.jpg?auth=df225252f23b98d6707e417f015536c6660fe346d725c8fbdb68226f0d53f18b",
-      "fecha": "2026-10-01T22:33:10.000Z",
-      "fuenteId": "el-pais",
-      "fuenteTitle": "El País",
-      "categorias": [
-        "actualidad",
-        "tecnologia",
-        "ciencia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Playstudios ejecuta un contrasplit de acciones de 1 por 10",
-      "url": "https://es.investing.com/news/sec-filings/playstudios-ejecuta-un-contrasplit-de-acciones-de-1-por-10-93CH-3858214",
-      "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM4416N_1200_L.jpg",
-      "fecha": "2026-10-01T22:32:10.000Z",
+      "titulo": "El director de Gap, William Fisher, vende acciones por 1,53 millones de dólares",
+      "url": "https://es.investing.com/news/insider-trading-news/el-director-de-gap-william-fisher-vende-acciones-por-153-millones-de-dolares-93CH-3858217",
+      "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM4519D_1200_L.jpg",
+      "fecha": "2026-10-01T22:48:37.000Z",
       "fuenteId": "investing-es-noticias",
       "fuenteTitle": "Investing.com España - Noticias",
       "categorias": [
@@ -105,46 +597,10 @@
       "idioma": "es"
     },
     {
-      "titulo": "El director de Desarrollo de Revolution Medicines vende 1,2 millones de dólares en acciones",
-      "url": "https://es.investing.com/news/insider-trading-news/el-director-de-desarrollo-de-revolution-medicines-vende-12-millones-de-dolares-en-acciones-93CH-3858213",
-      "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3T1K3_1200_L.jpg",
-      "fecha": "2026-10-01T22:32:09.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Director de Block Anthony Eisen vende 1,33 millones de dólares en acciones",
-      "url": "https://es.investing.com/news/insider-trading-news/director-de-block-anthony-eisen-vende-133-millones-de-dolares-en-acciones-93CH-3858212",
-      "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3T1K3_1200_L.jpg",
-      "fecha": "2026-10-01T22:31:43.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Up Xtreme PTL Edge Air: El primer mini PC con Panther Lake y refrigeración AirJet",
-      "url": "https://www.profesionalreview.com/2026/10/02/up-xtreme-ptl-edge-air-mini-pc-panther-lake-airjet/",
-      "imagen": "https://www.profesionalreview.com/wp-content/uploads/2026/10/Up-Xtreme-PTL-Edge-Air-Mini-PC-con-Panther-Lake-y-AirJet.jpg",
-      "fecha": "2026-10-01T22:29:23.000Z",
-      "fuenteId": "profesional-review",
-      "fuenteTitle": "Profesional Review",
-      "categorias": [
-        "tecnologia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Blue Bird presenta prospecto para reventa de hasta 2,7 millones de acciones en NASDAQ",
-      "url": "https://es.investing.com/news/sec-filings/blue-bird-presenta-prospecto-para-reventa-de-hasta-27-millones-de-acciones-en-nasdaq-93CH-3858211",
+      "titulo": "La SVP Roberts de Cracker Barrel vende acciones por 182.280 dólares",
+      "url": "https://es.investing.com/news/insider-trading-news/la-svp-roberts-de-cracker-barrel-vende-acciones-por-182280-dolares-93CH-3858216",
       "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM450ND_1200_L.jpg",
-      "fecha": "2026-10-01T22:28:18.000Z",
+      "fecha": "2026-10-01T22:47:50.000Z",
       "fuenteId": "investing-es-noticias",
       "fuenteTitle": "Investing.com España - Noticias",
       "categorias": [
@@ -153,480 +609,14 @@
       "idioma": "es"
     },
     {
-      "titulo": "\"Nuestro gobierno se ha convertido en una amenaza grave\": la familia de Renee Good presenta una demanda por su muerte",
-      "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261001-nuestro-gobierno-se-ha-convertido-en-una-amenaza-grave-la-familia-de-renee-good-presenta-una-demanda-por-su-muerte",
-      "imagen": "https://s.france24.com/media/display/33cadcfc-bde5-11f1-a5b4-1ff0321dbbd3/w:1024/p:16x9/AP26274597994993.jpg",
-      "fecha": "2026-10-01T22:26:37.000Z",
-      "fuenteId": "france24-espanol",
-      "fuenteTitle": "France 24 Español",
-      "categorias": [
-        "internacional",
-        "politica"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Junts rechaza también el decreto sobre los desahucios y exige al Gobierno uno nuevo",
-      "url": "https://www.20minutos.es/nacional/junts-rechaza-tambien-decreto-sobre-los-desahucios-exige-gobierno-uno-nuevo_7043960_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/16/6aaa4994c4fab8-26016790.jpeg",
-      "fecha": "2026-10-01T22:25:24.000Z",
-      "fuenteId": "20minutos",
-      "fuenteTitle": "20minutos",
-      "categorias": [
-        "actualidad"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "American Outdoor Brands elige directores y ratifica auditor en su junta anual",
-      "url": "https://es.investing.com/news/sec-filings/american-outdoor-brands-elige-directores-y-ratifica-auditor-en-su-junta-anual-93CH-3858210",
-      "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM450ND_1200_L.jpg",
-      "fecha": "2026-10-01T22:24:37.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Espí, tras su histórico repóker: \"Es una noche especial\"",
-      "url": "https://www.mundodeportivo.com/seleccion-espanola/20261002/1004233597/espi-historico-repoker-noche-especial.html",
-      "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/10/02/6abedd93abc3e.webp",
-      "fecha": "2026-10-01T22:24:35.000Z",
-      "fuenteId": "mundo-deportivo",
-      "fuenteTitle": "Mundo Deportivo",
-      "categorias": [
-        "deportes"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Asraf Beno se sincera sobre Isabel Pantoja en 'Supervivientes All Stars': \"A una madre no hay que perdonarle todo\"",
-      "url": "https://www.diezminutos.es/teleprograma/programas-tv/a73984967/asraf-beno-sobre-isabel-pantoja-madre-perdonarle-todo-supervivientes-all-stars-3/",
-      "imagen": "https://hips.hearstapps.com/hmg-prod/images/5b44a846-b6dd-46fb-9b34-586d53dbf020.jpg",
-      "fecha": "2026-10-01T22:22:00.000Z",
-      "fuenteId": "diez-minutos",
-      "fuenteTitle": "Diez Minutos",
-      "categorias": [
-        "corazon",
-        "entretenimiento"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Los accionistas de Enhanced Group aprueban un contrasplit de uno por diez",
-      "url": "https://es.investing.com/news/sec-filings/los-accionistas-de-enhanced-group-aprueban-un-contrasplit-de-uno-por-diez-93CH-3858209",
-      "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3T1K3_1200_L.jpg",
-      "fecha": "2026-10-01T22:21:06.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "La difícil supervivencia de Junts",
-      "url": "https://www.eldiario.es/opinion/zona-critica/dificil-supervivencia-junts_129_13555464.html",
-      "imagen": "https://static.eldiario.es/clip/7f9e5cf5-0b22-458e-891a-c6e94f7ab3d5_16-9-discover-aspect-ratio_default_0_x827y482.jpg",
-      "fecha": "2026-10-01T22:18:08.000Z",
-      "fuenteId": "eldiario-es",
-      "fuenteTitle": "elDiario.es",
-      "categorias": [
-        "actualidad",
-        "politica"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El director de Presurance Holdings, Joseph Sarafa, compra 74.246 dólares en acciones",
-      "url": "https://es.investing.com/news/insider-trading-news/el-director-de-presurance-holdings-joseph-sarafa-compra-74246-dolares-en-acciones-93CH-3858208",
-      "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3S10Z_1200_L.jpg",
-      "fecha": "2026-10-01T22:16:31.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Directora de Presurance Holdings compra acciones por 48.935 dólares",
-      "url": "https://es.investing.com/news/insider-trading-news/directora-de-presurance-holdings-compra-acciones-por-48935-dolares-93CH-3858207",
+      "titulo": "El director ejecutivo de Presurance Holdings compra 50.622 dólares en acciones",
+      "url": "https://es.investing.com/news/insider-trading-news/el-director-ejecutivo-de-presurance-holdings-compra-50622-dolares-en-acciones-93CH-3858215",
       "imagen": "",
-      "fecha": "2026-10-01T22:16:29.000Z",
+      "fecha": "2026-10-01T22:47:19.000Z",
       "fuenteId": "investing-es-noticias",
       "fuenteTitle": "Investing.com España - Noticias",
       "categorias": [
         "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Digital Turbine registra una oferta de reventa de 1,2 millones de acciones",
-      "url": "https://es.investing.com/news/sec-filings/digital-turbine-registra-una-oferta-de-reventa-de-12-millones-de-acciones-93CH-3858206",
-      "imagen": "",
-      "fecha": "2026-10-01T22:16:11.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "La tutela de Feijóo",
-      "url": "https://www.lavanguardia.com/politica/20261002/11649072/tutela-feijoo.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
-      "fecha": "2026-10-01T22:15:33.000Z",
-      "fuenteId": "la-vanguardia-politica",
-      "fuenteTitle": "La Vanguardia - Política",
-      "categorias": [
-        "politica",
-        "actualidad"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Cuando las estrellas rompieron con su selección: jugadores cuya historia acabó mal",
-      "url": "https://as.com/futbol/fotorrelato/cuando-las-estrellas-rompieron-con-su-seleccion-jugadores-cuya-historia-acabo-mal-f202610-f/",
-      "imagen": "https://img.asmedia.epimg.net/resizer/v2/DYJNCBN4CNFOZJHYEDTOCAIOHI.jpg?auth=d1a7ed7cf295ca49188c98bd1a20dbbff182d3a4c25e8a448817fceb051929ae",
-      "fecha": "2026-10-01T22:15:15.000Z",
-      "fuenteId": "as",
-      "fuenteTitle": "AS",
-      "categorias": [
-        "deportes"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "SCHIAPARELLI",
-      "url": "https://www.harpersbazaar.com/es/pasarelas/primavera-verano-2027/g73985680/schiaparelli-oa-ln/",
-      "imagen": "https://hips.hearstapps.com/hmg-catwalk/catwalk/schiaparelli/b7157c80-1c3b-4bdb-bf6a-f42d9c31155e.jpg",
-      "fecha": "2026-10-01T22:15:12.000Z",
-      "fuenteId": "harpers-bazaar-espana",
-      "fuenteTitle": "Harper's Bazaar España",
-      "categorias": [
-        "moda"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "SCHIAPARELLI",
-      "url": "https://www.elle.com/es/pasarelas/primavera-verano-2027/g73985673/schiaparelli-u-t39o1p/",
-      "imagen": "https://hips.hearstapps.com/hmg-catwalk/catwalk/schiaparelli/ac9146fd-eaaf-42cc-8c32-ee2eea40ddaa.jpg",
-      "fecha": "2026-10-01T22:15:07.000Z",
-      "fuenteId": "elle-espana",
-      "fuenteTitle": "Elle España",
-      "categorias": [
-        "moda"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Informe de resultados de Nike: BPA supera previsiones, pero las acciones caen por ventas débiles",
-      "url": "https://es.investing.com/news/transcripts/informe-de-resultados-de-nike-bpa-supera-previsiones-pero-las-acciones-caen-por-ventas-debiles-93CH-3858205",
-      "imagen": "https://content-media.investing.com/news/LYNXNPEC0K08U_S.jpg",
-      "fecha": "2026-10-01T22:14:39.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Trump reacciona a la ejecución fallida de Christa Pike y sorprende con un comentario jocoso",
-      "url": "https://www.huffingtonpost.es/global/trump-reacciona-ejecucion-fallida-christa-pike-sorprende-comentario-no-deberia-dificil-f202610.html",
-      "imagen": "",
-      "fecha": "2026-10-01T22:13:19.000Z",
-      "fuenteId": "huffpost-espana",
-      "fuenteTitle": "HuffPost España",
-      "categorias": [
-        "actualidad",
-        "entretenimiento"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El “fracaso” de Oyarzabal",
-      "url": "https://as.com/opinion/el-fracaso-de-oyarzabal-f202610-n/",
-      "imagen": "https://img.asmedia.epimg.net/resizer/v2/FOJ7LNPMS5L4HCYWEF6Z7NUE4Y.jpg?auth=ceb8618c4eb9fddbe82414999bcc71b575422a27694803344e1f6eefd22807c3",
-      "fecha": "2026-10-01T22:10:13.000Z",
-      "fuenteId": "as",
-      "fuenteTitle": "AS",
-      "categorias": [
-        "deportes"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "'La Revuelta' de RTVE aplaude a Mariano Benítez de Lugo por enfrentarse a los fondos buitre: \"Los culpables de todo esto\"",
-      "url": "https://www.eldiario.es/vertele/noticias/revuelta-rtve-aplaude-mariano-benitez-lugo-enfrentarse-fondos-buitre-culpables_1_13555337.html",
-      "imagen": "https://static.eldiario.es/clip/c480d2fb-f9d9-4bb5-b16f-3b5237ce410c_16-9-discover-aspect-ratio_default_0.jpg",
-      "fecha": "2026-10-01T22:09:31.000Z",
-      "fuenteId": "vertele",
-      "fuenteTitle": "Vertele",
-      "categorias": [
-        "entretenimiento"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Dos agentes de la Guardia Civil heridos en un tiroteo tras una persecución de un grupo de ladrones en la AP-7 en Terrassa",
-      "url": "https://www.elmundo.es/cataluna/2026/10/02/6abed3a8e9cf4aeb608b45d0.html",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/01/17908917682967.jpg",
-      "fecha": "2026-10-01T22:09:12.000Z",
-      "fuenteId": "el-mundo",
-      "fuenteTitle": "El Mundo",
-      "categorias": [
-        "actualidad",
-        "tecnologia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Juan, mecánico: \"Yo llevo estos neumáticos en mi coche. Puedo ir a la nieve y circular por donde sea\"",
-      "url": "https://www.mundodeportivo.com/actualidad/20261002/1004233595/juan-jose-ebenezer-mecanico-gente-suele-pasar-neumaticos-verano-neumaticos-invierno-llevo-mi-coche-me-nieve-circular-sea-cambiandolos-cmt-dct.html",
-      "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/06/26/6a3ece720b019.jpeg",
-      "fecha": "2026-10-01T22:08:46.000Z",
-      "fuenteId": "mundo-deportivo",
-      "fuenteTitle": "Mundo Deportivo",
-      "categorias": [
-        "deportes"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El Vicente Calderón marcó a la generación del ‘baby boom’",
-      "url": "https://as.com/opinion/el-vicente-calderon-marco-a-la-generacion-del-baby-boom-f202610-n/",
-      "imagen": "https://img.asmedia.epimg.net/resizer/v2/N252QIYI6JJDPKWMMABDEK7XLQ.jpg?auth=6eaaa4222fdacc3d7a71652c08cedaa6dc146a38778bed8b8775b76c80a1064e",
-      "fecha": "2026-10-01T22:07:45.000Z",
-      "fuenteId": "as",
-      "fuenteTitle": "AS",
-      "categorias": [
-        "deportes"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Una ruta por 12 restaurantes para cerrar en la mesa la visita a cuatro exposiciones top de Madrid",
-      "url": "https://www.elmundo.es/metropoli/gastronomia/2026/10/02/6abe5a80fc6c83ef1e8b4581.html",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/01/17908603031649.jpg",
-      "fecha": "2026-10-01T22:07:30.000Z",
-      "fuenteId": "el-mundo",
-      "fuenteTitle": "El Mundo",
-      "categorias": [
-        "actualidad",
-        "tecnologia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El choque más tenso de la noche: Jorge Javier Vázquez frena en seco a Beatriz Trapote al grito de \"¡Yo no soy un cualquiera!\"",
-      "url": "https://www.hola.com/actualidad/20261001926612/jorge-javier-vazquez-a-beatriz-trapote-yo-no-soy-un-cualquiera/",
-      "imagen": "https://www.hola.com/horizon/landscape/cf3e7c8b19bd-68b9f586edb34.jpg",
-      "fecha": "2026-10-01T22:06:17.000Z",
-      "fuenteId": "hola",
-      "fuenteTitle": "¡Hola!",
-      "categorias": [
-        "corazon",
-        "moda"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Ojo de pájaro, ese restaurante de fusión delicada que vale 30 euros con botella de blanco",
-      "url": "https://www.elmundo.es/madrid/2026/10/02/6abb9e34e9cf4a580b8b459a.html",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/29/17906808620357.jpg",
-      "fecha": "2026-10-01T22:05:33.000Z",
-      "fuenteId": "el-mundo",
-      "fuenteTitle": "El Mundo",
-      "categorias": [
-        "actualidad",
-        "tecnologia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Acampadas con diferentes normas: las profesoras de Infantil pidieron instalarse en Sol 15 días y la Delegación lo limitó a cuatro",
-      "url": "https://www.elmundo.es/madrid/2026/10/02/6abea577fc6c83635e8b45c3.html",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/01/17908791633765.jpg",
-      "fecha": "2026-10-01T22:05:32.000Z",
-      "fuenteId": "el-mundo",
-      "fuenteTitle": "El Mundo",
-      "categorias": [
-        "actualidad",
-        "tecnologia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El madridismo debe apoyar a Cristiano",
-      "url": "https://as.com/opinion/el-madridismo-debe-apoyar-a-cristiano-f202610-n/",
-      "imagen": "https://img.asmedia.epimg.net/resizer/v2/TPKTLZAXAZKA7KXUZB6VRMZOCE.jpg?auth=386458fa91524b8ec201a50bd7463882494c7baf4556954929ce5d3e801ea2a5",
-      "fecha": "2026-10-01T22:05:23.000Z",
-      "fuenteId": "as",
-      "fuenteTitle": "AS",
-      "categorias": [
-        "deportes"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Carlos Fernando Chamorro, periodista nicaragüense: \"La reforma constitucional es una gran provocación a los nicaragüenses y a la comunidad internacional\"",
-      "url": "https://www.elmundo.es/internacional/2026/10/02/6aabfb5721efa0df298b459b.html",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/17/17896559991385.jpg",
-      "fecha": "2026-10-01T22:04:58.000Z",
-      "fuenteId": "el-mundo-internacional",
-      "fuenteTitle": "El Mundo - Internacional",
-      "categorias": [
-        "internacional",
-        "politica"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El asalto al avión de FlyDubai se convierte en munición electoral en Israel",
-      "url": "https://www.elmundo.es/internacional/2026/10/02/6abea7e9e4d4d866018b45b0.html",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/01/17908784566020.jpg",
-      "fecha": "2026-10-01T22:04:57.000Z",
-      "fuenteId": "el-mundo-internacional",
-      "fuenteTitle": "El Mundo - Internacional",
-      "categorias": [
-        "internacional",
-        "politica"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El lado oscuro del lado correcto de la historia",
-      "url": "https://www.elmundo.es/espana/2026/10/02/6abe9c2cfdddff142b8b459b.html",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/01/17908772869688.jpg",
-      "fecha": "2026-10-01T22:04:46.000Z",
-      "fuenteId": "el-mundo",
-      "fuenteTitle": "El Mundo",
-      "categorias": [
-        "actualidad",
-        "tecnologia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Emergencias lanza tres ES-Alert ante la previsión de fuertes lluvias torrenciales en Castellón y Valencia este jueves",
-      "url": "https://elpais.com/espana/comunidad-valenciana/2026-10-01/emergencias-lanza-un-es-alert-por-el-aviso-rojo-por-fuertes-lluvias-en-las-provincias-de-castellon-y-valencia.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/FJDLJ5FV2ZCC7CDP5OAGBURQDU.JPG?auth=c0a360564490c090e8df2c4a99a2ba7d2da4d6fb321fd47b71daaf625254ce45",
-      "fecha": "2026-10-01T22:04:27.000Z",
-      "fuenteId": "el-pais",
-      "fuenteTitle": "El País",
-      "categorias": [
-        "actualidad",
-        "tecnologia",
-        "ciencia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Miguel Ángel López-Valverde, consejero de digitalización de Madrid: \"Todo el sector está en contra del decreto de centros de datos. Cuando se apruebe lo denunciaremos\"",
-      "url": "https://www.elmundo.es/economia/macroeconomia/2026/10/02/6abe951021efa0d84d8b4596.html",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/01/17908792441269.jpg",
-      "fecha": "2026-10-01T22:03:45.000Z",
-      "fuenteId": "el-mundo-economia",
-      "fuenteTitle": "El Mundo - Economía",
-      "categorias": [
-        "economia",
-        "actualidad"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Garamendi arranca el nuevo mandato con la patronal más unida que nunca y la vista puesta en las elecciones generales",
-      "url": "https://www.elmundo.es/economia/2026/10/02/6abe89ebfdddffc73e8b45a4.html",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/01/17908721062220.jpg",
-      "fecha": "2026-10-01T22:03:44.000Z",
-      "fuenteId": "el-mundo-economia",
-      "fuenteTitle": "El Mundo - Economía",
-      "categorias": [
-        "economia",
-        "actualidad"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Klopp, exultante tras su primer triunfo con Alemania: \"Hicimos un partidazo de principio a fin\"",
-      "url": "https://www.mundodeportivo.com/futbol/uefa-nations-league/20261002/1004233592/klopp-exultante-primer-triunfo-alemania-hicimos-partidazo-principio.html",
-      "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/10/02/6abed84093bc9.jpeg",
-      "fecha": "2026-10-01T22:01:46.000Z",
-      "fuenteId": "mundo-deportivo",
-      "fuenteTitle": "Mundo Deportivo",
-      "categorias": [
-        "deportes"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Tennessee suspende aplicación de pena de muerte hasta 2027 por fallida ejecución de Christa Pike",
-      "url": "https://www.france24.com/es/video/20261001-tennessee-suspende-aplicaci%C3%B3n-de-pena-de-muerte-hasta-2027-por-fallida-ejecuci%C3%B3n-de-christa-pike",
-      "imagen": "https://s.france24.com/media/display/c3d0256c-bde2-11f1-b2e3-578a4b968fd6/w:1024/p:16x9/ES-20261001-124312-124506-CS.jpg",
-      "fecha": "2026-10-01T22:01:30.000Z",
-      "fuenteId": "france24-espanol",
-      "fuenteTitle": "France 24 Español",
-      "categorias": [
-        "internacional",
-        "politica"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Los cuatro mercados con más riesgo si afloran las caídas",
-      "url": "https://www.expansion.com/mercados/2026/10/02/6abe5b27468aeb82438b45d4.html",
-      "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/03/27/17746207425082.jpg",
-      "fecha": "2026-10-01T22:01:16.000Z",
-      "fuenteId": "expansion-mercados",
-      "fuenteTitle": "Expansión - Mercados",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Día Mundial de los Animales de Granja 2026: bienestar desde la cría hasta el sacrificio",
-      "url": "https://www.ecoticias.com/naturaleza/dia-mundial-de-los-animales-de-granja-2026-bienestar",
-      "imagen": "",
-      "fecha": "2026-10-01T22:01:00.000Z",
-      "fuenteId": "ecoticias",
-      "fuenteTitle": "Ecoticias",
-      "categorias": [
-        "medio-ambiente",
-        "cultura"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "'Superjueves' de la fortuna en Córdoba: primer premio de la Lotería y un acertante de la Primitiva",
-      "url": "https://www.abc.es/espana/andalucia/cordoba/superjueves-fortuna-cordoba-primer-premio-loteria-acertante-20261002000046-nts.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/02/loteria-premio-cordoba-kYnC-U302002843173GEC-1200x840@diario_abc.jpg",
-      "fecha": "2026-10-01T22:00:47.000Z",
-      "fuenteId": "abc-espana",
-      "fuenteTitle": "ABC - España",
-      "categorias": [
-        "politica",
-        "actualidad"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Hagan su trabajo",
-      "url": "https://elpais.com/opinion/2026-10-02/hagan-su-trabajo.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/FN76UAR4YZAJ3NXAHYI2PW2AGM.jpg?auth=18da292662ff4c2531095e26424654fbba4a43ac92f5d6b9cac6d238eeb9195c",
-      "fecha": "2026-10-01T22:00:16.000Z",
-      "fuenteId": "el-pais",
-      "fuenteTitle": "El País",
-      "categorias": [
-        "actualidad",
-        "tecnologia",
-        "ciencia"
       ],
       "idioma": "es"
     }
