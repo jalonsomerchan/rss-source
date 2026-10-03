@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-03T01:29:38.276Z",
+  "generado": "2026-10-03T01:58:35.292Z",
   "limitePorCategoria": 20,
   "categorias": {
     "actualidad": [
@@ -1296,6 +1296,30 @@
     ],
     "economia": [
       {
+        "titulo": "Fondo de lucha contra la ceguera vende acciones de Opus Genetics por 2,75 millones de dólares",
+        "url": "https://es.investing.com/news/insider-trading-news/fondo-de-lucha-contra-la-ceguera-vende-acciones-de-opus-genetics-por-275-millones-de-dolares-93CH-3859641",
+        "imagen": "",
+        "fecha": "2026-10-03T00:46:44.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Director de McGrath RentCorp Joseph Hanna vende 862.824 dólares en acciones",
+        "url": "https://es.investing.com/news/insider-trading-news/director-de-mcgrath-rentcorp-joseph-hanna-vende-862824-dolares-en-acciones-93CH-3859642",
+        "imagen": "",
+        "fecha": "2026-10-03T00:46:44.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "El vicepresidente ejecutivo de Liquidity Services vende acciones por 30.566 dólares",
         "url": "https://es.investing.com/news/insider-trading-news/el-vicepresidente-ejecutivo-de-liquidity-services-vende-acciones-por-30566-dolares-93CH-3859640",
         "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM40318_1200_L.jpg",
@@ -1334,7 +1358,7 @@
       {
         "titulo": "¿Qué tamaño puede alcanzar el negocio de banda ancha de Starlink?",
         "url": "https://es.investing.com/news/company-news/que-tamano-puede-alcanzar-el-negocio-de-banda-ancha-de-starlink-3859636",
-        "imagen": "",
+        "imagen": "https://content-media.investing.com/news/satellite_M_1440051110.jpg",
         "fecha": "2026-10-03T00:20:07.000Z",
         "fuenteId": "investing-es-noticias",
         "fuenteTitle": "Investing.com España - Noticias",
@@ -1346,7 +1370,7 @@
       {
         "titulo": "El director ejecutivo de Mara Holdings vende acciones por valor de 308.606 dólares",
         "url": "https://es.investing.com/news/insider-trading-news/el-director-ejecutivo-de-mara-holdings-vende-acciones-por-valor-de-308606-dolares-93CH-3859635",
-        "imagen": "",
+        "imagen": "https://content-media.investing.com/news/CryptoBitcoindigital_800x533_L_1641975060.jpg",
         "fecha": "2026-10-03T00:17:15.000Z",
         "fuenteId": "investing-es-noticias",
         "fuenteTitle": "Investing.com España - Noticias",
@@ -1507,30 +1531,6 @@
         "fecha": "2026-10-02T23:01:20.000Z",
         "fuenteId": "investing-es-noticias",
         "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "MCH negocia entrar en el capital de World Medica",
-        "url": "https://www.expansion.com/empresas/2026/10/03/6ac00748e5fdeaf9378b4576.html",
-        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/02/17909696186648.jpg",
-        "fecha": "2026-10-02T22:59:10.000Z",
-        "fuenteId": "expansion",
-        "fuenteTitle": "Expansión",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Las lámparas de alta costura de Noé Duchafour-Lawrance",
-        "url": "https://www.expansion.com/fueradeserie/moda-y-caprichos/2026/10/03/6aa28d86468aebf2348b45aa.html",
-        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/09/10/17890384019754.jpg",
-        "fecha": "2026-10-02T22:54:05.000Z",
-        "fuenteId": "expansion",
-        "fuenteTitle": "Expansión",
         "categorias": [
           "economia"
         ],
@@ -2309,6 +2309,32 @@
     ],
     "internacional": [
       {
+        "titulo": "El copiloto de Flydubai que estuvo a punto de estrellar el avión tenía prohibido volar en Omán por sospechas de extremismo",
+        "url": "https://www.elmundo.es/internacional/2026/10/03/6ac05718e4d4d8f2478b4571.html",
+        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/03/17909899096220.jpg",
+        "fecha": "2026-10-03T01:15:06.000Z",
+        "fuenteId": "el-mundo-internacional",
+        "fuenteTitle": "El Mundo - Internacional",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Las protestas estudiantiles se propagan en Francia",
+        "url": "https://www.dw.com/es/las-protestas-estudiantiles-se-propagan-en-francia/a-79526317?maca=spa-rss-sp-all-1122-xml-mrss",
+        "imagen": "",
+        "fecha": "2026-10-03T00:56:00.000Z",
+        "fuenteId": "dw-espanol",
+        "fuenteTitle": "DW Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Voto femenino, clave en la recta final de las elecciones en Brasil",
         "url": "https://www.france24.com/es/voto-femenino-clave-en-la-recta-final-de-las-elecciones-en-brasil",
         "imagen": "https://s.france24.com/media/display/b2d91642-beaa-11f1-afbe-1ff0321dbbd3/w:1024/p:16x9/FORMATO-5.png",
@@ -2533,32 +2559,6 @@
         "url": "https://www.france24.com/es/programas/en-foco/20261002-taiw%C3%A1n-epicentro-de-la-carrera-mundial-por-la-inteligencia-artificial",
         "imagen": "https://s.france24.com/media/display/3e389a8a-b755-11f1-9ee0-513157f91e8c/w:1024/p:16x9/EN-NW-OOV-ECRAN-FREEZE-TAIWAN-SEMICONS-BAIN-Lauren-transfer.jpg",
         "fecha": "2026-10-02T20:28:12.000Z",
-        "fuenteId": "france24-espanol",
-        "fuenteTitle": "France 24 Español",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Manchester City recurre la sentencia que dictamina que el club infringió las normas financieras de la Premier League",
-        "url": "https://www.france24.com/es/deportes/20261002-manchester-city-recurre-la-sentencia-que-dictamina-que-el-club-infringi%C3%B3-las-normas-financieras-de-la-premier-league",
-        "imagen": "https://s.france24.com/media/display/c3abf236-b929-11f1-85e2-c959b9d22ec6/w:1024/p:16x9/2026-09-25T151903Z-1749761995-RC2R5LAHN185-RTRMADP-3-SOCCER-ENGLAND-MCI.jpg",
-        "fecha": "2026-10-02T20:27:36.000Z",
-        "fuenteId": "france24-espanol",
-        "fuenteTitle": "France 24 Español",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "María Antonieta, ¿la primera influencer de Francia?",
-        "url": "https://www.france24.com/es/programas/francia-en-foco/20261002-mar%C3%ADa-antonieta-la-primera-influencer-de-francia",
-        "imagen": "https://s.france24.com/media/display/19e155c2-b1cf-11f1-9543-e59e88953996/w:1024/p:16x9/marie-antoinette.png",
-        "fecha": "2026-10-02T20:10:18.000Z",
         "fuenteId": "france24-espanol",
         "fuenteTitle": "France 24 Español",
         "categorias": [
@@ -3317,6 +3317,32 @@
     ],
     "politica": [
       {
+        "titulo": "El copiloto de Flydubai que estuvo a punto de estrellar el avión tenía prohibido volar en Omán por sospechas de extremismo",
+        "url": "https://www.elmundo.es/internacional/2026/10/03/6ac05718e4d4d8f2478b4571.html",
+        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/03/17909899096220.jpg",
+        "fecha": "2026-10-03T01:15:06.000Z",
+        "fuenteId": "el-mundo-internacional",
+        "fuenteTitle": "El Mundo - Internacional",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Las protestas estudiantiles se propagan en Francia",
+        "url": "https://www.dw.com/es/las-protestas-estudiantiles-se-propagan-en-francia/a-79526317?maca=spa-rss-sp-all-1122-xml-mrss",
+        "imagen": "",
+        "fecha": "2026-10-03T00:56:00.000Z",
+        "fuenteId": "dw-espanol",
+        "fuenteTitle": "DW Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Voto femenino, clave en la recta final de las elecciones en Brasil",
         "url": "https://www.france24.com/es/voto-femenino-clave-en-la-recta-final-de-las-elecciones-en-brasil",
         "imagen": "https://s.france24.com/media/display/b2d91642-beaa-11f1-afbe-1ff0321dbbd3/w:1024/p:16x9/FORMATO-5.png",
@@ -3547,32 +3573,6 @@
         "categorias": [
           "politica",
           "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "¿Lula o Bolsonaro?: Brasil vota bajo la sombra de una interferencia de Trump",
-        "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261002-lula-o-bolsonaro-brasil-vota-bajo-la-sombra-de-una-interferencia-de-trump",
-        "imagen": "https://s.france24.com/media/display/871de7b4-be9e-11f1-8ed4-dd51fcab6130/w:1024/p:16x9/WEB-PORTADA-02OCT-ARTICULO.png",
-        "fecha": "2026-10-02T21:26:40.000Z",
-        "fuenteId": "france24-espanol",
-        "fuenteTitle": "France 24 Español",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Bolaños elude confirmar si Sánchez convocará elecciones tras el fracaso de los decretos",
-        "url": "https://theobjective.com/espana/politica/2026-10-02/bolanos-elude-sanchez-convocara-elecciones-fracaso-decretos/",
-        "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/10/sanchez-469x317.jpg",
-        "fecha": "2026-10-02T21:21:35.000Z",
-        "fuenteId": "the-objective",
-        "fuenteTitle": "The Objective",
-        "categorias": [
-          "actualidad",
-          "politica"
         ],
         "idioma": "es"
       }
