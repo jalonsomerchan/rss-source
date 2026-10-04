@@ -1,8 +1,21 @@
 {
-  "generado": "2026-10-04T01:21:37.329Z",
+  "generado": "2026-10-04T01:36:42.551Z",
   "limitePorCategoria": 20,
   "categorias": {
     "actualidad": [
+      {
+        "titulo": "El 'boom' de cafés de animales obliga a Japón a aprobar nuevas normas de bienestar animal y seguridad epidemiológica",
+        "url": "https://www.elespanol.com/mundo/asia/20261004/boom-cafes-animales-obliga-japon-aprobar-nuevas-normas-bienestar-animal-seguridad-epidemiologica/1003744402996_0.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11366486.jpg?p=w:1706/h:960&h=WljGd3P7",
+        "fecha": "2026-10-04T01:06:03.000Z",
+        "fuenteId": "el-espanol-mundo",
+        "fuenteTitle": "El Español - Mundo",
+        "categorias": [
+          "internacional",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "El último motín",
         "url": "https://www.lavanguardia.com/politica/20261004/11650397/ultimo-motin.html",
@@ -241,19 +254,6 @@
         "fuenteId": "abc",
         "fuenteTitle": "ABC",
         "categorias": [
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Los 300 leales que acabarán traicionando a Sánchez",
-        "url": "https://www.abc.es/espana/300-leales-acabaran-traicionando-sanchez-20261003012553-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/03/261004%20Sanchez%20paniaguados--758x531.jpg",
-        "fecha": "2026-10-03T23:26:07.000Z",
-        "fuenteId": "abc-espana",
-        "fuenteTitle": "ABC - España",
-        "categorias": [
-          "politica",
           "actualidad"
         ],
         "idioma": "es"
@@ -1289,6 +1289,18 @@
     ],
     "economia": [
       {
+        "titulo": "El copiloto de FlyDubai perdió un empleo anterior por ideas radicales",
+        "url": "https://es.investing.com/news/company-news/el-copiloto-de-flydubai-perdio-un-empleo-anterior-por-ideas-radicales-3859743",
+        "imagen": "",
+        "fecha": "2026-10-04T00:52:07.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Un exempleado de seguridad de OpenAI dimite y critica su enfoque sobre la IA",
         "url": "https://es.investing.com/news/company-news/un-exempleado-de-seguridad-de-openai-dimite-y-critica-su-enfoque-sobre-la-ia-3859741",
         "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM6L16G_L.jpg",
@@ -1514,18 +1526,6 @@
         "url": "https://es.investing.com/news/forex-news/el-rial-irani-cae-a-minimos-tras-fracasar-intervencion-de-2000-millones-de-dolares-3859728",
         "imagen": "https://content-media.investing.com/news/LYNXNPEEA408E_M.jpg",
         "fecha": "2026-10-03T20:13:19.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Genmab presenta resultados del ensayo de su fármaco contra el cáncer de ovario",
-        "url": "https://es.investing.com/news/company-news/genmab-presenta-resultados-del-ensayo-de-su-farmaco-contra-el-cancer-de-ovario-93CH-3859725",
-        "imagen": "https://content-media.investing.com/news/LYNXMPEM3F1FY_1200_L.jpg",
-        "fecha": "2026-10-03T19:45:33.000Z",
         "fuenteId": "investing-es-noticias",
         "fuenteTitle": "Investing.com España - Noticias",
         "categorias": [
@@ -2307,6 +2307,32 @@
     ],
     "internacional": [
       {
+        "titulo": "El caso Christa Pike: ¿por qué su ejecución fallida agita el debate sobre la pena de muerte?",
+        "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261004-christa-pike-y-su-ejecuci%C3%B3n-fallida-abominable-y-cruel-se-agita-el-debate-sobre-la-pena-capital",
+        "imagen": "https://s.france24.com/media/display/85264c4a-bd71-11f1-a4b4-816a8398162d/w:1024/p:16x9/2026-10-01T075544Z-184107085-RC2PTNAYXSRM-RTRMADP-3-TENNESSEE-EXECUTION.jpg",
+        "fecha": "2026-10-04T01:16:11.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El 'boom' de cafés de animales obliga a Japón a aprobar nuevas normas de bienestar animal y seguridad epidemiológica",
+        "url": "https://www.elespanol.com/mundo/asia/20261004/boom-cafes-animales-obliga-japon-aprobar-nuevas-normas-bienestar-animal-seguridad-epidemiologica/1003744402996_0.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11366486.jpg?p=w:1706/h:960&h=WljGd3P7",
+        "fecha": "2026-10-04T01:06:03.000Z",
+        "fuenteId": "el-espanol-mundo",
+        "fuenteTitle": "El Español - Mundo",
+        "categorias": [
+          "internacional",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "La tormenta que se formó en el celular de un banquero en Brasil",
         "url": "https://elpais.com/america/2026-10-04/la-tormenta-que-se-formo-en-el-celular-de-un-banquero-en-brasil.html",
         "imagen": "https://imagenes.elpais.com/resizer/v2/WNAV3JHPGZJUXMGGEDPYACAGQE.jpg?auth=96301fa6f6e0786d4095339e7463877a529d727e3e97cb3a8c5c8aa2067838db",
@@ -2534,31 +2560,6 @@
         "fecha": "2026-10-03T19:35:00.000Z",
         "fuenteId": "dw-espanol",
         "fuenteTitle": "DW Español",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Decenas de miles salen a las calles de Madrid para exigir medidas de vivienda",
-        "url": "https://es.euronews.com/video/2026/10/03/decenas-de-miles-salen-a-las-calles-de-madrid-para-exigir-medidas-de-vivienda",
-        "imagen": "",
-        "fecha": "2026-10-03T19:11:56.000Z",
-        "fuenteId": "euronews-espanol",
-        "fuenteTitle": "Euronews Español",
-        "categorias": [
-          "internacional"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Luis Miller: \"Españoles están pidiendo leyes más intervencionistas y radicales sobre la vivienda\"",
-        "url": "https://www.france24.com/es/video/20261003-luis-miller-espa%C3%B1oles-est%C3%A1n-pidiendo-leyes-m%C3%A1s-intervencionistas-y-radicales-sobre-la-vivienda",
-        "imagen": "https://s.france24.com/media/display/c0134b56-bf5a-11f1-9366-13e372f41e70/w:1024/p:16x9/ES-20261003-100219-100629-CS.jpg",
-        "fecha": "2026-10-03T19:02:09.000Z",
-        "fuenteId": "france24-espanol",
-        "fuenteTitle": "France 24 Español",
         "categorias": [
           "internacional",
           "politica"
@@ -3310,6 +3311,19 @@
     ],
     "politica": [
       {
+        "titulo": "El caso Christa Pike: ¿por qué su ejecución fallida agita el debate sobre la pena de muerte?",
+        "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261004-christa-pike-y-su-ejecuci%C3%B3n-fallida-abominable-y-cruel-se-agita-el-debate-sobre-la-pena-capital",
+        "imagen": "https://s.france24.com/media/display/85264c4a-bd71-11f1-a4b4-816a8398162d/w:1024/p:16x9/2026-10-01T075544Z-184107085-RC2PTNAYXSRM-RTRMADP-3-TENNESSEE-EXECUTION.jpg",
+        "fecha": "2026-10-04T01:16:11.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "El último motín",
         "url": "https://www.lavanguardia.com/politica/20261004/11650397/ultimo-motin.html",
         "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/03/6ac1706bd9e5d.jpeg",
@@ -3550,19 +3564,6 @@
         "fecha": "2026-10-03T22:14:54.000Z",
         "fuenteId": "france24-espanol",
         "fuenteTitle": "France 24 Español",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "EEUU o el imperio sin coartada: lo que antes se disimulaba, ahora se exhibe",
-        "url": "https://www.elmundo.es/internacional/2026/10/04/6ac0d7c7e85ece543c8b4587.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/03/17910229941708.jpg",
-        "fecha": "2026-10-03T22:07:28.000Z",
-        "fuenteId": "el-mundo-internacional",
-        "fuenteTitle": "El Mundo - Internacional",
         "categorias": [
           "internacional",
           "politica"
