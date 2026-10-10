@@ -1,8 +1,22 @@
 {
-  "generado": "2026-10-10T02:08:42.186Z",
+  "generado": "2026-10-10T02:11:23.741Z",
   "limitePorCategoria": 20,
   "categorias": {
     "actualidad": [
+      {
+        "titulo": "El huracán ‘Isaías’ toca tierra en Destin, Florida, tras debilitarse a categoría 2",
+        "url": "https://elpais.com/us/2026-10-10/el-huracan-isaias-se-debilita-a-categoria-2-y-toca-tierra-en-destin-florida.html",
+        "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261009/1223876_190151_video_1800.mp4",
+        "fecha": "2026-10-10T01:42:41.000Z",
+        "fuenteId": "el-pais",
+        "fuenteTitle": "El País",
+        "categorias": [
+          "actualidad",
+          "tecnologia",
+          "ciencia"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "La familia Al-Thani contrata un reputado abogado para sacar a su hijo Rakan de prisión",
         "url": "https://www.abc.es/espana/andalucia/malaga/familia-thani-contrata-reputado-abogado-sacar-hijo-20261010025203-nts.html",
@@ -237,21 +251,23 @@
           "actualidad"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "El Gobierno airea el indulto al exfiscal general como activo electoral: «Moviliza a los nuestros»",
-        "url": "https://www.abc.es/espana/gobierno-airea-indulto-exfiscal-general-activo-electoral-20261010012550-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/10/1482656955-R2008i9zXxmxY19cPmsOBDJ-1200x840@diario_abc.jpg",
-        "fecha": "2026-10-09T23:26:23.000Z",
-        "fuenteId": "abc",
-        "fuenteTitle": "ABC",
-        "categorias": [
-          "actualidad"
-        ],
-        "idioma": "es"
       }
     ],
     "ciencia": [
+      {
+        "titulo": "El huracán ‘Isaías’ toca tierra en Destin, Florida, tras debilitarse a categoría 2",
+        "url": "https://elpais.com/us/2026-10-10/el-huracan-isaias-se-debilita-a-categoria-2-y-toca-tierra-en-destin-florida.html",
+        "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261009/1223876_190151_video_1800.mp4",
+        "fecha": "2026-10-10T01:42:41.000Z",
+        "fuenteId": "el-pais",
+        "fuenteTitle": "El País",
+        "categorias": [
+          "actualidad",
+          "tecnologia",
+          "ciencia"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "El migrante que recibió un disparo del ICE en Nueva York sigue con la bala en el cuerpo",
         "url": "https://elpais.com/us/migracion/2026-10-09/el-migrante-que-recibio-un-disparo-del-ice-en-nueva-york-sigue-con-la-bala-en-el-cuerpo.html",
@@ -508,20 +524,6 @@
         "categorias": [
           "tecnologia",
           "ciencia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Samsung pone el freno a la fabricación de móviles: “No hay beneficio, aunque vendamos”",
-        "url": "https://hipertextual.com/mobile/samsung-recorte-produccion-moviles-2026-precios/",
-        "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/02/Samsung-Galaxy-S26-7-scaled.jpg?fit=1024%2C640&quality=70&strip=all&ssl=1",
-        "fecha": "2026-10-09T18:30:00.000Z",
-        "fuenteId": "hipertextual",
-        "fuenteTitle": "Hipertextual",
-        "categorias": [
-          "tecnologia",
-          "ciencia",
-          "entretenimiento"
         ],
         "idioma": "es"
       }
@@ -1280,6 +1282,54 @@
     ],
     "economia": [
       {
+        "titulo": "El director de Optimum Communications Neil Subin adquiere 2.454.821 dólares en acciones",
+        "url": "https://es.investing.com/news/insider-trading-news/el-director-de-optimum-communications-neil-subin-adquiere-2454821-dolares-en-acciones-93CH-3868670",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3T1AG_1200_L.jpg",
+        "fecha": "2026-10-10T01:32:01.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Eric L. Oliver, director de Cross Timbers, compra 87.575 dólares en participaciones",
+        "url": "https://es.investing.com/news/insider-trading-news/eric-l-oliver-director-de-cross-timbers-compra-87575-dolares-en-participaciones-93CH-3868669",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0V4_1200_L.jpg",
+        "fecha": "2026-10-10T01:31:59.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "La directora ejecutiva de UL Solutions vende acciones por 876.000 dólares",
+        "url": "https://es.investing.com/news/insider-trading-news/la-directora-ejecutiva-de-ul-solutions-vende-acciones-por-876000-dolares-93CH-3868666",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3S10Z_1200_L.jpg",
+        "fecha": "2026-10-10T01:16:45.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Nuvacore, respaldada por Sequoia, busca valoración de 2.500 millones de dólares",
+        "url": "https://es.investing.com/news/stock-market-news/nuvacore-respaldada-por-sequoia-busca-valoracion-de-2500-millones-de-dolares-3868667",
+        "imagen": "https://content-media.investing.com/news/LYNXMPEB0M0CA_M.jpg",
+        "fecha": "2026-10-10T01:08:34.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "El CTO de Datadog, Alexis Le-Quoc, vende acciones por 14.750 millones de dólares",
         "url": "https://es.investing.com/news/insider-trading-news/el-cto-de-datadog-alexis-lequoc-vende-acciones-por-14750-millones-de-dolares-93CH-3868665",
         "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM40318_1200_L.jpg",
@@ -1464,55 +1514,6 @@
         "url": "https://es.investing.com/news/insider-trading-news/el-director-de-ah-realty-trust-wimbush-compra-acciones-por-6736-dolares-93CH-3868651",
         "imagen": "https://content-media.investing.com/news/moved_small-LYNXMPEM4416N_1200_L.jpg",
         "fecha": "2026-10-10T00:06:18.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "‘Tokenomics’, el hilo más delgado de la IA",
-        "url": "https://www.lavanguardia.com/dinero/20261010/11650376/tokenomics-hilo-mas-delgado-ia.html",
-        "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/03/6ac157798185a.jpeg",
-        "fecha": "2026-10-10T00:00:00.000Z",
-        "fuenteId": "la-vanguardia-economia",
-        "fuenteTitle": "La Vanguardia - Economía",
-        "categorias": [
-          "economia",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El director ejecutivo de Neogen, Mikheal Nassif, compra 6.034 dólares en acciones",
-        "url": "https://es.investing.com/news/insider-trading-news/el-director-ejecutivo-de-neogen-mikheal-nassif-compra-6034-dolares-en-acciones-93CH-3868646",
-        "imagen": "",
-        "fecha": "2026-10-09T23:46:57.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El director ejecutivo de Arista Networks vende más de 21.000 millones de dólares en acciones",
-        "url": "https://es.investing.com/news/insider-trading-news/el-director-ejecutivo-de-arista-networks-vende-mas-de-21000-millones-de-dolares-en-acciones-93CH-3868645",
-        "imagen": "",
-        "fecha": "2026-10-09T23:46:56.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Amazon reorganiza el liderazgo de Alexa tras el lanzamiento de su tablet con IA",
-        "url": "https://es.investing.com/news/company-news/amazon-reorganiza-el-liderazgo-de-alexa-tras-el-lanzamiento-de-su-tablet-con-ia-3868644",
-        "imagen": "",
-        "fecha": "2026-10-09T23:40:32.000Z",
         "fuenteId": "investing-es-noticias",
         "fuenteTitle": "Investing.com España - Noticias",
         "categorias": [
@@ -2304,6 +2305,32 @@
     ],
     "internacional": [
       {
+        "titulo": "Protestas estudiantiles: ¿por qué y cómo están remeciendo a Francia?",
+        "url": "https://www.france24.com/es/programas/una-semana-en-el-mundo/20261010-protestas-estudiantiles-por-qu%C3%A9-y-c%C3%B3mo-est%C3%A1n-remeciendo-a-francia",
+        "imagen": "https://s.france24.com/media/display/b90c0c28-c1bf-11f1-9195-0f96b136895a/w:1024/p:16x9/2026-10-06T165004Z-1465369481-RC2SXNAKK491-RTRMADP-3-FRANCE-PROTEST.jpg",
+        "fecha": "2026-10-10T01:33:14.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "¿Qué se sabe del estado de los tripulantes del portaaviones USS Abraham Lincoln?",
+        "url": "https://www.france24.com/es/video/20261010-qu%C3%A9-se-sabe-del-estado-de-los-tripulantes-del-portaaviones-uss-abraham-lincoln",
+        "imagen": "https://s.france24.com/media/display/145f1e6e-c448-11f1-9b7a-29a2e29ae696/w:1024/p:16x9/ES-20261009-131621-132822-CS.jpg",
+        "fecha": "2026-10-10T01:23:55.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Irán dice que atacó buque que cruzaba ilegalmente en el estrecho de Ormuz",
         "url": "https://www.dw.com/es/irán-dice-que-atacó-buque-que-cruzaba-ilegalmente-en-el-estrecho-de-ormuz/a-79624075?maca=spa-rss-sp-all-1122-xml-mrss",
         "imagen": "",
@@ -2319,6 +2346,19 @@
       {
         "titulo": "Mulino dice que Panamá vive \"un desastre grande\" tras sismo",
         "url": "https://www.dw.com/es/mulino-dice-que-panamá-vive-un-desastre-grande-tras-sismo/a-79623961?maca=spa-rss-sp-all-1122-xml-mrss",
+        "imagen": "",
+        "fecha": "2026-10-09T23:49:00.000Z",
+        "fuenteId": "dw-espanol",
+        "fuenteTitle": "DW Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Terremoto en Panamá deja daños pero aún no registra víctimas",
+        "url": "https://www.dw.com/es/terremoto-en-panamá-deja-daños-pero-aún-no-registra-víctimas/a-79623961?maca=spa-rss-sp-all-1122-xml-mrss",
         "imagen": "",
         "fecha": "2026-10-09T23:49:00.000Z",
         "fuenteId": "dw-espanol",
@@ -2517,45 +2557,6 @@
         "fecha": "2026-10-09T20:45:08.000Z",
         "fuenteId": "abc-internacional",
         "fuenteTitle": "ABC - Internacional",
-        "categorias": [
-          "internacional",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Trump anuncia un acuerdo con Putin para liberar miles de barriles de diésel al mercado mundial",
-        "url": "https://www.bbc.com/mundo/articles/cr78pw790zn8o?at_medium=RSS&at_campaign=rss",
-        "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a5d0/live/a1bc1010-c415-11f1-a175-8928617a734f.jpg",
-        "fecha": "2026-10-09T20:42:42.000Z",
-        "fuenteId": "bbc-mundo",
-        "fuenteTitle": "BBC News Mundo",
-        "categorias": [
-          "internacional",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Emiratos: copiloto de Flydubai pretendía ataque suicida inspirado por el 11-S",
-        "url": "https://www.dw.com/es/emiratos-copiloto-de-flydubai-pretendía-ataque-suicida-inspirado-por-el-11-s/a-79623649?maca=spa-rss-sp-all-1122-xml-mrss",
-        "imagen": "",
-        "fecha": "2026-10-09T20:38:00.000Z",
-        "fuenteId": "dw-espanol",
-        "fuenteTitle": "DW Español",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Simon se fortalece en el Pacífico y se pronostica que tocará tierra como huracán mayor en las costas de México durante el fin de semana",
-        "url": "https://www.bbc.com/mundo/articles/c6vg0ep71pxmo?at_medium=RSS&at_campaign=rss",
-        "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1623/live/9bd98470-c41f-11f1-9462-0fb8e72a616b.png",
-        "fecha": "2026-10-09T20:28:15.000Z",
-        "fuenteId": "bbc-mundo",
-        "fuenteTitle": "BBC News Mundo",
         "categorias": [
           "internacional",
           "actualidad"
@@ -3320,6 +3321,32 @@
     ],
     "politica": [
       {
+        "titulo": "Protestas estudiantiles: ¿por qué y cómo están remeciendo a Francia?",
+        "url": "https://www.france24.com/es/programas/una-semana-en-el-mundo/20261010-protestas-estudiantiles-por-qu%C3%A9-y-c%C3%B3mo-est%C3%A1n-remeciendo-a-francia",
+        "imagen": "https://s.france24.com/media/display/b90c0c28-c1bf-11f1-9195-0f96b136895a/w:1024/p:16x9/2026-10-06T165004Z-1465369481-RC2SXNAKK491-RTRMADP-3-FRANCE-PROTEST.jpg",
+        "fecha": "2026-10-10T01:33:14.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "¿Qué se sabe del estado de los tripulantes del portaaviones USS Abraham Lincoln?",
+        "url": "https://www.france24.com/es/video/20261010-qu%C3%A9-se-sabe-del-estado-de-los-tripulantes-del-portaaviones-uss-abraham-lincoln",
+        "imagen": "https://s.france24.com/media/display/145f1e6e-c448-11f1-9b7a-29a2e29ae696/w:1024/p:16x9/ES-20261009-131621-132822-CS.jpg",
+        "fecha": "2026-10-10T01:23:55.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "La familia Al-Thani contrata un reputado abogado para sacar a su hijo Rakan de prisión",
         "url": "https://www.abc.es/espana/andalucia/malaga/familia-thani-contrata-reputado-abogado-sacar-hijo-20261010025203-nts.html",
         "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/10/WhatsApp%20Image%202026-10-09%20at%2016.17.25-RwgnH6H5XarzsYEhY0ydmoO-1200x840@diario_abc.jpeg",
@@ -3361,6 +3388,19 @@
       {
         "titulo": "Mulino dice que Panamá vive \"un desastre grande\" tras sismo",
         "url": "https://www.dw.com/es/mulino-dice-que-panamá-vive-un-desastre-grande-tras-sismo/a-79623961?maca=spa-rss-sp-all-1122-xml-mrss",
+        "imagen": "",
+        "fecha": "2026-10-09T23:49:00.000Z",
+        "fuenteId": "dw-espanol",
+        "fuenteTitle": "DW Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Terremoto en Panamá deja daños pero aún no registra víctimas",
+        "url": "https://www.dw.com/es/terremoto-en-panamá-deja-daños-pero-aún-no-registra-víctimas/a-79623961?maca=spa-rss-sp-all-1122-xml-mrss",
         "imagen": "",
         "fecha": "2026-10-09T23:49:00.000Z",
         "fuenteId": "dw-espanol",
@@ -3534,45 +3574,6 @@
         "fecha": "2026-10-09T22:05:00.000Z",
         "fuenteId": "la-vanguardia-politica",
         "fuenteTitle": "La Vanguardia - Política",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La Policía brasileña rescata a los 13 niños secuestrados en una escuela en Brasil",
-        "url": "https://www.elmundo.es/internacional/2026/10/09/6ac95506fdddff0a2e8b456e.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/09/17915799894901.jpg",
-        "fecha": "2026-10-09T22:03:07.000Z",
-        "fuenteId": "el-mundo-internacional",
-        "fuenteTitle": "El Mundo - Internacional",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La izquierda moderada francesa lucha por salir de la irrelevancia",
-        "url": "https://www.elmundo.es/internacional/2026/10/10/6ac8e8cae85ece355a8b45a7.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/09/17915522559108.jpg",
-        "fecha": "2026-10-09T22:02:29.000Z",
-        "fuenteId": "el-mundo-internacional",
-        "fuenteTitle": "El Mundo - Internacional",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La 'guerra interna' en el PNV en Vizcaya da alas a EH Bildu: \"Van a ser las elecciones más disputadas de la Historia\"",
-        "url": "https://www.elmundo.es/pais-vasco/2026/10/10/6ac92929e9cf4a8c1f8b4584.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/09/17915730235649.jpg",
-        "fecha": "2026-10-09T22:02:26.000Z",
-        "fuenteId": "el-mundo-espana",
-        "fuenteTitle": "El Mundo - España",
         "categorias": [
           "politica",
           "actualidad"
@@ -4110,6 +4111,20 @@
     ],
     "tecnologia": [
       {
+        "titulo": "El huracán ‘Isaías’ toca tierra en Destin, Florida, tras debilitarse a categoría 2",
+        "url": "https://elpais.com/us/2026-10-10/el-huracan-isaias-se-debilita-a-categoria-2-y-toca-tierra-en-destin-florida.html",
+        "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261009/1223876_190151_video_1800.mp4",
+        "fecha": "2026-10-10T01:42:41.000Z",
+        "fuenteId": "el-pais",
+        "fuenteTitle": "El País",
+        "categorias": [
+          "actualidad",
+          "tecnologia",
+          "ciencia"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Dónde ver Dragon Ball Super: Beerus en España: Plataformas para el nuevo estreno del anime",
         "url": "https://www.nintenderos.com/2026/10/donde-ver-dragon-ball-super-beerus-en-espana-plataformas-para-el-nuevo-estreno-del-anime/",
         "imagen": "https://i.headtopics.com/images/2026/10/1/levelupcom/dragon-ball-super-beerus-se-estrena-en-netflix-y-p-dragon-ball-super-beerus-se-estrena-en-netflix-y-p-C5BBEB1A260707BB19FE614BBEC4C38C.webp",
@@ -4348,19 +4363,6 @@
         "url": "https://www.elmundo.es/yodona/vida-saludable/2026/10/10/6ab50afbfdddff894d8b45b7.html",
         "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/24/17902508729414.jpg",
         "fecha": "2026-10-09T22:03:24.000Z",
-        "fuenteId": "el-mundo",
-        "fuenteTitle": "El Mundo",
-        "categorias": [
-          "actualidad",
-          "tecnologia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Recursos de la Comunidad y asociaciones cinegéticas contra la suspensión de cazar aves en Madrid",
-        "url": "https://www.elmundo.es/madrid/2026/10/10/6ac9335ae9cf4ab30f8b45c0.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/09/17915353189837.jpg",
-        "fecha": "2026-10-09T22:02:47.000Z",
         "fuenteId": "el-mundo",
         "fuenteTitle": "El Mundo",
         "categorias": [
