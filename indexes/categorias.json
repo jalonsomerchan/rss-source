@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-16T02:06:44.207Z",
+  "generado": "2026-10-16T02:26:03.370Z",
   "limitePorCategoria": 20,
   "categorias": {
     "actualidad": [
@@ -50,6 +50,20 @@
         "fuenteTitle": "ABC",
         "categorias": [
           "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Un tiroteo en una escuela primaria de Oregón deja tres niños y un profesor muertos",
+        "url": "https://elpais.com/us/2026-10-16/un-tiroteo-en-una-escuela-primaria-de-oregon-deja-tres-ninos-y-un-profesor-muertos.html",
+        "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261015/1226024_232614_video_1800.mp4",
+        "fecha": "2026-10-15T23:59:25.000Z",
+        "fuenteId": "el-pais",
+        "fuenteTitle": "El País",
+        "categorias": [
+          "actualidad",
+          "tecnologia",
+          "ciencia"
         ],
         "idioma": "es"
       },
@@ -236,22 +250,23 @@
           "actualidad"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "El Gobierno frena el plan de venta total de viviendas de Muface para pagar pensiones tras el desahucio de Maricarmen Abascal",
-        "url": "https://www.elmundo.es/economia/2026/10/16/6ad11c12e9cf4a2a0b8b459b.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/15/17920890692459.jpg",
-        "fecha": "2026-10-15T23:37:41.000Z",
-        "fuenteId": "el-mundo",
-        "fuenteTitle": "El Mundo",
-        "categorias": [
-          "actualidad",
-          "tecnologia"
-        ],
-        "idioma": "es"
       }
     ],
     "ciencia": [
+      {
+        "titulo": "Un tiroteo en una escuela primaria de Oregón deja tres niños y un profesor muertos",
+        "url": "https://elpais.com/us/2026-10-16/un-tiroteo-en-una-escuela-primaria-de-oregon-deja-tres-ninos-y-un-profesor-muertos.html",
+        "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261015/1226024_232614_video_1800.mp4",
+        "fecha": "2026-10-15T23:59:25.000Z",
+        "fuenteId": "el-pais",
+        "fuenteTitle": "El País",
+        "categorias": [
+          "actualidad",
+          "tecnologia",
+          "ciencia"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Un tiroteo en una escuela primaria de Oregón deja tres niños y un profesor muertos",
         "url": "https://elpais.com/us/2026-10-15/un-tiroteo-en-una-escuela-primaria-de-oregon-deja-tres-ninos-muertos.html",
@@ -512,20 +527,6 @@
           "actualidad",
           "tecnologia",
           "ciencia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "¿Cómo se iluminaban los humanos dentro de las cuevas hace 14.000 años?",
-        "url": "https://muyinteresante.okdiario.com/historia/como-se-iluminaban-los-humanos-dentro-de-las-cuevas-hace-14-000-anos.html",
-        "imagen": "",
-        "fecha": "2026-10-15T19:00:55.000Z",
-        "fuenteId": "muy-interesante",
-        "fuenteTitle": "Muy Interesante",
-        "categorias": [
-          "ciencia",
-          "tecnologia",
-          "cultura"
         ],
         "idioma": "es"
       }
@@ -1280,6 +1281,18 @@
     ],
     "economia": [
       {
+        "titulo": "Director de Applied Digital Nottenburg vende 682.500 dólares en acciones APLD",
+        "url": "https://es.investing.com/news/insider-trading-news/director-de-applied-digital-nottenburg-vende-682500-dolares-en-acciones-apld-93CH-3876480",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM40318_1200_L.jpg",
+        "fecha": "2026-10-16T01:32:02.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "El oro se estabiliza cerca de los 4.160 dólares mientras caen los rendimientos del Tesoro",
         "url": "https://es.investing.com/news/commodities-news/el-oro-se-estabiliza-cerca-de-los-4160-dolares-mientras-caen-los-rendimientos-del-tesoro-3876479",
         "imagen": "https://content-media.investing.com/news/LYNXMPEA5M0AC_M.jpg",
@@ -1507,21 +1520,22 @@
           "economia"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "Mongolian Mining registra caída en ventas de carbón en el tercer trimestre y aumento en producción de oro",
-        "url": "https://es.investing.com/news/company-news/mongolian-mining-registra-caida-en-ventas-de-carbon-en-el-tercer-trimestre-y-aumento-en-produccion-de-oro-93CH-3876458",
-        "imagen": "",
-        "fecha": "2026-10-16T00:05:23.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
       }
     ],
     "entretenimiento": [
+      {
+        "titulo": "Nintendo Switch / Nintendo Switch 2 han confirmado hoy otros 12 juegos en camino: Slain 2: The Beast Within y muchos más",
+        "url": "https://www.nintenderos.com/nintendo-switch-2/nintendo-switch-nintendo-switch-2-han-confirmado-hoy-otros-12-juegos-en-camino-slain-2-the-beast-within-y-muchos-mas/",
+        "imagen": "https://i.ytimg.com/vi/XTZKR0ftrFA/hqdefault.jpg",
+        "fecha": "2026-10-16T01:45:47.000Z",
+        "fuenteId": "nintenderos",
+        "fuenteTitle": "Nintenderos",
+        "categorias": [
+          "tecnologia",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Tres niños y una maestra mueren en el tiroteo de una escuela de Oregón: el presunto autor tenía 16 años",
         "url": "https://www.huffingtonpost.es/global/tresnos-maestra-mueren-tiroteo-escuela-oregon-presunto-autor-tenia-16nos-f202610.html",
@@ -1758,19 +1772,6 @@
         "fuenteId": "lavanguardia-television",
         "fuenteTitle": "La Vanguardia - Televisión",
         "categorias": [
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Rubén Torres y Marta Peñate se enfrentan a sus puntos más polémicos 'Supervivientes: All Stars' antes de abandonar",
-        "url": "https://www.diezminutos.es/teleprograma/programas-tv/a74149866/ruben-torres-marta-penate-polemicos-supervivientes-all-stars-antes-de-abandonar/",
-        "imagen": "https://hips.hearstapps.com/hmg-prod/images/b20b574e-29cf-4103-a3e2-89da7cc3a82a.jpg",
-        "fecha": "2026-10-15T21:48:00.000Z",
-        "fuenteId": "diez-minutos",
-        "fuenteTitle": "Diez Minutos",
-        "categorias": [
-          "corazon",
           "entretenimiento"
         ],
         "idioma": "es"
@@ -2291,6 +2292,32 @@
     ],
     "internacional": [
       {
+        "titulo": "Costa Rica construye megacárcel inspirada en las prisiones de Bukele en El Salvador",
+        "url": "https://www.france24.com/es/video/20261016-costa-rica-construye-megac%C3%A1rcel-inspirada-en-las-prisiones-de-bukele-en-el-salvador",
+        "imagen": "https://s.france24.com/media/display/96b0941e-c903-11f1-b68b-4dd8ac2cf3bf/w:1024/p:16x9/FORMATO-5-1.png",
+        "fecha": "2026-10-16T01:48:35.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Canal opositor queda bajo control policial durante una redada en Turquía",
+        "url": "https://www.france24.com/es/video/20261016-canal-opositor-queda-bajo-control-policial-durante-una-redada-en-turqu%C3%ADa",
+        "imagen": "https://s.france24.com/media/display/a8781484-c902-11f1-81d0-2d1c143cdef3/w:1024/p:16x9/FORMATO-1-53.png",
+        "fecha": "2026-10-16T01:47:06.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "¿Bukele cometió errores? Presidente de El Salvador anuncia liberación de la mitad de los presos",
         "url": "https://www.france24.com/es/video/20261016-bukele-cometi%C3%B3-errores-presidente-de-el-salvador-anuncia-liberaci%C3%B3n-de-la-mitad-de-los-presos",
         "imagen": "https://s.france24.com/media/display/c3e9694e-c901-11f1-bbb3-2d1c143cdef3/w:1024/p:16x9/ES-20261015-191148-191922-CS.jpg",
@@ -2518,32 +2545,6 @@
         "fecha": "2026-10-15T22:23:11.000Z",
         "fuenteId": "france24-espanol",
         "fuenteTitle": "France 24 Español",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Dos puentes (uno ruso y otro chino) para romper el aislamiento de Kim Jong-un",
-        "url": "https://www.elmundo.es/internacional/2026/10/16/6ad0718fe9cf4aee0e8b459b.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/15/17920446530773.jpg",
-        "fecha": "2026-10-15T22:01:54.000Z",
-        "fuenteId": "el-mundo-internacional",
-        "fuenteTitle": "El Mundo - Internacional",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Isabel Allende gana el Premio Planeta de novela 2026",
-        "url": "https://www.dw.com/es/isabel-allende-gana-el-premio-planeta-de-novela-2026/a-79674853?maca=spa-rss-sp-all-1122-xml-mrss",
-        "imagen": "",
-        "fecha": "2026-10-15T21:55:00.000Z",
-        "fuenteId": "dw-espanol",
-        "fuenteTitle": "DW Español",
         "categorias": [
           "internacional",
           "politica"
@@ -3311,6 +3312,32 @@
     ],
     "politica": [
       {
+        "titulo": "Costa Rica construye megacárcel inspirada en las prisiones de Bukele en El Salvador",
+        "url": "https://www.france24.com/es/video/20261016-costa-rica-construye-megac%C3%A1rcel-inspirada-en-las-prisiones-de-bukele-en-el-salvador",
+        "imagen": "https://s.france24.com/media/display/96b0941e-c903-11f1-b68b-4dd8ac2cf3bf/w:1024/p:16x9/FORMATO-5-1.png",
+        "fecha": "2026-10-16T01:48:35.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Canal opositor queda bajo control policial durante una redada en Turquía",
+        "url": "https://www.france24.com/es/video/20261016-canal-opositor-queda-bajo-control-policial-durante-una-redada-en-turqu%C3%ADa",
+        "imagen": "https://s.france24.com/media/display/a8781484-c902-11f1-81d0-2d1c143cdef3/w:1024/p:16x9/FORMATO-1-53.png",
+        "fecha": "2026-10-16T01:47:06.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "¿Bukele cometió errores? Presidente de El Salvador anuncia liberación de la mitad de los presos",
         "url": "https://www.france24.com/es/video/20261016-bukele-cometi%C3%B3-errores-presidente-de-el-salvador-anuncia-liberaci%C3%B3n-de-la-mitad-de-los-presos",
         "imagen": "https://s.france24.com/media/display/c3e9694e-c901-11f1-bbb3-2d1c143cdef3/w:1024/p:16x9/ES-20261015-191148-191922-CS.jpg",
@@ -3540,32 +3567,6 @@
         "fuenteTitle": "France 24 Español",
         "categorias": [
           "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La familia militar: el pilar invisible de la operatividad de las Fuerzas Armadas",
-        "url": "https://www.abc.es/espana/familia-militar-pilar-invisible-operatividad-fuerzas-armadas-20261016001113-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/16/1518654320-RqSb40S3vQnLemEtkF0iTtK-1200x840@diario_abc.jpg",
-        "fecha": "2026-10-15T22:12:21.000Z",
-        "fuenteId": "abc-espana",
-        "fuenteTitle": "ABC - España",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "CHA y el Frente Amplio acuerdan concurrir juntos a las generales en Aragón y seguirán negociando con Podemos",
-        "url": "https://www.eldiario.es/aragon/politica/cha-frente-amplio-acuerdan-concurrir-generales-aragon-seguiran-negociando_1_13589781.html",
-        "imagen": "https://static.eldiario.es/clip/582c7261-2754-4391-b568-1073f54209bd_16-9-discover-aspect-ratio_default_0_x893y335.jpg",
-        "fecha": "2026-10-15T22:05:42.000Z",
-        "fuenteId": "eldiario-es",
-        "fuenteTitle": "elDiario.es",
-        "categorias": [
-          "actualidad",
           "politica"
         ],
         "idioma": "es"
@@ -4099,6 +4100,19 @@
     ],
     "tecnologia": [
       {
+        "titulo": "Nintendo Switch / Nintendo Switch 2 han confirmado hoy otros 12 juegos en camino: Slain 2: The Beast Within y muchos más",
+        "url": "https://www.nintenderos.com/nintendo-switch-2/nintendo-switch-nintendo-switch-2-han-confirmado-hoy-otros-12-juegos-en-camino-slain-2-the-beast-within-y-muchos-mas/",
+        "imagen": "https://i.ytimg.com/vi/XTZKR0ftrFA/hqdefault.jpg",
+        "fecha": "2026-10-16T01:45:47.000Z",
+        "fuenteId": "nintenderos",
+        "fuenteTitle": "Nintenderos",
+        "categorias": [
+          "tecnologia",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "RTX 5090: Micro Center cambia su estado a «no comercializado» y sugiere su fin en tiendas",
         "url": "https://www.profesionalreview.com/2026/10/16/rtx-5090-micro-center-no-comercializado-fin-tiendas/",
         "imagen": "https://www.profesionalreview.com/wp-content/uploads/2026/10/RTX-5090-Mas-indicios-de-que-Nvidia-podria-descatalogar-esta-GPU-en-las-tiendas.jpg",
@@ -4107,6 +4121,20 @@
         "fuenteTitle": "Profesional Review",
         "categorias": [
           "tecnologia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Un tiroteo en una escuela primaria de Oregón deja tres niños y un profesor muertos",
+        "url": "https://elpais.com/us/2026-10-16/un-tiroteo-en-una-escuela-primaria-de-oregon-deja-tres-ninos-y-un-profesor-muertos.html",
+        "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261015/1226024_232614_video_1800.mp4",
+        "fecha": "2026-10-15T23:59:25.000Z",
+        "fuenteId": "el-pais",
+        "fuenteTitle": "El País",
+        "categorias": [
+          "actualidad",
+          "tecnologia",
+          "ciencia"
         ],
         "idioma": "es"
       },
@@ -4325,31 +4353,6 @@
         "url": "https://www.elmundo.es/espana/2026/10/16/6ad0d68b21efa0080f8b4599.html",
         "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/15/17920716573810.jpg",
         "fecha": "2026-10-15T22:00:12.000Z",
-        "fuenteId": "el-mundo",
-        "fuenteTitle": "El Mundo",
-        "categorias": [
-          "actualidad",
-          "tecnologia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "HMD seguirá reduciendo su presencia aunque si tienes un móvil de Nokia, por ahora no debes preocuparte",
-        "url": "https://www.larazon.es/tecnologia-consumo/nokia/hmd-seguira-reduciendo-su-presencia-tienes-movil-nokia-ahora-no-debes-preocuparte_202610166ad11f96bafd3d7363611e20.html",
-        "imagen": "https://fotografias-2.larazon.es/clipping/cmsimages02/2026/10/16/9A544862-59FF-426A-A29B-A46AFB42F3D9/adios-nokia-vez-parte-hmd-global_96.jpg?crop=1440,810,x0,y27&amp;width=1200&amp;height=675&amp;optimize=low&amp;format=webply",
-        "fecha": "2026-10-15T22:00:00.000Z",
-        "fuenteId": "andro4all",
-        "fuenteTitle": "Andro4all",
-        "categorias": [
-          "tecnologia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Chunta pacta con IU y Sumar la formación de una lista conjunta en Aragón sin Podemos",
-        "url": "https://www.elmundo.es/aragon/2026/10/15/6ad1486cfc6c83ed618b4592.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/15/17921007780146.jpg",
-        "fecha": "2026-10-15T21:54:40.000Z",
         "fuenteId": "el-mundo",
         "fuenteTitle": "El Mundo",
         "categorias": [
