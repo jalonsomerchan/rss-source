@@ -1,8 +1,21 @@
 {
-  "generado": "2026-10-16T01:53:32.388Z",
+  "generado": "2026-10-16T02:06:44.207Z",
   "limitePorCategoria": 20,
   "categorias": {
     "actualidad": [
+      {
+        "titulo": "Tres niños y una maestra mueren en el tiroteo de una escuela de Oregón: el presunto autor tenía 16 años",
+        "url": "https://www.huffingtonpost.es/global/tresnos-maestra-mueren-tiroteo-escuela-oregon-presunto-autor-tenia-16nos-f202610.html",
+        "imagen": "",
+        "fecha": "2026-10-16T01:27:02.000Z",
+        "fuenteId": "huffpost-espana",
+        "fuenteTitle": "HuffPost España",
+        "categorias": [
+          "actualidad",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Cinco fallecidos, tres de ellos niños, en un tiroteo en una escuela de Oregón, EEUU",
         "url": "https://theobjective.com/internacional/2026-10-16/cinco-fallecidos-tiroteo-escuela-oregon-eeuu/",
@@ -229,19 +242,6 @@
         "url": "https://www.elmundo.es/economia/2026/10/16/6ad11c12e9cf4a2a0b8b459b.html",
         "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/15/17920890692459.jpg",
         "fecha": "2026-10-15T23:37:41.000Z",
-        "fuenteId": "el-mundo",
-        "fuenteTitle": "El Mundo",
-        "categorias": [
-          "actualidad",
-          "tecnologia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Tensión en el PSOE ante las posibles imposiciones de Ferraz en las listas con 4 puntos calientes",
-        "url": "https://www.elmundo.es/elecciones/elecciones-castilla-y-leon/2026/10/16/6ad0a931fc6c83e50c8b45a4.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/15/17920765230193.jpg",
-        "fecha": "2026-10-15T23:37:40.000Z",
         "fuenteId": "el-mundo",
         "fuenteTitle": "El Mundo",
         "categorias": [
@@ -1280,6 +1280,66 @@
     ],
     "economia": [
       {
+        "titulo": "El oro se estabiliza cerca de los 4.160 dólares mientras caen los rendimientos del Tesoro",
+        "url": "https://es.investing.com/news/commodities-news/el-oro-se-estabiliza-cerca-de-los-4160-dolares-mientras-caen-los-rendimientos-del-tesoro-3876479",
+        "imagen": "https://content-media.investing.com/news/LYNXMPEA5M0AC_M.jpg",
+        "fecha": "2026-10-16T01:26:11.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "La directora científica de Nurix Therapeutics vende acciones por 36.300 dólares",
+        "url": "https://es.investing.com/news/insider-trading-news/la-directora-cientifica-de-nurix-therapeutics-vende-acciones-por-36300-dolares-93CH-3876477",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM40318_1200_L.jpg",
+        "fecha": "2026-10-16T01:18:22.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "AJB Investment Fund II compra 2.565 dólares en acciones de Jewett Cameron Trading Co.",
+        "url": "https://es.investing.com/news/insider-trading-news/ajb-investment-fund-ii-compra-2565-dolares-en-acciones-de-jewett-cameron-trading-co-93CH-3876476",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0V4_1200_L.jpg",
+        "fecha": "2026-10-16T01:17:17.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Los futuros del Nasdaq caen por el gasto en IA y las tasas de la Fed",
+        "url": "https://es.investing.com/news/stock-market-news/los-futuros-del-nasdaq-caen-por-el-gasto-en-ia-y-las-tasas-de-la-fed-3876475",
+        "imagen": "https://content-media.investing.com/news/LYNXMPEM531LT_1200_L.jpg",
+        "fecha": "2026-10-16T01:10:10.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El director de contabilidad de IDT vende acciones por 254.678 dólares",
+        "url": "https://es.investing.com/news/insider-trading-news/el-director-de-contabilidad-de-idt-vende-acciones-por-254678-dolares-93CH-3876472",
+        "imagen": "",
+        "fecha": "2026-10-16T01:02:13.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Netflix nombra a Peter Rice como nuevo Chief Content Officer en reemplazo de Bela Bajaria",
         "url": "https://todotvnews.com/netflix-nombra-a-peter-rice-como-nuevo-director-global-de-contenidos-en-reemplazo-de-bela-bajaria/",
         "imagen": "https://todotvnews.com/wp-content/uploads/2026/10/Netflixexecs.jpg",
@@ -1459,69 +1519,22 @@
           "economia"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "Prime Drink Group lanza financiación de C$4M y cierra colocación de C$200K",
-        "url": "https://es.investing.com/news/company-news/prime-drink-group-lanza-financiacion-de-c4m-y-cierra-colocacion-de-c200k-93CH-3876457",
-        "imagen": "https://content-media.investing.com/news/LYNXMPEM3F142_150x108_S.jpg",
-        "fecha": "2026-10-16T00:01:27.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El Gobierno ofrece ahora financiación a los fondos de inversión para hacer vivienda asequible",
-        "url": "https://www.abc.es/economia/gobierno-emplaza-fondos-inversion-plan-construir-vivienda-20261016013849-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/16/Isabel%20Rodriguez%20EP-Rqu69YB0oSrz3aj4bubhWbI-1200x840@diario_abc.jpg",
-        "fecha": "2026-10-16T00:00:34.000Z",
-        "fuenteId": "abc-economia",
-        "fuenteTitle": "ABC - Economía",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Los rascacielos de Nueva York arrojan rentabilidades del 6%",
-        "url": "https://www.expansion.com/inversion/2026/10/16/6ac90040468aeb591e8b4570.html",
-        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2023/02/17/16766503953715.jpg",
-        "fecha": "2026-10-15T23:59:51.000Z",
-        "fuenteId": "expansion",
-        "fuenteTitle": "Expansión",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Rentas del 5% en oficinas de la City",
-        "url": "https://www.expansion.com/inmobiliario/2026/10/16/rentas-5-oficinas-city.html",
-        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/16/17921087256180.jpg",
-        "fecha": "2026-10-15T23:59:00.000Z",
-        "fuenteId": "expansion",
-        "fuenteTitle": "Expansión",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Los precios del petróleo caen levemente; el WTI apunta a una semana sólida",
-        "url": "https://es.investing.com/news/commodities-news/los-precios-del-petroleo-caen-levemente-el-wti-apunta-a-una-semana-solida-3876456",
-        "imagen": "https://content-media.investing.com/news/LYNXNPEC2U0WF_L.jpg",
-        "fecha": "2026-10-15T23:57:39.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
       }
     ],
     "entretenimiento": [
+      {
+        "titulo": "Tres niños y una maestra mueren en el tiroteo de una escuela de Oregón: el presunto autor tenía 16 años",
+        "url": "https://www.huffingtonpost.es/global/tresnos-maestra-mueren-tiroteo-escuela-oregon-presunto-autor-tenia-16nos-f202610.html",
+        "imagen": "",
+        "fecha": "2026-10-16T01:27:02.000Z",
+        "fuenteId": "huffpost-espana",
+        "fuenteTitle": "HuffPost España",
+        "categorias": [
+          "actualidad",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Netflix nombra a Peter Rice como nuevo Chief Content Officer en reemplazo de Bela Bajaria",
         "url": "https://todotvnews.com/netflix-nombra-a-peter-rice-como-nuevo-director-global-de-contenidos-en-reemplazo-de-bela-bajaria/",
@@ -1758,18 +1771,6 @@
         "fuenteTitle": "Diez Minutos",
         "categorias": [
           "corazon",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Álvaro Morte alerta del futuro de la cultura y lanza un aviso a los políticos: “Me da muchísimo miedo”",
-        "url": "https://www.lavanguardia.com/television/20261015/11660146/alvaro-morte-alerta-futuro-cultura-lanza-aviso-politicos-me-da-miedo.html",
-        "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/15/6ad145fb2dea6.jpeg",
-        "fecha": "2026-10-15T21:39:09.000Z",
-        "fuenteId": "lavanguardia-television",
-        "fuenteTitle": "La Vanguardia - Televisión",
-        "categorias": [
           "entretenimiento"
         ],
         "idioma": "es"
@@ -2290,6 +2291,58 @@
     ],
     "internacional": [
       {
+        "titulo": "¿Bukele cometió errores? Presidente de El Salvador anuncia liberación de la mitad de los presos",
+        "url": "https://www.france24.com/es/video/20261016-bukele-cometi%C3%B3-errores-presidente-de-el-salvador-anuncia-liberaci%C3%B3n-de-la-mitad-de-los-presos",
+        "imagen": "https://s.france24.com/media/display/c3e9694e-c901-11f1-bbb3-2d1c143cdef3/w:1024/p:16x9/ES-20261015-191148-191922-CS.jpg",
+        "fecha": "2026-10-16T01:38:39.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Zelenski defiende ataques de Ucrania contra refinerías rusas a pesar de presión de Trump",
+        "url": "https://www.france24.com/es/video/20261016-zelenski-defiende-ataques-de-ucrania-contra-refiner%C3%ADas-rusas-a-pesar-de-presi%C3%B3n-de-trump",
+        "imagen": "https://s.france24.com/media/display/b631c0c2-c900-11f1-82ea-2d1c143cdef3/w:1024/p:16x9/ES-20261015-190737-190923-CS.jpg",
+        "fecha": "2026-10-16T01:36:46.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Informe desde Washington: EE. UU. estaría considerando usar 'madre de todas las bombas' contra Irán",
+        "url": "https://www.france24.com/es/video/20261016-informe-desde-washington-ee-uu-estar%C3%ADa-considerando-usar-madre-de-todas-las-bombas-contra-ir%C3%A1n",
+        "imagen": "https://s.france24.com/media/display/99992082-c8ff-11f1-8d2d-638c1c1f5fd6/w:1024/p:16x9/ES-20261015-190542-190707-CS.jpg",
+        "fecha": "2026-10-16T01:33:48.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "EE. UU.: Trump descarta retransmitir en directo fusilamiento de Nidal Hasan",
+        "url": "https://www.france24.com/es/video/20261016-ee-uu-trump-descarta-retransmitir-en-directo-fusilamiento-de-nidal-hasan",
+        "imagen": "https://s.france24.com/media/display/6e84c48c-c8fa-11f1-8e71-4dd8ac2cf3bf/w:1024/p:16x9/ES-20261015-190302-190512-CS.jpg",
+        "fecha": "2026-10-16T01:09:12.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Brasil: Senado aprueba reducción de jornada laboral seis a cinco días a la semana",
         "url": "https://www.france24.com/es/video/20261016-brasil-senado-aprueba-reducci%C3%B3n-de-jornada-laboral-seis-a-cinco-d%C3%ADas-a-la-semana",
         "imagen": "https://s.france24.com/media/display/b5a2ad22-c8f8-11f1-855d-638c1c1f5fd6/w:1024/p:16x9/ES-20261015-163535-163759-CS.jpg",
@@ -2494,57 +2547,6 @@
         "categorias": [
           "internacional",
           "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La puja tecnológica entre Europa y China en el Salón del Automóvil de París",
-        "url": "https://www.france24.com/es/video/20261015-la-puja-tecnol%C3%B3gica-entre-europa-y-china-en-el-sal%C3%B3n-del-autom%C3%B3vil-de-par%C3%ADs",
-        "imagen": "https://s.france24.com/media/display/f302c598-c8e0-11f1-961e-638c1c1f5fd6/w:1024/p:16x9/Automovil-Paris.png",
-        "fecha": "2026-10-15T21:51:58.000Z",
-        "fuenteId": "france24-espanol",
-        "fuenteTitle": "France 24 Español",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Albania: las protestas violentas sacuden Tirana por tercer día seguido",
-        "url": "https://es.euronews.com/video/2026/10/15/albania-las-protestas-violentas-sacuden-tirana-por-tercer-dia-seguido",
-        "imagen": "",
-        "fecha": "2026-10-15T21:36:08.000Z",
-        "fuenteId": "euronews-espanol",
-        "fuenteTitle": "Euronews Español",
-        "categorias": [
-          "internacional"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Trump considera lanzar la 'madre de todas las bombas' sobre Irán",
-        "url": "https://www.abc.es/internacional/trump-considera-lanzar-madre-bombas-sobre-iran-20261015232056-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/15/1518794947-kcpB-U302254890385m3D-1200x840@diario_abc.jpg",
-        "fecha": "2026-10-15T21:20:57.000Z",
-        "fuenteId": "abc-internacional",
-        "fuenteTitle": "ABC - Internacional",
-        "categorias": [
-          "internacional",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Cuáles son las lecciones que dejó El Niño más catastrófico de la historia",
-        "url": "https://www.bbc.com/mundo/articles/cqzjx4lr224go?at_medium=RSS&at_campaign=rss",
-        "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1fc9/live/ad0e5ec0-c8d7-11f1-bc2e-018d645d8d21.jpg",
-        "fecha": "2026-10-15T20:52:51.000Z",
-        "fuenteId": "bbc-mundo",
-        "fuenteTitle": "BBC News Mundo",
-        "categorias": [
-          "internacional",
-          "actualidad"
         ],
         "idioma": "es"
       }
@@ -3309,6 +3311,58 @@
     ],
     "politica": [
       {
+        "titulo": "¿Bukele cometió errores? Presidente de El Salvador anuncia liberación de la mitad de los presos",
+        "url": "https://www.france24.com/es/video/20261016-bukele-cometi%C3%B3-errores-presidente-de-el-salvador-anuncia-liberaci%C3%B3n-de-la-mitad-de-los-presos",
+        "imagen": "https://s.france24.com/media/display/c3e9694e-c901-11f1-bbb3-2d1c143cdef3/w:1024/p:16x9/ES-20261015-191148-191922-CS.jpg",
+        "fecha": "2026-10-16T01:38:39.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Zelenski defiende ataques de Ucrania contra refinerías rusas a pesar de presión de Trump",
+        "url": "https://www.france24.com/es/video/20261016-zelenski-defiende-ataques-de-ucrania-contra-refiner%C3%ADas-rusas-a-pesar-de-presi%C3%B3n-de-trump",
+        "imagen": "https://s.france24.com/media/display/b631c0c2-c900-11f1-82ea-2d1c143cdef3/w:1024/p:16x9/ES-20261015-190737-190923-CS.jpg",
+        "fecha": "2026-10-16T01:36:46.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Informe desde Washington: EE. UU. estaría considerando usar 'madre de todas las bombas' contra Irán",
+        "url": "https://www.france24.com/es/video/20261016-informe-desde-washington-ee-uu-estar%C3%ADa-considerando-usar-madre-de-todas-las-bombas-contra-ir%C3%A1n",
+        "imagen": "https://s.france24.com/media/display/99992082-c8ff-11f1-8d2d-638c1c1f5fd6/w:1024/p:16x9/ES-20261015-190542-190707-CS.jpg",
+        "fecha": "2026-10-16T01:33:48.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "EE. UU.: Trump descarta retransmitir en directo fusilamiento de Nidal Hasan",
+        "url": "https://www.france24.com/es/video/20261016-ee-uu-trump-descarta-retransmitir-en-directo-fusilamiento-de-nidal-hasan",
+        "imagen": "https://s.france24.com/media/display/6e84c48c-c8fa-11f1-8e71-4dd8ac2cf3bf/w:1024/p:16x9/ES-20261015-190302-190512-CS.jpg",
+        "fecha": "2026-10-16T01:09:12.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Brasil: Senado aprueba reducción de jornada laboral seis a cinco días a la semana",
         "url": "https://www.france24.com/es/video/20261016-brasil-senado-aprueba-reducci%C3%B3n-de-jornada-laboral-seis-a-cinco-d%C3%ADas-a-la-semana",
         "imagen": "https://s.france24.com/media/display/b5a2ad22-c8f8-11f1-855d-638c1c1f5fd6/w:1024/p:16x9/ES-20261015-163535-163759-CS.jpg",
@@ -3513,58 +3567,6 @@
         "categorias": [
           "actualidad",
           "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Feijóo garantiza que revalorizará las pensiones y Sánchez le acusa de mentir",
-        "url": "https://www.lavanguardia.com/politica/20261016/11660046/feijoo-garantiza-revalorizara-pensiones-sanchez-le-acusa-mentir.html",
-        "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/15/6ad10f8bbbf37.r_d.893-616-0.jpeg",
-        "fecha": "2026-10-15T22:05:00.000Z",
-        "fuenteId": "la-vanguardia-politica",
-        "fuenteTitle": "La Vanguardia - Política",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "No hables de las pensiones",
-        "url": "https://www.lavanguardia.com/politica/20261016/11660166/hables-pensiones.html",
-        "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
-        "fecha": "2026-10-15T22:03:14.000Z",
-        "fuenteId": "la-vanguardia-politica",
-        "fuenteTitle": "La Vanguardia - Política",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Dos puentes (uno ruso y otro chino) para romper el aislamiento de Kim Jong-un",
-        "url": "https://www.elmundo.es/internacional/2026/10/16/6ad0718fe9cf4aee0e8b459b.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/15/17920446530773.jpg",
-        "fecha": "2026-10-15T22:01:54.000Z",
-        "fuenteId": "el-mundo-internacional",
-        "fuenteTitle": "El Mundo - Internacional",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Atasco de las izquierdas en el Senado: el pacto de PSOE y Frente Amplio se enfría casi sin tiempo",
-        "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/16/6ad114c9e85eceb9518b4598.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/02/02/17700320929278.jpg",
-        "fecha": "2026-10-15T22:00:11.000Z",
-        "fuenteId": "el-mundo-espana",
-        "fuenteTitle": "El Mundo - España",
-        "categorias": [
-          "politica",
-          "actualidad"
         ],
         "idioma": "es"
       }
