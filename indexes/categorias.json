@@ -1,8 +1,21 @@
 {
-  "generado": "2026-10-19T01:21:20.706Z",
+  "generado": "2026-10-19T01:52:19.059Z",
   "limitePorCategoria": 20,
   "categorias": {
     "actualidad": [
+      {
+        "titulo": "«Miliciano», «corrupto»: Lula y Flávio Bolsonaro chocan en el debate electoral en Brasil",
+        "url": "https://www.abc.es/internacional/miliciano-corrupto-lula-flavio-bolsonaro-chocan-debate-20261019025510-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/19/1518966928-kUg-U302304950090TQH-1200x840@diario_abc.jpg",
+        "fecha": "2026-10-19T00:55:10.000Z",
+        "fuenteId": "abc-internacional",
+        "fuenteTitle": "ABC - Internacional",
+        "categorias": [
+          "internacional",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Currículo Colau para la izquierda populista",
         "url": "https://www.abc.es/espana/cataluna/curriculo-colau-izquierda-populista-20261019021849-nt.html",
@@ -229,19 +242,6 @@
         "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/19/6ad51e63e85eceb80e8b458c.html",
         "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/18/17923518916271.jpg",
         "fecha": "2026-10-18T23:28:29.000Z",
-        "fuenteId": "el-mundo",
-        "fuenteTitle": "El Mundo",
-        "categorias": [
-          "actualidad",
-          "tecnologia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La caída de la izquierda que hizo posible Sánchez",
-        "url": "https://www.elmundo.es/espana/2026/10/19/6ad50e43e4d4d8cd468b457c.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/18/17923484893996.jpg",
-        "fecha": "2026-10-18T23:28:28.000Z",
         "fuenteId": "el-mundo",
         "fuenteTitle": "El Mundo",
         "categorias": [
@@ -1286,6 +1286,18 @@
     ],
     "economia": [
       {
+        "titulo": "El oro sube tras las declaraciones de Warsh que frenan las apuestas de subida de la Fed",
+        "url": "https://es.investing.com/news/commodities-news/el-oro-sube-tras-las-declaraciones-de-warsh-que-frenan-las-apuestas-de-subida-de-la-fed-3878290",
+        "imagen": "https://content-media.investing.com/news/LYNXNPEC140H9_M.jpg",
+        "fecha": "2026-10-19T01:04:18.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "¿Por qué se dispara hoy la acción de Fleetpartners?",
         "url": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-fleetpartners-93CH-3878288",
         "imagen": "https://content-media.investing.com/news/LYNXNPEBAG0BO_S.jpg",
@@ -1511,18 +1523,6 @@
         "categorias": [
           "economia",
           "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "ATL, broker de Lloyd's, ficha en España a un ex de Asterra",
-        "url": "https://www.expansion.com/empresas/seguros/2026/10/19/6ad511c5e5fdead8018b458e.html",
-        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/18/17923484721835.png",
-        "fecha": "2026-10-18T22:17:14.000Z",
-        "fuenteId": "expansion",
-        "fuenteTitle": "Expansión",
-        "categorias": [
-          "economia"
         ],
         "idioma": "es"
       }
@@ -2302,6 +2302,32 @@
     ],
     "internacional": [
       {
+        "titulo": "Lula vs. Flávio, el último round",
+        "url": "https://www.france24.com/es/programas/aqu%C3%AD-am%C3%A9rica/20261019-lula-vs-fl%C3%A1vio-el-%C3%BAltimo-round",
+        "imagen": "https://s.france24.com/media/display/c4cf83de-cb54-11f1-b6ce-4dd8ac2cf3bf/w:1024/p:16x9/a99267a7-39f3-459d-84f2-01d989b9fac8.png",
+        "fecha": "2026-10-19T00:56:39.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "«Miliciano», «corrupto»: Lula y Flávio Bolsonaro chocan en el debate electoral en Brasil",
+        "url": "https://www.abc.es/internacional/miliciano-corrupto-lula-flavio-bolsonaro-chocan-debate-20261019025510-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/19/1518966928-kUg-U302304950090TQH-1200x840@diario_abc.jpg",
+        "fecha": "2026-10-19T00:55:10.000Z",
+        "fuenteId": "abc-internacional",
+        "fuenteTitle": "ABC - Internacional",
+        "categorias": [
+          "internacional",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Arabia Saudita busca aliados frente a los hutíes: Egipto ofrece apoyo militar y Riad se acerca a EAU",
         "url": "https://www.france24.com/es/medio-oriente/20261019-arabia-saudita-busca-aliados-frente-a-los-hut%C3%ADes-egipto-ofrece-apoyo-militar-y-riad-se-acerca-a-eau",
         "imagen": "https://s.france24.com/media/display/603bdfc8-cb43-11f1-bd06-d1d2c32ebb87/w:1024/p:16x9/2026-10-18T164516Z-396221914-RC2K5OAYO76J-RTRMADP-3-IRAN-CRISIS-EMIRATES-SAUDI.jpg",
@@ -2525,32 +2551,6 @@
         "url": "https://www.france24.com/es/francia/20261018-macron-no-debemos-confundir-las-demandas-leg%C3%ADtimas-con-la-violencia",
         "imagen": "https://s.france24.com/media/display/dc14b0ea-cb1e-11f1-b98f-6313a763b466/w:1024/p:16x9/MACRON-18-10-2026-18-28-ING16-frame-137183.jpeg",
         "fecha": "2026-10-18T19:50:23.000Z",
-        "fuenteId": "france24-espanol",
-        "fuenteTitle": "France 24 Español",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Miles de brasileños salen a las calles a siete días de la segunda vuelta presidencial más reñida de su historia",
-        "url": "https://www.abc.es/internacional/miles-brasilenos-salen-calles-siete-dias-segunda-20261018212940-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/18/flavio-RzCl5hXq3JMvGGgBRNvvZSN-1200x840@diario_abc.jpg",
-        "fecha": "2026-10-18T19:29:40.000Z",
-        "fuenteId": "abc-internacional",
-        "fuenteTitle": "ABC - Internacional",
-        "categorias": [
-          "internacional",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Más de 120.000 desplazados por la intensificación de los combates en Taiz",
-        "url": "https://www.france24.com/es/video/20261018-m%C3%A1s-de-120-000-desplazados-por-la-intensificaci%C3%B3n-de-los-combates-en-taiz",
-        "imagen": "https://s.france24.com/media/display/053728aa-cb28-11f1-a5bf-d1d2c32ebb87/w:1024/p:16x9/ES-20261018-124017-124156-CS.jpg",
-        "fecha": "2026-10-18T19:24:15.000Z",
         "fuenteId": "france24-espanol",
         "fuenteTitle": "France 24 Español",
         "categorias": [
@@ -3312,6 +3312,19 @@
     ],
     "politica": [
       {
+        "titulo": "Lula vs. Flávio, el último round",
+        "url": "https://www.france24.com/es/programas/aqu%C3%AD-am%C3%A9rica/20261019-lula-vs-fl%C3%A1vio-el-%C3%BAltimo-round",
+        "imagen": "https://s.france24.com/media/display/c4cf83de-cb54-11f1-b6ce-4dd8ac2cf3bf/w:1024/p:16x9/a99267a7-39f3-459d-84f2-01d989b9fac8.png",
+        "fecha": "2026-10-19T00:56:39.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Arabia Saudita busca aliados frente a los hutíes: Egipto ofrece apoyo militar y Riad se acerca a EAU",
         "url": "https://www.france24.com/es/medio-oriente/20261019-arabia-saudita-busca-aliados-frente-a-los-hut%C3%ADes-egipto-ofrece-apoyo-militar-y-riad-se-acerca-a-eau",
         "imagen": "https://s.france24.com/media/display/603bdfc8-cb43-11f1-bd06-d1d2c32ebb87/w:1024/p:16x9/2026-10-18T164516Z-396221914-RC2K5OAYO76J-RTRMADP-3-IRAN-CRISIS-EMIRATES-SAUDI.jpg",
@@ -3550,19 +3563,6 @@
         "url": "https://theobjective.com/deportes/futbol/laliga/2026-10-18/real-madrid-4-1-sevilla-cronica/",
         "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2025/12/Javier-Tebas-469x317.jpg",
         "fecha": "2026-10-18T21:32:09.000Z",
-        "fuenteId": "the-objective",
-        "fuenteTitle": "The Objective",
-        "categorias": [
-          "actualidad",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Emitido un Es-Alert a 50 municipios de Almería por posible aviso rojo por fuertes lluvias",
-        "url": "https://theobjective.com/espana/andalucia/2026-10-18/emitido-es-alert-municipios-almeria/",
-        "imagen": "https://theobjective.com/wp-content/uploads/2026/09/el-vicepresidente-primero-y-consejero-de-presidencia-sanidad-y-emergencias-antonio-sanz-2.jpg",
-        "fecha": "2026-10-18T21:26:15.000Z",
         "fuenteId": "the-objective",
         "fuenteTitle": "The Objective",
         "categorias": [
