@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-20T02:54:25.951Z",
+  "generado": "2026-10-20T03:06:51.839Z",
   "limitePorCategoria": 20,
   "categorias": {
     "actualidad": [
@@ -20,6 +20,18 @@
         "url": "https://www.20minutos.es/gonzoo/su-marido-le-revela-que-es-gay-ella-le-reclama-50-000-euros-por-los-hijos-que-nunca-tuvieron_7050782_0.html",
         "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2023/11/29/acuerdo-de-divorcio-y-anillos-de-boda.jpeg",
         "fecha": "2026-10-20T00:27:38.000Z",
+        "fuenteId": "20minutos",
+        "fuenteTitle": "20minutos",
+        "categorias": [
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "13 años de 'MasterChef' y ni una sola celebrity con más paso por las cocinas que la última expulsada",
+        "url": "https://www.20minutos.es/television/13-anos-masterchef-ni-una-sola-celebrity-con-mas-paso-por-las-cocinas-que-ultima-expulsada-que-poco-me-ha-cundido_7050781_0.html",
+        "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/20/6ad6b410d603a9-51318951.png",
+        "fecha": "2026-10-20T00:25:26.000Z",
         "fuenteId": "20minutos",
         "fuenteTitle": "20minutos",
         "categorias": [
@@ -235,19 +247,6 @@
         "fuenteId": "abc",
         "fuenteTitle": "ABC",
         "categorias": [
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La importancia de tener mayoría en el Senado: comisiones de investigación y artículo 155",
-        "url": "https://www.abc.es/espana/importancia-tener-mayoria-senado-comisiones-investigacion-articulo-20261020012638-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/20/1516991114-R7g3ZaEDoUxG9DfdTjbF55M-1200x840@diario_abc.jpg",
-        "fecha": "2026-10-19T23:27:20.000Z",
-        "fuenteId": "abc-espana",
-        "fuenteTitle": "ABC - España",
-        "categorias": [
-          "politica",
           "actualidad"
         ],
         "idioma": "es"
@@ -1291,9 +1290,93 @@
     ],
     "economia": [
       {
+        "titulo": "El sector retail cayó en el tercer trimestre, pero esta acción de moda seleccionada por IA sube un 18,81%",
+        "url": "https://es.investing.com/news/stock-market-news/el-sector-retail-cayo-en-el-tercer-trimestre-pero-esta-accion-de-moda-seleccionada-por-ia-sube-un-1881-3880194",
+        "imagen": "https://content-media.investing.com/news/LYNXMPEB2N09U_M.jpg",
+        "fecha": "2026-10-20T02:13:51.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Lois Zabrocky, directora ejecutiva de International Seaways, vende acciones por 228.000 dólares",
+        "url": "https://es.investing.com/news/insider-trading-news/lois-zabrocky-directora-ejecutiva-de-international-seaways-vende-acciones-por-228000-dolares-93CH-3880193",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0V4_1200_L.jpg",
+        "fecha": "2026-10-20T02:06:58.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Starboard presiona a Solstice con un recorte de costes de 100 millones de dólares",
+        "url": "https://es.investing.com/news/stock-market-news/starboard-presiona-a-solstice-con-un-recorte-de-costes-de-100-millones-de-dolares-3880191",
+        "imagen": "",
+        "fecha": "2026-10-20T02:04:02.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Director de Glenbrook Capital compra acciones de SenesTech por 706.000 dólares",
+        "url": "https://es.investing.com/news/insider-trading-news/director-de-glenbrook-capital-compra-acciones-de-senestech-por-706000-dolares-93CH-3880190",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM4510G_1200_L.jpg",
+        "fecha": "2026-10-20T02:02:49.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Directiva de Ionis Pharma vende acciones por 59.081 dólares",
+        "url": "https://es.investing.com/news/insider-trading-news/directiva-de-ionis-pharma-vende-acciones-por-59081-dolares-93CH-3880189",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM4519D_1200_L.jpg",
+        "fecha": "2026-10-20T02:02:33.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El vicepresidente ejecutivo de investigación de Ionis vende 2.307 dólares en acciones",
+        "url": "https://es.investing.com/news/insider-trading-news/el-vicepresidente-ejecutivo-de-investigacion-de-ionis-vende-2307-dolares-en-acciones-93CH-3880188",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM431A2_1200_L.jpg",
+        "fecha": "2026-10-20T02:02:23.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Saba Capital Management compra 115.839 dólares en Ellsworth Growth & Income Fund",
+        "url": "https://es.investing.com/news/insider-trading-news/saba-capital-management-compra-115839-dolares-en-ellsworth-growth--income-fund-93CH-3880187",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0V4_1200_L.jpg",
+        "fecha": "2026-10-20T02:02:22.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "El director ejecutivo de Wayfair, Niraj Shah, vende 13,02 millones de dólares en acciones",
         "url": "https://es.investing.com/news/insider-trading-news/el-director-ejecutivo-de-wayfair-niraj-shah-vende-1302-millones-de-dolares-en-acciones-93CH-3880186",
-        "imagen": "",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3T1K3_1200_L.jpg",
         "fecha": "2026-10-20T01:32:26.000Z",
         "fuenteId": "investing-es-noticias",
         "fuenteTitle": "Investing.com España - Noticias",
@@ -1441,90 +1524,6 @@
         "fecha": "2026-10-20T00:47:01.000Z",
         "fuenteId": "investing-es-noticias",
         "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El director de Palantir Alexander Moore vende acciones por 3,17 millones de dólares",
-        "url": "https://es.investing.com/news/insider-trading-news/el-director-de-palantir-alexander-moore-vende-acciones-por-317-millones-de-dolares-93CH-3880167",
-        "imagen": "https://content-media.investing.com/news/PalantirTechnologies_800x533_L_1599055554.jpg",
-        "fecha": "2026-10-20T00:32:24.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Directora de CrowdStrike Johanna Flower vende acciones por 2,27 millones de dólares",
-        "url": "https://es.investing.com/news/insider-trading-news/directora-de-crowdstrike-johanna-flower-vende-acciones-por-227-millones-de-dolares-93CH-3880166",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEK740X7_L.jpg",
-        "fecha": "2026-10-20T00:32:23.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Los bancos que pagan más por domiciliar la nómina en 2026",
-        "url": "https://www.expansion.com/empresas/banca/2026/10/20/6ad5f04b468aebea578b4595.html",
-        "imagen": "http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&cg=rss-expansion&ci=es-widgetueditorial&si=https://www.expansion.com/rss/portada.xml",
-        "fecha": "2026-10-20T00:26:41.000Z",
-        "fuenteId": "expansion",
-        "fuenteTitle": "Expansión",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Tres valores del Ibex que marcan récord en un octubre bajista",
-        "url": "https://www.expansion.com/inversion/2026/10/20/6ad6528e468aebe36d8b459a.html",
-        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/19/17924306862888.jpg",
-        "fecha": "2026-10-20T00:26:41.000Z",
-        "fuenteId": "expansion-mercados",
-        "fuenteTitle": "Expansión - Mercados",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Los mejores y peores valores en términos de valor y momentum",
-        "url": "https://www.expansion.com/mercados/2026/10/20/6ad6125de5fdea65528b459f.html",
-        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/19/17924162599782.jpg",
-        "fecha": "2026-10-20T00:26:40.000Z",
-        "fuenteId": "expansion",
-        "fuenteTitle": "Expansión",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La producción de cobre de BHP cae un 19% en el primer trimestre",
-        "url": "https://es.investing.com/news/stock-market-news/la-produccion-de-cobre-de-bhp-cae-un-19-en-el-primer-trimestre-3880164",
-        "imagen": "https://content-media.investing.com/news/LYNXNPEB5S0BB_M.jpg",
-        "fecha": "2026-10-20T00:21:26.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El tequila más caro jamás subastado: Clase Azul y su nueva edición limitada",
-        "url": "https://www.expansion.com/estilo-vida/rincones-gastronomicos/2026/10/20/tequila-caro-jamas-subastado-clase-azul-nueva-edicion-limitada.html",
-        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/20/17924551721835.png",
-        "fecha": "2026-10-20T00:13:17.000Z",
-        "fuenteId": "expansion",
-        "fuenteTitle": "Expansión",
         "categorias": [
           "economia"
         ],
