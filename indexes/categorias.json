@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-21T01:58:35.265Z",
+  "generado": "2026-10-21T02:06:07.328Z",
   "limitePorCategoria": 20,
   "categorias": {
     "actualidad": [
@@ -12,6 +12,18 @@
         "fuenteTitle": "Diariomotor",
         "categorias": [
           "tecnologia",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Un avión procedente de Barcelona sufre el reventón de dos neumáticos durante el aterrizaje en Chicago",
+        "url": "https://www.20minutos.es/internacional/un-avion-procedente-barcelona-sufre-reventon-dos-neumaticos-durante-aterrizaje-chicago_7051310_0.html",
+        "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/21/6ad80ee2520c93-40763358.png",
+        "fecha": "2026-10-21T01:11:53.000Z",
+        "fuenteId": "20minutos",
+        "fuenteTitle": "20minutos",
+        "categorias": [
           "actualidad"
         ],
         "idioma": "es"
@@ -234,19 +246,6 @@
         "url": "https://www.elmundo.es/economia/vivienda/2026/10/21/6ad76830fc6c83f6628b45af.html",
         "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/20/17925097082190.jpg",
         "fecha": "2026-10-20T23:27:40.000Z",
-        "fuenteId": "el-mundo",
-        "fuenteTitle": "El Mundo",
-        "categorias": [
-          "actualidad",
-          "tecnologia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Azerbaiyán prohíbe el hijab en las escuelas, desatando protestas y choques con países vecinos",
-        "url": "https://www.elmundo.es/internacional/2026/10/21/6ad3a51221efa08c688b457d.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/17/17922553082433.jpg",
-        "fecha": "2026-10-20T23:27:39.000Z",
         "fuenteId": "el-mundo",
         "fuenteTitle": "El Mundo",
         "categorias": [
@@ -1046,6 +1045,18 @@
     ],
     "deportes": [
       {
+        "titulo": "Spurs - Thunder, en directo: NBA 2026/27, hoy en vivo",
+        "url": "https://as.com/baloncesto/nba/san-antonio-spurs-oklahoma-city-thunder-en-directo-nba-202627-hoy-en-vivo-f202610-d/",
+        "imagen": "https://img.asmedia.epimg.net/resizer/v2/SHWIVDAM4ZPCJG5SRLHIMV3OXE.jpg?auth=92ad7d67743a9e3cecedf888d38f29efa042ad4074fabcffa935ad021889d585",
+        "fecha": "2026-10-21T01:29:07.000Z",
+        "fuenteId": "as",
+        "fuenteTitle": "AS",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Nusa: el puñal que sí continuó en el Leipzig",
         "url": "https://as.com/opinion/nusa-el-punal-que-si-continuo-en-el-leipzig-f202610-n/",
         "imagen": "https://img.asmedia.epimg.net/resizer/v2/4DDU4RRWRNHLTNIMIRSTULBIFY.JPG?auth=9b4d41e61ebf4c9c8b29b02dcfa202eac5cb6e0504411a37965bcb8172f6ca6f",
@@ -1272,21 +1283,45 @@
           "deportes"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "The Times se disculpa ante la FIFA",
-        "url": "https://www.mundodeportivo.com/futbol/20261020/1004241263/the-times-disculpa-fifa.html",
-        "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/10/09/6ac87346f1d0d.jpeg",
-        "fecha": "2026-10-20T21:58:08.000Z",
-        "fuenteId": "mundo-deportivo",
-        "fuenteTitle": "Mundo Deportivo",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
       }
     ],
     "economia": [
+      {
+        "titulo": "El fideicomisario Robert Young L vende 17,6 millones de dólares en Nuveen Municipal Credit Income Fund",
+        "url": "https://es.investing.com/news/insider-trading-news/el-fideicomisario-robert-young-l-vende-176-millones-de-dolares-en-nuveen-municipal-credit-income-fund-93CH-3882272",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3T1AG_1200_L.jpg",
+        "fecha": "2026-10-21T01:31:42.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El fundador de BRC Inc., Evan Hafer, vende 87.768 dólares en acciones",
+        "url": "https://es.investing.com/news/insider-trading-news/el-fundador-de-brc-inc-evan-hafer-vende-87768-dolares-en-acciones-93CH-3882269",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM4416N_1200_L.jpg",
+        "fecha": "2026-10-21T01:17:11.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El CFO y COO de MeiraGTx, Richard Giroux, vende 557.200 dólares en acciones",
+        "url": "https://es.investing.com/news/insider-trading-news/el-cfo-y-coo-de-meiragtx-richard-giroux-vende-557200-dolares-en-acciones-93CH-3882268",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM4416N_1200_L.jpg",
+        "fecha": "2026-10-21T01:16:49.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "La UE rechaza extraer gas y petróleo en el Ártico pese a la crisis energética",
         "url": "https://www.expansion.com/economia/2026/10/21/ue-rechaza-extraer-gas-petroleo-artico-pese-crisis-energetica.html",
@@ -1338,7 +1373,7 @@
       {
         "titulo": "Disc Medicine fija una oferta de acciones de 450 millones de dólares a 75 dólares por acción",
         "url": "https://es.investing.com/news/company-news/disc-medicine-fija-una-oferta-de-acciones-de-450-millones-de-dolares-a-75-dolares-por-accion-93CH-3882261",
-        "imagen": "",
+        "imagen": "https://content-media.investing.com/news/LYNXMPEM521KY_1200_L.jpg",
         "fecha": "2026-10-21T00:57:31.000Z",
         "fuenteId": "investing-es-noticias",
         "fuenteTitle": "Investing.com España - Noticias",
@@ -1350,7 +1385,7 @@
       {
         "titulo": "Los precios del petróleo suben por tensiones en Oriente Próximo y caída de reservas en EE.UU.",
         "url": "https://es.investing.com/news/commodities-news/los-precios-del-petroleo-suben-por-tensiones-en-oriente-proximo-y-caida-de-reservas-en-eeuu-3882260",
-        "imagen": "",
+        "imagen": "https://content-media.investing.com/news/LYNXMPEA5O0QF_M.jpg",
         "fecha": "2026-10-21T00:49:22.000Z",
         "fuenteId": "investing-es-noticias",
         "fuenteTitle": "Investing.com España - Noticias",
@@ -1362,7 +1397,7 @@
       {
         "titulo": "Informe de resultados: Northern Star mantiene su guía para FY27 mientras KCGM avanza",
         "url": "https://es.investing.com/news/transcripts/informe-de-resultados-northern-star-mantiene-su-guia-para-fy27-mientras-kcgm-avanza-93CH-3882258",
-        "imagen": "",
+        "imagen": "https://content-media.investing.com/news/LYNXNPEB9M0BY_M.jpg",
         "fecha": "2026-10-21T00:45:55.000Z",
         "fuenteId": "investing-es-noticias",
         "fuenteTitle": "Investing.com España - Noticias",
@@ -1484,42 +1519,6 @@
         "url": "https://es.investing.com/news/economic-indicators/japon-registra-un-deficit-comercial-mayor-al-esperado-en-septiembre-3882251",
         "imagen": "https://content-media.investing.com/news/LYNXMPEB1Q06W_M.jpg",
         "fecha": "2026-10-21T00:26:59.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Directora de Porch Group Reierson vende 89.761 dólares en acciones",
-        "url": "https://es.investing.com/news/insider-trading-news/directora-de-porch-group-reierson-vende-89761-dolares-en-acciones-93CH-3882249",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0V4_1200_L.jpg",
-        "fecha": "2026-10-21T00:17:49.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El presidente de Guidewire, John Mullen, vende acciones por 999.000 dólares",
-        "url": "https://es.investing.com/news/insider-trading-news/el-presidente-de-guidewire-john-mullen-vende-acciones-por-999000-dolares-93CH-3882246",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM4519D_1200_L.jpg",
-        "fecha": "2026-10-21T00:16:51.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El CFO de Qualcomm, Palkhiwala, vende 437.646 dólares en acciones",
-        "url": "https://es.investing.com/news/insider-trading-news/el-cfo-de-qualcomm-palkhiwala-vende-437646-dolares-en-acciones-93CH-3882247",
-        "imagen": "https://content-media.investing.com/news/LYNXMPEA6M0X8_M.jpg",
-        "fecha": "2026-10-21T00:16:51.000Z",
         "fuenteId": "investing-es-noticias",
         "fuenteTitle": "Investing.com España - Noticias",
         "categorias": [
