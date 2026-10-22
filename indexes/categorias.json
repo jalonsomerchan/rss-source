@@ -1,8 +1,34 @@
 {
-  "generado": "2026-10-22T02:54:54.350Z",
+  "generado": "2026-10-22T03:01:51.593Z",
   "limitePorCategoria": 20,
   "categorias": {
     "actualidad": [
+      {
+        "titulo": "Registrado un ligero terremoto de magnitud 3.1 en varias localidades de Granada",
+        "url": "https://www.elconfidencial.com/espana/2026-10-22/registrado-un-ligero-terremoto-de-magnitud-3-1-en-varias-localidades-de-granada_4450335/",
+        "imagen": "https://images.ecestaticos.com/1dN2gy0Q3F07ak3HISuCcm0JBTI=/0x14:2263x1292/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fab8%2F62f%2F5ea%2Fab862f5ea3f8bf8c67820d1aacdbb328.jpg",
+        "fecha": "2026-10-22T02:37:02.000Z",
+        "fuenteId": "el-confidencial-espana",
+        "fuenteTitle": "El Confidencial - España",
+        "categorias": [
+          "politica",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "EEUU e Israel preparan una nueva ofensiva contra Irán mientras Washington comienza a evacuar tropas de Oriente Medio",
+        "url": "https://www.huffingtonpost.es/global/eeuu-e-israel-preparan-nueva-ofensivaan-washington-comienza-evacuar-tropas-oriente-medio-f202610.html",
+        "imagen": "",
+        "fecha": "2026-10-22T02:04:35.000Z",
+        "fuenteId": "huffpost-espana",
+        "fuenteTitle": "HuffPost España",
+        "categorias": [
+          "actualidad",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "EEUU retira al personal diplomático no esencial de Arabia Saudí ante la escalada de ataques",
         "url": "https://www.20minutos.es/internacional/eeuu-retira-personal-diplomatico-no-esencial-arabia-saudi-ante-escalada-ataques_7051822_0.html",
@@ -222,31 +248,6 @@
         "url": "https://www.abc.es/espana/supremo-respondera-desafio-exteriores-censo-ley-nietos-20261022013259-nt.html",
         "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/22/1519086861-RUyT52XHWepwoUH3mlnxxZP-1200x840@diario_abc.JPG",
         "fecha": "2026-10-21T23:33:54.000Z",
-        "fuenteId": "abc",
-        "fuenteTitle": "ABC",
-        "categorias": [
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La tragedia de Francia",
-        "url": "https://www.abc.es/internacional/guillaume-erner-tragedia-francia-20261021013242-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/21/1519064703-Rqebmlefe2xDYnCjwtxoeWL-1200x840@diario_abc.jpg",
-        "fecha": "2026-10-21T23:32:43.000Z",
-        "fuenteId": "abc-internacional",
-        "fuenteTitle": "ABC - Internacional",
-        "categorias": [
-          "internacional",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Los 172 diputados que votaron a favor de los decretos suman 242 viviendas",
-        "url": "https://www.abc.es/espana/172-diputados-votaron-favor-decretos-suman-242-20261022013145-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/22/1518322738-Rodqy8ZpJ4lR3rUJO9QRtWK-1200x840@diario_abc.jpg",
-        "fecha": "2026-10-21T23:32:18.000Z",
         "fuenteId": "abc",
         "fuenteTitle": "ABC",
         "categorias": [
@@ -1292,9 +1293,57 @@
     ],
     "economia": [
       {
+        "titulo": "Healthcare Triangle anuncia una contrasplit de acciones de 1 por 20",
+        "url": "https://es.investing.com/news/company-news/healthcare-triangle-anuncia-una-contrasplit-de-acciones-de-1-por-20-93CH-3884602",
+        "imagen": "",
+        "fecha": "2026-10-22T02:05:39.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Director de GitLab Sytse Sijbrandij vende 6,19 millones de dólares en acciones",
+        "url": "https://es.investing.com/news/insider-trading-news/director-de-gitlab-sytse-sijbrandij-vende-619-millones-de-dolares-en-acciones-93CH-3884601",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3T1K3_1200_L.jpg",
+        "fecha": "2026-10-22T02:02:16.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Director de MediaAlpha Eugene Nonko vende 319.857 dólares en acciones",
+        "url": "https://es.investing.com/news/insider-trading-news/director-de-mediaalpha-eugene-nonko-vende-319857-dolares-en-acciones-93CH-3884600",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM40318_1200_L.jpg",
+        "fecha": "2026-10-22T02:02:06.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El director de ingresos de MediaAlpha, Keith Cramer, vende 136.645 dólares en acciones",
+        "url": "https://es.investing.com/news/insider-trading-news/el-director-de-ingresos-de-mediaalpha-keith-cramer-vende-136645-dolares-en-acciones-93CH-3884599",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM450ND_1200_L.jpg",
+        "fecha": "2026-10-22T02:01:54.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "El director jurídico de Chevron, R. Hewitt Pate, vende acciones por 9,77 millones de dólares",
         "url": "https://es.investing.com/news/insider-trading-news/el-director-juridico-de-chevron-r-hewitt-pate-vende-acciones-por-977-millones-de-dolares-93CH-3884596",
-        "imagen": "",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM4510G_1200_L.jpg",
         "fecha": "2026-10-22T01:47:33.000Z",
         "fuenteId": "investing-es-noticias",
         "fuenteTitle": "Investing.com España - Noticias",
@@ -1482,57 +1531,22 @@
           "economia"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "EE.UU. e Israel preparan nuevos ataques contra Irán tras las elecciones",
-        "url": "https://es.investing.com/news/economy-news/eeuu-e-israel-preparan-nuevos-ataques-contra-iran-tras-las-elecciones-3884574",
-        "imagen": "",
-        "fecha": "2026-10-22T00:20:24.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El gigante del Ibex que encandila al mercado y tiene recorrido al alza",
-        "url": "https://www.expansion.com/inversion/2026/10/22/6ad735f6e5fdea3c0b8b4594.html",
-        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/21/17925851154646.jpg",
-        "fecha": "2026-10-22T00:18:25.000Z",
-        "fuenteId": "expansion",
-        "fuenteTitle": "Expansión",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Alerta en el mercado europeo: el bono francés ya rinde más del 5%",
-        "url": "https://www.expansion.com/mercados/renta-fija/2026/10/22/6ad8f415468aebb12e8b458e.html",
-        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/21/17926031330260.jpg",
-        "fecha": "2026-10-22T00:18:24.000Z",
-        "fuenteId": "expansion",
-        "fuenteTitle": "Expansión",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Magallanes apuesta por los \"perdedores\" de la inteligencia artificial",
-        "url": "https://www.expansion.com/mercados/fondos/2026/10/22/6ad927eb468aeb89578b458e.html",
-        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/21/17926184822015.jpg",
-        "fecha": "2026-10-22T00:18:24.000Z",
-        "fuenteId": "expansion-mercados",
-        "fuenteTitle": "Expansión - Mercados",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
       }
     ],
     "entretenimiento": [
+      {
+        "titulo": "EEUU e Israel preparan una nueva ofensiva contra Irán mientras Washington comienza a evacuar tropas de Oriente Medio",
+        "url": "https://www.huffingtonpost.es/global/eeuu-e-israel-preparan-nueva-ofensivaan-washington-comienza-evacuar-tropas-oriente-medio-f202610.html",
+        "imagen": "",
+        "fecha": "2026-10-22T02:04:35.000Z",
+        "fuenteId": "huffpost-espana",
+        "fuenteTitle": "HuffPost España",
+        "categorias": [
+          "actualidad",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "8 juegos confirmados hoy para Nintendo Switch / Nintendo Switch 2: Magical Craft: My Enchanted Dress Shop y más",
         "url": "https://www.nintenderos.com/nintendo-switch-2/8-juegos-confirmados-hoy-para-nintendo-switch-nintendo-switch-2-magical-craft-my-enchanted-dress-shop-y-mas/",
@@ -1769,19 +1783,6 @@
         "fuenteId": "el-mundo-television",
         "fuenteTitle": "El Mundo - Televisión",
         "categorias": [
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Noche de alegrías en Champions: el Real Madrid vence 4-1 al Leipzig y el Real Betis le gana 1-0 al Feyenoord",
-        "url": "https://www.huffingtonpost.es/deporte/noche-alegrias-champions-real-madrid-vence-41-leipzig-real-betis-le-gana-10-feyenoord-f202610.html",
-        "imagen": "",
-        "fecha": "2026-10-21T20:54:32.000Z",
-        "fuenteId": "huffpost-espana",
-        "fuenteTitle": "HuffPost España",
-        "categorias": [
-          "actualidad",
           "entretenimiento"
         ],
         "idioma": "es"
@@ -2318,6 +2319,32 @@
     ],
     "internacional": [
       {
+        "titulo": "La batalla de los simpatizantes de Lula por conquistar el voto en blanco y nulo",
+        "url": "https://www.france24.com/es/video/20261022-la-batalla-de-los-simpatizantes-de-lula-por-conquistar-el-voto-en-blanco-y-nulo",
+        "imagen": "https://s.france24.com/media/display/00aae594-cdbf-11f1-a9a3-ab78a7fed2ce/w:1024/p:16x9/ES-20261021-201404-201603-CS.jpg",
+        "fecha": "2026-10-22T02:30:20.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "¿Qué hay detrás de las rebajas de condena por delitos sexuales contra menores en Chile?",
+        "url": "https://www.france24.com/es/video/20261022-qu%C3%A9-hay-detr%C3%A1s-de-las-rebajas-de-condena-por-delitos-sexuales-contra-menores-en-chile",
+        "imagen": "https://s.france24.com/media/display/3a97591a-cdbd-11f1-8875-8bea73bbe173/w:1024/p:16x9/ES-20261021-200622-201123-CS.jpg",
+        "fecha": "2026-10-22T02:22:55.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "EEUU retira al personal diplomático no esencial de Arabia Saudí ante la escalada de ataques",
         "url": "https://www.20minutos.es/internacional/eeuu-retira-personal-diplomatico-no-esencial-arabia-saudi-ante-escalada-ataques_7051822_0.html",
         "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/07/02/6a4655dee7a2f9-25983724.jpeg",
@@ -2348,6 +2375,19 @@
         "url": "https://www.france24.com/es/video/20261022-israel-ben-gvir-gana-terreno-en-el-norte-mientras-netanyahu-pierde-apoyo",
         "imagen": "https://s.france24.com/media/display/a3e16ca4-cda3-11f1-85a4-eb48fa034ddc/w:1024/p:16x9/ES-20261021-160855-161036-CS.jpg",
         "fecha": "2026-10-22T01:03:14.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Atlético Mineiro y Boca disputarán la final de la Copa Sudamericana el 21 de noviembre",
+        "url": "https://www.france24.com/es/deportes/20261022-mineiro-y-boca-disputar%C3%A1n-la-final-de-la-copa-sudamericana-el-21-de-noviembre",
+        "imagen": "https://s.france24.com/media/display/195d84ee-cdbe-11f1-8ab0-ab78a7fed2ce/w:1024/p:16x9/2026-10-18T005406Z-388313639-UP1EMAH1SUG34-RTRMADP-3-SOCCER-BRAZIL-ATL-CBA.jpg",
+        "fecha": "2026-10-22T00:59:54.000Z",
         "fuenteId": "france24-espanol",
         "fuenteTitle": "France 24 Español",
         "categorias": [
@@ -2532,45 +2572,6 @@
         "fecha": "2026-10-21T22:02:27.000Z",
         "fuenteId": "el-mundo-internacional",
         "fuenteTitle": "El Mundo - Internacional",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Trump sobre la guerra en Ucrania: \"Creo que nos estamos acercando a una solución\"",
-        "url": "https://www.elconfidencial.com/mundo/2026-10-21/guerra-ucrania-negociaciones-trump-putin-1tps_4450326/",
-        "imagen": "https://images.ecestaticos.com/kSPWmlucUgm61WDoyE_TzbdMD3o=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F128%2F1d3%2F74f%2F1281d374fa251ad97723be90ea3ac07d.jpg",
-        "fecha": "2026-10-21T21:59:00.000Z",
-        "fuenteId": "el-confidencial-mundo",
-        "fuenteTitle": "El Confidencial - Mundo",
-        "categorias": [
-          "internacional",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Estados Unidos retira su personal diplomático no esencial y a sus familiares de Arabia Saudí",
-        "url": "https://www.dw.com/es/estados-unidos-retira-su-personal-diplomático-no-esencial-y-a-sus-familiares-de-arabia-saudí/a-79727136?maca=spa-rss-sp-all-1122-xml-mrss",
-        "imagen": "",
-        "fecha": "2026-10-21T21:45:00.000Z",
-        "fuenteId": "dw-espanol",
-        "fuenteTitle": "DW Español",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "¿Quién es Stephen Hubbard, el maestro estadounidense liberado por Rusia a instancias de Trump?",
-        "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261021-qui%C3%A9n-es-stephen-hubbard-el-maestro-estadounidense-liberado-por-rusia-a-instancias-de-trump",
-        "imagen": "https://s.france24.com/media/display/94396a90-cd8f-11f1-8b5c-19980254bb31/w:1024/p:16x9/2026-10-21T185351Z-518250662-RC2P7OAXUA9U-RTRMADP-3-RUSSIA-USA-HUBBARD.jpg",
-        "fecha": "2026-10-21T21:40:25.000Z",
-        "fuenteId": "france24-espanol",
-        "fuenteTitle": "France 24 Español",
         "categorias": [
           "internacional",
           "politica"
@@ -3335,6 +3336,45 @@
     ],
     "politica": [
       {
+        "titulo": "Registrado un ligero terremoto de magnitud 3.1 en varias localidades de Granada",
+        "url": "https://www.elconfidencial.com/espana/2026-10-22/registrado-un-ligero-terremoto-de-magnitud-3-1-en-varias-localidades-de-granada_4450335/",
+        "imagen": "https://images.ecestaticos.com/1dN2gy0Q3F07ak3HISuCcm0JBTI=/0x14:2263x1292/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fab8%2F62f%2F5ea%2Fab862f5ea3f8bf8c67820d1aacdbb328.jpg",
+        "fecha": "2026-10-22T02:37:02.000Z",
+        "fuenteId": "el-confidencial-espana",
+        "fuenteTitle": "El Confidencial - España",
+        "categorias": [
+          "politica",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "La batalla de los simpatizantes de Lula por conquistar el voto en blanco y nulo",
+        "url": "https://www.france24.com/es/video/20261022-la-batalla-de-los-simpatizantes-de-lula-por-conquistar-el-voto-en-blanco-y-nulo",
+        "imagen": "https://s.france24.com/media/display/00aae594-cdbf-11f1-a9a3-ab78a7fed2ce/w:1024/p:16x9/ES-20261021-201404-201603-CS.jpg",
+        "fecha": "2026-10-22T02:30:20.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "¿Qué hay detrás de las rebajas de condena por delitos sexuales contra menores en Chile?",
+        "url": "https://www.france24.com/es/video/20261022-qu%C3%A9-hay-detr%C3%A1s-de-las-rebajas-de-condena-por-delitos-sexuales-contra-menores-en-chile",
+        "imagen": "https://s.france24.com/media/display/3a97591a-cdbd-11f1-8875-8bea73bbe173/w:1024/p:16x9/ES-20261021-200622-201123-CS.jpg",
+        "fecha": "2026-10-22T02:22:55.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "¿Quién es Kim Yo-jong, la hermana del líder supremo norcoreano que amenaza nuevamente a Corea del Sur?",
         "url": "https://www.france24.com/es/asia-pac%C3%ADfico/20261022-qui%C3%A9n-es-kim-yo-jong-la-hermana-del-l%C3%ADder-supremo-norcoreano-que-amenaza-nuevamente-a-corea-del-sur",
         "imagen": "https://s.france24.com/media/display/3fe06926-be49-11f1-8444-69fad0a7cb9f/w:1024/p:16x9/6cf68b9d965fad4a0fba69159f89aaad79a29427.jpg",
@@ -3352,6 +3392,19 @@
         "url": "https://www.france24.com/es/video/20261022-israel-ben-gvir-gana-terreno-en-el-norte-mientras-netanyahu-pierde-apoyo",
         "imagen": "https://s.france24.com/media/display/a3e16ca4-cda3-11f1-85a4-eb48fa034ddc/w:1024/p:16x9/ES-20261021-160855-161036-CS.jpg",
         "fecha": "2026-10-22T01:03:14.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Atlético Mineiro y Boca disputarán la final de la Copa Sudamericana el 21 de noviembre",
+        "url": "https://www.france24.com/es/deportes/20261022-mineiro-y-boca-disputar%C3%A1n-la-final-de-la-copa-sudamericana-el-21-de-noviembre",
+        "imagen": "https://s.france24.com/media/display/195d84ee-cdbe-11f1-8ab0-ab78a7fed2ce/w:1024/p:16x9/2026-10-18T005406Z-388313639-UP1EMAH1SUG34-RTRMADP-3-SOCCER-BRAZIL-ATL-CBA.jpg",
+        "fecha": "2026-10-22T00:59:54.000Z",
         "fuenteId": "france24-espanol",
         "fuenteTitle": "France 24 Español",
         "categorias": [
@@ -3538,58 +3591,6 @@
         "fuenteTitle": "France 24 Español",
         "categorias": [
           "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Cinco claves de la crisis cibernética de PHP que encendió alarmas a nivel global",
-        "url": "https://www.france24.com/es/ciencia-y-tecnolog%C3%ADas/20261021-cinco-claves-de-la-crisis-cibern%C3%A9tica-de-php-que-encendi%C3%B3-alarmas-a-nivel-global",
-        "imagen": "https://s.france24.com/media/display/3b95ca40-cd95-11f1-9e21-eb48fa034ddc/w:1024/p:16x9/2026-10-21T143753Z-1770290807-RC2Q7OAO0E94-RTRMADP-3-CYBERSECURITY-PHP.jpg",
-        "fecha": "2026-10-21T22:17:07.000Z",
-        "fuenteId": "france24-espanol",
-        "fuenteTitle": "France 24 Español",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Fallece tras caer sobre él parte de la carga de una cinta transportadora en una bodega de Aranda",
-        "url": "https://www.elconfidencial.com/espana/castilla-y-leon/2026-10-22/muere-trabajador-accidente-bodega-aranda-1tna-1tps_4450331/",
-        "imagen": "https://images.ecestaticos.com/n4WUi5b4kcl-bm-EVc3c0-l35pU=/0x0:1920x1231/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F3d1%2F644%2F9ee%2F3d16449ee299a552e525086c7e12a418.jpg",
-        "fecha": "2026-10-21T22:13:00.000Z",
-        "fuenteId": "el-confidencial-espana",
-        "fuenteTitle": "El Confidencial - España",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Talmud, rezos y urnas: la ciudad israelí donde se vota en función de lo que dicen los grandes rabinos",
-        "url": "https://www.elmundo.es/internacional/2026/10/22/6ad8d7b4e85eced40d8b457f.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/21/17925980717130.jpg",
-        "fecha": "2026-10-21T22:02:27.000Z",
-        "fuenteId": "el-mundo-internacional",
-        "fuenteTitle": "El Mundo - Internacional",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Los caseros con más pisos suben más los precios a sus inquilinos que los que alquilan solo uno",
-        "url": "https://www.eldiario.es/economia/caseros-pisos-suben-precios-inquilinos-alquilan_1_13603331.html",
-        "imagen": "https://static.eldiario.es/clip/48236a6a-7716-4601-8d35-13bde5cc1d10_16-9-discover-aspect-ratio_default_0_x950y252.jpg",
-        "fecha": "2026-10-21T22:01:58.000Z",
-        "fuenteId": "eldiario-es",
-        "fuenteTitle": "elDiario.es",
-        "categorias": [
-          "actualidad",
           "politica"
         ],
         "idioma": "es"
