@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-25T04:04:38.921Z",
+  "generado": "2026-10-25T04:21:52.751Z",
   "limitePorCategoria": 20,
   "categorias": {
     "actualidad": [
@@ -11,6 +11,32 @@
         "fuenteId": "abc",
         "fuenteTitle": "ABC",
         "categorias": [
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Quién es Gadi Eisenkot, el general retirado que perdió un hijo en Gaza y desafía a Netanyahu en las primeras elecciones en Israel desde el ataque del 7 de octubre",
+        "url": "https://www.bbc.com/mundo/articles/cj1dw0en7n36o?at_medium=RSS&at_campaign=rss",
+        "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c2dd/live/b4c06e70-ce58-11f1-a166-e30097724580.png",
+        "fecha": "2026-10-25T03:35:00.000Z",
+        "fuenteId": "bbc-mundo",
+        "fuenteTitle": "BBC News Mundo",
+        "categorias": [
+          "internacional",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Mascletà y concierto de Hakuna hoy en Valencia: ubicación y horarios",
+        "url": "https://www.abc.es/espana/comunidad-valenciana/mascleta-concierto-hakuna-hoy-valencia-ubicacion-horarios-20261025043000-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/25/mascleta-valencia-RP50TBDb0Di2BXv3P53GDiI-1200x840@diario_abc.jpg",
+        "fecha": "2026-10-25T03:30:00.000Z",
+        "fuenteId": "abc-espana",
+        "fuenteTitle": "ABC - España",
+        "categorias": [
+          "politica",
           "actualidad"
         ],
         "idioma": "es"
@@ -215,30 +241,6 @@
         "url": "https://www.abc.es/cultura/espanol-gana-hablantes-pierde-aprendices-espejismo-640-20261024103000-nt.html",
         "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/24/garcia-montero-tsieiera-RvcWDVMpMFowRpMqYWxsJJN-1200x840@diario_abc.jpg",
         "fecha": "2026-10-25T01:10:03.000Z",
-        "fuenteId": "abc",
-        "fuenteTitle": "ABC",
-        "categorias": [
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Jorge Ilegal resucita en un disco póstumo: «Me hubiera gustado decirle que no corriera tanto»",
-        "url": "https://www.abc.es/cultura/musica/ilegales-vive-rapido-muere-viejo-20261025023031-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/25/1-ilegales-26-RF3JatlZ56z6I3omj2b5wTO-1200x840@diario_abc.jpg",
-        "fecha": "2026-10-25T01:05:01.000Z",
-        "fuenteId": "abc",
-        "fuenteTitle": "ABC",
-        "categorias": [
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Polémica por el veredicto popular del hombre que grabó a su mujer antes de estrangularla",
-        "url": "https://www.abc.es/espana/galicia/durmiendo-enemigo-polemica-veredicto-popular-hombre-grabo-20261024023324-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/24/juii-RyVj2ptrkEvTvgdgChEq4FI-1200x840@diario_abc.jpg",
-        "fecha": "2026-10-25T01:04:18.000Z",
         "fuenteId": "abc",
         "fuenteTitle": "ABC",
         "categorias": [
@@ -1034,6 +1036,18 @@
     ],
     "deportes": [
       {
+        "titulo": "El mal tiempo obliga a cancelar las carreras de Moto2 y Moto3 en Australia",
+        "url": "https://es.motorsport.com/moto3/news/cancelada-carreras-moto3-moto2-australia-phillip-island-2026/10868100/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=es",
+        "imagen": "https://cdn-1.motorsport.com/images/amp/25dLown0/s6/quiles-phillip-island.jpg",
+        "fecha": "2026-10-25T03:17:55.000Z",
+        "fuenteId": "motorsport-espana",
+        "fuenteTitle": "Motorsport.com España",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "El mal tiempo obliga a cancelar la carrera de Moto3 en Australia",
         "url": "https://es.motorsport.com/moto3/news/cancelada-carrera-moto3-australia-phillip-island/10868100/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=es",
         "imagen": "https://cdn-8.motorsport.com/images/amp/25dLown0/s6/quiles-phillip-island.jpg",
@@ -1260,25 +1274,25 @@
           "deportes"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "Alonso: \"Al menos estamos en la lucha, y así se disfruta más la carrera\"",
-        "url": "https://es.motorsport.com/f1/news/alonso-declaraciones-sabado-qualy-austin/10868021/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=es",
-        "imagen": "https://cdn-8.motorsport.com/images/amp/0mXy3BA6/s6/fernando-alonso-aston-martin-r.jpg",
-        "fecha": "2026-10-24T23:19:17.000Z",
-        "fuenteId": "motorsport-espana",
-        "fuenteTitle": "Motorsport.com España",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
       }
     ],
     "economia": [
       {
+        "titulo": "Trump anuncia planta de Audi de 4.000 millones de dólares en Georgia",
+        "url": "https://es.investing.com/news/economy-news/trump-anuncia-planta-de-audi-de-4000-millones-de-dolares-en-georgia-3889003",
+        "imagen": "https://content-media.investing.com/news/LYNXMPEB580P4_M.jpg",
+        "fecha": "2026-10-25T03:29:51.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "HSBC ve un optimismo cauteloso en la actividad de capital riesgo y capital privado",
         "url": "https://es.investing.com/news/stock-market-news/hsbc-ve-un-optimismo-cauteloso-en-la-actividad-de-capital-riesgo-y-capital-privado-3889000",
-        "imagen": "",
+        "imagen": "https://content-media.investing.com/news/LYNXNPEC9I0KP_M.jpg",
         "fecha": "2026-10-25T02:48:10.000Z",
         "fuenteId": "investing-es-noticias",
         "fuenteTitle": "Investing.com España - Noticias",
@@ -1498,18 +1512,6 @@
         "url": "https://www.abc.es/economia/robotizacion-abre-nueva-frontera-sector-asegurador-20261026000300-nt.html",
         "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/26/adrian2_20261022200902-R0vefpQjk3NAvw6E7N7sGWP-1200x840@diario_abc.jpg",
         "fecha": "2026-10-24T22:03:00.000Z",
-        "fuenteId": "abc-economia",
-        "fuenteTitle": "ABC - Economía",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "España intenta subirse en marcha a las autopistas ferroviarias",
-        "url": "https://www.abc.es/economia/espana-intenta-subirse-marcha-autopistas-ferroviarias-20261025000100-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/25/Valencia2-Rz4FfIFFvkpD46psgVZDjmM-1200x840@diario_abc.jpg",
-        "fecha": "2026-10-24T22:01:00.000Z",
         "fuenteId": "abc-economia",
         "fuenteTitle": "ABC - Economía",
         "categorias": [
@@ -2296,6 +2298,110 @@
     ],
     "internacional": [
       {
+        "titulo": "Quién es Gadi Eisenkot, el general retirado que perdió un hijo en Gaza y desafía a Netanyahu en las primeras elecciones en Israel desde el ataque del 7 de octubre",
+        "url": "https://www.bbc.com/mundo/articles/cj1dw0en7n36o?at_medium=RSS&at_campaign=rss",
+        "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c2dd/live/b4c06e70-ce58-11f1-a166-e30097724580.png",
+        "fecha": "2026-10-25T03:35:00.000Z",
+        "fuenteId": "bbc-mundo",
+        "fuenteTitle": "BBC News Mundo",
+        "categorias": [
+          "internacional",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Directo midterms y el voto anticipado de Trump, pese a sus críticas al voto por correo",
+        "url": "https://www.france24.com/es/video/20261025-directo-midterms-y-el-voto-anticipado-de-trump-pese-a-sus-cr%C3%ADticas-al-voto-por-correo",
+        "imagen": "https://s.france24.com/media/display/f5adf4e4-d023-11f1-963f-4b25c96ec90e/w:1024/p:16x9/MIDTERMS-Ana-1.png",
+        "fecha": "2026-10-25T03:27:47.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Fiscal general de EEUU defiende demanda para frenar certificación electoral en Alaska",
+        "url": "https://www.dw.com/es/fiscal-general-de-eeuu-defiende-demanda-para-frenar-certificación-electoral-en-alaska/a-79753433?maca=spa-rss-sp-all-1122-xml-mrss",
+        "imagen": "",
+        "fecha": "2026-10-25T03:27:00.000Z",
+        "fuenteId": "dw-espanol",
+        "fuenteTitle": "DW Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Trump y Mamdani votan anticipadamente de cara a las midterms; Obama arremete contra Trump",
+        "url": "https://www.france24.com/es/video/20261025-trump-y-mamdani-votan-anticipadamente-de-cara-a-las-midterms-obama-arremete-contra-trump",
+        "imagen": "https://s.france24.com/media/display/226d5af8-d022-11f1-adfe-5b4a75578ebb/w:1024/p:16x9/2026-10-24T200926Z-603436643-RC2W9OAUATEV-RTRMADP-3-USA-TRUMP.jpg",
+        "fecha": "2026-10-25T03:19:11.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Starlink y Starshield vuelven a funcionar en Ucrania tras una semana de interrupciones",
+        "url": "https://www.france24.com/es/video/20261025-starlink-y-starshield-vuelven-a-funcionar-en-ucrania-tras-una-semana-de-interrupciones",
+        "imagen": "https://s.france24.com/media/display/2a879684-d01f-11f1-80a6-5b4a75578ebb/w:1024/p:16x9/ES-20261024-190908-191118-CS.jpg",
+        "fecha": "2026-10-25T03:17:12.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Marchas masivas en Francia bajo fuerte seguridad: casi mil detenidos y choques en varias ciudades",
+        "url": "https://www.france24.com/es/video/20261025-marchas-masivas-en-francia-bajo-fuerte-seguridad-casi-mil-detenidos-y-choques-en-varias-ciudades",
+        "imagen": "https://s.france24.com/media/display/676d5576-d01e-11f1-bcb5-5b4a75578ebb/w:1024/p:16x9/ES-20261024-190601-190806-CS.jpg",
+        "fecha": "2026-10-25T03:16:49.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Con masivos actos en São Paulo y Río de Janeiro, Lula y Bolsonaro cierran sus campañas",
+        "url": "https://www.france24.com/es/video/20261025-con-masivos-actos-en-s%C3%A3o-paulo-y-r%C3%ADo-de-janeiro-lula-y-bolsonaro-cierran-sus-campa%C3%B1as",
+        "imagen": "https://s.france24.com/media/display/8cb6950a-d01d-11f1-b411-4d317af013fd/w:1024/p:16x9/ES-20261024-190208-190511-CS.jpg",
+        "fecha": "2026-10-25T03:14:30.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Flávio Bolsonaro cierra su campaña con una marea amarilla y verde en Río de Janeiro",
+        "url": "https://www.france24.com/es/video/20261025-fl%C3%A1vio-bolsonaro-cierra-su-campa%C3%B1a-con-una-marea-amarilla-y-verde-en-r%C3%ADo-de-janeiro",
+        "imagen": "https://s.france24.com/media/display/f7f97b7c-d01b-11f1-88ba-bba4eee3dc72/w:1024/p:16x9/ES-20261024-183205-183600-CS.jpg",
+        "fecha": "2026-10-25T03:12:58.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Un rescate imposible: la cruzada de Nayib Bukele contra las “pandillas satánicas” de Haití",
         "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261025-un-rescate-imposible-la-cruzada-de-nayib-bukele-contra-las-pandillas-sat%C3%A1nicas-de-hait%C3%AD",
         "imagen": "https://s.france24.com/media/display/720e487a-d021-11f1-985c-4d317af013fd/w:1024/p:16x9/16323241e34fea9f5b46a5b67e4d5a49423da2f1w.jpg",
@@ -2443,110 +2549,6 @@
         "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261025-el-voto-de-trump-ya-est%C3%A1-en-las-urnas-un-sufragio-con-la-mira-puesta-en-las-guerras-que-amenazan-su-mayor%C3%ADa",
         "imagen": "https://s.france24.com/media/display/90713ed2-d00b-11f1-b3f7-4b25c96ec90e/w:1024/p:16x9/2026-10-24T230405Z-356476766-RC2W9OAX7EE2-RTRMADP-3-USA-TRUMP.jpg",
         "fecha": "2026-10-25T00:27:28.000Z",
-        "fuenteId": "france24-espanol",
-        "fuenteTitle": "France 24 Español",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Un centenar de detenidos por disturbios durante una protesta juvenil en Barcelona",
-        "url": "https://www.dw.com/es/un-centenar-de-detenidos-por-disturbios-durante-una-protesta-juvenil-en-barcelona/a-79753077?maca=spa-rss-sp-all-1122-xml-mrss",
-        "imagen": "",
-        "fecha": "2026-10-24T23:41:00.000Z",
-        "fuenteId": "dw-espanol",
-        "fuenteTitle": "DW Español",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Millones de personas en las calles, encuesta casi empatada y noche de fiestas antes de la gran decisión de Brasil",
-        "url": "https://www.elmundo.es/internacional/2026/10/25/6add40fd21efa0b1528b4599.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/25/17928850356666.jpg",
-        "fecha": "2026-10-24T23:39:49.000Z",
-        "fuenteId": "el-mundo-internacional",
-        "fuenteTitle": "El Mundo - Internacional",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Trump y las midterms: el costo del diésel y la gasolina y la inminente factura en las urnas",
-        "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261024-trump-y-las-midterms-el-costo-del-di%C3%A9sel-y-la-gasolina-y-la-inminente-factura-en-las-urnas",
-        "imagen": "https://s.france24.com/media/display/a74dc4cc-cffc-11f1-adbd-5b4a75578ebb/w:1024/p:16x9/WEB-IVS-24OCT-PORTADA-WEB.png",
-        "fecha": "2026-10-24T23:36:19.000Z",
-        "fuenteId": "france24-espanol",
-        "fuenteTitle": "France 24 Español",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Miles protestan en Italia bajo fuerte dispositivo de seguridad",
-        "url": "https://www.dw.com/es/miles-protestan-en-italia-bajo-fuerte-dispositivo-de-seguridad/a-79753084?maca=spa-rss-sp-all-1122-xml-mrss",
-        "imagen": "",
-        "fecha": "2026-10-24T23:36:00.000Z",
-        "fuenteId": "dw-espanol",
-        "fuenteTitle": "DW Español",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Serbia se debate hoy entre el continuismo de Vucic y la marea del cambio estudiantil: \"Hay una gran movilización social\"",
-        "url": "https://www.elmundo.es/internacional/2026/10/25/6adc3d56fc6c836c318b4571.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/24/17928604834364.jpg",
-        "fecha": "2026-10-24T23:26:57.000Z",
-        "fuenteId": "el-mundo-internacional",
-        "fuenteTitle": "El Mundo - Internacional",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "\"Es nuestra última oportunidad de frenarlo\": Obama ataca a Trump mientras hace campaña para los demócratas",
-        "url": "https://www.bbc.com/mundo/articles/cwnv0gjnp0p9o?at_medium=RSS&at_campaign=rss",
-        "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/490c/live/648b0ef0-cff8-11f1-b38c-e140dd8d3bd2.jpg",
-        "fecha": "2026-10-24T23:04:47.000Z",
-        "fuenteId": "bbc-mundo",
-        "fuenteTitle": "BBC News Mundo",
-        "categorias": [
-          "internacional",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Enfrentamientos entre la policía y los manifestantes en Roma y Bolonia",
-        "url": "https://www.elmundo.es/internacional/2026/10/25/6add323721efa06d528b4586.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/25/17928811767818.jpg",
-        "fecha": "2026-10-24T22:39:50.000Z",
-        "fuenteId": "el-mundo-internacional",
-        "fuenteTitle": "El Mundo - Internacional",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Venganza, el libro de Hitler, africanos y árabes como objetivo: el perfil del atacante en la periferia de París",
-        "url": "https://www.france24.com/es/europa/20261024-venganza-el-libro-de-hitler-africanos-y-%C3%A1rabes-como-objetivos-el-perfil-del-atacante-en-la-periferia-de-par%C3%ADs",
-        "imagen": "https://s.france24.com/media/display/2e9426ce-cff8-11f1-bea5-5b4a75578ebb/w:1024/p:16x9/000-D4AL8VB.jpg",
-        "fecha": "2026-10-24T22:17:09.000Z",
         "fuenteId": "france24-espanol",
         "fuenteTitle": "France 24 Español",
         "categorias": [
@@ -3310,6 +3312,110 @@
     ],
     "politica": [
       {
+        "titulo": "Mascletà y concierto de Hakuna hoy en Valencia: ubicación y horarios",
+        "url": "https://www.abc.es/espana/comunidad-valenciana/mascleta-concierto-hakuna-hoy-valencia-ubicacion-horarios-20261025043000-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/25/mascleta-valencia-RP50TBDb0Di2BXv3P53GDiI-1200x840@diario_abc.jpg",
+        "fecha": "2026-10-25T03:30:00.000Z",
+        "fuenteId": "abc-espana",
+        "fuenteTitle": "ABC - España",
+        "categorias": [
+          "politica",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Directo midterms y el voto anticipado de Trump, pese a sus críticas al voto por correo",
+        "url": "https://www.france24.com/es/video/20261025-directo-midterms-y-el-voto-anticipado-de-trump-pese-a-sus-cr%C3%ADticas-al-voto-por-correo",
+        "imagen": "https://s.france24.com/media/display/f5adf4e4-d023-11f1-963f-4b25c96ec90e/w:1024/p:16x9/MIDTERMS-Ana-1.png",
+        "fecha": "2026-10-25T03:27:47.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Fiscal general de EEUU defiende demanda para frenar certificación electoral en Alaska",
+        "url": "https://www.dw.com/es/fiscal-general-de-eeuu-defiende-demanda-para-frenar-certificación-electoral-en-alaska/a-79753433?maca=spa-rss-sp-all-1122-xml-mrss",
+        "imagen": "",
+        "fecha": "2026-10-25T03:27:00.000Z",
+        "fuenteId": "dw-espanol",
+        "fuenteTitle": "DW Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Trump y Mamdani votan anticipadamente de cara a las midterms; Obama arremete contra Trump",
+        "url": "https://www.france24.com/es/video/20261025-trump-y-mamdani-votan-anticipadamente-de-cara-a-las-midterms-obama-arremete-contra-trump",
+        "imagen": "https://s.france24.com/media/display/226d5af8-d022-11f1-adfe-5b4a75578ebb/w:1024/p:16x9/2026-10-24T200926Z-603436643-RC2W9OAUATEV-RTRMADP-3-USA-TRUMP.jpg",
+        "fecha": "2026-10-25T03:19:11.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Starlink y Starshield vuelven a funcionar en Ucrania tras una semana de interrupciones",
+        "url": "https://www.france24.com/es/video/20261025-starlink-y-starshield-vuelven-a-funcionar-en-ucrania-tras-una-semana-de-interrupciones",
+        "imagen": "https://s.france24.com/media/display/2a879684-d01f-11f1-80a6-5b4a75578ebb/w:1024/p:16x9/ES-20261024-190908-191118-CS.jpg",
+        "fecha": "2026-10-25T03:17:12.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Marchas masivas en Francia bajo fuerte seguridad: casi mil detenidos y choques en varias ciudades",
+        "url": "https://www.france24.com/es/video/20261025-marchas-masivas-en-francia-bajo-fuerte-seguridad-casi-mil-detenidos-y-choques-en-varias-ciudades",
+        "imagen": "https://s.france24.com/media/display/676d5576-d01e-11f1-bcb5-5b4a75578ebb/w:1024/p:16x9/ES-20261024-190601-190806-CS.jpg",
+        "fecha": "2026-10-25T03:16:49.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Con masivos actos en São Paulo y Río de Janeiro, Lula y Bolsonaro cierran sus campañas",
+        "url": "https://www.france24.com/es/video/20261025-con-masivos-actos-en-s%C3%A3o-paulo-y-r%C3%ADo-de-janeiro-lula-y-bolsonaro-cierran-sus-campa%C3%B1as",
+        "imagen": "https://s.france24.com/media/display/8cb6950a-d01d-11f1-b411-4d317af013fd/w:1024/p:16x9/ES-20261024-190208-190511-CS.jpg",
+        "fecha": "2026-10-25T03:14:30.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Flávio Bolsonaro cierra su campaña con una marea amarilla y verde en Río de Janeiro",
+        "url": "https://www.france24.com/es/video/20261025-fl%C3%A1vio-bolsonaro-cierra-su-campa%C3%B1a-con-una-marea-amarilla-y-verde-en-r%C3%ADo-de-janeiro",
+        "imagen": "https://s.france24.com/media/display/f7f97b7c-d01b-11f1-88ba-bba4eee3dc72/w:1024/p:16x9/ES-20261024-183205-183600-CS.jpg",
+        "fecha": "2026-10-25T03:12:58.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Un rescate imposible: la cruzada de Nayib Bukele contra las “pandillas satánicas” de Haití",
         "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261025-un-rescate-imposible-la-cruzada-de-nayib-bukele-contra-las-pandillas-sat%C3%A1nicas-de-hait%C3%AD",
         "imagen": "https://s.france24.com/media/display/720e487a-d021-11f1-985c-4d317af013fd/w:1024/p:16x9/16323241e34fea9f5b46a5b67e4d5a49423da2f1w.jpg",
@@ -3462,110 +3568,6 @@
         "categorias": [
           "politica",
           "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Un centenar de detenidos por disturbios durante una protesta juvenil en Barcelona",
-        "url": "https://www.dw.com/es/un-centenar-de-detenidos-por-disturbios-durante-una-protesta-juvenil-en-barcelona/a-79753077?maca=spa-rss-sp-all-1122-xml-mrss",
-        "imagen": "",
-        "fecha": "2026-10-24T23:41:00.000Z",
-        "fuenteId": "dw-espanol",
-        "fuenteTitle": "DW Español",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Millones de personas en las calles, encuesta casi empatada y noche de fiestas antes de la gran decisión de Brasil",
-        "url": "https://www.elmundo.es/internacional/2026/10/25/6add40fd21efa0b1528b4599.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/25/17928850356666.jpg",
-        "fecha": "2026-10-24T23:39:49.000Z",
-        "fuenteId": "el-mundo-internacional",
-        "fuenteTitle": "El Mundo - Internacional",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Trump y las midterms: el costo del diésel y la gasolina y la inminente factura en las urnas",
-        "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261024-trump-y-las-midterms-el-costo-del-di%C3%A9sel-y-la-gasolina-y-la-inminente-factura-en-las-urnas",
-        "imagen": "https://s.france24.com/media/display/a74dc4cc-cffc-11f1-adbd-5b4a75578ebb/w:1024/p:16x9/WEB-IVS-24OCT-PORTADA-WEB.png",
-        "fecha": "2026-10-24T23:36:19.000Z",
-        "fuenteId": "france24-espanol",
-        "fuenteTitle": "France 24 Español",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Miles protestan en Italia bajo fuerte dispositivo de seguridad",
-        "url": "https://www.dw.com/es/miles-protestan-en-italia-bajo-fuerte-dispositivo-de-seguridad/a-79753084?maca=spa-rss-sp-all-1122-xml-mrss",
-        "imagen": "",
-        "fecha": "2026-10-24T23:36:00.000Z",
-        "fuenteId": "dw-espanol",
-        "fuenteTitle": "DW Español",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Serbia se debate hoy entre el continuismo de Vucic y la marea del cambio estudiantil: \"Hay una gran movilización social\"",
-        "url": "https://www.elmundo.es/internacional/2026/10/25/6adc3d56fc6c836c318b4571.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/24/17928604834364.jpg",
-        "fecha": "2026-10-24T23:26:57.000Z",
-        "fuenteId": "el-mundo-internacional",
-        "fuenteTitle": "El Mundo - Internacional",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Enfrentamientos entre la policía y los manifestantes en Roma y Bolonia",
-        "url": "https://www.elmundo.es/internacional/2026/10/25/6add323721efa06d528b4586.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/25/17928811767818.jpg",
-        "fecha": "2026-10-24T22:39:50.000Z",
-        "fuenteId": "el-mundo-internacional",
-        "fuenteTitle": "El Mundo - Internacional",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Venganza, el libro de Hitler, africanos y árabes como objetivo: el perfil del atacante en la periferia de París",
-        "url": "https://www.france24.com/es/europa/20261024-venganza-el-libro-de-hitler-africanos-y-%C3%A1rabes-como-objetivos-el-perfil-del-atacante-en-la-periferia-de-par%C3%ADs",
-        "imagen": "https://s.france24.com/media/display/2e9426ce-cff8-11f1-bea5-5b4a75578ebb/w:1024/p:16x9/000-D4AL8VB.jpg",
-        "fecha": "2026-10-24T22:17:09.000Z",
-        "fuenteId": "france24-espanol",
-        "fuenteTitle": "France 24 Español",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Los disturbios en Barcelona dejan un centenar de detenidos, una cuarta parte menores",
-        "url": "https://theobjective.com/espana/cataluna/2026-10-25/protestas-barcelona-centenar-detenidos-menores/",
-        "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/10/disturbios-barcelona-plaza-cataluna-469x317.jpg",
-        "fecha": "2026-10-24T22:04:55.000Z",
-        "fuenteId": "the-objective",
-        "fuenteTitle": "The Objective",
-        "categorias": [
-          "actualidad",
-          "politica"
         ],
         "idioma": "es"
       }
