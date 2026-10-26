@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-25T23:52:05.699Z",
+  "generado": "2026-10-26T00:11:14.845Z",
   "limitePorCategoria": 20,
   "categorias": {
     "actualidad": [
@@ -11,6 +11,19 @@
         "fuenteId": "abc",
         "fuenteTitle": "ABC",
         "categorias": [
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Gran Premio de México 2026: Horarios y cómo ver el último paso hacia el título de Andrea Kimi Antonelli",
+        "url": "https://www.diariomotor.com/competicion/noticia/gran-premio-de-mexico-2026-horarios/",
+        "imagen": "https://www.diariomotor.com/imagenes/2026/10/M642877-6ade90e14e879.jpg?class=XL",
+        "fecha": "2026-10-26T00:32:54.000Z",
+        "fuenteId": "diariomotor",
+        "fuenteTitle": "Diariomotor",
+        "categorias": [
+          "tecnologia",
           "actualidad"
         ],
         "idioma": "es"
@@ -29,6 +42,34 @@
         "idioma": "es"
       },
       {
+        "titulo": "El viejo mundo no acaba de morir",
+        "url": "https://elpais.com/deportes/futbol/2026-10-25/el-viejo-mundo-no-acaba-de-morir.html",
+        "imagen": "https://imagenes.elpais.com/resizer/v2/JKHT7VONJNI4TFWHOAZRVETMNQ.jpg?auth=3c2ed06db2f0b78a4649e637eb9b6f28484173f1fd90c8e0d694792ccb2053d7",
+        "fecha": "2026-10-25T23:33:44.000Z",
+        "fuenteId": "el-pais",
+        "fuenteTitle": "El País",
+        "categorias": [
+          "actualidad",
+          "tecnologia",
+          "ciencia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El clásico en el que Mou se atrevió con Arda Güler y Bernardo Silva",
+        "url": "https://elpais.com/deportes/futbol/2026-10-25/el-clasico-en-el-que-mou-se-atrevio-con-arda-guler-y-bernardo-silva.html",
+        "imagen": "https://imagenes.elpais.com/resizer/v2/OGYDODZW6REO3EKVB7VTQJHABM.jpg?auth=163dd80a33c8de549f360f485dd0001bec4e8841db2d51e955e5f6d083e67d7d",
+        "fecha": "2026-10-25T23:26:42.000Z",
+        "fuenteId": "el-pais",
+        "fuenteTitle": "El País",
+        "categorias": [
+          "actualidad",
+          "tecnologia",
+          "ciencia"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Los bomberos descartan con \"una probabilidad muy alta\" que haya más personas afectadas en el accidente del autobús",
         "url": "https://www.elconfidencial.com/espana/cataluna/2026-10-26/accidente-autobus-fogars-monclus-heridos-1tna-1tps_4452742/",
         "imagen": "https://images.ecestaticos.com/To8z3AE-Wa3nOMvvyLll7Ej_hK0=/0x0:2272x1514/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F897%2Fa2f%2Fc5c%2F897a2fc5ca1dae3caf3ee5fc4821f4f6.jpg",
@@ -38,6 +79,33 @@
         "categorias": [
           "politica",
           "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Cuatro hermanos menores afectados por una intoxicación de gas butano en La Rioja",
+        "url": "https://www.elconfidencial.com/espana/2026-10-26/cuatro-hermanos-menores-afectados-intoxicacion-de-gas-butano-la-rioja-1tna_4452745/",
+        "imagen": "https://images.ecestaticos.com/b8Lj0eF6fE5ogWn5Vb_wsa0JhWw=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F891%2F69e%2F2c9%2F89169e2c9837d54d2e1ad33cd2e630b0.jpg",
+        "fecha": "2026-10-25T23:23:00.000Z",
+        "fuenteId": "el-confidencial-espana",
+        "fuenteTitle": "El Confidencial - España",
+        "categorias": [
+          "politica",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El Real Madrid bate el récord de triples en un partido de la ACB: 24",
+        "url": "https://elpais.com/deportes/baloncesto/2026-10-25/el-real-madrid-bate-el-record-de-triples-en-un-partido-de-la-acb-24.html",
+        "imagen": "https://imagenes.elpais.com/resizer/v2/W2MILJBU2BDLXJQ5EXXCI523ZA.jpg?auth=2dce190c477b30ba19eae495b0fddaef9550e548a87ce7245f6b890718661534",
+        "fecha": "2026-10-25T23:20:55.000Z",
+        "fuenteId": "el-pais",
+        "fuenteTitle": "El País",
+        "categorias": [
+          "actualidad",
+          "tecnologia",
+          "ciencia"
         ],
         "idioma": "es"
       },
@@ -196,38 +264,14 @@
           "actualidad"
         ],
         "idioma": "es"
-      },
+      }
+    ],
+    "ciencia": [
       {
-        "titulo": "Herido grave un hombre de 67 años tras sufrir un atropello en Don Benito (Badajoz)",
-        "url": "https://www.elconfidencial.com/espana/2026-10-25/hombre-herido-grave-atropellado-don-benito-1tna-1tps_4452716/",
-        "imagen": "https://images.ecestaticos.com/CB_1ajB7G1p59_E_ECEags-PuyE=/0x0:679x457/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F92c%2F4bd%2Fd2a%2F92c4bdd2aedc6ce959bd1a2e62b72e7e.jpg",
-        "fecha": "2026-10-25T22:52:00.000Z",
-        "fuenteId": "el-confidencial-espana",
-        "fuenteTitle": "El Confidencial - España",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Victoria incontestable de Andrea Kimi Antonelli en Austin y deja el título visto para sentencia",
-        "url": "https://www.diariomotor.com/competicion/noticia/victoria-incontestable-andrea-kimi-antonelli-austin/",
-        "imagen": "https://www.diariomotor.com/imagenes/2026/10/gran-premio-estados-unidos-2026-f1-carrera-5-6ade79637c802.jpg?class=XL",
-        "fecha": "2026-10-25T22:50:10.000Z",
-        "fuenteId": "diariomotor",
-        "fuenteTitle": "Diariomotor",
-        "categorias": [
-          "tecnologia",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El mejor Real Madrid nace en el Camp Nou y tumba al Barcelona con un doblete de Mbappé",
-        "url": "https://elpais.com/deportes/futbol/2026-10-25/el-mejor-madrid-nace-en-el-camp-nou-y-tumba-al-barcelona-con-un-doblete-de-mbappe.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/3BAKAT2G4ZH6VPXKVOOPHRUFQU.jpg?auth=64ff71653b48d57205bdb3d14424e7288ee9381dc01a43586e19163db8d63a75",
-        "fecha": "2026-10-25T22:48:12.000Z",
+        "titulo": "El viejo mundo no acaba de morir",
+        "url": "https://elpais.com/deportes/futbol/2026-10-25/el-viejo-mundo-no-acaba-de-morir.html",
+        "imagen": "https://imagenes.elpais.com/resizer/v2/JKHT7VONJNI4TFWHOAZRVETMNQ.jpg?auth=3c2ed06db2f0b78a4649e637eb9b6f28484173f1fd90c8e0d694792ccb2053d7",
+        "fecha": "2026-10-25T23:33:44.000Z",
         "fuenteId": "el-pais",
         "fuenteTitle": "El País",
         "categorias": [
@@ -238,32 +282,33 @@
         "idioma": "es"
       },
       {
-        "titulo": "Lula vs. Bolsonaro: Brasil empieza a conocer los resultados de las elecciones tras la extensión del horario de votación",
-        "url": "https://www.bbc.com/mundo/articles/ck1wvz44jy0go?at_medium=RSS&at_campaign=rss",
-        "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0b6a/live/cf1aa9e0-d0c2-11f1-b63a-2f4562e77934.jpg",
-        "fecha": "2026-10-25T22:42:31.000Z",
-        "fuenteId": "bbc-mundo",
-        "fuenteTitle": "BBC News Mundo",
+        "titulo": "El clásico en el que Mou se atrevió con Arda Güler y Bernardo Silva",
+        "url": "https://elpais.com/deportes/futbol/2026-10-25/el-clasico-en-el-que-mou-se-atrevio-con-arda-guler-y-bernardo-silva.html",
+        "imagen": "https://imagenes.elpais.com/resizer/v2/OGYDODZW6REO3EKVB7VTQJHABM.jpg?auth=163dd80a33c8de549f360f485dd0001bec4e8841db2d51e955e5f6d083e67d7d",
+        "fecha": "2026-10-25T23:26:42.000Z",
+        "fuenteId": "el-pais",
+        "fuenteTitle": "El País",
         "categorias": [
-          "internacional",
-          "actualidad"
+          "actualidad",
+          "tecnologia",
+          "ciencia"
         ],
         "idioma": "es"
       },
       {
-        "titulo": "Electroshock del Madrid a la Liga: así se aprieta la clasificación",
-        "url": "https://www.abc.es/deportes/futbol/electroshock-madrid-liga-aprieta-clasificacion-20261025233153-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/10/25/kiki-RDULKgt4OM9FOp47o94JgML-1200x840@diario_abc.jpg",
-        "fecha": "2026-10-25T22:38:51.000Z",
-        "fuenteId": "abc",
-        "fuenteTitle": "ABC",
+        "titulo": "El Real Madrid bate el récord de triples en un partido de la ACB: 24",
+        "url": "https://elpais.com/deportes/baloncesto/2026-10-25/el-real-madrid-bate-el-record-de-triples-en-un-partido-de-la-acb-24.html",
+        "imagen": "https://imagenes.elpais.com/resizer/v2/W2MILJBU2BDLXJQ5EXXCI523ZA.jpg?auth=2dce190c477b30ba19eae495b0fddaef9550e548a87ce7245f6b890718661534",
+        "fecha": "2026-10-25T23:20:55.000Z",
+        "fuenteId": "el-pais",
+        "fuenteTitle": "El País",
         "categorias": [
-          "actualidad"
+          "actualidad",
+          "tecnologia",
+          "ciencia"
         ],
         "idioma": "es"
-      }
-    ],
-    "ciencia": [
+      },
       {
         "titulo": "El Madrid más cruel, el mejor Madrid",
         "url": "https://elpais.com/deportes/futbol/2026-10-25/el-madrid-mas-cruel-el-mejor-madrid.html",
@@ -493,47 +538,6 @@
         "categorias": [
           "ciencia",
           "salud"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Fallece la actriz Pepa Arenós a los 78 años",
-        "url": "https://elpais.com/espana/catalunya/2026-10-25/fallece-la-actriz-pepa-arenos-a-los-78-anos.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/XOJ42HBJTZP5HPQ2PE4HG4KZAE.jpg?auth=afa701b83a90e8e6d1ad0cada77be6a0255c7f9812e8a261c68d9fb7cc402b6b",
-        "fecha": "2026-10-25T19:19:55.000Z",
-        "fuenteId": "el-pais",
-        "fuenteTitle": "El País",
-        "categorias": [
-          "actualidad",
-          "tecnologia",
-          "ciencia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Los expertos en nutrición lo confirman: \"El pescado frito no se hace con harina, sino con garbanzo, ajo y pimentón\"",
-        "url": "https://www.elespanol.com/ciencia/20261025/expertos-nutricion-confirman-pescado-frito-no-hace-harina-garbanzo-ajo-pimenton-kw/1003744429339_0.html",
-        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11296273.jpg?p=w:1706/h:960&h=Fb96_uDx",
-        "fecha": "2026-10-25T19:19:00.000Z",
-        "fuenteId": "el-espanol-ciencia",
-        "fuenteTitle": "El Español - Ciencia",
-        "categorias": [
-          "ciencia",
-          "salud"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Todo empieza con un coche pequeño en 1976: 50 años después, esta fábrica valenciana cuenta otra historia de España",
-        "url": "https://muyinteresante.okdiario.com/actualidad/ford-almussafes-cumple-50-anos-historia-y-futuro-de-la-fabrica.html",
-        "imagen": "",
-        "fecha": "2026-10-25T19:18:14.000Z",
-        "fuenteId": "muy-interesante",
-        "fuenteTitle": "Muy Interesante",
-        "categorias": [
-          "ciencia",
-          "tecnologia",
-          "cultura"
         ],
         "idioma": "es"
       }
@@ -1065,6 +1069,90 @@
     ],
     "deportes": [
       {
+        "titulo": "Russell, desconcertado por la falta de ritmo en Austin: \"Espero que haya una respuesta\"",
+        "url": "https://es.motorsport.com/f1/news/declaraciones-russell-carrer-austin-2026/10868423/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=es",
+        "imagen": "https://cdn-3.motorsport.com/images/amp/2GdK4RzY/s6/george-russell-mercedes.jpg",
+        "fecha": "2026-10-25T23:51:09.000Z",
+        "fuenteId": "motorsport-espana",
+        "fuenteTitle": "Motorsport.com España",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Un Doncic para la historia",
+        "url": "https://as.com/baloncesto/nba/un-doncic-para-la-historia-f202610-n/",
+        "imagen": "https://img.asmedia.epimg.net/resizer/v2/4CFPFDXTFVJWZF7CQVA5CHFYP4.jpg?auth=e2c1c365af49a6b7290d8d6857f2d1f433a79e254fbdef4a39b79b2c7bc4fb0d",
+        "fecha": "2026-10-25T23:43:17.000Z",
+        "fuenteId": "as",
+        "fuenteTitle": "AS",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Flick saca del ostracismo a Frenkie de Jong, pero no le alcanza",
+        "url": "https://elpais.com/deportes/futbol/2026-10-25/flick-saca-del-ostracismo-a-frenkie-de-jong-pero-no-le-alcanza.html",
+        "imagen": "https://imagenes.elpais.com/resizer/v2/EFENGHNFGRACZFYVU5XPG4GQC4.jpg?auth=d18ec5ff54ba19321e3b81b74e3a0df4a0bb30cf9fbda12238a2ee600e253769",
+        "fecha": "2026-10-25T23:42:09.000Z",
+        "fuenteId": "el-pais-deportes",
+        "fuenteTitle": "El País - Deportes",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Hamilton: \"Hay una diferencia sutil entre el coche de Leclerc y el mío en carrera\"",
+        "url": "https://es.motorsport.com/f1/news/hamilton-declaraciones-carrera-austin-2026/10868424/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=es",
+        "imagen": "https://cdn-6.motorsport.com/images/amp/Y9lNWeZ2/s6/lewis-hamilton-ferrari.jpg",
+        "fecha": "2026-10-25T23:41:10.000Z",
+        "fuenteId": "motorsport-espana",
+        "fuenteTitle": "Motorsport.com España",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Mourinho, feliz y ambicioso: «No voy a dejar que los jugadores tengan la cabeza en las nubes»",
+        "url": "https://www.abc.es/deportes/real-madrid/mourinho-feliz-ambicioso-dejar-jugadores-cabeza-nubes-20261025001403-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/10/25/Lunin-Mou-R9vz3bWcjFA5OnVpgboXJPP-1200x840@diario_abc.jpg",
+        "fecha": "2026-10-25T23:38:46.000Z",
+        "fuenteId": "abc-deportes",
+        "fuenteTitle": "ABC - Deportes",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Verstappen no pudo luchar por la victoria en Austin: \"El ritmo no fue suficiente\"",
+        "url": "https://es.motorsport.com/f1/news/declaraciones-verstappen-carrera-austin-2026/10868412/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=es",
+        "imagen": "https://cdn-7.motorsport.com/images/amp/YE9E4NDY/s6/max-verstappen-red-bull-racing.jpg",
+        "fecha": "2026-10-25T23:30:18.000Z",
+        "fuenteId": "motorsport-espana",
+        "fuenteTitle": "Motorsport.com España",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Aprobados y suspensos del Madrid en el Clásico: el nacimiento del ‘anti-Lamine’",
+        "url": "https://as.com/futbol/primera/aprobados-y-suspensos-del-madrid-en-el-clasico-el-nacimiento-del-anti-lamine-f202610-n/",
+        "imagen": "",
+        "fecha": "2026-10-25T23:27:04.000Z",
+        "fuenteId": "as",
+        "fuenteTitle": "AS",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Norris señala al McLaren tras 'perder' el podio: \"Perdemos tres décimas por vuelta\"",
         "url": "https://es.motorsport.com/f1/news/norris-declaraciones-carrera-austin-2026/10868407/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=es",
         "imagen": "https://cdn-2.motorsport.com/images/amp/YK158pO0/s6/lando-norris-mclaren.jpg",
@@ -1077,12 +1165,24 @@
         "idioma": "es"
       },
       {
-        "titulo": "El Real Madrid bate el récord de triples en un partido de la ACB: 24",
-        "url": "https://elpais.com/deportes/baloncesto/2026-10-25/el-real-madrid-bate-el-record-de-triples-en-un-partido-de-la-acb-24.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/W2MILJBU2BDLXJQ5EXXCI523ZA.jpg?auth=2dce190c477b30ba19eae495b0fddaef9550e548a87ce7245f6b890718661534",
-        "fecha": "2026-10-25T23:20:55.000Z",
-        "fuenteId": "el-pais-deportes",
-        "fuenteTitle": "El País - Deportes",
+        "titulo": "Ojo al mensaje de Vinicius tras el Clásico",
+        "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261026/1004243217/ojo-mensaje-vinicius-clasico.html",
+        "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/10/13/6ace0f5ae7552.jpeg",
+        "fecha": "2026-10-25T23:20:10.000Z",
+        "fuenteId": "mundo-deportivo",
+        "fuenteTitle": "Mundo Deportivo",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Todas las polémicas arbitrales del Clásico",
+        "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261026/1004243216/todas-polemicas-arbitrales-clasico.html",
+        "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/10/25/6ade750c8df1d.jpeg",
+        "fecha": "2026-10-25T23:18:47.000Z",
+        "fuenteId": "mundo-deportivo",
+        "fuenteTitle": "Mundo Deportivo",
         "categorias": [
           "deportes"
         ],
@@ -1095,6 +1195,18 @@
         "fecha": "2026-10-25T23:18:27.000Z",
         "fuenteId": "el-mundo-deportes",
         "fuenteTitle": "El Mundo - Deportes",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Frustrados ‘regresos’ de Balde y De Jong",
+        "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261026/1004243211/frustrados-regresos-balde-jong.html",
+        "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/10/26/6ade8aa255814.jpeg",
+        "fecha": "2026-10-25T23:14:30.000Z",
+        "fuenteId": "mundo-deportivo",
+        "fuenteTitle": "Mundo Deportivo",
         "categorias": [
           "deportes"
         ],
@@ -1137,12 +1249,36 @@
         "idioma": "es"
       },
       {
+        "titulo": "Mbappé: \"El que dice que no hay calidad es un mentiroso\"",
+        "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261026/1004243208/mbappe-dice-no-hay-calidad-mentiroso.html",
+        "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/10/25/6ade7a4d03c2f.jpeg",
+        "fecha": "2026-10-25T23:02:10.000Z",
+        "fuenteId": "mundo-deportivo",
+        "fuenteTitle": "Mundo Deportivo",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Doloroso y merecido",
         "url": "https://as.com/futbol/primera/doloroso-y-merecido-f202610-n/",
         "imagen": "https://img.asmedia.epimg.net/resizer/v2/ZMZM6KSDZNL6JFCRYT5UA2KIOA.jpg?auth=a6ee2e5e6e28896aa071ae74b5c54c24937cd51eb5a3f99757fadfca56ed2889",
         "fecha": "2026-10-25T23:00:37.000Z",
         "fuenteId": "as",
         "fuenteTitle": "AS",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Mourinho: \"Gran victoria, pero no voy a dejar que la gente tenga la cabeza en la luna\"",
+        "url": "https://www.mundodeportivo.com/futbol/real-madrid/20261025/1004243194/mourinho-gran-victoria-volvamos-trabajo-no-dejar-gente-tenga-cabeza-luna.html",
+        "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/10/26/6ade8e2bd2d5e.jpeg",
+        "fecha": "2026-10-25T22:59:51.000Z",
+        "fuenteId": "mundo-deportivo",
+        "fuenteTitle": "Mundo Deportivo",
         "categorias": [
           "deportes"
         ],
@@ -1171,148 +1307,112 @@
           "deportes"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "Las notas de los jugadores del Real Madrid en el clásico ante el Barça",
-        "url": "https://www.lavanguardia.com/deportes/real-madrid/20261025/11667797/notas-jugadores-real-madrid-clasico-barca.html",
-        "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/25/6ade8150600b6.jpeg",
-        "fecha": "2026-10-25T22:57:18.000Z",
-        "fuenteId": "la-vanguardia-deportes",
-        "fuenteTitle": "La Vanguardia - Deportes",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Sainz no entiende a la FIA: \"Yo nunca me salgo con la mía, pero los demás sí\"",
-        "url": "https://es.motorsport.com/f1/news/declaraciones-sainz-carrera-austin-2026/10868386/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=es",
-        "imagen": "https://cdn-2.motorsport.com/images/amp/0R7w1VE2/s6/carlos-sainz-williams.jpg",
-        "fecha": "2026-10-25T22:57:05.000Z",
-        "fuenteId": "motorsport-espana",
-        "fuenteTitle": "Motorsport.com España",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Alonso estalla tras Austin: \"La calidad de los pilotos de atrás es muy baja\"",
-        "url": "https://es.motorsport.com/f1/news/alonso-declaraciones-carrera-austin-2026/10868388/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=es",
-        "imagen": "https://cdn-6.motorsport.com/images/amp/2jEANmN0/s6/fernando-alonso-aston-martin-r.jpg",
-        "fecha": "2026-10-25T22:54:43.000Z",
-        "fuenteId": "motorsport-espana",
-        "fuenteTitle": "Motorsport.com España",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Barça: Esta derrota sí que duele",
-        "url": "https://www.lavanguardia.com/deportes/20261025/11667808/barca-derrota-duele.html",
-        "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/25/6ade879e26f79.jpeg",
-        "fecha": "2026-10-25T22:50:29.000Z",
-        "fuenteId": "la-vanguardia-deportes",
-        "fuenteTitle": "La Vanguardia - Deportes",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Mourinho: “No voy a dejar que la gente tenga la cabeza en la luna”",
-        "url": "https://as.com/futbol/primera/mourinho-no-voy-a-dejar-que-la-gente-tenga-la-cabeza-en-la-luna-f202610-n/",
-        "imagen": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261025/1229821_224218_video_1200.mp4",
-        "fecha": "2026-10-25T22:50:10.000Z",
-        "fuenteId": "as",
-        "fuenteTitle": "AS",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Qué necesita Antonelli para ser campeón de F1 el domingo que viene en México",
-        "url": "https://es.motorsport.com/f1/news/que-necesita-antonelli-campeon-mexico/10868385/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=es",
-        "imagen": "https://cdn-6.motorsport.com/images/amp/0o5A8p7Y/s6/andrea-kimi-antonelli-mercedes.jpg",
-        "fecha": "2026-10-25T22:48:10.000Z",
-        "fuenteId": "motorsport-espana",
-        "fuenteTitle": "Motorsport.com España",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Del \"Mourinho vete al teatro\" del Camp Nou a un Madrid \"unido\": \"Nadie ha llorado por Courtois\"",
-        "url": "https://www.elmundo.es/deportes/futbol/2026/10/25/6ade5b2921efa08a358b4588.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/25/17929680552245.jpg",
-        "fecha": "2026-10-25T22:45:33.000Z",
-        "fuenteId": "el-mundo-deportes",
-        "fuenteTitle": "El Mundo - Deportes",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La vida es blanca y bella",
-        "url": "https://as.com/futbol/primera/la-vida-es-blanca-y-bella-f202610-n/",
-        "imagen": "https://img.asmedia.epimg.net/resizer/v2/BITT3RZYJJDKJPOEPX6IUXA62A.JPG?auth=6dda7aff82db9c62d382e09bf189f41df7a5de8d294f36eff92fa09a6ee8c0ff",
-        "fecha": "2026-10-25T22:45:31.000Z",
-        "fuenteId": "as",
-        "fuenteTitle": "AS",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Cucurella sacó del Clásico a Lamine",
-        "url": "https://as.com/futbol/primera/cucurella-saco-del-clasico-a-lamine-f202610-n/",
-        "imagen": "https://img.asmedia.epimg.net/resizer/v2/VVBHPLLUZJLHZIXDQEVSYNXU6Q.jpg?auth=64f1549d004abdf3e58192d7d2a66b7b09b36da6717bf2697288b7d08ab08498",
-        "fecha": "2026-10-25T22:44:47.000Z",
-        "fuenteId": "as",
-        "fuenteTitle": "AS",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "De Barcelona a Londres",
-        "url": "https://www.elmundo.es/deportes/futbol/primera-division/2026/10/25/6ade2630e4d4d8a4698b4586.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/25/17929682330326.jpg",
-        "fecha": "2026-10-25T22:44:44.000Z",
-        "fuenteId": "el-mundo-deportes",
-        "fuenteTitle": "El Mundo - Deportes",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Flick: “Nos ha faltado frescura”",
-        "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20261025/11667803/flick-barca-real-madrid-ha-faltado-frescura.html",
-        "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/25/6ade8383408b2.jpeg",
-        "fecha": "2026-10-25T22:44:36.000Z",
-        "fuenteId": "la-vanguardia-deportes",
-        "fuenteTitle": "La Vanguardia - Deportes",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
       }
     ],
     "economia": [
       {
+        "titulo": "Stifel eleva el precio objetivo de ORIC Pharmaceuticals a 18 dólares tras datos del ESMO",
+        "url": "https://es.investing.com/news/analyst-ratings/stifel-eleva-el-precio-objetivo-de-oric-pharmaceuticals-a-18-dolares-tras-datos-del-esmo-93CH-3889136",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM4416N_1200_L.jpg",
+        "fecha": "2026-10-25T23:27:45.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Oppenheimer reitera su calificación de Amgen por datos de fármaco oncológico",
+        "url": "https://es.investing.com/news/analyst-ratings/oppenheimer-reitera-su-calificacion-de-amgen-por-datos-de-farmaco-oncologico-93CH-3889135",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0WG_1200_L.jpg",
+        "fecha": "2026-10-25T23:22:05.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Nokia sube de calificación a Reducir por IndeRes tras sólidos resultados del tercer trimestre",
+        "url": "https://es.investing.com/news/analyst-ratings/nokia-sube-de-calificacion-a-reducir-por-inderes-tras-solidos-resultados-del-tercer-trimestre-93CH-3889134",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3T1AG_1200_L.jpg",
+        "fecha": "2026-10-25T23:21:49.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Stifel eleva el precio objetivo de Hinge Health por el repunte de la app",
+        "url": "https://es.investing.com/news/analyst-ratings/stifel-eleva-el-precio-objetivo-de-hinge-health-por-el-repunte-de-la-app-93CH-3889133",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0V4_1200_L.jpg",
+        "fecha": "2026-10-25T23:21:47.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "IndeRes mejora la calificación de Nokia tras sus sólidos resultados del tercer trimestre",
+        "url": "https://es.investing.com/news/analyst-ratings/inderes-mejora-la-calificacion-de-nokia-tras-sus-solidos-resultados-del-tercer-trimestre-93CH-3889132",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3T1AG_1200_L.jpg",
+        "fecha": "2026-10-25T23:21:39.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "RBC reitera su valoración de Intel ante la demanda de IA y avances en fundición",
         "url": "https://es.investing.com/news/analyst-ratings/rbc-reitera-su-valoracion-de-intel-ante-la-demanda-de-ia-y-avances-en-fundicion-93CH-3889131",
-        "imagen": "",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM4416N_1200_L.jpg",
         "fecha": "2026-10-25T23:16:23.000Z",
         "fuenteId": "investing-es-noticias",
         "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El desembarco de la IA lleva el papel del auditor interno más allá del 'vigilante corporativo'",
+        "url": "https://www.abc.es/economia/desembarco-ia-lleva-papel-auditor-interno-alla-20261026000800-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/26/auditores-RaMD0zvIWNtqaRSR2t2hvyO-1200x840@diario_abc.jpg",
+        "fecha": "2026-10-25T23:08:00.000Z",
+        "fuenteId": "abc-economia",
+        "fuenteTitle": "ABC - Economía",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El sector del aceite de oliva acelera su 'revolución fría'",
+        "url": "https://www.abc.es/economia/sector-aceite-oliva-acelera-revolucion-fria-20261026000600-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/26/aceite-RSBpwO72MFBQm1hSA7hVYVJ-1200x840@diario_abc.jpg",
+        "fecha": "2026-10-25T23:06:00.000Z",
+        "fuenteId": "abc-economia",
+        "fuenteTitle": "ABC - Economía",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El peso regulatorio arruga la competitividad del sector de la cosmética y el perfume",
+        "url": "https://www.abc.es/economia/peso-regulatorio-arruga-competitividad-sector-cosmetica-perfume-20261026000500-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/26/loreal%20groupe-RkXtc2mvn0OmFuHSlUgE6JP-1200x840@diario_abc.jpg",
+        "fecha": "2026-10-25T23:05:00.000Z",
+        "fuenteId": "abc-economia",
+        "fuenteTitle": "ABC - Economía",
         "categorias": [
           "economia"
         ],
@@ -1450,107 +1550,34 @@
           "economia"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "Goldman identifica 3 factores que respaldan posiciones largas en materias primas",
-        "url": "https://es.investing.com/news/commodities-news/goldman-identifica-3-factores-que-respaldan-posiciones-largas-en-materias-primas-3889113",
-        "imagen": "https://content-media.investing.com/news/LYNXMPEM18116_1200_L.jpg",
-        "fecha": "2026-10-25T21:53:28.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Más de 3,6 millones de trabajadores tienen blindado el sueldo ante la escalada del IPC",
-        "url": "https://www.expansion.com/economia/politica/2026/10/25/3-6-millones-trabajadores-blindado-sueldo-escalada-ipc.html",
-        "imagen": "http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&cg=rss-expansion&ci=es-widgetueditorial&si=https://www.expansion.com/rss/portada.xml",
-        "fecha": "2026-10-25T21:52:32.000Z",
-        "fuenteId": "expansion",
-        "fuenteTitle": "Expansión",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Canadá y Reino Unido crearán instituciones separadas de financiación defensiva",
-        "url": "https://es.investing.com/news/economy-news/canada-y-reino-unido-crearan-instituciones-separadas-de-financiacion-defensiva-3889112",
-        "imagen": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg",
-        "fecha": "2026-10-25T21:50:13.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Juan Francisco Jimeno, presidente del Consejo de la Productividad de España: \"A este ritmo tardaremos 40 años en llegar a la renta media europea\"",
-        "url": "https://www.elmundo.es/economia/2026/10/25/6addd98be4d4d863138b4588.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/25/17929241548742.jpg",
-        "fecha": "2026-10-25T21:42:31.000Z",
-        "fuenteId": "el-mundo-economia",
-        "fuenteTitle": "El Mundo - Economía",
-        "categorias": [
-          "economia",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El Estado paga 50.000 euros al mes desde hace un año a medio centenar de funcionarios que no trabajan porque no tienen plaza",
-        "url": "https://www.elmundo.es/economia/2026/10/25/6adb4876fc6c83db3e8b45ab.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/23/17927557782533.jpg",
-        "fecha": "2026-10-25T21:41:49.000Z",
-        "fuenteId": "el-mundo-economia",
-        "fuenteTitle": "El Mundo - Economía",
-        "categorias": [
-          "economia",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Pedro Pasquín, jefe de Lazard en España, se suma al 'boom' del capital riesgo",
-        "url": "https://www.expansion.com/empresas/fusiones-y-adquisiciones/2026/10/25/6adb87a9468aebbc2c8b45a1.html",
-        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/23/17927714565645.jpg",
-        "fecha": "2026-10-25T21:40:02.000Z",
-        "fuenteId": "expansion",
-        "fuenteTitle": "Expansión",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "\"En Europa habría que ahorrar menos e incentivar el consumo\"",
-        "url": "https://www.expansion.com/economia/politica/2026/10/25/europa-habria-ahorrar-e-incentivar-consumo.html",
-        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/25/17929642911555.jpg",
-        "fecha": "2026-10-25T21:38:27.000Z",
-        "fuenteId": "expansion",
-        "fuenteTitle": "Expansión",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La estrategia europea frente a Starlink: elegir el modelo Airbus o sufrir el caos del FCAS",
-        "url": "https://www.expansion.com/empresas/telecomunicaciones/2026/10/25/6ade5078e5fdea61708b4578.html",
-        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2022/10/14/16657185475480.jpg",
-        "fecha": "2026-10-25T21:27:44.000Z",
-        "fuenteId": "expansion",
-        "fuenteTitle": "Expansión",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
       }
     ],
     "entretenimiento": [
+      {
+        "titulo": "Casi 10 millones de jugadores superan las 100 horas en Elden Ring",
+        "url": "https://www.nintenderos.com/2026/10/casi-10-millones-de-jugadores-superan-las-100-horas-en-elden-ring/",
+        "imagen": "https://th.bing.com/th/id/R.6ce5d9b2a058547268322b0b603ba7e3?rik=uVKp8bhP9QRnWw&pid=ImgRaw&r=0",
+        "fecha": "2026-10-25T23:49:00.000Z",
+        "fuenteId": "nintenderos",
+        "fuenteTitle": "Nintenderos",
+        "categorias": [
+          "tecnologia",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "RTVE responde al \"cabrón\" de Arantxa Sánchez a Pedro Sánchez en 'Malas Lenguas': \"La libertad de expresión tiene límites\"",
+        "url": "https://www.eldiario.es/vertele/noticias/rtve-responde-cabron-arantxa-sanchez-pedro-sanchez-malas-lenguas-libertad-expresion-limites_1_13614160.html",
+        "imagen": "https://static.eldiario.es/clip/8e23e227-8fac-49f0-aaf3-3e562f19d8f1_16-9-discover-aspect-ratio_default_0.jpg",
+        "fecha": "2026-10-25T23:24:48.000Z",
+        "fuenteId": "vertele",
+        "fuenteTitle": "Vertele",
+        "categorias": [
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Víctor Janeiro, roto por sus hijos en 'Supervivientes: All Stars': \"Vine aquí para darles un ejemplo\"",
         "url": "https://www.diezminutos.es/teleprograma/programas-tv/a74242675/victor-janeiro-roto-hijos-supervivientes-all-stars-darles-un-ejemplo/",
@@ -1773,32 +1800,6 @@
         "url": "https://www.diezminutos.es/teleprograma/programas-tv/a74187719/documental-hombres-movistar-homenaje-trayectoria/",
         "imagen": "https://hips.hearstapps.com/hmg-prod/images/ba86bcbe-2c81-4ef9-a85d-96156a769a32.jpeg",
         "fecha": "2026-10-25T20:00:00.000Z",
-        "fuenteId": "diez-minutos",
-        "fuenteTitle": "Diez Minutos",
-        "categorias": [
-          "corazon",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Horóscopo diario de hoy: predicciones en amor, trabajo, salud y dinero para el 26 de octubre de 2026",
-        "url": "https://www.lavanguardia.com/magazine/horoscopo/20261025/11662686/horoscopo-diario-prediccion-suerte-26-octubre-ctx.html",
-        "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2023/07/10/64abea1113d99.jpeg",
-        "fecha": "2026-10-25T20:00:00.000Z",
-        "fuenteId": "la-vanguardia-magazine",
-        "fuenteTitle": "La Vanguardia - Magazine",
-        "categorias": [
-          "cultura",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Jude Bellingham es coronado como el futbolista más sexy del planeta",
-        "url": "https://www.diezminutos.es/famosos-corazon/famosos-extranjeros/a74241350/jude-bellingham-futbolista-mas-sexy-mundo-2026/",
-        "imagen": "https://hips.hearstapps.com/hmg-prod/images/de9210fa-4bcd-4aca-988e-2b9cc23eaf57.jpeg",
-        "fecha": "2026-10-25T19:56:00.000Z",
         "fuenteId": "diez-minutos",
         "fuenteTitle": "Diez Minutos",
         "categorias": [
@@ -2332,6 +2333,31 @@
     ],
     "internacional": [
       {
+        "titulo": "El Museo de Arte Luminoso de Budapest fusiona luz y ciencia",
+        "url": "https://es.euronews.com/2026/10/26/museo-arte-luminoso-budapest-fusiona-luz-ciencia",
+        "imagen": "",
+        "fecha": "2026-10-25T23:50:01.000Z",
+        "fuenteId": "euronews-espanol",
+        "fuenteTitle": "Euronews Español",
+        "categorias": [
+          "internacional"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Más de 2.670 \"desplazados por la fuerza\" en Hebrón por operativo israelí",
+        "url": "https://www.dw.com/es/más-de-2-670-desplazados-por-la-fuerza-en-hebrón-por-operativo-israelí/a-79758294?maca=spa-rss-sp-all-1122-xml-mrss",
+        "imagen": "",
+        "fecha": "2026-10-25T23:43:00.000Z",
+        "fuenteId": "dw-espanol",
+        "fuenteTitle": "DW Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Fuerte recelo en el recuento brasileño",
         "url": "https://www.lavanguardia.com/internacional/20261026/11667806/fuerte-recelo-recuento-brasileno.html",
         "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/25/6ade8642068cc.r_d.1252-835-0.jpeg",
@@ -2405,6 +2431,19 @@
         "fuenteTitle": "Euronews Español",
         "categorias": [
           "internacional"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Antonelli se impone en el GP de EE. UU. y acaricia el título de la Fórmula 1",
+        "url": "https://www.france24.com/es/deportes/20261025-antonelli-se-impone-en-el-gp-de-ee-uu-y-acaricia-el-t%C3%ADtulo-de-la-f%C3%B3rmula-1",
+        "imagen": "https://s.france24.com/media/display/7e8c540a-d0c8-11f1-922b-4b25c96ec90e/w:1024/p:16x9/3e24029efd599bdc1741e091aa5c46642e650e6a.jpg",
+        "fecha": "2026-10-25T22:04:56.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
         ],
         "idioma": "es"
       },
@@ -2550,48 +2589,69 @@
           "actualidad"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "Marine Le Pen promete seguridad y soberanía para lanzar su carrera al Elíseo",
-        "url": "https://www.20minutos.es/internacional/marine-le-pen-promete-seguridad-soberanoa-lanzar-candidatura-eliseo_7053201_0.html",
-        "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/25/6ade62374da0b5-44829764.jpeg",
-        "fecha": "2026-10-25T20:19:48.000Z",
-        "fuenteId": "20minutos-internacional",
-        "fuenteTitle": "20minutos - Internacional",
-        "categorias": [
-          "internacional",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El PP y Vox celebran la vuelta de María Corina Machado a Venezuela: \"La libertad siempre termina abriéndose paso frente a la tiranía\", dice Feijóo",
-        "url": "https://www.elmundo.es/internacional/2026/10/25/6ade613c21efa0743d8b4588.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/25/17929589168909.jpg",
-        "fecha": "2026-10-25T20:09:34.000Z",
-        "fuenteId": "el-mundo-internacional",
-        "fuenteTitle": "El Mundo - Internacional",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El líder opositor de Israel alerta de que Netanyahu podría recurrir a \"medidas extremas\" para seguir en el poder",
-        "url": "https://www.20minutos.es/internacional/lider-opositor-israel-alerta-que-netanyahu-podria-recurrir-medidas-extremas-para-seguir-poder_7053200_0.html",
-        "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/10/09/6ac8bba7a98f56-80939452.r_d.1444-680-7911.jpeg",
-        "fecha": "2026-10-25T20:01:02.000Z",
-        "fuenteId": "20minutos-internacional",
-        "fuenteTitle": "20minutos - Internacional",
-        "categorias": [
-          "internacional",
-          "actualidad"
-        ],
-        "idioma": "es"
       }
     ],
     "local": [
+      {
+        "titulo": "El Tertulión de los domingos de Tiempo de Juego 25-10-26",
+        "url": "https://www.cope.es/programas/tiempo-de-juego/noticias/tertulion-domingos-juego-25-20261026_3462350.html",
+        "imagen": "https://imagenes.cope.es/files/og_thumbnail/uploads/2026/10/26/6ade93738974c.png",
+        "fecha": "2026-10-25T23:40:48.000Z",
+        "fuenteId": "cope-extremadura",
+        "fuenteTitle": "COPE Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "23:00 | 25 OCT 2026 | TIEMPO DE JUEGO",
+        "url": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/23-00-25-oct-2026-juego-20261026_3462351.html",
+        "imagen": "",
+        "fecha": "2026-10-25T23:17:33.000Z",
+        "fuenteId": "cope-extremadura",
+        "fuenteTitle": "COPE Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Mourinho: \"El Real Madrid no juega para ganar ahora, el Real Madrid juega para ganar campeonatos\"",
+        "url": "https://www.cope.es/programas/tiempo-de-juego/noticias/mourinho-real-madrid-no-juega-ganar-real-madrid-juega-ganar-campeonatos-20261025_3462348.html",
+        "imagen": "https://imagenes.cope.es/files/og_thumbnail/uploads/2026/10/25/6ade871bbee22.jpeg",
+        "fecha": "2026-10-25T22:51:46.000Z",
+        "fuenteId": "cope-extremadura",
+        "fuenteTitle": "COPE Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Iker Casillas aplaude el planteamiento de Mourinho en el Clásico: \"Muy bueno\"",
+        "url": "https://www.cope.es/programas/tiempo-de-juego/noticias/iker-casillas-aplaude-planteamiento-mourinho-clasico-bueno-20261025_3462345.html",
+        "imagen": "https://imagenes.cope.es/files/og_thumbnail/uploads/2026/10/25/6ade83e6b1ede.jpeg",
+        "fecha": "2026-10-25T22:41:29.000Z",
+        "fuenteId": "cope-extremadura",
+        "fuenteTitle": "COPE Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "22:00 | 25 OCT 2026 | TIEMPO DE JUEGO",
+        "url": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/22-00-25-oct-2026-juego-20261025_3462342.html",
+        "imagen": "",
+        "fecha": "2026-10-25T22:20:46.000Z",
+        "fuenteId": "cope-extremadura",
+        "fuenteTitle": "COPE Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "El análisis de Cañizares de la victoria del Real Madrid en el Camp Nou: \"Jugando así, corriendo, trabajando, juntándose...es un equipo competitivo\"",
         "url": "https://www.cope.es/programas/tiempo-de-juego/noticias/analisis-canizares-victoria-real-madrid-camp-nou-jugando-asi-corriendo-trabajando-juntandose-equipo-competitivo-20261025_3462341.html",
@@ -2765,66 +2825,6 @@
         "url": "https://www.cope.es/emisoras/extremadura/noticias/infraestructura-actual-no-capacidad-transportar-toda-energia-genera-20261025_3462308.html",
         "imagen": "https://imagenes.cope.es/files/og_thumbnail/uploads/2026/10/25/6ade3fee29e8c.jpeg",
         "fecha": "2026-10-25T17:56:33.000Z",
-        "fuenteId": "cope-extremadura",
-        "fuenteTitle": "COPE Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El Albacete suma su primera victoria y pone fin al 'efecto Messi' en el Eldense",
-        "url": "https://www.cope.es/programas/tiempo-de-juego/noticias/albacete-suma-primera-victoria-pone-efecto-messi-eldense-20261025_3462304.html",
-        "imagen": "https://imagenes.cope.es/files/og_thumbnail/uploads/2026/10/25/6ade3ff508649.jpeg",
-        "fecha": "2026-10-25T17:47:14.000Z",
-        "fuenteId": "cope-extremadura",
-        "fuenteTitle": "COPE Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Nico Williams zanja la polémica y desmiente a su agente: \"He podido marcharme y estoy aquí\"",
-        "url": "https://www.cope.es/programas/tiempo-de-juego/noticias/nico-williams-zanja-polemica-desmiente-agente-he-podido-marcharme-20261025_3462296.html",
-        "imagen": "https://imagenes.cope.es/files/og_thumbnail/uploads/2026/10/25/6ade331794006.jpeg",
-        "fecha": "2026-10-25T17:42:32.000Z",
-        "fuenteId": "cope-extremadura",
-        "fuenteTitle": "COPE Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "17:15 | 25 OCT 2026 | TIEMPO DE JUEGO",
-        "url": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/17-15-25-oct-2026-juego-20261025_3462302.html",
-        "imagen": "",
-        "fecha": "2026-10-25T17:24:08.000Z",
-        "fuenteId": "cope-extremadura",
-        "fuenteTitle": "COPE Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La autocrítica de la plantilla del Getafe tras la goleada en San Mamés: \"Ha sido un esperpento\"",
-        "url": "https://www.cope.es/programas/tiempo-de-juego/noticias/autocritica-plantilla-getafe-goleada-san-mames-sido-esperpento-20261025_3462295.html",
-        "imagen": "https://imagenes.cope.es/files/og_thumbnail/files/fp/uploads/2026/10/25/6ade15a69ea58.r_d.1459-1348-0.jpeg",
-        "fecha": "2026-10-25T16:40:01.000Z",
-        "fuenteId": "cope-extremadura",
-        "fuenteTitle": "COPE Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "16:00 | 25 OCT 2026 | TIEMPO DE JUEGO",
-        "url": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/16-00-25-oct-2026-juego-20261025_3462292.html",
-        "imagen": "",
-        "fecha": "2026-10-25T16:33:10.000Z",
         "fuenteId": "cope-extremadura",
         "fuenteTitle": "COPE Extremadura",
         "categorias": [
@@ -3344,9 +3344,35 @@
     ],
     "politica": [
       {
+        "titulo": "Más de 2.670 \"desplazados por la fuerza\" en Hebrón por operativo israelí",
+        "url": "https://www.dw.com/es/más-de-2-670-desplazados-por-la-fuerza-en-hebrón-por-operativo-israelí/a-79758294?maca=spa-rss-sp-all-1122-xml-mrss",
+        "imagen": "",
+        "fecha": "2026-10-25T23:43:00.000Z",
+        "fuenteId": "dw-espanol",
+        "fuenteTitle": "DW Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Los bomberos descartan con \"una probabilidad muy alta\" que haya más personas afectadas en el accidente del autobús",
         "url": "https://www.elconfidencial.com/espana/cataluna/2026-10-26/accidente-autobus-fogars-monclus-heridos-1tna-1tps_4452742/",
         "imagen": "https://images.ecestaticos.com/To8z3AE-Wa3nOMvvyLll7Ej_hK0=/0x0:2272x1514/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F897%2Fa2f%2Fc5c%2F897a2fc5ca1dae3caf3ee5fc4821f4f6.jpg",
+        "fecha": "2026-10-25T23:23:00.000Z",
+        "fuenteId": "el-confidencial-espana",
+        "fuenteTitle": "El Confidencial - España",
+        "categorias": [
+          "politica",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Cuatro hermanos menores afectados por una intoxicación de gas butano en La Rioja",
+        "url": "https://www.elconfidencial.com/espana/2026-10-26/cuatro-hermanos-menores-afectados-intoxicacion-de-gas-butano-la-rioja-1tna_4452745/",
+        "imagen": "https://images.ecestaticos.com/b8Lj0eF6fE5ogWn5Vb_wsa0JhWw=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F891%2F69e%2F2c9%2F89169e2c9837d54d2e1ad33cd2e630b0.jpg",
         "fecha": "2026-10-25T23:23:00.000Z",
         "fuenteId": "el-confidencial-espana",
         "fuenteTitle": "El Confidencial - España",
@@ -3574,32 +3600,6 @@
         "categorias": [
           "politica",
           "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Antonelli arrasa en EEUU y acaricia el título de F1: Alonso y Sainz, sin suerte",
-        "url": "https://theobjective.com/deportes/formula-1/2026-10-25/antonelli-arrasa-eeuu-f1-alonso-sainz-sin-suerte/",
-        "imagen": "https://theobjective.com/wp-content/uploads/2026/10/antonelli-texas-eeuu.jpg",
-        "fecha": "2026-10-25T21:57:40.000Z",
-        "fuenteId": "the-objective",
-        "fuenteTitle": "The Objective",
-        "categorias": [
-          "actualidad",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "¿En qué se distancian Lula y Flávio Bolsonaro de cara al balotaje en Brasil?",
-        "url": "https://www.france24.com/es/video/20261025-en-qu%C3%A9-se-distancian-lula-y-fl%C3%A1vio-bolsonaro-de-cara-al-balotaje-en-brasil",
-        "imagen": "https://s.france24.com/media/display/89612000-d0bd-11f1-8fac-4d317af013fd/w:1024/p:16x9/capture-4080b872.jpg",
-        "fecha": "2026-10-25T21:49:18.000Z",
-        "fuenteId": "france24-espanol",
-        "fuenteTitle": "France 24 Español",
-        "categorias": [
-          "internacional",
-          "politica"
         ],
         "idioma": "es"
       }
@@ -4137,6 +4137,19 @@
     ],
     "tecnologia": [
       {
+        "titulo": "Gran Premio de México 2026: Horarios y cómo ver el último paso hacia el título de Andrea Kimi Antonelli",
+        "url": "https://www.diariomotor.com/competicion/noticia/gran-premio-de-mexico-2026-horarios/",
+        "imagen": "https://www.diariomotor.com/imagenes/2026/10/M642877-6ade90e14e879.jpg?class=XL",
+        "fecha": "2026-10-26T00:32:54.000Z",
+        "fuenteId": "diariomotor",
+        "fuenteTitle": "Diariomotor",
+        "categorias": [
+          "tecnologia",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Fernando Alonso y Carlos Sainz, víctimas de dos contactos en la primera vuelta en Austin",
         "url": "https://www.diariomotor.com/competicion/noticia/pilotos-espanoles-carrera-estados-unidos/",
         "imagen": "https://www.diariomotor.com/imagenes/2026/10/pilotos-espanoles-carrera-f1-estados-unidos-2026-2-6ade88e39f835.jpg?class=XL",
@@ -4146,6 +4159,61 @@
         "categorias": [
           "tecnologia",
           "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Casi 10 millones de jugadores superan las 100 horas en Elden Ring",
+        "url": "https://www.nintenderos.com/2026/10/casi-10-millones-de-jugadores-superan-las-100-horas-en-elden-ring/",
+        "imagen": "https://th.bing.com/th/id/R.6ce5d9b2a058547268322b0b603ba7e3?rik=uVKp8bhP9QRnWw&pid=ImgRaw&r=0",
+        "fecha": "2026-10-25T23:49:00.000Z",
+        "fuenteId": "nintenderos",
+        "fuenteTitle": "Nintenderos",
+        "categorias": [
+          "tecnologia",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El viejo mundo no acaba de morir",
+        "url": "https://elpais.com/deportes/futbol/2026-10-25/el-viejo-mundo-no-acaba-de-morir.html",
+        "imagen": "https://imagenes.elpais.com/resizer/v2/JKHT7VONJNI4TFWHOAZRVETMNQ.jpg?auth=3c2ed06db2f0b78a4649e637eb9b6f28484173f1fd90c8e0d694792ccb2053d7",
+        "fecha": "2026-10-25T23:33:44.000Z",
+        "fuenteId": "el-pais",
+        "fuenteTitle": "El País",
+        "categorias": [
+          "actualidad",
+          "tecnologia",
+          "ciencia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El clásico en el que Mou se atrevió con Arda Güler y Bernardo Silva",
+        "url": "https://elpais.com/deportes/futbol/2026-10-25/el-clasico-en-el-que-mou-se-atrevio-con-arda-guler-y-bernardo-silva.html",
+        "imagen": "https://imagenes.elpais.com/resizer/v2/OGYDODZW6REO3EKVB7VTQJHABM.jpg?auth=163dd80a33c8de549f360f485dd0001bec4e8841db2d51e955e5f6d083e67d7d",
+        "fecha": "2026-10-25T23:26:42.000Z",
+        "fuenteId": "el-pais",
+        "fuenteTitle": "El País",
+        "categorias": [
+          "actualidad",
+          "tecnologia",
+          "ciencia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El Real Madrid bate el récord de triples en un partido de la ACB: 24",
+        "url": "https://elpais.com/deportes/baloncesto/2026-10-25/el-real-madrid-bate-el-record-de-triples-en-un-partido-de-la-acb-24.html",
+        "imagen": "https://imagenes.elpais.com/resizer/v2/W2MILJBU2BDLXJQ5EXXCI523ZA.jpg?auth=2dce190c477b30ba19eae495b0fddaef9550e548a87ce7245f6b890718661534",
+        "fecha": "2026-10-25T23:20:55.000Z",
+        "fuenteId": "el-pais",
+        "fuenteTitle": "El País",
+        "categorias": [
+          "actualidad",
+          "tecnologia",
+          "ciencia"
         ],
         "idioma": "es"
       },
@@ -4324,72 +4392,6 @@
         "url": "https://elpais.com/espana/elecciones-generales/2026-10-25/podemos-renuncia-a-presentarse-en-baleares-y-su-candidata-se-integrara-en-la-coalicion-de-izquierdas.html",
         "imagen": "https://imagenes.elpais.com/resizer/v2/MIA34DWHH5DRBM6NUNRHABL63Q.JPG?auth=a1f340cd88a201f74feaabab6c6835e8039a629b5c3af25c6b76f3a38f948b79",
         "fecha": "2026-10-25T21:00:57.000Z",
-        "fuenteId": "el-pais",
-        "fuenteTitle": "El País",
-        "categorias": [
-          "actualidad",
-          "tecnologia",
-          "ciencia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Fernando Valladares, científico del CSIC: «Vamos directo a por lo menos tres o cuatro grados de calentamiento», pero aún ve margen para evitarlo",
-        "url": "https://www.larazon.es/tecnologia-consumo/ciencia/fernando-valladares-cientifico-csic-vamos-directo-menos-tres-cuatro-grados-calentamiento-aun-ve-margen-evitarlo_202610256adb1381f655b65cc385dc18.html",
-        "imagen": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/10/23/332285B1-989F-4364-8DE9-DD921A79C0F3/calentamiento-global-imagen-portada_96.jpg?crop=1280,720,x0,y0&amp;width=1200&amp;height=675&amp;optimize=low&amp;format=webply",
-        "fecha": "2026-10-25T21:00:00.000Z",
-        "fuenteId": "andro4all",
-        "fuenteTitle": "Andro4all",
-        "categorias": [
-          "tecnologia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Vucic reconoce la victoria de la Lista Estudiantil en las elecciones de Serbia",
-        "url": "https://elpais.com/internacional/2026-10-25/el-presidente-vucic-reconoce-la-victoria-de-la-lista-estudiantil-en-las-elecciones-serbias.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/OWJ7T6K435MY3JNS2PGU5JQZCM.jpg?auth=8f669a16a9a0341a22710032dde08886b298b938501021f457fda5b653e68a98",
-        "fecha": "2026-10-25T20:59:16.000Z",
-        "fuenteId": "el-pais",
-        "fuenteTitle": "El País",
-        "categorias": [
-          "actualidad",
-          "tecnologia",
-          "ciencia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "O2 explica cuánto va a tardar la instalación de tu fibra desde que contratas el servicio",
-        "url": "https://www.adslzone.net/noticias/operadores/o2-explica-plazos-instalacion-fibra/",
-        "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/10/o2-pcpal-1212-az-1.jpg",
-        "fecha": "2026-10-25T20:57:08.000Z",
-        "fuenteId": "adslzone",
-        "fuenteTitle": "ADSLZone",
-        "categorias": [
-          "tecnologia",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Jesse Eisenberg abandonó el cine superheróico por culpa de Zack Snyder: “No podía conseguir papeles”",
-        "url": "https://www.hobbyconsolas.com/hobbycine/jesse-eisenberg-abandono-cine-superheroico-por-culpa-zack-snyder-no-podia-conseguir-papeles_7050437_0.html",
-        "imagen": "https://imagenes.hobbyconsolas.com/files/image_1920_1080/uploads/imagenes/2023/04/25/6901ac119987a.jpeg",
-        "fecha": "2026-10-25T20:55:00.000Z",
-        "fuenteId": "hobby-consolas",
-        "fuenteTitle": "Hobby Consolas",
-        "categorias": [
-          "tecnologia",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "María Corina Machado regresa a casa, pero su misión no ha terminado",
-        "url": "https://elpais.com/america/2026-10-25/maria-corina-machado-regresa-a-casa-pero-su-mision-no-ha-terminado.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/KO4F36VEIJLVJLRR4UY2DCEGXY.jpg?auth=4870b61c3a65864d3f4d957f4018984c5a151845055ef04e6c0a702a82a3f575",
-        "fecha": "2026-10-25T20:48:04.000Z",
         "fuenteId": "el-pais",
         "fuenteTitle": "El País",
         "categorias": [
