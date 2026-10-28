@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-28T11:44:02.370Z",
+  "generado": "2026-10-28T12:02:03.780Z",
   "limitePorCategoria": 20,
   "categorias": {
     "actualidad": [
@@ -12,6 +12,19 @@
         "fuenteTitle": "Diariomotor",
         "categorias": [
           "tecnologia",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Al menos 30 muertos y decenas de heridos en un choque de trenes de alta velocidad en España",
+        "url": "https://www.bbc.co.uk/mundo/live/c6lyk9npxzqlt?at_medium=RSS&at_campaign=rss",
+        "imagen": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fef1/live/dea81ff0-d2c0-11f1-8e79-5381b0a9d682.jpg",
+        "fecha": "2026-10-28T11:30:30.292Z",
+        "fuenteId": "bbc-mundo",
+        "fuenteTitle": "BBC News Mundo",
+        "categorias": [
+          "internacional",
           "actualidad"
         ],
         "idioma": "es"
@@ -30,48 +43,35 @@
         "idioma": "es"
       },
       {
-        "titulo": "El Ayuntamiento de San Sebastián reforma el badén que ha provocado la retirada de dos autobuses urbanos",
-        "url": "https://www.20minutos.es/motor/actualidad/ayuntamiento-san-sebastian-reforma-baden-que-ha-provocado-retirada-dos-autobuses-urbanos-articulados_7053512_0.html",
-        "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/26/6adf5723afbd64-19277461.jpeg",
-        "fecha": "2026-10-28T11:03:12.000Z",
-        "fuenteId": "20minutos",
-        "fuenteTitle": "20minutos",
+        "titulo": "Marisol, madre de Adrián, un joven que viajaba en uno de los trenes accidentados: \"Voy a buscarlo, no he podido hablar más con él, mi hijo estaba colapsado, fuera de sí\"",
+        "url": "https://www.elconfidencial.com/espana/2026-10-28/marisol-madre-de-adrian-un-joven-que-viajaba-en-uno-de-los-trenes-accidentados_4454671/",
+        "imagen": "https://images.ecestaticos.com/pYuIWpbQL0jrqMkcbnHwurV7SQY=/0x0:2272x1286/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fd5e%2F554%2Fe87%2Fd5e554e8787b07d890e4ee0cdaae55e8.jpg",
+        "fecha": "2026-10-28T11:27:00.000Z",
+        "fuenteId": "el-confidencial-espana",
+        "fuenteTitle": "El Confidencial - España",
+        "categorias": [
+          "politica",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Page afirma que se esperan \"más fallecidos\" porque \"todavía no se ha accedido al fondo de los vagones\"",
+        "url": "https://www.elconfidencial.com/espana/2026-10-28/emiliano-garcia-page-declaraciones-pie-de-via-accidente-tren-urda_4454682/",
+        "imagen": "https://images.ecestaticos.com/D8DXTaR0QCdNavXxeD5b_A9GFIw=/0x0:2272x1278/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F01b%2Fbed%2Fa6d%2F01bbeda6d869e4b405a282df789ed495.jpg",
+        "fecha": "2026-10-28T11:26:00.000Z",
+        "fuenteId": "el-confidencial",
+        "fuenteTitle": "El Confidencial",
         "categorias": [
           "actualidad"
         ],
         "idioma": "es"
       },
       {
-        "titulo": "Mueren decenas de personas al chocar dos trenes de alta velocidad en el sur de España",
-        "url": "https://www.bbc.com/mundo/articles/crgj906pn4wdo?at_medium=RSS&at_campaign=rss",
-        "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/993b/live/9514f4b0-d2b8-11f1-93e1-3b657b665bcf.jpg",
-        "fecha": "2026-10-28T11:01:19.000Z",
-        "fuenteId": "bbc-mundo",
-        "fuenteTitle": "BBC News Mundo",
-        "categorias": [
-          "internacional",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Incertidumbre y paralización total en Sevilla tras el choque de dos trenes en Toledo: \"No sé nada de mi amiga\"",
-        "url": "https://www.eldiario.es/sevilla/incertidumbre-paralizacion-total-sevilla-choque-trenes-toledo-no-amiga_1_13621073.html",
-        "imagen": "https://static.eldiario.es/clip/fa335eb5-b847-40c7-82ee-0a71c16d6fff_16-9-discover-aspect-ratio_default_0_x682y509.jpg",
-        "fecha": "2026-10-28T11:00:59.000Z",
-        "fuenteId": "eldiario-es",
-        "fuenteTitle": "elDiario.es",
-        "categorias": [
-          "actualidad",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Preguntas y respuestas del choque de trenes en Urda (Toledo) del 28 de octubre de 2026",
-        "url": "https://maldita.es/desinfo/20261028/preguntas-respuestas-accidente-tren-urda/",
-        "imagen": "https://files.maldita.es/uploads/images/2026/10/6ae1d3379950caccidente-urda-trenes-1-webp.webp",
-        "fecha": "2026-10-28T11:00:24.000Z",
+        "titulo": "No, esta foto no es del accidente de dos trenes a la altura de Urda el 28 de octubre de 2026: es un tren incendiado en Zaragoza días antes",
+        "url": "https://maldita.es/desinfo/20261028/imagen-de-uno-de-los-trenes-del-accidente-ferroviario-en-urda-toledo/",
+        "imagen": "https://files.maldita.es/uploads/images/2026/10/6ae1db62a7ee9portada-2-43-webp.webp",
+        "fecha": "2026-10-28T11:24:52.000Z",
         "fuenteId": "maldita-es",
         "fuenteTitle": "Maldita.es",
         "categorias": [
@@ -80,59 +80,49 @@
         "idioma": "es"
       },
       {
-        "titulo": "Mientras España sigue obsesionada con las chinas, en 2027 llega una nueva japonesa premium, pero barata, la verdadera Ténéré de Kawasaki",
-        "url": "https://www.diariomotor.com/motos/kawasaki-kle650/",
-        "imagen": "https://www.diariomotor.com/imagenes/2026/10/kawasaki-kle650-6ae1aee3c08ad.jpg?class=XL",
-        "fecha": "2026-10-28T11:00:05.000Z",
-        "fuenteId": "diariomotor",
-        "fuenteTitle": "Diariomotor",
+        "titulo": "El Senado suspende su agenda institucional de hoy y mañana por al accidente de Toledo",
+        "url": "https://www.europapress.es/nacional/noticia-senado-suspende-agenda-institucional-hoy-manana-accidente-toledo-20261028122430.html",
+        "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20261028122430_120.jpg",
+        "fecha": "2026-10-28T11:24:30.000Z",
+        "fuenteId": "europa-press-sucesos",
+        "fuenteTitle": "Europa Press - Sucesos",
         "categorias": [
-          "tecnologia",
+          "sucesos",
           "actualidad"
         ],
         "idioma": "es"
       },
       {
-        "titulo": "Spirit Breakwork: cómo funciona la práctica que te reconecta con tu respiración",
-        "url": "https://www.20minutos.es/salud/psicologia/spirit-breakwork-como-funciona-practica-que-te-reconecta-con-tu-respiracion_7036114_0.html",
-        "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/13/6aa67ddd560dd6-88906195.jpeg",
-        "fecha": "2026-10-28T11:00:00.000Z",
-        "fuenteId": "20minutos",
-        "fuenteTitle": "20minutos",
+        "titulo": "Al menos 30 muertos en el choque de dos trenes de alta velocidad en Toledo",
+        "url": "https://www.lamarea.com/2026/10/28/choque-trenes-urda-toledo/",
+        "imagen": "",
+        "fecha": "2026-10-28T11:21:32.000Z",
+        "fuenteId": "la-marea",
+        "fuenteTitle": "La Marea",
         "categorias": [
-          "actualidad"
+          "actualidad",
+          "politica"
         ],
         "idioma": "es"
       },
       {
-        "titulo": "Los mejores destinos de Europa para ver el 'foliage', la gran joya del otoño",
-        "url": "https://www.20minutos.es/viajes/destinos/mejores-destinos-europa-ver-foliage-gran-joya-otono_7036240_0.html",
-        "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/14/6aa75cf7d97269-27215180.jpeg",
-        "fecha": "2026-10-28T11:00:00.000Z",
-        "fuenteId": "20minutos",
-        "fuenteTitle": "20minutos",
+        "titulo": "Colau pide investigar posibles injerencias extranjeras en los disturbios de Barcelona",
+        "url": "https://theobjective.com/espana/politica/2026-10-28/colau-injerencias-disturbios/",
+        "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/06/ione-belarra-defiende-candidatura-469x317.jpg",
+        "fecha": "2026-10-28T11:18:59.000Z",
+        "fuenteId": "the-objective",
+        "fuenteTitle": "The Objective",
         "categorias": [
-          "actualidad"
+          "actualidad",
+          "politica"
         ],
         "idioma": "es"
       },
       {
-        "titulo": "Garmin revienta el sector: vende un reloj GPS ultrapreciso por menos de 200 euros",
-        "url": "https://www.20minutos.es/ofertas-descuentos/comprar-reloj-gps-garmin-forerunner-255_7054237_0.html",
-        "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/07/05/garmin-forerunner-255.jpeg",
-        "fecha": "2026-10-28T11:00:00.000Z",
-        "fuenteId": "20minutos",
-        "fuenteTitle": "20minutos",
-        "categorias": [
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "¿Cuánto vale una nómina de 1.500 euros para los bancos? Estas son sus mejores ofertas",
-        "url": "https://www.elmundo.es/economia/ahorro-y-consumo/2026/10/28/6adf461ffc6c8357118b458a.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/26/17930173537359.jpg",
-        "fecha": "2026-10-28T11:00:00.000Z",
+        "titulo": "Cáritas alerta de que 51% de los inquilinos actuales no tendrían un nivel de ingresos suficientes para acceder hoy al mismo alquiler",
+        "url": "https://www.elmundo.es/economia/vivienda/2026/10/28/6ae1ca35e85ecefa5a8b456e.html",
+        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/28/17931851124525.png",
+        "fecha": "2026-10-28T11:18:58.000Z",
         "fuenteId": "el-mundo-economia",
         "fuenteTitle": "El Mundo - Economía",
         "categorias": [
@@ -142,23 +132,22 @@
         "idioma": "es"
       },
       {
-        "titulo": "Irene Montero y Rufián responden a las míticas preguntas de Broncano en ‘La revuelta’: «Tengo unos 40.000€ pero porque he escrito un libro»",
-        "url": "https://theobjective.com/gente/2026-10-28/irene-montero-rufian-preguntas-broncano-la-revuelta-escrito-libro/",
-        "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/10/rufian-montero-larevuelta-469x317.jpeg",
-        "fecha": "2026-10-28T11:00:00.000Z",
-        "fuenteId": "the-objective",
-        "fuenteTitle": "The Objective",
+        "titulo": "Vídeo | Un accidente ferroviario deja decenas de fallecidos en Urda (Toledo)",
+        "url": "https://www.elconfidencial.com/espana/2026-10-28/video-accidente-ferroviario-decenas-fallecidos-urda-toledo_4454660/",
+        "imagen": "https://images.ecestaticos.com/cpw65WslUyggjHkVVudBsiGQoi0=/0x0:2272x1278/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F0c6%2Fae9%2Fe52%2F0c6ae9e525fd760b04940b43f2d7a002.jpg",
+        "fecha": "2026-10-28T11:17:00.000Z",
+        "fuenteId": "el-confidencial",
+        "fuenteTitle": "El Confidencial",
         "categorias": [
-          "actualidad",
-          "politica"
+          "actualidad"
         ],
         "idioma": "es"
       },
       {
-        "titulo": "No, esta foto no es del accidente de dos trenes a la altura de Urda el 28 de octubre de 2026: es del accidente de Adamuz del 18 de enero",
-        "url": "https://maldita.es/desinfo/20261028/esta-foto-muestra-el-accidente-de-dos-trenes-a-la-altura-de-urda-toledo-el-28-de-octubre-de-2026/",
-        "imagen": "https://files.maldita.es/uploads/images/2026/10/6ae1d53558c3aportada-12-webp.webp",
-        "fecha": "2026-10-28T10:59:50.000Z",
+        "titulo": "Cuidado con esta imagen difundida en el contexto del accidente ferroviario en Urda (Toledo): no es actual y es del accidente de Adamuz",
+        "url": "https://maldita.es/desinfo/20261028/esta-imagen-muestra-el-accidente-de-tren-que-se-ha-producido-en-octubre-de-2026-en-la-misma-linea-del-accidente-de-adamuz/",
+        "imagen": "https://files.maldita.es/uploads/images/2026/10/6ae1d92b9946afoto-accidente-tren-urda-toledo-webp.webp",
+        "fecha": "2026-10-28T11:16:53.000Z",
         "fuenteId": "maldita-es",
         "fuenteTitle": "Maldita.es",
         "categorias": [
@@ -167,10 +156,10 @@
         "idioma": "es"
       },
       {
-        "titulo": "MAPA | Este es el punto en el que se ha producido la colisión de dos trenes de alta velocidad en Toledo",
-        "url": "https://www.newtral.es/mapa-lugar-accidente-trenes-donde/20261028/",
-        "imagen": "https://www.newtral.es/wp-content/uploads/2026/10/NOOvRKfw-TWITTER-1-6-1024x512.jpg",
-        "fecha": "2026-10-28T10:59:39.000Z",
+        "titulo": "Esta imagen de un tren descarrilado junto a unas ambulancias de Andalucía no es del accidente ocurrido en Urda (Toledo)",
+        "url": "https://www.newtral.es/imagen-colision-tren-urda/20261028/",
+        "imagen": "https://www.newtral.es/wp-content/uploads/2026/10/plantilla-NPP-7-1024x576.jpg",
+        "fecha": "2026-10-28T11:15:24.000Z",
         "fuenteId": "newtral",
         "fuenteTitle": "Newtral",
         "categorias": [
@@ -180,23 +169,23 @@
         "idioma": "es"
       },
       {
-        "titulo": "Eduarda, pasajera del tren Iryo accidentado en Toledo: \"Ha sido un caos porque había cuerpos debajo de los trenes\"",
-        "url": "https://www.elespanol.com/espana/20261028/eduarda-pasajera-tren-iryo-accidentado-toledo-caos-cuerpos-debajo-trenes/1003744437787_0.html",
-        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11388742.jpg?p=c:599:337:nowe:1:32/w:1706/h:960&h=1-XWCml0",
-        "fecha": "2026-10-28T10:59:21.000Z",
-        "fuenteId": "el-espanol-espana",
-        "fuenteTitle": "El Español - España",
+        "titulo": "Caos y angustia en Atocha: \"No puede ser, otra vez. Parece una pesadilla\"",
+        "url": "https://www.elmundo.es/madrid/2026/10/28/6ae1d8e5e9cf4ab1088b45f2.html",
+        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/28/17931860460185.jpg",
+        "fecha": "2026-10-28T11:14:31.000Z",
+        "fuenteId": "el-mundo",
+        "fuenteTitle": "El Mundo",
         "categorias": [
-          "politica",
-          "actualidad"
+          "actualidad",
+          "tecnologia"
         ],
         "idioma": "es"
       },
       {
-        "titulo": "Un juez limita la responsabilidad de la influencer que dijo que Brigitte Macron es hombre",
-        "url": "https://theobjective.com/internacional/2026-10-28/juez-influencer-brigitte-macron-hombre/",
-        "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/10/manifestaciones-estudiantes-francia-469x317.jpg",
-        "fecha": "2026-10-28T10:58:51.000Z",
+        "titulo": "Zelenski defiende el uso de «todas las formas de diplomacia» para «proteger Ucrania»",
+        "url": "https://theobjective.com/internacional/2026-10-28/zelenski-defiende-diplomacia-ucrania/",
+        "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/10/zelenski-2-469x317.jpg",
+        "fecha": "2026-10-28T11:13:08.000Z",
         "fuenteId": "the-objective",
         "fuenteTitle": "The Objective",
         "categorias": [
@@ -206,12 +195,12 @@
         "idioma": "es"
       },
       {
-        "titulo": "Esta imagen de un tren con franjas naranjas descarrilado en la vía no es del accidente de Urda (Toledo)",
-        "url": "https://www.newtral.es/vagones-tren-descarrilados/20261028/",
-        "imagen": "https://www.newtral.es/wp-content/uploads/2026/10/FAKE-4-1024x576.jpg",
-        "fecha": "2026-10-28T10:58:04.000Z",
-        "fuenteId": "newtral",
-        "fuenteTitle": "Newtral",
+        "titulo": "Socibus refuerza la conexión entre Madrid y Andalucía para atender el incremento de demanda tras el accidente de trenes de Toledo",
+        "url": "https://www.abc.es/espana/andalucia/socibus-refuerza-conexion-madrid-andalucia-atender-incremento-20261028120939-nts.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/28/andalucia-accidente-autocares-RrAMEo2zc2rvdTjSH9vagXN-1200x840@diario_abc.jpg",
+        "fecha": "2026-10-28T11:11:43.000Z",
+        "fuenteId": "abc-espana",
+        "fuenteTitle": "ABC - España",
         "categorias": [
           "politica",
           "actualidad"
@@ -219,10 +208,102 @@
         "idioma": "es"
       },
       {
-        "titulo": "Cuando estudiar y seguir jugando es compatible",
-        "url": "https://elpais.com/deportes/donde-juega-la-emocion/2026-10-28/cuando-estudiar-y-seguir-jugando-es-compatible.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/6PB75IF5EVHYXOMJZ2F22VLNC4.jpg?auth=76853cb15809c6b3466f31dcaef497b6372c0cfce45f720a46370c134f8b35e1",
-        "fecha": "2026-10-28T10:56:33.000Z",
+        "titulo": "¿Puede fallar la seguridad en la alta velocidad? Así funcionan los sistemas que gestionan la circulación de los trenes",
+        "url": "https://www.abc.es/economia/puede-fallar-seguridad-alta-velocidad-funcionan-sistemas-20261028115835-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/28/alta-velocidadtrenes-RoI80xLtLYitZ6EghFk2IkK-1200x840@diario_abc.jpg",
+        "fecha": "2026-10-28T11:10:46.000Z",
+        "fuenteId": "abc",
+        "fuenteTitle": "ABC",
+        "categorias": [
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El tren Iryo alertó al centro de control que estaba detenido por un fallo del sistema LZB de señalización de la vía antes de ser embestido por el AVE",
+        "url": "https://www.elmundo.es/economia/2026/10/28/6ae1c9a1e9cf4a372d8b45ae.html",
+        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/28/17931854518528.jpg",
+        "fecha": "2026-10-28T11:10:43.000Z",
+        "fuenteId": "el-mundo",
+        "fuenteTitle": "El Mundo",
+        "categorias": [
+          "actualidad",
+          "tecnologia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Los viajeros de los trenes accidentados en Toledo: \"Hemos notado un sonido muy fuerte y después ha sido todo un amasijo de hierros\"",
+        "url": "https://www.eldiario.es/castilla-la-mancha/provincias/toledo/viajeros-trenes-accidentados-toledo-hemos-notado-sonido-fuerte-despues-sido-amasijo-hierros_1_13621320.html",
+        "imagen": "https://static.eldiario.es/clip/6c26c381-2531-44c5-b17f-6d2c1ffd0805_16-9-discover-aspect-ratio_default_0.jpg",
+        "fecha": "2026-10-28T11:10:00.000Z",
+        "fuenteId": "eldiario-es",
+        "fuenteTitle": "elDiario.es",
+        "categorias": [
+          "actualidad",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Los dos trenes que han chocado en Urda tenían vendidos 102 billetes con parada en Córdoba",
+        "url": "https://www.abc.es/espana/andalucia/cordoba/dos-trenes-chocado-urda-vendidos-102-billetes-20261028120953-nts.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/28/estacion-trenessegundo-cordoba-kyCE-U40460445608pC-1200x840@diario_abc.jpg",
+        "fecha": "2026-10-28T11:09:54.000Z",
+        "fuenteId": "abc-espana",
+        "fuenteTitle": "ABC - España",
+        "categorias": [
+          "politica",
+          "actualidad"
+        ],
+        "idioma": "es"
+      }
+    ],
+    "ciencia": [
+      {
+        "titulo": "Los nutricionistas recomiendan: \"Para que el pan casero quede más rico, no uses harina ni horno, sino solo 2 ingredientes\"",
+        "url": "https://www.elespanol.com/ciencia/20261028/nutricionistas-recomiendan-pan-casero-quede-rico-no-uses-harina-horno-solo-ingredientes/1003744421701_0.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11388836.jpg?p=w:1706/h:960&h=PzBS213H",
+        "fecha": "2026-10-28T11:29:10.000Z",
+        "fuenteId": "el-espanol-ciencia",
+        "fuenteTitle": "El Español - Ciencia",
+        "categorias": [
+          "ciencia",
+          "salud"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Amazon vende el gorro perfecto para escuchar música en invierno. Tiene Bluetooth y linterna",
+        "url": "https://www.xataka.com/seleccion/amazon-vende-gorro-perfecto-para-escuchar-musica-invierno-tiene-bluetooth-linterna",
+        "imagen": "https://i.blogs.es/e8beec/gorro-zooi/1024_2000.jpeg",
+        "fecha": "2026-10-28T11:18:43.000Z",
+        "fuenteId": "xataka",
+        "fuenteTitle": "Xataka",
+        "categorias": [
+          "tecnologia",
+          "ciencia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Entra en vigor: vender perros y gatos por internet exigirá un código de verificación en España",
+        "url": "https://www.elespanol.com/ciencia/20261028/entra-vigor-vender-perros-gatos-internet-exigira-codigo-verificacion-espana/1003744419283_0.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11377536.jpg?p=c:4001:2249:nowe:0:80/w:1706/h:960&h=532amQIs",
+        "fecha": "2026-10-28T11:12:06.000Z",
+        "fuenteId": "el-espanol-ciencia",
+        "fuenteTitle": "El Español - Ciencia",
+        "categorias": [
+          "ciencia",
+          "salud"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Abascal, único líder que mantiene sus mítines electorales pese a la tragedia",
+        "url": "https://elpais.com/espana/2026-10-28/abascal-unico-lider-que-mantiene-sus-mitines-electorales-pese-a-la-tragedia.html",
+        "imagen": "https://imagenes.elpais.com/resizer/v2/A5XO7V5T75JDLEXXDPTMWPPHN4.jpg?auth=233982d187e60af07694c957684fb1d4839c4569febbc6f4554727681e1ce16e",
+        "fecha": "2026-10-28T11:09:48.000Z",
         "fuenteId": "el-pais",
         "fuenteTitle": "El País",
         "categorias": [
@@ -233,33 +314,18 @@
         "idioma": "es"
       },
       {
-        "titulo": "El 86% de los centros concertados de Madrid exige una cuota obligatoria o amenaza con excluir al alumno",
-        "url": "https://www.eldiario.es/sociedad/86-centros-concertados-madrid-exige-cuota-obligatoria-amenaza-excluir-alumno_1_13619604.html",
-        "imagen": "https://static.eldiario.es/clip/2e62772b-659f-4ba5-a219-26188cbdef71_16-9-discover-aspect-ratio_default_0.jpg",
-        "fecha": "2026-10-28T10:56:17.000Z",
-        "fuenteId": "eldiario-es",
-        "fuenteTitle": "elDiario.es",
+        "titulo": "Qué es Shamonda, el virus del ganado que se ha detectado por primera vez en una persona",
+        "url": "https://quo.eldiario.es/salud/q2610526014/que-es-shamonda-el-virus-del-ganado-que-se-ha-detectado-por-primera-vez-en-una-persona",
+        "imagen": "https://quo.eldiario.es/wp-content/uploads/2026/10/pexels-murilo-fonseca-14867612-13947442-576x1024.jpg",
+        "fecha": "2026-10-28T11:08:48.000Z",
+        "fuenteId": "quo",
+        "fuenteTitle": "Quo",
         "categorias": [
-          "actualidad",
-          "politica"
+          "ciencia",
+          "tecnologia"
         ],
         "idioma": "es"
       },
-      {
-        "titulo": "¿Cómo pueden informarse los familiares? Teléfonos de atención a víctimas y allegados y puntos de ayuda para los afectados por el accidente de tren de Urda (Toledo)",
-        "url": "https://www.elmundo.es/espana/2026/10/28/6ae1d18be85eced9488b458e.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/28/17931843176504.jpg",
-        "fecha": "2026-10-28T10:55:49.000Z",
-        "fuenteId": "el-mundo-espana",
-        "fuenteTitle": "El Mundo - España",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      }
-    ],
-    "ciencia": [
       {
         "titulo": "¿Se puede enviar un olor por internet? Así funciona la nariz electrónica con IA",
         "url": "https://quo.eldiario.es/tecnologia/q2610560245/se-puede-enviar-un-olor-por-internet-asi-funciona-la-nariz-electronica-con-ia",
@@ -464,78 +530,140 @@
           "cultura"
         ],
         "idioma": "es"
-      },
+      }
+    ],
+    "corazon": [
       {
-        "titulo": "Las mejores ofertas en periféricos para este Halloween: impresoras, monitores o auriculares con descuentos del 50%",
-        "url": "https://hipertextual.com/ofertas-descuentos/ofertas-perifericos/",
-        "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/monitor-lg.jpg?fit=1024%2C576&quality=70&strip=all&ssl=1",
-        "fecha": "2026-10-28T10:14:43.000Z",
-        "fuenteId": "hipertextual",
-        "fuenteTitle": "Hipertextual",
+        "titulo": "El actor Pablo Chiapella protagoniza la nueva serie más divertida tras ‘La que se avecina’: así es la comedia que lidera en Movistar Plus+ y Prime Video",
+        "url": "https://www.diezminutos.es/teleprograma/series-tv/a74268039/pablo-chiapella-nueva-serie-comedia-movistar-plus-el-supermercado/",
+        "imagen": "https://hips.hearstapps.com/hmg-prod/images/09f55a9b-d3fe-4c61-9124-85c9b18fa2ae.jpg",
+        "fecha": "2026-10-28T11:25:16.000Z",
+        "fuenteId": "diez-minutos",
+        "fuenteTitle": "Diez Minutos",
         "categorias": [
-          "tecnologia",
-          "ciencia",
+          "corazon",
           "entretenimiento"
         ],
         "idioma": "es"
       },
       {
-        "titulo": "El accidente de trenes de Toledo, desde la cafetería del AVE siniestrado: “Los viajeros han salido despedidos”",
-        "url": "https://elpais.com/espana/2026-10-28/un-testigo-del-accidente-la-gente-estaba-intentando-salir-por-las-ventanas.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/YTBZEMEE5BGCTFGI76MTB5X74Y.jpeg?auth=11758397c72718d0b952f6d9c2bc25d73715ec8dc8155a6432de7d001bb4dba3",
-        "fecha": "2026-10-28T10:09:17.000Z",
-        "fuenteId": "el-pais",
-        "fuenteTitle": "El País",
+        "titulo": "El arquitecto Joaquín Torres se encontraba en uno de los trenes accidentados: «Prefiero no pensar muy bien lo que hemos vivido»",
+        "url": "https://www.abc.es/gente/arquitecto-joaquin-torres-encontraba-tren-accidentado-prefiero-20261028121623-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gente/2026/10/28/joaquin-torres-REYrkce85UhSExt7KZFbf6N-1200x840@diario_abc.jpg",
+        "fecha": "2026-10-28T11:18:13.000Z",
+        "fuenteId": "abc-gente",
+        "fuenteTitle": "ABC - Gente",
         "categorias": [
-          "actualidad",
-          "tecnologia",
-          "ciencia"
+          "corazon",
+          "entretenimiento"
         ],
         "idioma": "es"
       },
       {
-        "titulo": "Desde hace medio siglo conocemos a fondo a Darth Vader, pero hay una duda que permanece: qué significa realmente \"Darth Vader\"",
-        "url": "https://www.xataka.com/cine-y-tv/hace-medio-siglo-conocemos-a-fondo-a-darth-vader-hay-duda-que-permanece-que-significa-realmente-darth-vader",
-        "imagen": "https://i.blogs.es/d2b49d/dartvader/1024_2000.jpeg",
-        "fecha": "2026-10-28T10:01:28.000Z",
-        "fuenteId": "xataka",
-        "fuenteTitle": "Xataka",
+        "titulo": "Joaquín Torres, pasajero del tren accidentado en Toledo: “Nos hemos salvado de milagro. Estamos en shock”",
+        "url": "https://www.diezminutos.es/famosos-corazon/famosos-espanoles/a74269720/joaquin-torres-accidente-tren-ave-toledo/",
+        "imagen": "https://hips.hearstapps.com/hmg-prod/images/546db03c-bdff-4849-bb39-43b4c1eeb50e.jpeg",
+        "fecha": "2026-10-28T11:14:00.000Z",
+        "fuenteId": "diez-minutos",
+        "fuenteTitle": "Diez Minutos",
         "categorias": [
-          "tecnologia",
-          "ciencia"
+          "corazon",
+          "entretenimiento"
         ],
         "idioma": "es"
       },
       {
-        "titulo": "Las primeras imágenes del accidente ferroviario entre dos trenes de alta velocidad en Toledo",
-        "url": "https://elpais.com/videos/2026-10-28/las-primeras-imagenes-del-accidente-ferroviario-entre-dos-trenes-de-alta-velocidad-en-toledo.html",
-        "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261028/1230882_091607_video_1800.mp4",
-        "fecha": "2026-10-28T09:58:21.000Z",
-        "fuenteId": "el-pais",
-        "fuenteTitle": "El País",
+        "titulo": "Platos de cuchara vegetarianos: recetas fáciles, saludables y nutritivas con legumbres de bote",
+        "url": "https://www.hola.com/cocina/recetas/20261028931560/platos-vegetarianos-legumbres-bote-recetas-faciles/",
+        "imagen": "https://www.hola.com/horizon/landscape/d2a493bd798d-guiso-veget-garbanzos-port.jpg",
+        "fecha": "2026-10-28T11:12:00.000Z",
+        "fuenteId": "hola",
+        "fuenteTitle": "¡Hola!",
         "categorias": [
-          "actualidad",
-          "tecnologia",
-          "ciencia"
+          "corazon",
+          "moda"
         ],
         "idioma": "es"
       },
       {
-        "titulo": "¿Por qué han chocado dos trenes en Toledo? La investigación apunta a una orden errónea al AVE de Renfe que le hizo alcanzar un Iryo detenido",
-        "url": "https://elpais.com/espana/2026-10-28/por-que-han-chocado-dos-trenes-en-toledo.html",
-        "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261028/1230882_091607_video_1800.mp4",
-        "fecha": "2026-10-28T09:44:28.000Z",
-        "fuenteId": "el-pais",
-        "fuenteTitle": "El País",
+        "titulo": "De Ana Obregón a Eva González, las reacciones al accidente ferroviario que ha conmocionado al país",
+        "url": "https://www.hola.com/actualidad/20261028931743/reacciones-tragedia-ferroviaria-toledo/",
+        "imagen": "https://www.hola.com/horizon/landscape/4f4f14edb450-evagonzalez.jpg",
+        "fecha": "2026-10-28T11:10:59.000Z",
+        "fuenteId": "hola",
+        "fuenteTitle": "¡Hola!",
         "categorias": [
-          "actualidad",
-          "tecnologia",
-          "ciencia"
+          "corazon",
+          "moda"
         ],
         "idioma": "es"
-      }
-    ],
-    "corazon": [
+      },
+      {
+        "titulo": "Uxue asegura que fue obligada a retractarse de sus palabras contra su exnovio, Plex, tras conocerse su relación con Aitana: \"Es injusto\"",
+        "url": "https://www.20minutos.es/gente/uxue-asegura-que-fue-obligada-retractarse-sus-palabras-contra-su-exnovio-plex-tras-conocerse-su-relacion-con-aitana-es-injusto_7054398_0.html",
+        "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/05/19/aitana-y-plex-izquierda-y-uxue-lopez-derecha.jpeg",
+        "fecha": "2026-10-28T11:10:38.000Z",
+        "fuenteId": "20minutos-gente",
+        "fuenteTitle": "20minutos - Gente",
+        "categorias": [
+          "corazon",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El estremecedor testimonio de Joaquín Torres tras sobrevivir al accidente de tren en Toledo: \"Nos hemos salvado de milagro\"",
+        "url": "https://www.hola.com/actualidad/20261028931741/estremecedor-testimonio-joaquin-torres-sobrevivir-accidente-de-tren-en-toledo/",
+        "imagen": "https://www.hola.com/horizon/landscape/293db82ca98a-dlu595549014.jpg",
+        "fecha": "2026-10-28T11:09:46.000Z",
+        "fuenteId": "hola",
+        "fuenteTitle": "¡Hola!",
+        "categorias": [
+          "corazon",
+          "moda"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Xavier Guix, psicólogo: \"¿Qué significa ser demasiado bueno? Hay una serie de patrones de conducta que son comunes en todas esas personas\"",
+        "url": "https://www.elconfidencial.com/alma-corazon-vida/2026-10-28/xavier-guix-psicologo-que-significa-ser-demasiado-bueno-patrones-conducta-1qrt_4454476/",
+        "imagen": "https://images.ecestaticos.com/fULq-N9kqN4WgT78bSKUIxvG45Q=/0x0:1200x800/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fd03%2F987%2F58d%2Fd0398758df46cd7244ce586b9dd10871.jpg",
+        "fecha": "2026-10-28T11:09:00.000Z",
+        "fuenteId": "el-confidencial-alma-corazon-vida",
+        "fuenteTitle": "El Confidencial - Alma, Corazón y Vida",
+        "categorias": [
+          "salud",
+          "hogar",
+          "corazon"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "ÚLTIMA HORA | Toda la información sobre el accidente de tren en Toledo de hoy",
+        "url": "https://www.diezminutos.es/famosos-corazon/famosos-espanoles/a74269422/ultima-hora-choque-trenes-toledo/",
+        "imagen": "https://hips.hearstapps.com/hmg-prod/images/a68ea228-6032-481f-bf71-df6224e37d54.jpg",
+        "fecha": "2026-10-28T11:08:00.000Z",
+        "fuenteId": "diez-minutos",
+        "fuenteTitle": "Diez Minutos",
+        "categorias": [
+          "corazon",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Irene Urdangarin consolida su noviazgo con Fernando Echevarría: viaje a Barcelona y encuentro con sus hermanos",
+        "url": "https://www.20minutos.es/gente/irene-urdangarin-consolida-su-noviazgo-con-fernando-echevarria-viaje-barcelona-encuentro-con-sus-hermanos_7054419_0.html",
+        "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/10/19/6ad60af00ddda3-48458875.r_d.1193-624-7000.jpeg",
+        "fecha": "2026-10-28T11:07:43.000Z",
+        "fuenteId": "20minutos-gente",
+        "fuenteTitle": "20minutos - Gente",
+        "categorias": [
+          "corazon",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Primeras palabras de los reyes Felipe VI y Letizia tras el accidente de tren de Toledo: “Estamos conmovidos y preocupados”",
         "url": "https://www.diezminutos.es/familia-real/monarquia-espanola/a74269750/reyes-felipe-vi-letizia-reaccion-accidente-tren-toledo/",
@@ -654,153 +782,70 @@
         "idioma": "es"
       },
       {
-        "titulo": "Comunicado de los reyes Felipe y Letizia tras el accidente ferroviario de Toledo: \"Acompañamos en su tristeza a las familias y seres queridos de los fallecidos\"",
-        "url": "https://www.hola.com/realeza/casa_espanola/20261028931719/reyes-felipe-letizia-comunicado-accidente-ferroviario-toledo/",
-        "imagen": "https://www.hola.com/horizon/landscape/9fae998eab6d-gettyimages-2258897788.jpg",
-        "fecha": "2026-10-28T10:36:59.000Z",
-        "fuenteId": "hola",
-        "fuenteTitle": "¡Hola!",
-        "categorias": [
-          "corazon",
-          "moda"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Luis de la Fuente, tras ganar el Balón de Oro: \"Los valores que me inculcaron en mi casa y que siempre he hecho gala de ellos han sido los que me han mantenido en esos momentos difíciles\"",
-        "url": "https://www.diezminutos.es/famosos-corazon/famosos-espanoles/a74268008/luis-de-la-fuente-balon-de-oro-entrenador-infancia-valores/",
-        "imagen": "https://hips.hearstapps.com/hmg-prod/images/097df9b8-17fb-48b0-bde2-737a86fc80e6.jpg",
-        "fecha": "2026-10-28T10:27:41.000Z",
-        "fuenteId": "diez-minutos",
-        "fuenteTitle": "Diez Minutos",
+        "titulo": "Alejandra Rubio muestra lo mucho que ha crecido su hijo Carlo en unas tiernas imágenes: \"¡Qué grande está!\"",
+        "url": "https://www.20minutos.es/gente/alejandra-rubio-muestra-mucho-que-ha-crecido-su-hijo-carlo-unas-tiernas-imagenes-que-grande-esta_7054391_0.html",
+        "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/10/28/6ae1ce1792d176-49273665.r_d.871-813-16092.jpeg",
+        "fecha": "2026-10-28T10:37:52.000Z",
+        "fuenteId": "20minutos-gente",
+        "fuenteTitle": "20minutos - Gente",
         "categorias": [
           "corazon",
           "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El conflictivo reencuentro de Omar Montes con Rocío Muñoz en los juzgados: «Vengo feliz, pero estoy destrozado»",
-        "url": "https://www.abc.es/gente/conflictivo-reencuentro-omar-montes-rocio-munoz-juzgados-20261028112738-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gente/2026/10/28/omar-montes-destrozado-RT7myRi63tfXOedpBGq3kSI-1200x840@diario_abc.jpg",
-        "fecha": "2026-10-28T10:27:38.000Z",
-        "fuenteId": "abc-gente",
-        "fuenteTitle": "ABC - Gente",
-        "categorias": [
-          "corazon",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El rey Felipe VI, en permanente contacto con el Gobierno para conocer todos los detalles de la tragedia ferroviaria",
-        "url": "https://www.hola.com/realeza/casa_espanola/20261028931718/rey-felipe-vi-choque-trenes-toledo/",
-        "imagen": "https://www.hola.com/horizon/landscape/57c0cff968d1-gettyimages-2302356944.jpg",
-        "fecha": "2026-10-28T10:23:46.000Z",
-        "fuenteId": "hola",
-        "fuenteTitle": "¡Hola!",
-        "categorias": [
-          "corazon",
-          "moda"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Alejandra Rubio y Carlo Costanzia reforman su casa, y este es el antes y el después: “Estoy encantada con cómo va quedando”",
-        "url": "https://www.diezminutos.es/famosos-corazon/famosos-espanoles/a74248034/casa-alejandra-rubio-carlo-costanzia-reforma/",
-        "imagen": "https://hips.hearstapps.com/hmg-prod/images/60822592-1253-40d7-a8e4-dae4286345de.jpg",
-        "fecha": "2026-10-28T10:11:34.000Z",
-        "fuenteId": "diez-minutos",
-        "fuenteTitle": "Diez Minutos",
-        "categorias": [
-          "corazon",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Yolanda Herrera y su truco para eliminar la cal del grifo: \"Solo necesitas vinagre de limpieza\"",
-        "url": "https://www.elconfidencial.com/alma-corazon-vida/2026-10-28/yolanda-herrera-truco-eliminar-cal-grifo-vinagre-limpieza-1qrt_4454580/",
-        "imagen": "https://images.ecestaticos.com/m5_1MFeG3MegMvzRgdoTHvoIQ6Y=/0x118:899x624/0x900/filters:format(png)/f.elconfidencial.com%2Foriginal%2F6f8%2F0e1%2F4c6%2F6f80e14c6574a8e5ab626c39392de044.png",
-        "fecha": "2026-10-28T10:11:00.000Z",
-        "fuenteId": "el-confidencial-alma-corazon-vida",
-        "fuenteTitle": "El Confidencial - Alma, Corazón y Vida",
-        "categorias": [
-          "salud",
-          "hogar",
-          "corazon"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Zara se adelanta al invierno y lanza un abrigo efecto pelo que hace tipazo y combina genial con vaqueros",
-        "url": "https://www.cosmopolitan.com/es/moda/novedades-moda/a74249399/zara-invierno-abrigo-efecto-pelo-tipazo/",
-        "imagen": "https://hips.hearstapps.com/hmg-prod/images/4c7f7ac1-686a-444b-9010-0e96b39ea616.jpg",
-        "fecha": "2026-10-28T10:00:00.000Z",
-        "fuenteId": "cosmopolitan-espana",
-        "fuenteTitle": "Cosmopolitan España",
-        "categorias": [
-          "moda",
-          "corazon"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Antonio Ríos, médico terapeuta de familia: \"Vivir con un adolescente es vivir con una queja andante dentro de casa\"",
-        "url": "https://www.elconfidencial.com/alma-corazon-vida/2026-10-28/antonio-rios-medico-vivir-adolescente-queja-andante-dentro-casa-1qrt_4454563/",
-        "imagen": "https://images.ecestaticos.com/z5S-Oy-xKMmCo0GbkopJMxp9eK8=/0x0:580x326/0x900/filters:format(png)/f.elconfidencial.com%2Foriginal%2Fa3e%2F4bf%2Ffb6%2Fa3e4bffb67a4bcd7815ab69d60199da1.png",
-        "fecha": "2026-10-28T09:47:00.000Z",
-        "fuenteId": "el-confidencial-alma-corazon-vida",
-        "fuenteTitle": "El Confidencial - Alma, Corazón y Vida",
-        "categorias": [
-          "salud",
-          "hogar",
-          "corazon"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Viktor Frankl, neurólogo y psiquiatra: \"El hombre no se limita a existir, sino que decide siempre cuál será su existencia, qué llegará a ser\"",
-        "url": "https://www.elconfidencial.com/alma-corazon-vida/2026-10-28/1qrt-viktor-frankl-neurologo-hombre-decide-cual-sera-existecia-llegara-ser_4402107/",
-        "imagen": "https://images.ecestaticos.com/cfK3YQFHe3Gn8gALzmCdr0Q_HKg=/0x0:1120x630/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F893%2Fbfb%2F7ba%2F893bfb7bac3f80750b62f9eb48eaa794.jpg",
-        "fecha": "2026-10-28T09:45:00.000Z",
-        "fuenteId": "el-confidencial-alma-corazon-vida",
-        "fuenteTitle": "El Confidencial - Alma, Corazón y Vida",
-        "categorias": [
-          "salud",
-          "hogar",
-          "corazon"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Irene Urdangarin y Fernando Echevarría consolidan su relación: compras en Londres y un plan familiar en Barcelona",
-        "url": "https://www.abc.es/gente/irene-urdangarin-fernando-echevarria-consolidan-relacion-compras-20261028103216-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gente/2026/10/28/irene-novio-RpFzzCHlAOisAqGxrZyn35M-1200x840@diario_abc.jpg",
-        "fecha": "2026-10-28T09:33:03.000Z",
-        "fuenteId": "abc-gente",
-        "fuenteTitle": "ABC - Gente",
-        "categorias": [
-          "corazon",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Amalia de Holanda no ha sido la única: de Zara a Mango, otros 10 jóvenes ‘royals’ que han triunfado con moda española",
-        "url": "https://www.hola.com/moda/20261028931704/amalia-holanda-jovenes-royals-moda-espanola-zara-mango/",
-        "imagen": "https://www.hola.com/horizon/landscape/0bf69112670d-gettyimages-2187499852.jpg",
-        "fecha": "2026-10-28T09:31:48.000Z",
-        "fuenteId": "hola",
-        "fuenteTitle": "¡Hola!",
-        "categorias": [
-          "corazon",
-          "moda"
         ],
         "idioma": "es"
       }
     ],
     "cultura": [
+      {
+        "titulo": "Glockenwise presentarán su nuevo disco en Galicia",
+        "url": "https://www.mondosonoro.com/noticias-actualidad-musical/glockenwise-galicia/",
+        "imagen": "",
+        "fecha": "2026-10-28T11:26:18.000Z",
+        "fuenteId": "mondosonoro",
+        "fuenteTitle": "MondoSonoro",
+        "categorias": [
+          "cultura"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Tapas Weekend: ¿qué hacer en Madrid?",
+        "url": "https://www.tapasmagazine.es/tapas-weekend-que-hacer-en-madrid-101/",
+        "imagen": "https://www.tapasmagazine.es/wp-content/uploads/2026/10/p.jpeg",
+        "fecha": "2026-10-28T11:23:43.000Z",
+        "fuenteId": "tapas-magazine",
+        "fuenteTitle": "Tapas Magazine",
+        "categorias": [
+          "gastronomia",
+          "cultura"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Los Estanques reivindican la tradición más libre en “No queda nada”",
+        "url": "https://www.mondosonoro.com/noticias-actualidad-musical/los-estanques-no-queda-nada/",
+        "imagen": "",
+        "fecha": "2026-10-28T11:12:43.000Z",
+        "fuenteId": "mondosonoro",
+        "fuenteTitle": "MondoSonoro",
+        "categorias": [
+          "cultura"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Plásticos de origen vegetal: Gaiker participa en un proyecto de 6,8 millones para hacerlos más resistentes",
+        "url": "https://www.ecoticias.com/sostenibilidad/plasticos-origen-vegetal-gaiker-resistencia-reciclaje-industria",
+        "imagen": "",
+        "fecha": "2026-10-28T11:10:58.000Z",
+        "fuenteId": "ecoticias",
+        "fuenteTitle": "Ecoticias",
+        "categorias": [
+          "medio-ambiente",
+          "cultura"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "El Ayuntamiento de Cáceres anima a asistir a las actividades gratuitas que han preparado las asociaciones vecinales para celebrar Halloween y el Día de Todos los Santos",
         "url": "https://www.ayto-caceres.es/noticias/el-ayuntamiento-de-caceres-anima-a-asistir-a-las-actividades-gratuitas-que-han-preparado-las-asociaciones-vecinales-para-celebrar-halloween-y-el-dia-de-todos-los-santos/",
@@ -873,6 +918,19 @@
         "fuenteId": "rockzone",
         "fuenteTitle": "RockZone",
         "categorias": [
+          "cultura"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Agro.- El festival de cine Most 2026 entregará su premio honorífico a Lluís Llach",
+        "url": "https://www.tapasmagazine.es/agro-el-festival-de-cine-most-2026-entregara-su-premio-honorifico-a-lluis-llach/",
+        "imagen": "",
+        "fecha": "2026-10-28T10:37:10.000Z",
+        "fuenteId": "tapas-magazine",
+        "fuenteTitle": "Tapas Magazine",
+        "categorias": [
+          "gastronomia",
           "cultura"
         ],
         "idioma": "es"
@@ -995,73 +1053,69 @@
           "entretenimiento"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "Ellas también pintaron el prerrafaelismo",
-        "url": "https://yorokobu.es/prerrafaelismo/",
-        "imagen": "https://yorokobu.es/wp-content/uploads/2026/10/09-e1792428496610.webp",
-        "fecha": "2026-10-28T10:12:36.000Z",
-        "fuenteId": "yorokobu",
-        "fuenteTitle": "Yorokobu",
-        "categorias": [
-          "cultura",
-          "tecnologia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Crónica – The Lemon Twigs (Madrid)",
-        "url": "https://www.rockzonemag.com/cronica-the-lemon-twigs-madrid-2026/?utm_source=rss&utm_medium=rss&utm_campaign=cronica-the-lemon-twigs-madrid-2026",
-        "imagen": "https://www.rockzonemag.com/wp-content/uploads/2026/10/The-Lemon-Twigs-2-Madrid-2026.jpg",
-        "fecha": "2026-10-28T10:12:35.000Z",
-        "fuenteId": "rockzone",
-        "fuenteTitle": "RockZone",
-        "categorias": [
-          "cultura"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "\"Rabia, dolor e impotencia\": La película que recuerda a 'It Follows' con una historia de terror sobre fanatismo religioso y terapias de conversión",
-        "url": "https://www.fotogramas.es/peliculas-criticas/a74267652/leviticus-critica-pelicula-opinion/",
-        "imagen": "https://hips.hearstapps.com/hmg-prod/images/6344ce26-2ee0-431d-a041-847a0db8390e.jpg",
-        "fecha": "2026-10-28T10:11:00.000Z",
-        "fuenteId": "fotogramas",
-        "fuenteTitle": "Fotogramas",
-        "categorias": [
-          "cultura",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Trump pone las emisiones de metano en su punto de mira: menos controles al petróleo y al gas",
-        "url": "https://www.ecoticias.com/eco-america/trump-emisiones-metano-retirada-controles-petroleo-gas",
-        "imagen": "",
-        "fecha": "2026-10-28T10:02:24.000Z",
-        "fuenteId": "ecoticias",
-        "fuenteTitle": "Ecoticias",
-        "categorias": [
-          "medio-ambiente",
-          "cultura"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "‘Los años sucios, ¿dónde está El Nani?’ se estrena: el caso real detrás de ‘El Marqués 1985’",
-        "url": "https://www.culturaenserie.com/los-anos-sucios-donde-esta-el-nani-documental-estreno.html",
-        "imagen": "https://www.culturaenserie.com/wp-content/uploads/2026/10/los-anos-sucios-nani.jpg",
-        "fecha": "2026-10-28T10:00:00.000Z",
-        "fuenteId": "cultura-en-serie",
-        "fuenteTitle": "Cultura en Serie",
-        "categorias": [
-          "entretenimiento",
-          "cultura"
-        ],
-        "idioma": "es"
       }
     ],
     "deportes": [
+      {
+        "titulo": "Suspendida la jornada de Copa tras el accidente de tren",
+        "url": "https://as.com/futbol/copa_del_rey/suspendida-la-jornada-de-copa-del-rey-tras-el-accidente-f202610-n/",
+        "imagen": "https://img.asmedia.epimg.net/resizer/v2/TEQ3YKVLR6GJJJ6GH7KHPMYJDQ.jpg?auth=63a04cbbd03b1387eece05857faa9c913fb9c8ecab19d5f20844e705b2760a90",
+        "fecha": "2026-10-28T11:25:29.000Z",
+        "fuenteId": "as",
+        "fuenteTitle": "AS",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Bombazo de Forbes: Nadal y Djokovic, fuera del top-10 de mejores pagados de la historia",
+        "url": "https://as.com/tenis/bombazo-de-forbes-nadal-y-djokovic-fuera-del-top-10-de-mejores-pagados-de-la-historia-f202610-n/",
+        "imagen": "https://img.asmedia.epimg.net/resizer/v2/4ELH7XXB26WWWGXHJ7WXHRUJXQ.jpg?auth=d3b37c8826af643fc0b4c71e41911ff431dbae11772a035964608a635d6db444",
+        "fecha": "2026-10-28T11:25:09.000Z",
+        "fuenteId": "as",
+        "fuenteTitle": "AS",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Reseña de ‘Infografías del nazismo’, una guía visual del nacimiento, auge y caída de la ideología que aupó a Hitler",
+        "url": "https://as.com/meristation/libros/criticas/resena-de-infografias-del-nazismo-una-guia-visual-del-nacimiento-auge-y-caida-de-la-ideologia-que-aupo-a-hitler-f202610-n/",
+        "imagen": "https://img.asmedia.epimg.net/resizer/v2/HCQ2HNUMSZF5DNSSYGFI3NINC4.jpg?auth=6434bca3a6337e0f0895da6d8d0567c56ccae758ee144dfdf2f1fb7b6c5cbc7a",
+        "fecha": "2026-10-28T11:22:49.000Z",
+        "fuenteId": "as",
+        "fuenteTitle": "AS",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Primer tráiler de ‘The Mosquito Bowl’, la película bélica de Netflix de la que hablará todo el mundo",
+        "url": "https://as.com/meristation/cine/primer-trailer-de-the-mosquito-bowl-la-pelicula-belica-de-netflix-de-la-que-hablara-todo-el-mundo-f202610-n/",
+        "imagen": "https://asmeristationfs.prisasd.com/mcv/asmeristation/multimedia/20261028/1230908_102103_video_800.mp4",
+        "fecha": "2026-10-28T11:15:00.000Z",
+        "fuenteId": "as",
+        "fuenteTitle": "AS",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Moreira: \"Por lo visto en Austria, Honda podría luchar por el próximo título de MotoGP\"",
+        "url": "https://es.motorsport.com/motogp/news/moreira-honda-podria-luchar-proximo-titulo-motogp-entrevista/10868924/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=es",
+        "imagen": "https://cdn-8.motorsport.com/images/amp/0JXRveQY/s6/diogo-moreira-lcr-honda-3.jpg",
+        "fecha": "2026-10-28T11:01:50.000Z",
+        "fuenteId": "motorsport-espana",
+        "fuenteTitle": "Motorsport.com España",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Miquel, mecánico, sobre el turbo del coche: \"Para alargar su vida útil hay que hacer los mantenimientos a los 10.000 kilómetros\"",
         "url": "https://www.motorpasion.com/revision/miquel-mecanico-turbo-coche-para-alargar-su-vida-util-hay-que-hacer-mantenimientos-a-10-000-kilometros",
@@ -1232,73 +1286,12 @@
         "idioma": "es"
       },
       {
-        "titulo": "El Barça, entre los clubs interesados en la lateral del Bayern Franziska Kett",
-        "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/femenino/20261028/1004244168/barca-clubs-interesados-franzika-kett.html",
-        "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2026/04/25/69ed00778632f.r_d.2176-1276-0.jpeg",
-        "fecha": "2026-10-28T10:40:22.000Z",
-        "fuenteId": "mundo-deportivo",
-        "fuenteTitle": "Mundo Deportivo",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El Sevilla FC decide suspender la rueda de prensa de Luis García Plaza tras el grave accidente ferroviario sucedido en la provincia de Toledo",
-        "url": "https://www.abc.es/deportes/orgullodenervion/noticias-sevilla-fc/sevilla-decide-suspender-rueda-prensa-luis-garcia-20261028112937-nts.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/10/28/WhatsApp%20Image%202026-10-28%20at%2010.49.47-REueOumT3Vc98Wn7prrFiIM-1200x840@diario_abc.jpeg",
-        "fecha": "2026-10-28T10:37:53.000Z",
-        "fuenteId": "abc-deportes",
-        "fuenteTitle": "ABC - Deportes",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Théo Maledon, de señalado a imprescindible",
-        "url": "https://as.com/baloncesto/acb/theo-maledon-de-senalado-a-imprescindible-f202610-n/",
-        "imagen": "https://img.asmedia.epimg.net/resizer/v2/QEA5HZ26U5NAPHCYKQY6HNKCBU.jpg?auth=4e516649dd11bfff0aff2e7c387020fceafb80d484d9ff6aebc72c0c84c2e7d5",
-        "fecha": "2026-10-28T10:37:30.000Z",
+        "titulo": "Hace 53 años, Chuck Norris rechazó aparecer en la última película de Bruce Lee: “No quería volver a perder contra él”",
+        "url": "https://as.com/meristation/cine/hace-53-anos-chuck-norris-rechazo-aparecer-en-la-ultima-pelicula-de-bruce-lee-no-queria-volver-a-perder-contra-el-f202610-n/",
+        "imagen": "https://img.asmedia.epimg.net/resizer/v2/JEAD2AZ47JDRDCQ7MWJCBBKP6M.jpg?auth=44cd83ca9f7f5648648a902d76cec63b839864e9eaeae41c6ebffca3a58ae25f",
+        "fecha": "2026-10-28T10:45:00.000Z",
         "fuenteId": "as",
         "fuenteTitle": "AS",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Supera reorganiza su consejo y nombra a Guillermo Druet presidente de Sidecu",
-        "url": "https://palco23.mundodeportivo.com/fitness/supera-reorganiza-su-consejo-con-la-entrada-de-ancala-y-nombra-a-guillermo-druet-presidente-de-sidecu",
-        "imagen": "",
-        "fecha": "2026-10-28T10:37:00.404Z",
-        "fuenteId": "palco23",
-        "fuenteTitle": "Palco23",
-        "categorias": [
-          "deportes",
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Liga F y el fútbol paulista estrechan lazos con la vista puesta en el Mundial de Brasil 2027",
-        "url": "https://www.mundodeportivo.com/futbol/femenino/liga-f/20261028/1004244195/liga-f-futbol-paulista-estrechan-lazos-vista-puesta-mundial-brasil-2027.html",
-        "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/10/28/6ae1d00fca27c.jpeg",
-        "fecha": "2026-10-28T10:36:21.000Z",
-        "fuenteId": "mundo-deportivo",
-        "fuenteTitle": "Mundo Deportivo",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Barcelona, preparada para dos días seguidos lloviendo a partir de esta fecha",
-        "url": "https://www.mundodeportivo.com/actualidad/20261028/1004244118/meteorologos-coinciden-barcelona-preparada-dos-dias-seguidos-lloviendo-partir-fecha-meteocat-dct.html",
-        "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/10/06/6ac48cec289aa.jpeg",
-        "fecha": "2026-10-28T10:31:51.000Z",
-        "fuenteId": "mundo-deportivo",
-        "fuenteTitle": "Mundo Deportivo",
         "categorias": [
           "deportes"
         ],
@@ -1306,6 +1299,176 @@
       }
     ],
     "economia": [
+      {
+        "titulo": "El cortometraje ‘Chinchipe’ gana el I Premio Talento RTVE-Premios Quirino",
+        "url": "https://www.audiovisual451.com/el-cortometraje-chinchipe-gana-el-i-premio-talento-rtve-premios-quirino/",
+        "imagen": "",
+        "fecha": "2026-10-28T11:21:06.000Z",
+        "fuenteId": "audiovisual451",
+        "fuenteTitle": "Audiovisual451",
+        "categorias": [
+          "entretenimiento",
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "¿Por qué caen hoy las acciones de NXP Semiconductors?",
+        "url": "https://es.investing.com/news/stock-market-news/por-que-caen-hoy-las-acciones-de-nxp-semiconductors-93CH-3894582",
+        "imagen": "https://content-media.investing.com/news/LYNXNPEB65083_M.jpg",
+        "fecha": "2026-10-28T11:19:05.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Cáritas alerta de que 51% de los inquilinos actuales no tendrían un nivel de ingresos suficientes para acceder hoy al mismo alquiler",
+        "url": "https://www.elmundo.es/economia/vivienda/2026/10/28/6ae1ca35e85ecefa5a8b456e.html",
+        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/28/17931851124525.png",
+        "fecha": "2026-10-28T11:18:58.000Z",
+        "fuenteId": "el-mundo-economia",
+        "fuenteTitle": "El Mundo - Economía",
+        "categorias": [
+          "economia",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Needham eleva el precio objetivo de SK Hynix a 235 dólares",
+        "url": "https://es.investing.com/news/analyst-ratings/needham-eleva-el-precio-objetivo-de-sk-hynix-a-235-dolares-93CH-3894553",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3T1AG_1200_L.jpg",
+        "fecha": "2026-10-28T11:15:50.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Abasca completa su programa de perforación de verano en Key Lake South",
+        "url": "https://es.investing.com/news/company-news/abasca-completa-su-programa-de-perforacion-de-verano-en-key-lake-south-93CH-3894549",
+        "imagen": "https://content-media.investing.com/news/LYNXMPEM1B112_1200_L.jpg",
+        "fecha": "2026-10-28T11:13:32.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Deep Isolation inicia obras para prueba de eliminación de residuos nucleares",
+        "url": "https://es.investing.com/news/company-news/deep-isolation-inicia-obras-para-prueba-de-eliminacion-de-residuos-nucleares-93CH-3894548",
+        "imagen": "",
+        "fecha": "2026-10-28T11:13:29.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Electrovaya asegura pedidos de baterías por 26 millones de dólares con Janus Electric",
+        "url": "https://es.investing.com/news/company-news/electrovaya-asegura-pedidos-de-baterias-por-26-millones-de-dolares-con-janus-electric-93CH-3894546",
+        "imagen": "",
+        "fecha": "2026-10-28T11:13:28.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "La FDA aprueba el ensayo de terapia combinada de United Therapeutics para HAP",
+        "url": "https://es.investing.com/news/company-news/la-fda-aprueba-el-ensayo-de-terapia-combinada-de-united-therapeutics-para-hap-93CH-3894547",
+        "imagen": "https://content-media.investing.com/news/LYNXMPEM5F17R_1200_L.jpg",
+        "fecha": "2026-10-28T11:13:28.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Mineralys presenta resultados positivos de su ensayo fase 2 en ERC",
+        "url": "https://es.investing.com/news/company-news/mineralys-presenta-resultados-positivos-de-su-ensayo-fase-2-en-erc-93CH-3894545",
+        "imagen": "https://content-media.investing.com/news/LYNXMPEM4J1W2_1200_L.jpg",
+        "fecha": "2026-10-28T11:13:27.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Inventus Mining publica los resultados finales de perforación de la Fase 2 en Pardo",
+        "url": "https://es.investing.com/news/company-news/inventus-mining-publica-los-resultados-finales-de-perforacion-de-la-fase-2-en-pardo-93CH-3894543",
+        "imagen": "https://content-media.investing.com/news/LYNXMPEM1118Q_1200_L.jpg",
+        "fecha": "2026-10-28T11:13:25.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "D-Wave y LG CNS firman un MOU para la computación cuántica en Asia",
+        "url": "https://es.investing.com/news/company-news/dwave-y-lg-cns-firman-un-mou-para-la-computacion-cuantica-en-asia-93CH-3894544",
+        "imagen": "https://content-media.investing.com/news/LYNXMPEM4L1MC_1200_L.jpg",
+        "fecha": "2026-10-28T11:13:25.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El CFO de Etsy, Lanny Baker, dejará la empresa en marzo de 2027",
+        "url": "https://es.investing.com/news/company-news/el-cfo-de-etsy-lanny-baker-dejara-la-empresa-en-marzo-de-2027-93CH-3894542",
+        "imagen": "https://content-media.investing.com/news/LYNXMPEM4L1MC_1200_L.jpg",
+        "fecha": "2026-10-28T11:13:20.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Puig prevé superar los 8.000 millones en ventas en 2032",
+        "url": "https://www.expansion.com/catalunya/2026/10/28/puig-preve-superar-8-000-millones-ventas-2032.html",
+        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/28/17931858263252.jpg",
+        "fecha": "2026-10-28T11:10:35.000Z",
+        "fuenteId": "expansion",
+        "fuenteTitle": "Expansión",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Así ha sido el accidente de tren de Urda",
+        "url": "https://www.expansion.com/sociedad/2026/10/28/asi-sido-accidente-tren-urda-toledo.html",
+        "imagen": "http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&cg=rss-expansion&ci=es-widgetueditorial&si=https://www.expansion.com/rss/portada.xml",
+        "fecha": "2026-10-28T11:01:06.000Z",
+        "fuenteId": "expansion",
+        "fuenteTitle": "Expansión",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "ING estrena su banca privada con 6.000 clientes con más de 500.000 euros de patrimonio",
         "url": "https://www.elespanol.com/invertia/mis-finanzas/fondos-de-inversion/20261028/ing-estrena-banca-privada-clientes-euros-patrimonio/1003744437869_0.html",
@@ -1332,10 +1495,10 @@
         "idioma": "es"
       },
       {
-        "titulo": "¿Puede fallar la seguridad en la alta velocidad? Así funcionan los sistemas que gestionan la circulación de los trenes",
-        "url": "https://www.abc.es/economia/puede-fallar-seguridad-alta-velocidad-funcionan-sistemas-20261028115835-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/28/alta-velocidadtrenes-RoI80xLtLYitZ6EghFk2IkK-1200x840@diario_abc.jpg",
-        "fecha": "2026-10-28T10:58:36.000Z",
+        "titulo": "La tractorada en protesta por los elevados costes del campo se suspende por el accidente de tren",
+        "url": "https://www.abc.es/economia/tractorada-protesta-elevados-costes-campo-suspende-accidente-20261028114739-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/28/silencio%20tractorada-RpOdbRIeusw4qjmsDW4V7KO-1200x840@diario_abc.jpg",
+        "fecha": "2026-10-28T10:57:22.000Z",
         "fuenteId": "abc-economia",
         "fuenteTitle": "ABC - Economía",
         "categorias": [
@@ -1344,12 +1507,12 @@
         "idioma": "es"
       },
       {
-        "titulo": "La tractorada en protesta por los elevados costes del campo se suspende por el accidente de tren",
-        "url": "https://www.abc.es/economia/tractorada-protesta-elevados-costes-campo-suspende-accidente-20261028114739-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/28/silencio%20tractorada-RpOdbRIeusw4qjmsDW4V7KO-1200x840@diario_abc.jpg",
-        "fecha": "2026-10-28T10:57:22.000Z",
-        "fuenteId": "abc-economia",
-        "fuenteTitle": "ABC - Economía",
+        "titulo": "Scania reduce un 15,5% su beneficio en España, hasta 35,4 millones",
+        "url": "https://www.expansion.com/empresas/2026/10/28/scania-reduce-15-5-beneficio-espana-35-4-millones.html",
+        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/28/17931847992633.jpg",
+        "fecha": "2026-10-28T10:53:25.000Z",
+        "fuenteId": "expansion",
+        "fuenteTitle": "Expansión",
         "categorias": [
           "economia"
         ],
@@ -1369,22 +1532,10 @@
         "idioma": "es"
       },
       {
-        "titulo": "Bit2Me STX, autorizada por la CNMV para crear su bolsa de valores nativa en blockchain",
-        "url": "https://www.expansion.com/valencia/2026/10/28/bit2me-stx-autorizada-cnmv-crear-bolsa-valores-nativa-blockchain.html",
-        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/28/17931845922132.jpg",
-        "fecha": "2026-10-28T10:50:11.000Z",
-        "fuenteId": "expansion-mercados",
-        "fuenteTitle": "Expansión - Mercados",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Fox y Banijay adaptan Fear Factor como una serie de ficción en formato vertical",
-        "url": "https://todotvnews.com/fox-y-banijay-adaptan-fear-factor-como-una-serie-de-ficcion-en-formato-vertical/",
-        "imagen": "https://todotvnews.com/wp-content/uploads/2026/10/FearFactorBanijay.png",
-        "fecha": "2026-10-28T10:40:56.000Z",
+        "titulo": "Netflix anuncia el estreno de la serie argentina, Gordon",
+        "url": "https://www.todotvnews.com/netflix-anuncia-el-estreno-de-la-serie-argentina-gordon/",
+        "imagen": "https://www.todotvnews.com/wp-content/uploads/2026/10/Gordon.png",
+        "fecha": "2026-10-28T10:50:37.000Z",
         "fuenteId": "ttv-news",
         "fuenteTitle": "TTV News",
         "categorias": [
@@ -1392,167 +1543,151 @@
           "economia"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "Supera reorganiza su consejo y nombra a Guillermo Druet presidente de Sidecu",
-        "url": "https://palco23.mundodeportivo.com/fitness/supera-reorganiza-su-consejo-con-la-entrada-de-ancala-y-nombra-a-guillermo-druet-presidente-de-sidecu",
-        "imagen": "",
-        "fecha": "2026-10-28T10:37:00.404Z",
-        "fuenteId": "palco23",
-        "fuenteTitle": "Palco23",
-        "categorias": [
-          "deportes",
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Precio de la luz por horas hoy, miércoles 28 de octubre: las horas más baratas y más caras",
-        "url": "https://www.elconfidencial.com/economia/2026-10-28/precio-luz-horas-miercoles-octubre-horas-mas-baratas-caras_4454593/",
-        "imagen": "https://images.ecestaticos.com/aTQZeW2aR2rVUP0k9gvLTzhGwnk=/0x0:612x408/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F1c6%2Faae%2Fc9e%2F1c6aaec9eb0f8aae711bde4d5ec50abf.jpg",
-        "fecha": "2026-10-28T10:31:00.000Z",
-        "fuenteId": "el-confidencial-economia",
-        "fuenteTitle": "El Confidencial - Economía",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "¿Por qué las acciones de Vertiv se disparan hoy?",
-        "url": "https://es.investing.com/news/stock-market-news/por-que-las-acciones-de-vertiv-se-disparan-hoy-93CH-3894313",
-        "imagen": "https://content-media.investing.com/news/LYNXNPEC0D0AP_M.jpg",
-        "fecha": "2026-10-28T10:29:20.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Susquehanna eleva el precio objetivo de Royal Caribbean por la fuerte demanda",
-        "url": "https://es.investing.com/news/analyst-ratings/susquehanna-eleva-el-precio-objetivo-de-royal-caribbean-por-la-fuerte-demanda-93CH-3894312",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM4510G_1200_L.jpg",
-        "fecha": "2026-10-28T10:28:10.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "BTIG sube el precio objetivo de Roblox a 42 dólares por mejora de tendencias",
-        "url": "https://es.investing.com/news/analyst-ratings/btig-sube-el-precio-objetivo-de-roblox-a-42-dolares-por-mejora-de-tendencias-93CH-3894311",
-        "imagen": "https://content-media.investing.com/news/Roblox_800x533_L_1649759960.jpg",
-        "fecha": "2026-10-28T10:28:06.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Jefferies rebaja el precio objetivo de Exelon por incertidumbre regulatoria",
-        "url": "https://es.investing.com/news/analyst-ratings/jefferies-rebaja-el-precio-objetivo-de-exelon-por-incertidumbre-regulatoria-93CH-3894310",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM4519D_1200_L.jpg",
-        "fecha": "2026-10-28T10:27:46.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Banco de Tailandia mantiene los tipos en el 1,00% ante el débil crecimiento",
-        "url": "https://es.investing.com/news/economy-news/banco-de-tailandia-mantiene-los-tipos-en-el-100-ante-el-debil-crecimiento-93CH-3894309",
-        "imagen": "https://content-media.investing.com/news/LYNXMPEM502AL_1200_L.jpg",
-        "fecha": "2026-10-28T10:27:23.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El de Urda es el segundo accidente grave de tren en menos de un año",
-        "url": "https://www.expansion.com/sociedad/2026/10/28/urda-segundo-accidente-grave-tren-ano.html",
-        "imagen": "http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&cg=rss-expansion&ci=es-widgetueditorial&si=https://www.expansion.com/rss/portada.xml",
-        "fecha": "2026-10-28T10:27:17.000Z",
-        "fuenteId": "expansion",
-        "fuenteTitle": "Expansión",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "¿Por qué se dispara hoy la acción de Ultra Clean Holdings?",
-        "url": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-ultra-clean-holdings-93CH-3894306",
-        "imagen": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg",
-        "fecha": "2026-10-28T10:27:00.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "22nd Century Group añade a Clear Street como agente de ventas",
-        "url": "https://es.investing.com/news/sec-filings/22nd-century-group-anade-a-clear-street-como-agente-de-ventas-93CH-3894293",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM40318_1200_L.jpg",
-        "fecha": "2026-10-28T10:23:31.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Informe de resultados: Melexis decepciona en el Q3 2026 pese al crecimiento en China",
-        "url": "https://es.investing.com/news/transcripts/informe-de-resultados-melexis-decepciona-en-el-q3-2026-pese-al-crecimiento-en-china-93CH-3894289",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3S10Z_1200_L.jpg",
-        "fecha": "2026-10-28T10:21:53.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Renfe evaluará su reputación y el alcance de sus acciones de comunicación",
-        "url": "https://www.economiadigital.es/empresas/renfe-reputacion-alcance-acciones-comunicacion.html",
-        "imagen": "https://www.economiadigital.es/wp-content/uploads/2025/07/archivo-tren-ave-renfe-20250710081614-300x202.jpg",
-        "fecha": "2026-10-28T10:21:40.000Z",
-        "fuenteId": "economia-digital",
-        "fuenteTitle": "Economía Digital",
-        "categorias": [
-          "economia",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "GE Vernova adquirirá Trench Group por 9.000 millones de dólares",
-        "url": "https://es.investing.com/news/company-news/ge-vernova-adquirira-trench-group-por-9000-millones-de-dolares-93CH-3894288",
-        "imagen": "",
-        "fecha": "2026-10-28T10:21:31.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
       }
     ],
     "entretenimiento": [
+      {
+        "titulo": "Esta web reúne más de 200 ports no oficiales para jugar en PC a exclusivos de consola",
+        "url": "https://www.avpasion.com/recomplauncher-recopila-mas-200-ports-consola-pc/",
+        "imagen": "",
+        "fecha": "2026-10-28T11:30:33.000Z",
+        "fuenteId": "avpasion",
+        "fuenteTitle": "AVPasión",
+        "categorias": [
+          "tecnologia",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Los memes que marcaron los 2000 están de vuelta: Firefox reúne a las leyendas de YouTube para un nuevo anuncio",
+        "url": "https://www.vidaextra.com/industria/memes-que-marcaron-2000-estan-vuelta-firefox-reune-a-leyendas-youtube-para-nuevo-anuncio",
+        "imagen": "https://i.blogs.es/8d5376/firefox/1024_2000.jpeg",
+        "fecha": "2026-10-28T11:25:53.000Z",
+        "fuenteId": "vidaextra",
+        "fuenteTitle": "Vida Extra",
+        "categorias": [
+          "tecnologia",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El actor Pablo Chiapella protagoniza la nueva serie más divertida tras ‘La que se avecina’: así es la comedia que lidera en Movistar Plus+ y Prime Video",
+        "url": "https://www.diezminutos.es/teleprograma/series-tv/a74268039/pablo-chiapella-nueva-serie-comedia-movistar-plus-el-supermercado/",
+        "imagen": "https://hips.hearstapps.com/hmg-prod/images/09f55a9b-d3fe-4c61-9124-85c9b18fa2ae.jpg",
+        "fecha": "2026-10-28T11:25:16.000Z",
+        "fuenteId": "diez-minutos",
+        "fuenteTitle": "Diez Minutos",
+        "categorias": [
+          "corazon",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El cortometraje ‘Chinchipe’ gana el I Premio Talento RTVE-Premios Quirino",
+        "url": "https://www.audiovisual451.com/el-cortometraje-chinchipe-gana-el-i-premio-talento-rtve-premios-quirino/",
+        "imagen": "",
+        "fecha": "2026-10-28T11:21:06.000Z",
+        "fuenteId": "audiovisual451",
+        "fuenteTitle": "Audiovisual451",
+        "categorias": [
+          "entretenimiento",
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El arquitecto Joaquín Torres se encontraba en uno de los trenes accidentados: «Prefiero no pensar muy bien lo que hemos vivido»",
+        "url": "https://www.abc.es/gente/arquitecto-joaquin-torres-encontraba-tren-accidentado-prefiero-20261028121623-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gente/2026/10/28/joaquin-torres-REYrkce85UhSExt7KZFbf6N-1200x840@diario_abc.jpg",
+        "fecha": "2026-10-28T11:18:13.000Z",
+        "fuenteId": "abc-gente",
+        "fuenteTitle": "ABC - Gente",
+        "categorias": [
+          "corazon",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Joaquín Torres, pasajero del tren accidentado en Toledo: “Nos hemos salvado de milagro. Estamos en shock”",
+        "url": "https://www.diezminutos.es/famosos-corazon/famosos-espanoles/a74269720/joaquin-torres-accidente-tren-ave-toledo/",
+        "imagen": "https://hips.hearstapps.com/hmg-prod/images/546db03c-bdff-4849-bb39-43b4c1eeb50e.jpeg",
+        "fecha": "2026-10-28T11:14:00.000Z",
+        "fuenteId": "diez-minutos",
+        "fuenteTitle": "Diez Minutos",
+        "categorias": [
+          "corazon",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Atresmedia anuncia hoy la cancelación de 'El Hormiguero', de Karlos Arguiñano y 'La ruleta de la suerte' por la actualidad",
+        "url": "https://eltelevisero.huffingtonpost.es/2026/10/atresmedia-anuncia-hoy-la-cancelacion-de-el-hormiguero-de-karlos-arguinano-y-la-ruleta-de-la-suerte-por-la-actualidad/",
+        "imagen": "https://s.w.org/images/core/emoji/17.0.2/72x72/203c.png",
+        "fecha": "2026-10-28T11:13:28.000Z",
+        "fuenteId": "el-televisero",
+        "fuenteTitle": "El Televisero",
+        "categorias": [
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Uxue asegura que fue obligada a retractarse de sus palabras contra su exnovio, Plex, tras conocerse su relación con Aitana: \"Es injusto\"",
+        "url": "https://www.20minutos.es/gente/uxue-asegura-que-fue-obligada-retractarse-sus-palabras-contra-su-exnovio-plex-tras-conocerse-su-relacion-con-aitana-es-injusto_7054398_0.html",
+        "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/05/19/aitana-y-plex-izquierda-y-uxue-lopez-derecha.jpeg",
+        "fecha": "2026-10-28T11:10:38.000Z",
+        "fuenteId": "20minutos-gente",
+        "fuenteTitle": "20minutos - Gente",
+        "categorias": [
+          "corazon",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "ÚLTIMA HORA | Toda la información sobre el accidente de tren en Toledo de hoy",
+        "url": "https://www.diezminutos.es/famosos-corazon/famosos-espanoles/a74269422/ultima-hora-choque-trenes-toledo/",
+        "imagen": "https://hips.hearstapps.com/hmg-prod/images/a68ea228-6032-481f-bf71-df6224e37d54.jpg",
+        "fecha": "2026-10-28T11:08:00.000Z",
+        "fuenteId": "diez-minutos",
+        "fuenteTitle": "Diez Minutos",
+        "categorias": [
+          "corazon",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Irene Urdangarin consolida su noviazgo con Fernando Echevarría: viaje a Barcelona y encuentro con sus hermanos",
+        "url": "https://www.20minutos.es/gente/irene-urdangarin-consolida-su-noviazgo-con-fernando-echevarria-viaje-barcelona-encuentro-con-sus-hermanos_7054419_0.html",
+        "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/10/19/6ad60af00ddda3-48458875.r_d.1193-624-7000.jpeg",
+        "fecha": "2026-10-28T11:07:43.000Z",
+        "fuenteId": "20minutos-gente",
+        "fuenteTitle": "20minutos - Gente",
+        "categorias": [
+          "corazon",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Las imágenes del accidente de trenes en Urda, Toledo: choque entre un AVE de Renfe y un tren de Iryo",
+        "url": "https://www.huffingtonpost.es/sociedad/las-imagenes-accidente-trenes-f202610.html",
+        "imagen": "",
+        "fecha": "2026-10-28T11:05:02.000Z",
+        "fuenteId": "huffpost-espana",
+        "fuenteTitle": "HuffPost España",
+        "categorias": [
+          "actualidad",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Primeras palabras de los reyes Felipe VI y Letizia tras el accidente de tren de Toledo: “Estamos conmovidos y preocupados”",
         "url": "https://www.diezminutos.es/familia-real/monarquia-espanola/a74269750/reyes-felipe-vi-letizia-reaccion-accidente-tren-toledo/",
@@ -1575,6 +1710,31 @@
         "fuenteTitle": "ADSLZone",
         "categorias": [
           "tecnologia",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "¿Por qué el AVE pudo avanzar si el Iryo estaba parado en la misma vía? Las preguntas del choque de trenes en Urda, Toledo",
+        "url": "https://www.huffingtonpost.es/sociedad/como-pudo-avanzar-ave-iryo-ocupando-preguntas-accidente-trenes-toledo-f202610.html",
+        "imagen": "",
+        "fecha": "2026-10-28T11:02:44.000Z",
+        "fuenteId": "huffpost-espana",
+        "fuenteTitle": "HuffPost España",
+        "categorias": [
+          "actualidad",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Illa destaca la necesidad de medios plurales y creíbles con el lanzamiento de un canal propio para La 2Cat",
+        "url": "https://www.lavanguardia.com/television/20261028/11670090/illa-destaca-necesidad-medios-plurales-creibles-lanzamiento-canal-propio-2cat.html",
+        "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/28/6ae1d4cf0bad1.r_d.2901-1651-0.jpeg",
+        "fecha": "2026-10-28T11:02:18.000Z",
+        "fuenteId": "lavanguardia-television",
+        "fuenteTitle": "La Vanguardia - Televisión",
+        "categorias": [
           "entretenimiento"
         ],
         "idioma": "es"
@@ -1606,6 +1766,19 @@
         "idioma": "es"
       },
       {
+        "titulo": "Las imágenes aéreas del accidente de tren en Urda, Toledo",
+        "url": "https://www.huffingtonpost.es/sociedad/las-imagenesereas-accidente-tren-urda-toledo-f202610.html",
+        "imagen": "",
+        "fecha": "2026-10-28T10:59:19.000Z",
+        "fuenteId": "huffpost-espana",
+        "fuenteTitle": "HuffPost España",
+        "categorias": [
+          "actualidad",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "El refugio de Gabriel Rufián en Barcelona: un piso \"muy chulo\" que posee su madre en un barrio obrero y residencial de Badalona",
         "url": "https://www.elespanol.com/corazon/famosos/20261028/refugio-gabriel-rufian-barcelona-piso-chulo-posee-madre-barrio-obrero-residencial-badalona/1003744429764_0.html",
         "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11383846.png?p=w:1706/h:960&h=d5wQQpm4",
@@ -1619,199 +1792,33 @@
         "idioma": "es"
       },
       {
-        "titulo": "RTVE cambia su programación por el accidente de tren en Toledo: La 1 se vuelca con el directo y caen 'La Promesa' y 'Valle Salvaje'",
-        "url": "https://www.eldiario.es/vertele/noticias/rtve-cambia-programacion-accidente-tren-toledo-1-vuelca-directo-caen-promesa-valle-salvaje_1_13621087.html",
-        "imagen": "https://static.eldiario.es/clip/03ee49dc-ead6-426c-a552-d8b59a87aaf2_16-9-discover-aspect-ratio_default_0.jpg",
-        "fecha": "2026-10-28T10:55:11.000Z",
-        "fuenteId": "vertele",
-        "fuenteTitle": "Vertele",
-        "categorias": [
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Marcelo, 38 años, sobre sus propiedades: \"Estuve 16 años en Madrid y tengo inversiones e inmuebles, vivo muy bien\"",
-        "url": "https://www.elespanol.com/corazon/20261028/marcelo-anos-propiedades-madrid-inversiones-inmuebles-vivo-bien/1003744437326_0.html",
-        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11388443.jpg?p=c:1728:971:nowe:91:95/w:1706/h:960&h=nQ-mF1pH",
-        "fecha": "2026-10-28T10:54:32.000Z",
-        "fuenteId": "jaleos",
-        "fuenteTitle": "Jaleos",
-        "categorias": [
-          "corazon",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Telecinco altera toda su programación: Cambia de franja 'El Tiempo Justo' de Joaquín Prat y amplía 'El programa de Ana Rosa' este miércoles",
-        "url": "https://eltelevisero.huffingtonpost.es/2026/10/telecinco-altera-toda-su-programacion-cambia-de-franja-el-tiempo-justo-de-joaquin-prat-y-amplia-el-programa-de-ana-rosa-este-miercoles/",
-        "imagen": "https://eltelevisero.huffingtonpost.es/wp-content/uploads/2026/10/0517FE1A-6276-4809-86F1-F3793DB1A788-150x100.jpeg",
-        "fecha": "2026-10-28T10:52:44.000Z",
-        "fuenteId": "el-televisero",
-        "fuenteTitle": "El Televisero",
-        "categorias": [
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Netflix anuncia el estreno de la serie argentina, Gordon",
-        "url": "https://todotvnews.com/netflix-anuncia-el-estreno-de-la-serie-argentina-gordon/",
-        "imagen": "https://todotvnews.com/wp-content/uploads/2026/10/Gordon.png",
-        "fecha": "2026-10-28T10:50:37.000Z",
-        "fuenteId": "ttv-news",
-        "fuenteTitle": "TTV News",
-        "categorias": [
-          "entretenimiento",
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Malas noticias si esperas más Mass Effect: La última vez que EA vendió una IP, BioWare ni siquiera formaba parte de la compañía",
-        "url": "https://areajugones.sport.es/videojuegos/malas-noticias-si-esperas-mas-mass-effect-la-ultima-vez-que-ea-vendio-una-ip-bioware-ni-siquiera-formaba-parte-de-la-compania/",
-        "imagen": "https://areajugones.sport.es/wp-content/uploads/2026/10/ea-bioware-1024x576.png",
-        "fecha": "2026-10-28T10:47:21.000Z",
-        "fuenteId": "areajugones",
-        "fuenteTitle": "Areajugones",
-        "categorias": [
-          "tecnologia",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Star Wars: Starfighter apunta a ser el regreso de Eva Mendes al cine en acción real tras más de 12 años",
-        "url": "https://www.hobbyconsolas.com/hobbycine/star-wars-starfighter-apunta-ser-regreso-eva-mendes-cine-accion-real-tras-mas-12-anos_7054380_0.html",
-        "imagen": "https://imagenes.hobbyconsolas.com/files/image_1920_1080/uploads/imagenes/2026/10/28/6ae1ca1ea42a28-73755336.jpeg",
-        "fecha": "2026-10-28T10:44:14.000Z",
-        "fuenteId": "hobby-consolas",
-        "fuenteTitle": "Hobby Consolas",
-        "categorias": [
-          "tecnologia",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El susto de salud de Sofía Suescun en pleno viaje por Tanzania: «Estaba muriéndome»",
-        "url": "https://www.abc.es/gente/susto-salud-sofia-suescun-pleno-viaje-tanzania-20261028114312-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gente/2026/10/28/sofia-tanzania-RVzrbxeuYmaRINQ584AWDeJ-1200x840@diario_abc.jpg",
-        "fecha": "2026-10-28T10:43:13.000Z",
-        "fuenteId": "abc-gente",
-        "fuenteTitle": "ABC - Gente",
-        "categorias": [
-          "corazon",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Fox y Banijay adaptan Fear Factor como una serie de ficción en formato vertical",
-        "url": "https://todotvnews.com/fox-y-banijay-adaptan-fear-factor-como-una-serie-de-ficcion-en-formato-vertical/",
-        "imagen": "https://todotvnews.com/wp-content/uploads/2026/10/FearFactorBanijay.png",
-        "fecha": "2026-10-28T10:40:56.000Z",
-        "fuenteId": "ttv-news",
-        "fuenteTitle": "TTV News",
-        "categorias": [
-          "entretenimiento",
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "LG quiere llevar los televisores OLED a las 111 pulgadas para competir con los gigantes Mini LED",
-        "url": "https://www.avpasion.com/lg-prepara-paneles-oled-111-pulgadas-cerca/",
+        "titulo": "Felipe y Letizia, tras el accidente de trenes en Urda, Toledo: \"Estamos conmovidos y preocupados. Acompañamos en su tristeza a las familias y seres queridos de los fallecidos\"",
+        "url": "https://www.huffingtonpost.es/sociedad/primera-reaccion-reyes-felipe-letizia-accidente-tren-urda-estamos-conmovidos-preocupados-accidente-ferroviario-f202610.html",
         "imagen": "",
-        "fecha": "2026-10-28T10:40:24.000Z",
-        "fuenteId": "avpasion",
-        "fuenteTitle": "AVPasión",
+        "fecha": "2026-10-28T10:58:53.000Z",
+        "fuenteId": "huffpost-espana",
+        "fuenteTitle": "HuffPost España",
         "categorias": [
-          "tecnologia",
+          "actualidad",
           "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Bazaar Women of the Year 2026: todos los looks de las invitadas a la gala que celebra el talento femenino",
-        "url": "https://www.diezminutos.es/famosos-corazon/famosos-espanoles/g74269291/premios-bazaar-women-of-the-year-2026-alfombra-roja-mejores-looks-invitadas/",
-        "imagen": "https://hips.hearstapps.com/hmg-prod/images/57d1144f-7c53-4b45-b44f-646fe42e2f2f.jpg",
-        "fecha": "2026-10-28T10:40:00.000Z",
-        "fuenteId": "diez-minutos",
-        "fuenteTitle": "Diez Minutos",
-        "categorias": [
-          "corazon",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "¿Cyberpunk: Edgerunners 2 es tan bueno como el anime de Lucy y David? El público ya lo tiene claro",
-        "url": "https://areajugones.sport.es/anime/cyberpunk-edgerunners-2-es-tan-bueno-como-el-anime-de-lucy-y-david-el-publico-ya-lo-tiene-claro/",
-        "imagen": "https://areajugones.sport.es/wp-content/uploads/2026/10/cyberpunk-edgerunners-2-comparacion-lucy-y-david-1024x576.png",
-        "fecha": "2026-10-28T10:39:05.000Z",
-        "fuenteId": "areajugones",
-        "fuenteTitle": "Areajugones",
-        "categorias": [
-          "tecnologia",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El futbolista Marcos Llorente, sobre el accidente de los dos trenes de hoy: \"Estamos hartos de políticos que parece más preocupados por ganar discusiones\"",
-        "url": "https://www.diezminutos.es/famosos-corazon/famosos-espanoles/a74269446/marcos-llorente-futbolista-accidente-trenes-critica-politicos/",
-        "imagen": "https://hips.hearstapps.com/hmg-prod/images/eccd0125-4088-40b1-aa8f-15228c981284.jpeg",
-        "fecha": "2026-10-28T10:38:00.000Z",
-        "fuenteId": "diez-minutos",
-        "fuenteTitle": "Diez Minutos",
-        "categorias": [
-          "corazon",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El director de 'Slow Horses' habla sobre la temporada 6 y la escena final con Jack Lowden: \"Teníamos dos finales y uno de ellos era feliz\"",
-        "url": "https://www.espinof.com/directores-y-guionistas/director-slow-horses-habla-temporada-6-escena-final-jack-lowden-teniamos-dos-finales-uno-ellos-era-feliz",
-        "imagen": "https://i.blogs.es/679b19/slow-horses-1-102126-4405f413eca24b93a47b6fbcbebc68dd/1024_2000.jpeg",
-        "fecha": "2026-10-28T10:31:28.000Z",
-        "fuenteId": "espinof",
-        "fuenteTitle": "Espinof",
-        "categorias": [
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Varios clientes de Digi se quejan de problemas de cobertura: esta es la recomendación del operador para solucionarlos",
-        "url": "https://www.adslzone.net/noticias/operadores/recomendacion-problemas-cobertura-digi/",
-        "imagen": "https://www.adslzone.net/app/uploads-adslzone.net/2026/10/tienda-digi.jpg",
-        "fecha": "2026-10-28T10:30:28.000Z",
-        "fuenteId": "adslzone",
-        "fuenteTitle": "ADSLZone",
-        "categorias": [
-          "tecnologia",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "RNE Audio estrena ‘Rumis’, su primer podcast de ficción, con Carmen Arrufat",
-        "url": "https://www.culturaenserie.com/rne-audio-estrena-rumis-su-primer-podcast-de-ficcion-con-carmen-arrufat.html",
-        "imagen": "https://www.culturaenserie.com/wp-content/uploads/2026/10/rumis-1.jpg",
-        "fecha": "2026-10-28T10:30:00.000Z",
-        "fuenteId": "cultura-en-serie",
-        "fuenteTitle": "Cultura en Serie",
-        "categorias": [
-          "entretenimiento",
-          "cultura"
         ],
         "idioma": "es"
       }
     ],
     "gastronomia": [
+      {
+        "titulo": "Tapas Weekend: ¿qué hacer en Madrid?",
+        "url": "https://www.tapasmagazine.es/tapas-weekend-que-hacer-en-madrid-101/",
+        "imagen": "https://www.tapasmagazine.es/wp-content/uploads/2026/10/p.jpeg",
+        "fecha": "2026-10-28T11:23:43.000Z",
+        "fuenteId": "tapas-magazine",
+        "fuenteTitle": "Tapas Magazine",
+        "categorias": [
+          "gastronomia",
+          "cultura"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Nachos con guacamole, el aperitivo perfecto listo en menos de cinco minutos",
         "url": "https://www.directoalpaladar.com/recetas-vegetarianas/nachos-guacamole-aperitivo-perfecto-listo-cinco-minutos",
@@ -1821,6 +1828,19 @@
         "fuenteTitle": "Directo al Paladar",
         "categorias": [
           "gastronomia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Agro.- El festival de cine Most 2026 entregará su premio honorífico a Lluís Llach",
+        "url": "https://www.tapasmagazine.es/agro-el-festival-de-cine-most-2026-entregara-su-premio-honorifico-a-lluis-llach/",
+        "imagen": "",
+        "fecha": "2026-10-28T10:37:10.000Z",
+        "fuenteId": "tapas-magazine",
+        "fuenteTitle": "Tapas Magazine",
+        "categorias": [
+          "gastronomia",
+          "cultura"
         ],
         "idioma": "es"
       },
@@ -2035,33 +2055,23 @@
           "gastronomia"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "Recetas de Halloween: aperitivos, cenas y dulces terroríficos",
-        "url": "https://www.abc.es/recetasderechupete/las-recetas-de-halloween-mas-terrorificas/14088/",
-        "imagen": "https://www.recetasderechupete.com/wp-content/uploads/2020/10/recetas-faciles-originales-para-Halloween-1200x828.jpg",
-        "fecha": "2026-10-28T06:40:00.000Z",
-        "fuenteId": "recetas-de-rechupete",
-        "fuenteTitle": "Recetas de rechupete",
-        "categorias": [
-          "gastronomia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Frutas tradicionales y ramos de flores impares: la reina doña Sofía recibe la hospitalidad de Armenia en un viaje privado al país",
-        "url": "https://www.directoalpaladar.com/actualidad-1/frutas-tradicionales-ramos-flores-impares-reina-dona-sofia-recibe-hospitalidad-armenia-viaje-privado-al-pais",
-        "imagen": "https://i.blogs.es/61f03f/sofia1/1024_2000.jpeg",
-        "fecha": "2026-10-28T06:32:24.000Z",
-        "fuenteId": "directo-al-paladar",
-        "fuenteTitle": "Directo al Paladar",
-        "categorias": [
-          "gastronomia"
-        ],
-        "idioma": "es"
       }
     ],
     "hogar": [
+      {
+        "titulo": "Xavier Guix, psicólogo: \"¿Qué significa ser demasiado bueno? Hay una serie de patrones de conducta que son comunes en todas esas personas\"",
+        "url": "https://www.elconfidencial.com/alma-corazon-vida/2026-10-28/xavier-guix-psicologo-que-significa-ser-demasiado-bueno-patrones-conducta-1qrt_4454476/",
+        "imagen": "https://images.ecestaticos.com/fULq-N9kqN4WgT78bSKUIxvG45Q=/0x0:1200x800/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fd03%2F987%2F58d%2Fd0398758df46cd7244ce586b9dd10871.jpg",
+        "fecha": "2026-10-28T11:09:00.000Z",
+        "fuenteId": "el-confidencial-alma-corazon-vida",
+        "fuenteTitle": "El Confidencial - Alma, Corazón y Vida",
+        "categorias": [
+          "salud",
+          "hogar",
+          "corazon"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "El Corte Inglés saca este miércoles en su outlet una liquidación de zapatillas Hoka al 60% de descuento",
         "url": "https://www.compradiccion.com/deportes-zapatillas-running-ropa/corte-ingles-saca-este-miercoles-su-outlet-liquidacion-zapatillas-hoka-al-60-descuento",
@@ -2311,23 +2321,46 @@
           "corazon"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "La bella cicatriz de Menorca: una ciudad con uno de los puertos naturales más grandes del mundo, gastronomía, lujo y calas de ensueño",
-        "url": "https://www.elconfidencial.com/alma-corazon-vida/2026-10-28/bella-cicatriz-menorca-ciudad-puertos-naturales-grandes-gastronomia-lujo_4453335/",
-        "imagen": "https://images.ecestaticos.com/ajkyLIl8G4gUj0lXW9PrxDCItzw=/0x12:1354x774/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F925%2Ff2d%2F2bf%2F925f2d2bf0176cbf399f2a9a8151bd19.jpg",
-        "fecha": "2026-10-28T04:00:00.000Z",
-        "fuenteId": "el-confidencial-alma-corazon-vida",
-        "fuenteTitle": "El Confidencial - Alma, Corazón y Vida",
-        "categorias": [
-          "salud",
-          "hogar",
-          "corazon"
-        ],
-        "idioma": "es"
       }
     ],
     "internacional": [
+      {
+        "titulo": "Al menos 30 muertos y decenas de heridos en un choque de trenes de alta velocidad en España",
+        "url": "https://www.bbc.co.uk/mundo/live/c6lyk9npxzqlt?at_medium=RSS&at_campaign=rss",
+        "imagen": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fef1/live/dea81ff0-d2c0-11f1-8e79-5381b0a9d682.jpg",
+        "fecha": "2026-10-28T11:30:30.292Z",
+        "fuenteId": "bbc-mundo",
+        "fuenteTitle": "BBC News Mundo",
+        "categorias": [
+          "internacional",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "España: primeras imágenes muestran los restos del mortal accidente de tren de alta velocidad",
+        "url": "https://es.euronews.com/video/2026/10/28/espana-primeras-imagenes-muestran-los-restos-del-mortal-accidente-de-tren-de-alta-velocida",
+        "imagen": "",
+        "fecha": "2026-10-28T11:17:47.000Z",
+        "fuenteId": "euronews-espanol",
+        "fuenteTitle": "Euronews Español",
+        "categorias": [
+          "internacional"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Primeras imágenes aéreas muestran la escena del mortal choque de trenes en Toledo",
+        "url": "https://es.euronews.com/2026/10/28/primeras-imagenes-aereas-muestran-la-escena-del-mortal-choque-de-trenes-en-toledo",
+        "imagen": "",
+        "fecha": "2026-10-28T11:12:52.000Z",
+        "fuenteId": "euronews-espanol",
+        "fuenteTitle": "Euronews Español",
+        "categorias": [
+          "internacional"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Mueren decenas de personas al chocar dos trenes de alta velocidad en el sur de España",
         "url": "https://www.bbc.com/mundo/articles/crgj906pn4wdo?at_medium=RSS&at_campaign=rss",
@@ -2544,47 +2577,21 @@
           "actualidad"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "Dos terremotos de magnitud 5,1 y 5,4 sacuden el sur de Filipinas sin causar daños",
-        "url": "https://www.20minutos.es/internacional/dos-terremotos-magnitud-5-1-5-4-sacuden-sur-filipinas-sin-causar-danos_7054248_0.html",
-        "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/28/6ae1926a0e4041-92420526.png",
-        "fecha": "2026-10-28T06:14:41.000Z",
-        "fuenteId": "20minutos-internacional",
-        "fuenteTitle": "20minutos - Internacional",
-        "categorias": [
-          "internacional",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La coalición militar liderada por Riad anuncia el derribo de un misil lanzado contra una ciudad cercana a la Meca",
-        "url": "https://www.20minutos.es/internacional/coalicion-militar-liderada-por-riad-anuncia-derribo-un-misil-lanzado-contra-una-ciudad-cercana-meca_7054247_0.html",
-        "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/03/28/69c7a253060737-36131025.jpeg",
-        "fecha": "2026-10-28T06:01:11.000Z",
-        "fuenteId": "20minutos-internacional",
-        "fuenteTitle": "20minutos - Internacional",
-        "categorias": [
-          "internacional",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Últimas noticias | 28 octubre 2026 - Mañana",
-        "url": "https://es.euronews.com/video/2026/10/28/ultimas-noticias-28-octubre-2026-manana",
-        "imagen": "",
-        "fecha": "2026-10-28T06:00:41.000Z",
-        "fuenteId": "euronews-espanol",
-        "fuenteTitle": "Euronews Español",
-        "categorias": [
-          "internacional"
-        ],
-        "idioma": "es"
       }
     ],
     "local": [
+      {
+        "titulo": "Los nuevos 'dueños' del circuito de MadRing tras el GP de Fórmula 1",
+        "url": "https://www.cope.es/programas/tiempo-de-juego/noticias/nuevos-duenos-circuito-madring-gp-formula-1-20261028_3464284.html",
+        "imagen": "https://imagenes.cope.es/files/og_thumbnail/uploads/2026/10/28/6ae1d24304ba8.jpeg",
+        "fecha": "2026-10-28T11:15:14.000Z",
+        "fuenteId": "cope-extremadura",
+        "fuenteTitle": "COPE Extremadura",
+        "categorias": [
+          "local"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "El Ayuntamiento de Cáceres anima a asistir a las actividades gratuitas que han preparado las asociaciones vecinales para celebrar Halloween y el Día de Todos los Santos",
         "url": "https://www.ayto-caceres.es/noticias/el-ayuntamiento-de-caceres-anima-a-asistir-a-las-actividades-gratuitas-que-han-preparado-las-asociaciones-vecinales-para-celebrar-halloween-y-el-dia-de-todos-los-santos/",
@@ -2814,21 +2821,22 @@
           "local"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "\"El absentismo laboral no da tregua en los costes. Más de un millón no se presentan a trabajar al día y el despido objetivo ofrece indemnizaciones más reducidas. Los empresarios no pueden más\"",
-        "url": "https://www.cope.es/programas/herrera-en-cope/economia-de-bolsillo/noticias/absentismo-laboral-no-da-tregua-costes-millon-no-presentan-trabajar-dia-despido-objetivo-ofrece-indemnizaciones-reducidas-empresarios-no-20261028_3464028.html",
-        "imagen": "https://imagenes.cope.es/files/og_thumbnail/uploads/2026/02/06/6985d84fc606d.jpeg",
-        "fecha": "2026-10-28T06:37:48.000Z",
-        "fuenteId": "cope-extremadura",
-        "fuenteTitle": "COPE Extremadura",
-        "categorias": [
-          "local"
-        ],
-        "idioma": "es"
       }
     ],
     "medio-ambiente": [
+      {
+        "titulo": "Plásticos de origen vegetal: Gaiker participa en un proyecto de 6,8 millones para hacerlos más resistentes",
+        "url": "https://www.ecoticias.com/sostenibilidad/plasticos-origen-vegetal-gaiker-resistencia-reciclaje-industria",
+        "imagen": "",
+        "fecha": "2026-10-28T11:10:58.000Z",
+        "fuenteId": "ecoticias",
+        "fuenteTitle": "Ecoticias",
+        "categorias": [
+          "medio-ambiente",
+          "cultura"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Los coches autónomos en Madrid arrancan con conductor: Waymo apunta a sus primeros usuarios en 2027",
         "url": "https://www.ecoticias.com/movilidad-electrica/coches-autonomos-madrid-pruebas-waymo-uber",
@@ -3071,22 +3079,60 @@
           "cultura"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "Extremadura destina 5,38 millones de euros a mejorar el abastecimiento de agua potable en 19 localidades",
-        "url": "https://www.retema.es/actualidad/extremadura-destina-538-millones-de-euros-mejorar-el-abastecimiento-de-agua-potable-en",
-        "imagen": "https://www.retema.es/sites/default/files/styles/modo_resumen/public/2026-10/agua-abastecimiento-etap-retema.jpg.webp?itok=U9qmL9KT",
-        "fecha": "2026-10-28T07:33:13.000Z",
-        "fuenteId": "retema",
-        "fuenteTitle": "RETEMA",
-        "categorias": [
-          "medio-ambiente",
-          "tecnologia"
-        ],
-        "idioma": "es"
       }
     ],
     "moda": [
+      {
+        "titulo": "El vídeo de la infanta Sofía saliendo de los Premios Princesa de Asturias 2026 sufriendo las consecuencias de estrenar tacón alto",
+        "url": "https://www.elle.com/es/star-style/noticias-famosos/a74268736/video-infanta-sofia-saliendo-premios-princesa-asturias-dolor-tacon-alto/",
+        "imagen": "https://hips.hearstapps.com/hmg-prod/images/db8f3721-86f1-4145-b8b0-2e994a34a929.jpeg",
+        "fecha": "2026-10-28T11:22:00.000Z",
+        "fuenteId": "elle-espana",
+        "fuenteTitle": "Elle España",
+        "categorias": [
+          "moda"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Platos de cuchara vegetarianos: recetas fáciles, saludables y nutritivas con legumbres de bote",
+        "url": "https://www.hola.com/cocina/recetas/20261028931560/platos-vegetarianos-legumbres-bote-recetas-faciles/",
+        "imagen": "https://www.hola.com/horizon/landscape/d2a493bd798d-guiso-veget-garbanzos-port.jpg",
+        "fecha": "2026-10-28T11:12:00.000Z",
+        "fuenteId": "hola",
+        "fuenteTitle": "¡Hola!",
+        "categorias": [
+          "corazon",
+          "moda"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "De Ana Obregón a Eva González, las reacciones al accidente ferroviario que ha conmocionado al país",
+        "url": "https://www.hola.com/actualidad/20261028931743/reacciones-tragedia-ferroviaria-toledo/",
+        "imagen": "https://www.hola.com/horizon/landscape/4f4f14edb450-evagonzalez.jpg",
+        "fecha": "2026-10-28T11:10:59.000Z",
+        "fuenteId": "hola",
+        "fuenteTitle": "¡Hola!",
+        "categorias": [
+          "corazon",
+          "moda"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El estremecedor testimonio de Joaquín Torres tras sobrevivir al accidente de tren en Toledo: \"Nos hemos salvado de milagro\"",
+        "url": "https://www.hola.com/actualidad/20261028931741/estremecedor-testimonio-joaquin-torres-sobrevivir-accidente-de-tren-en-toledo/",
+        "imagen": "https://www.hola.com/horizon/landscape/293db82ca98a-dlu595549014.jpg",
+        "fecha": "2026-10-28T11:09:46.000Z",
+        "fuenteId": "hola",
+        "fuenteTitle": "¡Hola!",
+        "categorias": [
+          "corazon",
+          "moda"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Las botas de agua que tienes que tener en tu radar este otoño: de las clásicas hasta los modelos más atrevidos",
         "url": "https://www.trendencias.com/tendencias/botas-agua-que-tienes-que-tener-tu-radar-este-otono-clasicas-modelos-atrevidos",
@@ -3284,61 +3330,178 @@
           "moda"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "Matt Damon, sobre Julia Roberts en los años 80: \"Sólo tenía 19 años y, de repente, se convirtió en toda una estrella\"",
-        "url": "https://www.cosmopolitan.com/es/entretenimiento-cultura/a73885681/matt-damon-julia-roberts-pelicula-mystic-pizza-escena/",
-        "imagen": "https://hips.hearstapps.com/hmg-prod/images/275e5c6d-93f6-4f35-ba45-93fd5c82f53a.jpg",
-        "fecha": "2026-10-28T09:25:00.000Z",
-        "fuenteId": "cosmopolitan-espana",
-        "fuenteTitle": "Cosmopolitan España",
-        "categorias": [
-          "moda",
-          "corazon"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "ÚLTIMA HORA. Tragedia en la alta velocidad en Toledo: dos trenes colisionan en Urda",
-        "url": "https://www.hola.com/actualidad/20261028931711/ultima-hora-accidente-trenes-toledo/",
-        "imagen": "https://www.hola.com/horizon/landscape/14011d475bca-gettyimages-1247505603.jpg",
-        "fecha": "2026-10-28T09:21:02.000Z",
-        "fuenteId": "hola",
-        "fuenteTitle": "¡Hola!",
-        "categorias": [
-          "corazon",
-          "moda"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Así es dormir en el castillo de Carlos V: una joya histórica con vistas a Gredos y sabores típicos de La Vera",
-        "url": "https://www.hola.com/viajes/20261028930683/dormir-castillo-carlos-v-joya-historica-gredos-sabores-vera/",
-        "imagen": "https://www.hola.com/horizon/landscape/b1df7e86f28d-lau3645.png",
-        "fecha": "2026-10-28T09:19:03.000Z",
-        "fuenteId": "hola",
-        "fuenteTitle": "¡Hola!",
-        "categorias": [
-          "corazon",
-          "moda"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Así es dormir en el castillo de Carlos V: una joya histórica con vistas a Gredos y sabores típicos de La Vera",
-        "url": "https://www.hola.com/viajes/20261028930689/dormir-castillo-carlos-v-joya-historica-gredos-sabores-vera-galeria/",
-        "imagen": "https://www.hola.com/horizon/landscape/b1df7e86f28d-lau3645.png",
-        "fecha": "2026-10-28T09:17:57.000Z",
-        "fuenteId": "hola",
-        "fuenteTitle": "¡Hola!",
-        "categorias": [
-          "corazon",
-          "moda"
-        ],
-        "idioma": "es"
       }
     ],
     "politica": [
+      {
+        "titulo": "Marisol, madre de Adrián, un joven que viajaba en uno de los trenes accidentados: \"Voy a buscarlo, no he podido hablar más con él, mi hijo estaba colapsado, fuera de sí\"",
+        "url": "https://www.elconfidencial.com/espana/2026-10-28/marisol-madre-de-adrian-un-joven-que-viajaba-en-uno-de-los-trenes-accidentados_4454671/",
+        "imagen": "https://images.ecestaticos.com/pYuIWpbQL0jrqMkcbnHwurV7SQY=/0x0:2272x1286/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fd5e%2F554%2Fe87%2Fd5e554e8787b07d890e4ee0cdaae55e8.jpg",
+        "fecha": "2026-10-28T11:27:00.000Z",
+        "fuenteId": "el-confidencial-espana",
+        "fuenteTitle": "El Confidencial - España",
+        "categorias": [
+          "politica",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Al menos 30 muertos en el choque de dos trenes de alta velocidad en Toledo",
+        "url": "https://www.lamarea.com/2026/10/28/choque-trenes-urda-toledo/",
+        "imagen": "",
+        "fecha": "2026-10-28T11:21:32.000Z",
+        "fuenteId": "la-marea",
+        "fuenteTitle": "La Marea",
+        "categorias": [
+          "actualidad",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Colau pide investigar posibles injerencias extranjeras en los disturbios de Barcelona",
+        "url": "https://theobjective.com/espana/politica/2026-10-28/colau-injerencias-disturbios/",
+        "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/06/ione-belarra-defiende-candidatura-469x317.jpg",
+        "fecha": "2026-10-28T11:18:59.000Z",
+        "fuenteId": "the-objective",
+        "fuenteTitle": "The Objective",
+        "categorias": [
+          "actualidad",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Esta imagen de un tren descarrilado junto a unas ambulancias de Andalucía no es del accidente ocurrido en Urda (Toledo)",
+        "url": "https://www.newtral.es/imagen-colision-tren-urda/20261028/",
+        "imagen": "https://www.newtral.es/wp-content/uploads/2026/10/plantilla-NPP-7-1024x576.jpg",
+        "fecha": "2026-10-28T11:15:24.000Z",
+        "fuenteId": "newtral",
+        "fuenteTitle": "Newtral",
+        "categorias": [
+          "politica",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Zelenski defiende el uso de «todas las formas de diplomacia» para «proteger Ucrania»",
+        "url": "https://theobjective.com/internacional/2026-10-28/zelenski-defiende-diplomacia-ucrania/",
+        "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/10/zelenski-2-469x317.jpg",
+        "fecha": "2026-10-28T11:13:08.000Z",
+        "fuenteId": "the-objective",
+        "fuenteTitle": "The Objective",
+        "categorias": [
+          "actualidad",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Socibus refuerza la conexión entre Madrid y Andalucía para atender el incremento de demanda tras el accidente de trenes de Toledo",
+        "url": "https://www.abc.es/espana/andalucia/socibus-refuerza-conexion-madrid-andalucia-atender-incremento-20261028120939-nts.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/28/andalucia-accidente-autocares-RrAMEo2zc2rvdTjSH9vagXN-1200x840@diario_abc.jpg",
+        "fecha": "2026-10-28T11:11:43.000Z",
+        "fuenteId": "abc-espana",
+        "fuenteTitle": "ABC - España",
+        "categorias": [
+          "politica",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Los viajeros de los trenes accidentados en Toledo: \"Hemos notado un sonido muy fuerte y después ha sido todo un amasijo de hierros\"",
+        "url": "https://www.eldiario.es/castilla-la-mancha/provincias/toledo/viajeros-trenes-accidentados-toledo-hemos-notado-sonido-fuerte-despues-sido-amasijo-hierros_1_13621320.html",
+        "imagen": "https://static.eldiario.es/clip/6c26c381-2531-44c5-b17f-6d2c1ffd0805_16-9-discover-aspect-ratio_default_0.jpg",
+        "fecha": "2026-10-28T11:10:00.000Z",
+        "fuenteId": "eldiario-es",
+        "fuenteTitle": "elDiario.es",
+        "categorias": [
+          "actualidad",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Los dos trenes que han chocado en Urda tenían vendidos 102 billetes con parada en Córdoba",
+        "url": "https://www.abc.es/espana/andalucia/cordoba/dos-trenes-chocado-urda-vendidos-102-billetes-20261028120953-nts.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/28/estacion-trenessegundo-cordoba-kyCE-U40460445608pC-1200x840@diario_abc.jpg",
+        "fecha": "2026-10-28T11:09:54.000Z",
+        "fuenteId": "abc-espana",
+        "fuenteTitle": "ABC - España",
+        "categorias": [
+          "politica",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Vecinos de Los Yébenes se movilizan para llevar agua y comida a los afectados por el siniestro ferroviario",
+        "url": "https://www.20minutos.es/nacional/vecinos-los-yebenes-se-movilizan-para-llevar-agua-comida-los-afectados-por-siniestro-ferroviario_7054427_0.html",
+        "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/28/6ae1d6082c6291-01958188.jpeg",
+        "fecha": "2026-10-28T11:08:49.000Z",
+        "fuenteId": "20minutos-nacional",
+        "fuenteTitle": "20minutos - Nacional",
+        "categorias": [
+          "actualidad",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Todos los partidos, salvo Vox, suspenden sus actos de precampaña por el accidente de Toledo y el Gobierno cancela su agenda",
+        "url": "https://www.20minutos.es/nacional/todos-los-partidos-salvo-vox-suspenden-sus-actos-precampana-por-accidente-toledo-gobierno-cancela-su-agenda_7054429_0.html",
+        "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/28/6ae1c63e4ca432-51468321.jpeg",
+        "fecha": "2026-10-28T11:08:27.000Z",
+        "fuenteId": "20minutos-nacional",
+        "fuenteTitle": "20minutos - Nacional",
+        "categorias": [
+          "actualidad",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Atraca una comercio y lo descubren escondido en la azotea de una casa okupada en Alzira",
+        "url": "https://www.abc.es/espana/comunidad-valenciana/atraca-comercio-descubren-escondido-azotea-casa-okupada-20261028120750-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/28/policia-nacional-recurso-RDU3OI2X6wmpqtReevJMTxH-1200x840@diario_abc.JPG",
+        "fecha": "2026-10-28T11:07:51.000Z",
+        "fuenteId": "abc-espana",
+        "fuenteTitle": "ABC - España",
+        "categorias": [
+          "politica",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "La mitad de las personas que viven de alquiler no tendrían ingresos suficientes si buscaran un piso ahora",
+        "url": "https://www.infolibre.es/economia/mitad-personas-viven-alquiler-no-tendrian-ingresos-suficientes-si-buscaran-piso-ahora_1_2239150.html",
+        "imagen": "https://static.infolibre.es/clip/0de598ed-3ebc-413f-bace-4d26d0c5fdaa_16-9-aspect-ratio_default_0.jpg",
+        "fecha": "2026-10-28T11:04:07.000Z",
+        "fuenteId": "infolibre",
+        "fuenteTitle": "InfoLibre",
+        "categorias": [
+          "actualidad",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El horror tras el choque mortal de trenes en Urda (Toledo): muerte, sangre y caos junto a las vías",
+        "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/horror-tras-choque-mortal-trenes-urda-muerte-20261028120031-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/28/accidente%20Urda-RMEYMoNy0epg0gq2unVgi2K-1200x840@diario_abc.jpg",
+        "fecha": "2026-10-28T11:04:02.000Z",
+        "fuenteId": "abc-espana",
+        "fuenteTitle": "ABC - España",
+        "categorias": [
+          "politica",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "El Ayuntamiento de Cáceres anima a asistir a las actividades gratuitas que han preparado las asociaciones vecinales para celebrar Halloween y el Día de Todos los Santos",
         "url": "https://www.ayto-caceres.es/noticias/el-ayuntamiento-de-caceres-anima-a-asistir-a-las-actividades-gratuitas-que-han-preparado-las-asociaciones-vecinales-para-celebrar-halloween-y-el-dia-de-todos-los-santos/",
@@ -3367,6 +3530,19 @@
         "idioma": "es"
       },
       {
+        "titulo": "Así ha sido el accidente de tren en Urda (Toledo): el AVE embistió al Iryo, que estaba parado",
+        "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/accidente-tren-urda-toledo-ave-embistio-iryo-20261028112725-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/28/trenee8-kGNG-U4044665164W6C-1200x840@diario_abc.jpg",
+        "fecha": "2026-10-28T11:00:47.000Z",
+        "fuenteId": "abc-espana",
+        "fuenteTitle": "ABC - España",
+        "categorias": [
+          "politica",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Irene Montero y Rufián responden a las míticas preguntas de Broncano en ‘La revuelta’: «Tengo unos 40.000€ pero porque he escrito un libro»",
         "url": "https://theobjective.com/gente/2026-10-28/irene-montero-rufian-preguntas-broncano-la-revuelta-escrito-libro/",
         "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/10/rufian-montero-larevuelta-469x317.jpeg",
@@ -3386,19 +3562,6 @@
         "fecha": "2026-10-28T10:59:39.000Z",
         "fuenteId": "newtral",
         "fuenteTitle": "Newtral",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Eduarda, pasajera del tren Iryo accidentado en Toledo: \"Ha sido un caos porque había cuerpos debajo de los trenes\"",
-        "url": "https://www.elespanol.com/espana/20261028/eduarda-pasajera-tren-iryo-accidentado-toledo-caos-cuerpos-debajo-trenes/1003744437787_0.html",
-        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11388742.jpg?p=c:599:337:nowe:1:32/w:1706/h:960&h=1-XWCml0",
-        "fecha": "2026-10-28T10:59:21.000Z",
-        "fuenteId": "el-espanol-espana",
-        "fuenteTitle": "El Español - España",
         "categorias": [
           "politica",
           "actualidad"
@@ -3430,178 +3593,74 @@
           "actualidad"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "El 86% de los centros concertados de Madrid exige una cuota obligatoria o amenaza con excluir al alumno",
-        "url": "https://www.eldiario.es/sociedad/86-centros-concertados-madrid-exige-cuota-obligatoria-amenaza-excluir-alumno_1_13619604.html",
-        "imagen": "https://static.eldiario.es/clip/2e62772b-659f-4ba5-a219-26188cbdef71_16-9-discover-aspect-ratio_default_0.jpg",
-        "fecha": "2026-10-28T10:56:17.000Z",
-        "fuenteId": "eldiario-es",
-        "fuenteTitle": "elDiario.es",
-        "categorias": [
-          "actualidad",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "¿Cómo pueden informarse los familiares? Teléfonos de atención a víctimas y allegados y puntos de ayuda para los afectados por el accidente de tren de Urda (Toledo)",
-        "url": "https://www.elmundo.es/espana/2026/10/28/6ae1d18be85eced9488b458e.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/28/17931843176504.jpg",
-        "fecha": "2026-10-28T10:55:49.000Z",
-        "fuenteId": "el-mundo-espana",
-        "fuenteTitle": "El Mundo - España",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Cristina Cuervas, responsable de relaciones institucionales de Ghenova, iba en el AVE accidentado: «Sólo recuerdo dar vueltas»",
-        "url": "https://www.abc.es/espana/andalucia/cristina-cuerva-responsable-relaciones-institucionales-ghenova-iba-20261028114409-nts.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/28/Sin%20t%c3%adtulo-Rt0Tx7AzXHdVkIEcINEbbPO-1200x840@diario_abc.jpg",
-        "fecha": "2026-10-28T10:53:48.000Z",
-        "fuenteId": "abc-espana",
-        "fuenteTitle": "ABC - España",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El arquitecto Joaquín Torres iba en el tren accidentado en Urda: «Nos hemos salvado de milagro»",
-        "url": "https://theobjective.com/gente/2026-10-28/arquitecto-joaquin-torres-tren-accidentado-urda-salvado-milagro/",
-        "imagen": "https://theobjective.com/wp-content/uploads/2025/12/florentino-perez-joaquin-torres.jpg",
-        "fecha": "2026-10-28T10:51:56.000Z",
-        "fuenteId": "the-objective",
-        "fuenteTitle": "The Objective",
-        "categorias": [
-          "actualidad",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El Gobierno de Ayuso estrena dos consejeros: García Gómez en Transportes y Rodrigo en Medio Ambiente e Interior",
-        "url": "https://www.abc.es/espana/madrid/gobierno-ayuso-estrena-dos-consejeros-garcia-gomez-20261028114844-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/28/jorge-rodrigo_20261028113957-RckhdEvR7fmaCHHE8Oy3mGL-1200x840@diario_abc.jpg",
-        "fecha": "2026-10-28T10:50:31.000Z",
-        "fuenteId": "abc-espana",
-        "fuenteTitle": "ABC - España",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Felipe VI y Letizia, conmovidos tras el accidente ferroviario: \"Acompañamos en su tristeza a las familias de los fallecidos\"",
-        "url": "https://www.elespanol.com/espana/20261028/felipe-vi-letizia-conmovidos-accidente-ferroviario-acompanamos-tristeza-familias-fallecidos/1003744437674_0.html",
-        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11388786.jpg?p=c:2379:1339:nowe:996:102/w:1706/h:960&h=l3mvPz9m",
-        "fecha": "2026-10-28T10:50:12.000Z",
-        "fuenteId": "el-espanol-espana",
-        "fuenteTitle": "El Español - España",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Acuerdo inédito: PSOE, PP y Vox se ponen de acuerdo para echar al alcalde de Algeciras",
-        "url": "https://www.abc.es/espana/andalucia/cadiz/acuerdo-inedito-psoe-pp-vox-ponen-acuerdo-20261028114912-nts.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/27/landaluce-algeciras-psoe-pp-vox-R3IhSJTZNmdb4hCHID2T2eL-1200x840@diario_abc.jpg",
-        "fecha": "2026-10-28T10:49:13.000Z",
-        "fuenteId": "abc-espana",
-        "fuenteTitle": "ABC - España",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La Casa del Rey: «Estamos conmovidos. Acompañamos en su tristeza a las familias y seres queridos de los fallecidos»",
-        "url": "https://www.abc.es/espana/casa-rey-conmovidos-acompanamos-tristeza-familias-seres-20261028113701-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/28/reyes-U20884469426h4H-RdHcufCwLrn6uaZ2tKUJReL-1200x840@diario_abc.jpg",
-        "fecha": "2026-10-28T10:46:06.000Z",
-        "fuenteId": "abc-espana",
-        "fuenteTitle": "ABC - España",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La UE expresa consternación y llora a las víctimas del accidente ferroviario en Toledo",
-        "url": "https://theobjective.com/internacional/2026-10-28/ue-consternacion-victimas-accidente-toledo/",
-        "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/10/sanchez-visita-gijon-469x317.jpg",
-        "fecha": "2026-10-28T10:44:51.000Z",
-        "fuenteId": "the-objective",
-        "fuenteTitle": "The Objective",
-        "categorias": [
-          "actualidad",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Hallan un conjunto inédito de azulejería en el monasterio de las Descalzas Reales de Valladolid",
-        "url": "https://www.abc.es/espana/castilla-leon/hallan-conjunto-inedito-azulejeria-monasterio-descalzas-reales-20261028114139-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/28/02%20estado%20actual-RItgoYGwSuT7Ybdnj1iQtDP-1200x840@diario_abc.jpg",
-        "fecha": "2026-10-28T10:42:20.000Z",
-        "fuenteId": "abc-espana",
-        "fuenteTitle": "ABC - España",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Suspendido el juicio a la pareja acusada de secuestrar y violar a una joven contratada como vientre de alquiler en Córdoba",
-        "url": "https://www.abc.es/espana/andalucia/cordoba/suspendido-juicio-pareja-acusada-secuestrar-violar-joven-20261028114139-nts.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/28/JUICIOVIENTREALQUILERCOR-5-REmB3ELuKodGNvDVMYicjwL-1200x840@diario_abc.jpg",
-        "fecha": "2026-10-28T10:41:40.000Z",
-        "fuenteId": "abc-espana",
-        "fuenteTitle": "ABC - España",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El Gobierno apunta que el choque de trenes en Toledo se debe a un error humano",
-        "url": "https://theobjective.com/espana/politica/2026-10-28/gobierno-choque-trenes-toledo-error-humano/",
-        "imagen": "https://theobjective.com/wp-content/uploads/2026/10/accidente-tren-toledo.jpg",
-        "fecha": "2026-10-28T10:38:29.000Z",
-        "fuenteId": "the-objective",
-        "fuenteTitle": "The Objective",
-        "categorias": [
-          "actualidad",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Mapa del accidente de tren en Toledo: el lugar exacto del choque entre el AVE e Iryo",
-        "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/mapa-accidente-tren-toledo-lugar-exacto-choque-20261028113513-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/28/-accidente-toledo-k0eB-U4044769130yEG-1200x840@diario_abc.jpg",
-        "fecha": "2026-10-28T10:37:40.000Z",
-        "fuenteId": "abc-espana",
-        "fuenteTitle": "ABC - España",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
       }
     ],
     "salud": [
+      {
+        "titulo": "Los nutricionistas recomiendan: \"Para que el pan casero quede más rico, no uses harina ni horno, sino solo 2 ingredientes\"",
+        "url": "https://www.elespanol.com/ciencia/20261028/nutricionistas-recomiendan-pan-casero-quede-rico-no-uses-harina-horno-solo-ingredientes/1003744421701_0.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11388836.jpg?p=w:1706/h:960&h=PzBS213H",
+        "fecha": "2026-10-28T11:29:10.000Z",
+        "fuenteId": "el-espanol-ciencia",
+        "fuenteTitle": "El Español - Ciencia",
+        "categorias": [
+          "ciencia",
+          "salud"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Entra en vigor: vender perros y gatos por internet exigirá un código de verificación en España",
+        "url": "https://www.elespanol.com/ciencia/20261028/entra-vigor-vender-perros-gatos-internet-exigira-codigo-verificacion-espana/1003744419283_0.html",
+        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11377536.jpg?p=c:4001:2249:nowe:0:80/w:1706/h:960&h=532amQIs",
+        "fecha": "2026-10-28T11:12:06.000Z",
+        "fuenteId": "el-espanol-ciencia",
+        "fuenteTitle": "El Español - Ciencia",
+        "categorias": [
+          "ciencia",
+          "salud"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "José Ruiz, entrenador: \"Nuria Roca camina 6 kilómetros diarios 4 veces por semana. Lo ideal es añadir entrenamiento de fuerza con dos o tres sesiones semanales, de aproximadamente 30-45 minutos\"",
+        "url": "https://www.vitonica.com/wellness/jose-ruiz-entrenador-nuria-roca-camina-6-kilometros-diarios-4-veces-semana-ideal-anadir-entrenamiento-fuerza-dos-tres-sesiones-semanales-aproximadamente-30-45-minutos",
+        "imagen": "https://i.blogs.es/432f3b/nuri/1024_2000.jpeg",
+        "fecha": "2026-10-28T11:10:07.000Z",
+        "fuenteId": "vitonica",
+        "fuenteTitle": "Vitónica",
+        "categorias": [
+          "salud"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Xavier Guix, psicólogo: \"¿Qué significa ser demasiado bueno? Hay una serie de patrones de conducta que son comunes en todas esas personas\"",
+        "url": "https://www.elconfidencial.com/alma-corazon-vida/2026-10-28/xavier-guix-psicologo-que-significa-ser-demasiado-bueno-patrones-conducta-1qrt_4454476/",
+        "imagen": "https://images.ecestaticos.com/fULq-N9kqN4WgT78bSKUIxvG45Q=/0x0:1200x800/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fd03%2F987%2F58d%2Fd0398758df46cd7244ce586b9dd10871.jpg",
+        "fecha": "2026-10-28T11:09:00.000Z",
+        "fuenteId": "el-confidencial-alma-corazon-vida",
+        "fuenteTitle": "El Confidencial - Alma, Corazón y Vida",
+        "categorias": [
+          "salud",
+          "hogar",
+          "corazon"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Accidente de tren en Toledo: los vecinos de Los Yébenes se organizan para llevar agua y comida a los pasajeros",
+        "url": "https://www.lavanguardia.com/vida/20261028/11670109/accidente-tren-toledo-vecinos-yebenes-organizan-llevar-agua-comida-pasajeros.html",
+        "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/28/6ae1d6609d543.jpeg",
+        "fecha": "2026-10-28T11:06:40.000Z",
+        "fuenteId": "la-vanguardia-vida",
+        "fuenteTitle": "La Vanguardia - Vida",
+        "categorias": [
+          "actualidad",
+          "salud"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Los entrenadores coinciden: \"Para ganar músculo en los brazos después de los 50 no necesitas levantar grandes pesos. La clave está en la constancia\"",
         "url": "https://www.vitonica.com/entrenamiento/entrenadores-coinciden-para-ganar-musculo-brazos-despues-50-no-necesitas-levantar-grandes-pesos-clave-esta-constancia",
@@ -3610,6 +3669,19 @@
         "fuenteId": "vitonica",
         "fuenteTitle": "Vitónica",
         "categorias": [
+          "salud"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Las impactantes imágenes aéreas del accidente de trenes en Urda grabadas por la Guardia Civil",
+        "url": "https://www.lavanguardia.com/vida/20261028/11670074/impactantes-imagenes-aereas-accidente-trenes-urda-grabadas-guardia-civil.html",
+        "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/28/6ae1cdbe355ea.jpeg",
+        "fecha": "2026-10-28T10:58:46.000Z",
+        "fuenteId": "la-vanguardia-vida",
+        "fuenteTitle": "La Vanguardia - Vida",
+        "categorias": [
+          "actualidad",
           "salud"
         ],
         "idioma": "es"
@@ -3784,85 +3856,22 @@
           "salud"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "Diego Trebujena, pescadero: el mejor pescado para comprar no es el salvaje, sino uno de estero porque tiene más grasa",
-        "url": "https://www.vitonica.com/alimentos/diego-trebujena-pescadero-mejor-pescado-para-comprar-no-salvaje-sino-uno-estero-porque-tiene-grasa",
-        "imagen": "https://i.blogs.es/e711f3/dogan-alpaslan-demir-ky9x9649hsw-unsplash/1024_2000.jpeg",
-        "fecha": "2026-10-28T09:01:28.000Z",
-        "fuenteId": "vitonica",
-        "fuenteTitle": "Vitónica",
-        "categorias": [
-          "salud"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Colas en Decathlon para hacerse con las Altra Experience Flow 3 que lleva Hugh Jackman a sus 58 años: unas zapatillas cómodas y bonitas para caminar por la ciudad",
-        "url": "https://www.vitonica.com/ecommerce/colas-decathlon-para-hacerse-altra-experience-flow-3-que-lleva-hugh-jackman-a-sus-58-anos-unas-zapatillas-comodas-bonitas-para-caminar-ciudad",
-        "imagen": "https://i.blogs.es/ad0ac8/hug/1024_2000.jpeg",
-        "fecha": "2026-10-28T08:46:00.000Z",
-        "fuenteId": "vitonica",
-        "fuenteTitle": "Vitónica",
-        "categorias": [
-          "salud"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Choque de trenes en Urda (Toledo), última hora en directo: dos vagones caen por un terraplén y Adif corta el AVE Madrid-Andalucía",
-        "url": "https://www.lavanguardia.com/vida/20261028/11669968/choque-de-trenes-urda-toledo-ave-madrid-andalucia-ultima-hora-hoy-en-directo.html",
-        "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/01/22/697161b5e3559.r_d.4176-3475-0.jpeg",
-        "fecha": "2026-10-28T08:42:18.000Z",
-        "fuenteId": "la-vanguardia-vida",
-        "fuenteTitle": "La Vanguardia - Vida",
-        "categorias": [
-          "actualidad",
-          "salud"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El Govern ve “legítimas” las demandas de los médicos y sitúa la huelga en el marco estatal",
-        "url": "https://www.lavanguardia.com/vida/20261028/11669951/govern-ve-legitimas-demandas-medicos-situa-huelga-marco-estatal.html",
-        "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/28/6ae1b33f46a57.r_d.1931-1489-0.jpeg",
-        "fecha": "2026-10-28T08:35:53.000Z",
-        "fuenteId": "la-vanguardia-vida",
-        "fuenteTitle": "La Vanguardia - Vida",
-        "categorias": [
-          "actualidad",
-          "salud"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El choque de dos trenes en Toledo obliga a interrumpir la línea de alta velocidad Madrid-Andalucía",
-        "url": "https://www.lavanguardia.com/vida/20261028/11669949/suspendida-circulacion-linea-alta-velocidad-madrid-andalucia-alcance-dos-trenes.html",
-        "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/09/15/68c7edacac19a.jpeg",
-        "fecha": "2026-10-28T08:21:58.000Z",
-        "fuenteId": "la-vanguardia-vida",
-        "fuenteTitle": "La Vanguardia - Vida",
-        "categorias": [
-          "actualidad",
-          "salud"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Doctor John Hawley: “Para determinas personas caminar rápido durante un tramo y bajar el ritmo para recuperarse puede ser un tipo de HIIT”",
-        "url": "https://www.runnersworld.com/es/training/a74231443/doctor-john-hawley-para-determinas-personas-caminar-rapido-durante-un-tramo-y-bajar-el-ritmo-para-recuperarse-puede-ser-un-tipo-de-hiit/",
-        "imagen": "https://hips.hearstapps.com/hmg-prod/images/e4fa46a9-c8b6-4615-8a7a-d824be291427.jpg",
-        "fecha": "2026-10-28T07:51:00.000Z",
-        "fuenteId": "runners-world-espana",
-        "fuenteTitle": "Runner's World España",
-        "categorias": [
-          "deportes",
-          "salud"
-        ],
-        "idioma": "es"
       }
     ],
     "sucesos": [
+      {
+        "titulo": "El Senado suspende su agenda institucional de hoy y mañana por al accidente de Toledo",
+        "url": "https://www.europapress.es/nacional/noticia-senado-suspende-agenda-institucional-hoy-manana-accidente-toledo-20261028122430.html",
+        "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20261028122430_120.jpg",
+        "fecha": "2026-10-28T11:24:30.000Z",
+        "fuenteId": "europa-press-sucesos",
+        "fuenteTitle": "Europa Press - Sucesos",
+        "categorias": [
+          "sucesos",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "CLM dice que todos los heridos han sido evacuados de los trenes y hacen un llamamiento a donar sangre",
         "url": "https://www.europapress.es/nacional/noticia-clm-dice-todos-heridos-sido-evacuados-trenes-hacen-llamamiento-donar-sangre-20261028114953.html",
@@ -4109,19 +4118,6 @@
           "actualidad"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "Policías y guardias civiles abandonan la sede de Interior tras ser \"desalojados\" y \"ninguneados\" por el Gobierno",
-        "url": "https://www.europapress.es/nacional/noticia-policias-guardia-civiles-abandonan-sede-interior-ser-desalojados-ninguneados-gobierno-20261028075134.html",
-        "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20261028075134_120.jpg",
-        "fecha": "2026-10-28T06:51:34.000Z",
-        "fuenteId": "europa-press-sucesos",
-        "fuenteTitle": "Europa Press - Sucesos",
-        "categorias": [
-          "sucesos",
-          "actualidad"
-        ],
-        "idioma": "es"
       }
     ],
     "tecnologia": [
@@ -4139,6 +4135,19 @@
         "idioma": "es"
       },
       {
+        "titulo": "Esta web reúne más de 200 ports no oficiales para jugar en PC a exclusivos de consola",
+        "url": "https://www.avpasion.com/recomplauncher-recopila-mas-200-ports-consola-pc/",
+        "imagen": "",
+        "fecha": "2026-10-28T11:30:33.000Z",
+        "fuenteId": "avpasion",
+        "fuenteTitle": "AVPasión",
+        "categorias": [
+          "tecnologia",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "El Lepas AURA es un GT de radical imagen que enseña la fórmula de diseño para la siguiente fase de la Audi de Chery",
         "url": "https://www.diariomotor.com/noticia/diseno-lepas-aura/",
         "imagen": "https://www.diariomotor.com/imagenes/2026/10/Lepas-Aura-diseno-12-6ae1bb098366b.jpg?class=XL",
@@ -4152,6 +4161,121 @@
         "idioma": "es"
       },
       {
+        "titulo": "Los memes que marcaron los 2000 están de vuelta: Firefox reúne a las leyendas de YouTube para un nuevo anuncio",
+        "url": "https://www.vidaextra.com/industria/memes-que-marcaron-2000-estan-vuelta-firefox-reune-a-leyendas-youtube-para-nuevo-anuncio",
+        "imagen": "https://i.blogs.es/8d5376/firefox/1024_2000.jpeg",
+        "fecha": "2026-10-28T11:25:53.000Z",
+        "fuenteId": "vidaextra",
+        "fuenteTitle": "Vida Extra",
+        "categorias": [
+          "tecnologia",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "SkyboundTOTK, el port nativo no oficial de Zelda: Tears of the Kingdom para PC, ya tiene versión beta",
+        "url": "https://www.profesionalreview.com/2026/10/28/skyboundtotk-el-port-nativo-no-oficial-de-zelda-tears-of-the-kingdom-para-pc-ya-tiene-version-beta/",
+        "imagen": "https://www.profesionalreview.com/wp-content/uploads/2026/10/Zelda.jpg",
+        "fecha": "2026-10-28T11:24:50.000Z",
+        "fuenteId": "profesional-review",
+        "fuenteTitle": "Profesional Review",
+        "categorias": [
+          "tecnologia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "China acaba de modernizar (aún más) su potente bombardero estratégico: ahora podrá interferir en los radares enemigos",
+        "url": "https://www.larazon.es/tecnologia-consumo/china-acaba-modernizar-aun-su-potente-bombardero-estrategico-ahora-podra-interferir-radares-enemigos_202610286ae1b5dd004b78127ab6b56d.html",
+        "imagen": "https://fotografias-2.larazon.es/clipping/cmsimages02/2026/10/28/63944A41-6191-4ED6-B04D-2E42341B82B8/bombardero-estrategico-h-6k_96.jpg?crop=1707,960,x0,y60&amp;width=1200&amp;height=675&amp;optimize=low&amp;format=webply",
+        "fecha": "2026-10-28T11:22:00.000Z",
+        "fuenteId": "andro4all",
+        "fuenteTitle": "Andro4all",
+        "categorias": [
+          "tecnologia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Amazon vende el gorro perfecto para escuchar música en invierno. Tiene Bluetooth y linterna",
+        "url": "https://www.xataka.com/seleccion/amazon-vende-gorro-perfecto-para-escuchar-musica-invierno-tiene-bluetooth-linterna",
+        "imagen": "https://i.blogs.es/e8beec/gorro-zooi/1024_2000.jpeg",
+        "fecha": "2026-10-28T11:18:43.000Z",
+        "fuenteId": "xataka",
+        "fuenteTitle": "Xataka",
+        "categorias": [
+          "tecnologia",
+          "ciencia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Caos y angustia en Atocha: \"No puede ser, otra vez. Parece una pesadilla\"",
+        "url": "https://www.elmundo.es/madrid/2026/10/28/6ae1d8e5e9cf4ab1088b45f2.html",
+        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/28/17931860460185.jpg",
+        "fecha": "2026-10-28T11:14:31.000Z",
+        "fuenteId": "el-mundo",
+        "fuenteTitle": "El Mundo",
+        "categorias": [
+          "actualidad",
+          "tecnologia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El tren Iryo alertó al centro de control que estaba detenido por un fallo del sistema LZB de señalización de la vía antes de ser embestido por el AVE",
+        "url": "https://www.elmundo.es/economia/2026/10/28/6ae1c9a1e9cf4a372d8b45ae.html",
+        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/28/17931854518528.jpg",
+        "fecha": "2026-10-28T11:10:43.000Z",
+        "fuenteId": "el-mundo",
+        "fuenteTitle": "El Mundo",
+        "categorias": [
+          "actualidad",
+          "tecnologia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Abascal, único líder que mantiene sus mítines electorales pese a la tragedia",
+        "url": "https://elpais.com/espana/2026-10-28/abascal-unico-lider-que-mantiene-sus-mitines-electorales-pese-a-la-tragedia.html",
+        "imagen": "https://imagenes.elpais.com/resizer/v2/A5XO7V5T75JDLEXXDPTMWPPHN4.jpg?auth=233982d187e60af07694c957684fb1d4839c4569febbc6f4554727681e1ce16e",
+        "fecha": "2026-10-28T11:09:48.000Z",
+        "fuenteId": "el-pais",
+        "fuenteTitle": "El País",
+        "categorias": [
+          "actualidad",
+          "tecnologia",
+          "ciencia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Qué es Shamonda, el virus del ganado que se ha detectado por primera vez en una persona",
+        "url": "https://quo.eldiario.es/salud/q2610526014/que-es-shamonda-el-virus-del-ganado-que-se-ha-detectado-por-primera-vez-en-una-persona",
+        "imagen": "https://quo.eldiario.es/wp-content/uploads/2026/10/pexels-murilo-fonseca-14867612-13947442-576x1024.jpg",
+        "fecha": "2026-10-28T11:08:48.000Z",
+        "fuenteId": "quo",
+        "fuenteTitle": "Quo",
+        "categorias": [
+          "ciencia",
+          "tecnologia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "DeepMind presenta Genie 4, su nuevo modelo de IA que promete unas físicas y seres humanos 100% realistas",
+        "url": "https://computerhoy.20minutos.es/tecnologia/deepmind-presenta-genie-4-su-nuevo-modelo-ia-que-promete-unas-fisicas-seres-humanos-100-realistas_7054298_0.html",
+        "imagen": "https://imagenes.computerhoy.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/28/6ae1d72f2b0584-41526756.jpeg",
+        "fecha": "2026-10-28T11:06:31.000Z",
+        "fuenteId": "computer-hoy",
+        "fuenteTitle": "Computer Hoy",
+        "categorias": [
+          "tecnologia"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Razer Reclusa Mini 65%, un teclado con interruptores magnéticos intercambiables de efecto Hall",
         "url": "https://www.profesionalreview.com/2026/10/28/razer-reclusa-mini-65-un-teclado-con-interruptores-magneticos-intercambiables-de-efecto-hall/",
         "imagen": "https://www.profesionalreview.com/wp-content/uploads/2026/10/Main-KV.png",
@@ -4159,6 +4283,19 @@
         "fuenteId": "profesional-review",
         "fuenteTitle": "Profesional Review",
         "categorias": [
+          "tecnologia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "La tragedia en Urda consterna a toda España y llega fuera de nuestras fronteras: \"Hoy Europa llora con vosotros\"",
+        "url": "https://www.elmundo.es/espana/2026/10/28/6ae1d4e3e4d4d8d4588b45c9.html",
+        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/28/17931850520190.jpg",
+        "fecha": "2026-10-28T11:04:06.000Z",
+        "fuenteId": "el-mundo",
+        "fuenteTitle": "El Mundo",
+        "categorias": [
+          "actualidad",
           "tecnologia"
         ],
         "idioma": "es"
@@ -4236,151 +4373,6 @@
         "fuenteTitle": "Xataka Smart Home",
         "categorias": [
           "tecnologia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Sonido espacial para PS5, Xbox y PC a precio mínimo: los SteelSeries Arctis Nova 1 caen un 43% en Amazon",
-        "url": "https://hardzone.es/ofertas/pc-componentes/auriculares-gaming-steelseries-arctics-nova-1026/",
-        "imagen": "https://hardzone.es/app/uploads-hardzone.es/2026/10/steelseries-arctis-nova-1.jpg",
-        "fecha": "2026-10-28T11:00:10.000Z",
-        "fuenteId": "hardzone",
-        "fuenteTitle": "HardZone",
-        "categorias": [
-          "tecnologia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Mientras España sigue obsesionada con las chinas, en 2027 llega una nueva japonesa premium, pero barata, la verdadera Ténéré de Kawasaki",
-        "url": "https://www.diariomotor.com/motos/kawasaki-kle650/",
-        "imagen": "https://www.diariomotor.com/imagenes/2026/10/kawasaki-kle650-6ae1aee3c08ad.jpg?class=XL",
-        "fecha": "2026-10-28T11:00:05.000Z",
-        "fuenteId": "diariomotor",
-        "fuenteTitle": "Diariomotor",
-        "categorias": [
-          "tecnologia",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El tirón del Galaxy Z Fold 8 da alas a Samsung: el Galaxy Z Fold 9 podría tener un hermano mayor o una versión más asequible",
-        "url": "https://www.larazon.es/tecnologia-consumo/samsung-galaxy-z/samsung-galaxy-z-fold-9-wide-plus-fe-version-barata-grande-2027_202610286ae1cbd5004b78127ab6d367.html",
-        "imagen": "https://fotografias-2.larazon.es/clipping/cmsimages02/2026/10/28/6F6A3EAF-187D-4795-82D5-9C417D31A029/trasera-samsung-galaxy-z-fold8-tiene-estetica-limpia-minimalista-modulo-camaras-no-sobresale-exceso-fotografia-ruben-ulloa_96.jpg?crop=2048,1152,x0,y0&amp;width=1200&amp;height=675&amp;optimize=low&amp;format=webply",
-        "fecha": "2026-10-28T11:00:00.000Z",
-        "fuenteId": "andro4all",
-        "fuenteTitle": "Andro4all",
-        "categorias": [
-          "tecnologia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "¿Se puede enviar un olor por internet? Así funciona la nariz electrónica con IA",
-        "url": "https://quo.eldiario.es/tecnologia/q2610560245/se-puede-enviar-un-olor-por-internet-asi-funciona-la-nariz-electronica-con-ia",
-        "imagen": "https://quo.eldiario.es/wp-content/uploads/2026/10/pexels-tim-douglas-6205741-1-683x1024.jpg",
-        "fecha": "2026-10-28T10:59:51.000Z",
-        "fuenteId": "quo",
-        "fuenteTitle": "Quo",
-        "categorias": [
-          "ciencia",
-          "tecnologia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Cuando estudiar y seguir jugando es compatible",
-        "url": "https://elpais.com/deportes/donde-juega-la-emocion/2026-10-28/cuando-estudiar-y-seguir-jugando-es-compatible.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/6PB75IF5EVHYXOMJZ2F22VLNC4.jpg?auth=76853cb15809c6b3466f31dcaef497b6372c0cfce45f720a46370c134f8b35e1",
-        "fecha": "2026-10-28T10:56:33.000Z",
-        "fuenteId": "el-pais",
-        "fuenteTitle": "El País",
-        "categorias": [
-          "actualidad",
-          "tecnologia",
-          "ciencia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Qué es el LZB, el sistema de seguridad que supuestamente ha fallado en el accidente de un AVE y un Iryo en Toledo",
-        "url": "https://www.xataka.com/movilidad/que-lzb-sistema-seguridad-que-supuestamente-ha-fallado-accidente-ave-iryo-toledo",
-        "imagen": "https://i.blogs.es/384d52/vista-aerea-del-rescate-ferroviario-en-toledo/1024_2000.png",
-        "fecha": "2026-10-28T10:53:56.000Z",
-        "fuenteId": "xataka",
-        "fuenteTitle": "Xataka",
-        "categorias": [
-          "tecnologia",
-          "ciencia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Alquilar una habitación sin contrato ni garantías a los 50, una ‘estrategia’ para sobrevivir frente a la crisis de vivienda",
-        "url": "https://elpais.com/sociedad/2026-10-28/alquilar-una-habitacion-sin-contrato-ni-garantias-a-los-50-una-estrategia-para-sobrevivir-frente-a-la-crisis-de-vivienda.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/VAIOM5OYF5ARTFPG6BYGXTBFEA.jpg?auth=5fac1f971fc9080db12eb18190b3e3c6ed3081d86e29be194a07bc906cd6bd89",
-        "fecha": "2026-10-28T10:51:37.000Z",
-        "fuenteId": "el-pais",
-        "fuenteTitle": "El País",
-        "categorias": [
-          "actualidad",
-          "tecnologia",
-          "ciencia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Barry Keoghan promociona un tratamiento cosmético de 3.100 euros meses después de denunciar acoso por su aspecto físico",
-        "url": "https://elpais.com/gente/2026-10-28/barry-keoghan-promociona-un-tratamiento-cosmetico-de-3100-euros-meses-despues-de-denunciar-acoso-por-su-aspecto-fisico.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/7E75TZIWYVEC3POLZ6I26OJMFU.jpg?auth=858873838a17d031da53e8094d734079c9f8a822ca299656d005cc68a7b7031e",
-        "fecha": "2026-10-28T10:50:15.000Z",
-        "fuenteId": "el-pais",
-        "fuenteTitle": "El País",
-        "categorias": [
-          "actualidad",
-          "tecnologia",
-          "ciencia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Malas noticias si esperas más Mass Effect: La última vez que EA vendió una IP, BioWare ni siquiera formaba parte de la compañía",
-        "url": "https://areajugones.sport.es/videojuegos/malas-noticias-si-esperas-mas-mass-effect-la-ultima-vez-que-ea-vendio-una-ip-bioware-ni-siquiera-formaba-parte-de-la-compania/",
-        "imagen": "https://areajugones.sport.es/wp-content/uploads/2026/10/ea-bioware-1024x576.png",
-        "fecha": "2026-10-28T10:47:21.000Z",
-        "fuenteId": "areajugones",
-        "fuenteTitle": "Areajugones",
-        "categorias": [
-          "tecnologia",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Star Wars: Starfighter apunta a ser el regreso de Eva Mendes al cine en acción real tras más de 12 años",
-        "url": "https://www.hobbyconsolas.com/hobbycine/star-wars-starfighter-apunta-ser-regreso-eva-mendes-cine-accion-real-tras-mas-12-anos_7054380_0.html",
-        "imagen": "https://imagenes.hobbyconsolas.com/files/image_1920_1080/uploads/imagenes/2026/10/28/6ae1ca1ea42a28-73755336.jpeg",
-        "fecha": "2026-10-28T10:44:14.000Z",
-        "fuenteId": "hobby-consolas",
-        "fuenteTitle": "Hobby Consolas",
-        "categorias": [
-          "tecnologia",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Heridos junto a la vía y guardias civiles intentando abrir los vagones: las imágenes grabadas por un pasajero tras el choque de trenes de Toledo",
-        "url": "https://elpais.com/espana/2026-10-28/heridos-junto-a-la-via-y-guardias-civiles-intentando-abrir-los-vagones-las-imagenes-grabadas-por-un-pasajero-tras-el-choque-de-trenes-de-toledo.html",
-        "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261028/1230917_103359_video_1800.mp4",
-        "fecha": "2026-10-28T10:43:19.000Z",
-        "fuenteId": "el-pais",
-        "fuenteTitle": "El País",
-        "categorias": [
-          "actualidad",
-          "tecnologia",
-          "ciencia"
         ],
         "idioma": "es"
       }
