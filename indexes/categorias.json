@@ -1,8 +1,21 @@
 {
-  "generado": "2026-10-29T02:54:32.754Z",
+  "generado": "2026-10-29T03:06:24.184Z",
   "limitePorCategoria": 20,
   "categorias": {
     "actualidad": [
+      {
+        "titulo": "El centro de control ordenó al maquinista del AVE \"reanudar con marcha normal\" minutos antes del accidente de Urda",
+        "url": "https://www.huffingtonpost.es/sociedad/el-centro-control-ordeno-maquinista-ave-reanudar-marcha-normal-minutos-accidente-urda-f202610.html",
+        "imagen": "",
+        "fecha": "2026-10-29T02:12:09.000Z",
+        "fuenteId": "huffpost-espana",
+        "fuenteTitle": "HuffPost España",
+        "categorias": [
+          "actualidad",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "¿Por qué Israel no puede sobrevivir sin que Netanyahu asuma sus responsabilidades?",
         "url": "https://www.abc.es/internacional/pedro-rodriguez-israel-puede-sobrevivir-netanyahu-asuma-responsabilidades-20261028020617-nt.html",
@@ -144,6 +157,18 @@
         "idioma": "es"
       },
       {
+        "titulo": "La reflexión de Alsina: \"Hay que hacerse cargo del estado anímico de la sociedad española\"",
+        "url": "https://www.20minutos.es/television/reflexion-alsina-hay-que-hacerse-cargo-estado-animico-sociedad-espanola_7054749_3.html",
+        "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/29/6ae2955db0cce3-48686473.png",
+        "fecha": "2026-10-29T00:45:36.000Z",
+        "fuenteId": "20minutos",
+        "fuenteTitle": "20minutos",
+        "categorias": [
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "¿Y si los cometas no sembraron la vida en la Tierra?",
         "url": "https://www.abc.es/ciencia/cometas-sembraron-vida-tierra-20261028110000-nt.html",
         "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/10/28/cometasvida-RDyjJmxQUL67gv78y3pWGsJ-1200x840@diario_abc.jpg",
@@ -220,31 +245,6 @@
         "url": "https://www.abc.es/economia/gobierno-racaneo-inversion-ferroviaria-prevista-2021-2025-20261029013125-nt.html",
         "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/29/obras%20trenes%20EP-R0IJebf0gKpOqndNq5PXC6K-1200x840@diario_abc.jpg",
         "fecha": "2026-10-29T00:31:25.000Z",
-        "fuenteId": "abc",
-        "fuenteTitle": "ABC",
-        "categorias": [
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La tragedia de Urda ocurre con la investigación de Adamuz con pocos avances y pruebas claves en un cajón",
-        "url": "https://www.abc.es/espana/tragedia-urda-ocurre-investigacion-adamuz-pocos-avances-20261028012916-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/28/1507919192-R7RlplaAFhXXRHlwD6GVfaP-1200x840@diario_abc.jpg",
-        "fecha": "2026-10-29T00:29:29.000Z",
-        "fuenteId": "abc-espana",
-        "fuenteTitle": "ABC - España",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Adamuz y Urda: el infierno, dos veces",
-        "url": "https://www.abc.es/espana/adamuz-urda-infierno-dos-veces-20261029012848-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/29/1519443719-kuYD-U4061043369dyG-1200x840@diario_abc.JPG",
-        "fecha": "2026-10-29T00:29:25.000Z",
         "fuenteId": "abc",
         "fuenteTitle": "ABC",
         "categorias": [
@@ -1288,6 +1288,30 @@
     ],
     "economia": [
       {
+        "titulo": "EVP de Voya Financial Ogle vende 200.530 dólares en acciones de la empresa",
+        "url": "https://es.investing.com/news/insider-trading-news/evp-de-voya-financial-ogle-vende-200530-dolares-en-acciones-de-la-empresa-93CH-3896407",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM40318_1200_L.jpg",
+        "fecha": "2026-10-29T02:02:23.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "¿Por qué cae hoy la acción de Samsung Electronics?",
+        "url": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-samsung-electronics-93CH-3896406",
+        "imagen": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg",
+        "fecha": "2026-10-29T02:01:53.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "JELD-WEN lanza oferta de canje de deuda para pagarés preferentes 2027",
         "url": "https://es.investing.com/news/company-news/jeldwen-lanza-oferta-de-canje-de-deuda-para-pagares-preferentes-2027-93CH-3896405",
         "imagen": "https://content-media.investing.com/news/LYNXMPEM4J18N_1200_L.jpg",
@@ -1502,33 +1526,22 @@
           "economia"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "Mastercard y Visa, ante una demanda de 6.000 millones en Reino Unido",
-        "url": "https://www.expansion.com/empresas/banca/2026/10/29/mastercard-visa-demanda-6-000-millones-reino-unido.html",
-        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/29/17932352336893.jpg",
-        "fecha": "2026-10-29T00:54:04.000Z",
-        "fuenteId": "expansion",
-        "fuenteTitle": "Expansión",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Conductos, la última batalla regulatoria de las 'telecos' españolas",
-        "url": "https://www.expansion.com/empresas/telecomunicaciones/2026/10/29/conductos-ultima-batalla-regulatoria-telecos-espanolas.html",
-        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/29/17932352180648.jpg",
-        "fecha": "2026-10-29T00:53:43.000Z",
-        "fuenteId": "expansion",
-        "fuenteTitle": "Expansión",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
       }
     ],
     "entretenimiento": [
+      {
+        "titulo": "El centro de control ordenó al maquinista del AVE \"reanudar con marcha normal\" minutos antes del accidente de Urda",
+        "url": "https://www.huffingtonpost.es/sociedad/el-centro-control-ordeno-maquinista-ave-reanudar-marcha-normal-minutos-accidente-urda-f202610.html",
+        "imagen": "",
+        "fecha": "2026-10-29T02:12:09.000Z",
+        "fuenteId": "huffpost-espana",
+        "fuenteTitle": "HuffPost España",
+        "categorias": [
+          "actualidad",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Russell Brand declara en su juicio: \"Tuve una vida muy promiscua. Estaba obsesionado con el sexo cuando era joven\"",
         "url": "https://www.elespanol.com/corazon/celebrities/20261029/russell-brand-declara-juicio-vida-promiscua-obsesionado-sexo-joven/1003744438450_0.html",
@@ -1770,19 +1783,6 @@
         "fuenteTitle": "HuffPost España",
         "categorias": [
           "actualidad",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Jorge de Juan anuncia que padece cáncer de páncreas: \"No sé cuánto tiempo me queda. Espero que mucho\"",
-        "url": "https://www.diezminutos.es/famosos-corazon/famosos-espanoles/a74276626/jorge-de-juan-cancer-pancreas/",
-        "imagen": "https://hips.hearstapps.com/hmg-prod/images/931dedf8-7a4b-4476-ac74-7cb3ac1f2796.jpg",
-        "fecha": "2026-10-28T21:20:00.000Z",
-        "fuenteId": "diez-minutos",
-        "fuenteTitle": "Diez Minutos",
-        "categorias": [
-          "corazon",
           "entretenimiento"
         ],
         "idioma": "es"
@@ -2308,12 +2308,38 @@
     ],
     "internacional": [
       {
+        "titulo": "Haití aplaza sus primeras elecciones presidenciales en una década para julio de 2027",
+        "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261029-hait%C3%AD-aplaza-sus-primeras-elecciones-presidenciales-en-una-d%C3%A9cada-para-julio-de-2027",
+        "imagen": "https://s.france24.com/media/display/853eae6e-c3ff-11f0-90f3-005056bf30b7/w:1024/p:16x9/AP25273852357905.jpg",
+        "fecha": "2026-10-29T02:35:25.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "España: la seguridad ferroviaria en entredicho tras el segundo accidente mortal en un año",
         "url": "https://www.france24.com/es/europa/20261029-espa%C3%B1a-la-seguridad-ferroviaria-en-entredicho-tras-el-segundo-accidente-mortal-en-un-a%C3%B1o",
         "imagen": "https://s.france24.com/media/display/e383047e-d336-11f1-bea1-efcc5769f1db/w:1024/p:16x9/2026-10-28T121228Z-1472477851-RC2BCOA54SHX-RTRMADP-3-SPAIN-ACCIDENT.jpg",
         "fecha": "2026-10-29T02:06:31.000Z",
         "fuenteId": "france24-espanol",
         "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Irán advierte de “impacto devastador” si se reinician hostilidades en Medio Oriente",
+        "url": "https://www.dw.com/es/irán-advierte-de-impacto-devastador-si-se-reinician-hostilidades-en-medio-oriente/a-79791764?maca=spa-rss-sp-all-1122-xml-mrss",
+        "imagen": "",
+        "fecha": "2026-10-29T01:54:00.000Z",
+        "fuenteId": "dw-espanol",
+        "fuenteTitle": "DW Español",
         "categorias": [
           "internacional",
           "politica"
@@ -2537,32 +2563,6 @@
         "fuenteTitle": "Euronews Español",
         "categorias": [
           "internacional"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "¿Y si los demócratas le arrebatan el Congreso a Trump?",
-        "url": "https://www.elmundo.es/internacional/2026/10/29/6ae20ff3fdddffa31a8b45a2.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/28/17932050190666.jpg",
-        "fecha": "2026-10-28T23:01:56.000Z",
-        "fuenteId": "el-mundo-internacional",
-        "fuenteTitle": "El Mundo - Internacional",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "María Corina Machado visita la zona devastada de La Guaira por el doble terremoto",
-        "url": "https://www.abc.es/internacional/maria-corina-machado-visita-zona-devastada-guaira-20261028231025-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/28/1519450941-khEI-U4064968253Z4G-1200x840@diario_abc.JPG",
-        "fecha": "2026-10-28T22:14:45.000Z",
-        "fuenteId": "abc-internacional",
-        "fuenteTitle": "ABC - Internacional",
-        "categorias": [
-          "internacional",
-          "actualidad"
         ],
         "idioma": "es"
       }
@@ -3323,12 +3323,38 @@
     ],
     "politica": [
       {
+        "titulo": "Haití aplaza sus primeras elecciones presidenciales en una década para julio de 2027",
+        "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261029-hait%C3%AD-aplaza-sus-primeras-elecciones-presidenciales-en-una-d%C3%A9cada-para-julio-de-2027",
+        "imagen": "https://s.france24.com/media/display/853eae6e-c3ff-11f0-90f3-005056bf30b7/w:1024/p:16x9/AP25273852357905.jpg",
+        "fecha": "2026-10-29T02:35:25.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "España: la seguridad ferroviaria en entredicho tras el segundo accidente mortal en un año",
         "url": "https://www.france24.com/es/europa/20261029-espa%C3%B1a-la-seguridad-ferroviaria-en-entredicho-tras-el-segundo-accidente-mortal-en-un-a%C3%B1o",
         "imagen": "https://s.france24.com/media/display/e383047e-d336-11f1-bea1-efcc5769f1db/w:1024/p:16x9/2026-10-28T121228Z-1472477851-RC2BCOA54SHX-RTRMADP-3-SPAIN-ACCIDENT.jpg",
         "fecha": "2026-10-29T02:06:31.000Z",
         "fuenteId": "france24-espanol",
         "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Irán advierte de “impacto devastador” si se reinician hostilidades en Medio Oriente",
+        "url": "https://www.dw.com/es/irán-advierte-de-impacto-devastador-si-se-reinician-hostilidades-en-medio-oriente/a-79791764?maca=spa-rss-sp-all-1122-xml-mrss",
+        "imagen": "",
+        "fecha": "2026-10-29T01:54:00.000Z",
+        "fuenteId": "dw-espanol",
+        "fuenteTitle": "DW Español",
         "categorias": [
           "internacional",
           "politica"
@@ -3550,32 +3576,6 @@
         "fecha": "2026-10-28T23:52:44.000Z",
         "fuenteId": "el-mundo-internacional",
         "fuenteTitle": "El Mundo - Internacional",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Muere juez estadounidense de 92 años que llevaba el caso de Maduro",
-        "url": "https://www.dw.com/es/muere-juez-estadounidense-de-92-años-que-llevaba-el-caso-de-maduro/a-79791600?maca=spa-rss-sp-all-1122-xml-mrss",
-        "imagen": "",
-        "fecha": "2026-10-28T23:39:00.000Z",
-        "fuenteId": "dw-espanol",
-        "fuenteTitle": "DW Español",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Cómo las \"duras políticas\" de Ben-Gvir impulsaron el voto árabe en Israel: 'The Times of Israel'",
-        "url": "https://www.france24.com/es/programas/revista-de-prensa/20261028-c%C3%B3mo-las-duras-pol%C3%ADticas-de-ben-gvir-impulsaron-el-voto-%C3%A1rabe-en-israel-the-times-of-israel",
-        "imagen": "https://s.france24.com/media/display/48f02748-d2fa-11f1-89f9-47de50b3c1e4/w:1024/p:16x9/ES-20261028-121949-122927-CS.jpg",
-        "fecha": "2026-10-28T23:34:58.000Z",
-        "fuenteId": "france24-espanol",
-        "fuenteTitle": "France 24 Español",
         "categorias": [
           "internacional",
           "politica"
