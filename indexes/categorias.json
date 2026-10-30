@@ -1,8 +1,20 @@
 {
-  "generado": "2026-10-30T04:05:22.398Z",
+  "generado": "2026-10-30T04:35:22.812Z",
   "limitePorCategoria": 20,
   "categorias": {
     "actualidad": [
+      {
+        "titulo": "Dos acertantes de la Primitiva se llevan más de 22,5 millones de euros cada uno",
+        "url": "https://www.20minutos.es/nacional/dos-acertantes-primitiva-se-llevan-mas-22-5-millones-euros-cada-uno_7055264_0.html",
+        "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2023/07/21/li_boleto-loteria-primitiva.jpeg",
+        "fecha": "2026-10-30T03:25:49.000Z",
+        "fuenteId": "20minutos",
+        "fuenteTitle": "20minutos",
+        "categorias": [
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Santa-Olalla, el arqueólogo español al servicio de Hitler",
         "url": "https://www.abc.es/podcast/estamos-en-la-historia/santaolalla-arqueologo-espanol-servicio-hitler-20261029024500-aud.html",
@@ -234,18 +246,6 @@
         "url": "https://www.abc.es/cultura/teatros/critica-teatro-panorama-des-pont-tragica-ley-20261027184510-nt.html",
         "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/27/3dbff6b9-82c6-4943-8b5c-1a99e70e9544-RBhEYYRr6nQ0csRMLV1T8LK-1200x840@diario_abc.jpg",
         "fecha": "2026-10-30T00:24:45.000Z",
-        "fuenteId": "abc",
-        "fuenteTitle": "ABC",
-        "categorias": [
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Apuñalan a dos jóvenes tras ser abordados por cuatro encapuchados en Getafe",
-        "url": "https://www.abc.es/espana/madrid/apunalan-dos-jovenes-tras-abordados-cuatro-encapuchados-20261029010420-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/29/policia-getafe123-R4QhGmeAeECNnOby0ZSoddK-1200x840@diario_abc.jpg",
-        "fecha": "2026-10-30T00:23:57.000Z",
         "fuenteId": "abc",
         "fuenteTitle": "ABC",
         "categorias": [
@@ -1284,9 +1284,93 @@
     ],
     "economia": [
       {
+        "titulo": "Las bolsas asiáticas caen por preocupaciones sobre el gasto en IA; el Banco de Japón mantiene los tipos",
+        "url": "https://es.investing.com/news/stock-market-news/las-bolsas-asiaticas-caen-por-preocupaciones-sobre-el-gasto-en-ia-el-banco-de-japon-mantiene-los-tipos-3899657",
+        "imagen": "https://content-media.investing.com/news/LYNXMPEB0M0CA_S.jpg",
+        "fecha": "2026-10-30T03:36:15.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Propietario del 10% de Talos Energy vende acciones por 27,7 millones de dólares",
+        "url": "https://es.investing.com/news/insider-trading-news/propietario-del-10-de-talos-energy-vende-acciones-por-277-millones-de-dolares-93CH-3899655",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM4510G_1200_L.jpg",
+        "fecha": "2026-10-30T03:32:17.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El Banco de Japón mantiene los tipos de interés sin cambios y señala que la inflación ha alcanzado su objetivo",
+        "url": "https://es.investing.com/news/economy-news/el-banco-de-japon-mantiene-los-tipos-de-interes-sin-cambios-y-senala-que-la-inflacion-ha-alcanzado-su-objetivo-3899652",
+        "imagen": "https://content-media.investing.com/news/LYNXNPEC2L077_M.jpg",
+        "fecha": "2026-10-30T03:21:08.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Las divisas asiáticas, mixtas mientras el dólar retrocede y el yen se estabiliza antes de la decisión del BOJ",
+        "url": "https://es.investing.com/news/forex-news/las-divisas-asiaticas-mixtas-mientras-el-dolar-retrocede-y-el-yen-se-estabiliza-antes-de-la-decision-del-boj-3899650",
+        "imagen": "https://content-media.investing.com/news/LYNXMPEM4A0SE_1200_L.jpg",
+        "fecha": "2026-10-30T03:13:27.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Binance estima el impacto del incidente de seguridad en unos 6.300 millones de dólares",
+        "url": "https://es.investing.com/news/cryptocurrency-news/binance-estima-el-impacto-del-incidente-de-seguridad-en-unos-6300-millones-de-dolares-432SI-3899649",
+        "imagen": "https://content-media.investing.com/news/Cryptocurrencies_800x533_L_1556444885.jpg",
+        "fecha": "2026-10-30T03:12:02.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Nuestra IA lo sabía: +72%, +60%, +59% - estas acciones siguen subiendo",
+        "url": "https://es.investing.com/news/stock-market-news/nuestra-ia-lo-sabia-72-60-59--estas-acciones-siguen-subiendo-3899647",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM6N11N_L.jpg",
+        "fecha": "2026-10-30T03:10:14.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Acción de servicios IT seleccionada por IA sube más de un 15% este mes",
+        "url": "https://es.investing.com/news/stock-market-news/accion-de-servicios-it-seleccionada-por-ia-sube-mas-de-un-15-este-mes-3899654",
+        "imagen": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg",
+        "fecha": "2026-10-30T03:06:25.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "La directora comercial de Eos Energy vende 100.000 dólares en acciones",
         "url": "https://es.investing.com/news/insider-trading-news/la-directora-comercial-de-eos-energy-vende-100000-dolares-en-acciones-93CH-3899646",
-        "imagen": "",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0V4_1200_L.jpg",
         "fecha": "2026-10-30T02:46:58.000Z",
         "fuenteId": "investing-es-noticias",
         "fuenteTitle": "Investing.com España - Noticias",
@@ -1438,93 +1522,22 @@
           "economia"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "Saba Capital Management compra 12.337 dólares en Ellsworth Growth & Income Fund",
-        "url": "https://es.investing.com/news/insider-trading-news/saba-capital-management-compra-12337-dolares-en-ellsworth-growth--income-fund-93CH-3899630",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM40318_1200_L.jpg",
-        "fecha": "2026-10-30T01:46:36.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El petróleo sube ante la posibilidad de nuevas acciones militares de EE.UU. contra Irán",
-        "url": "https://es.investing.com/news/commodities-news/el-petroleo-sube-ante-la-posibilidad-de-nuevas-acciones-militares-de-eeuu-contra-iran-3899629",
-        "imagen": "https://content-media.investing.com/news/LYNXMPEA601BL_M.jpg",
-        "fecha": "2026-10-30T01:40:06.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El director ejecutivo de HF Sinclair, Franklin Myers, compra 1,11 millones de dólares en acciones",
-        "url": "https://es.investing.com/news/insider-trading-news/el-director-ejecutivo-de-hf-sinclair-franklin-myers-compra-111-millones-de-dolares-en-acciones-93CH-3899623",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0WG_1200_L.jpg",
-        "fecha": "2026-10-30T01:16:49.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Director de Stride, Dylan Haggart, compra acciones por 62.187 dólares",
-        "url": "https://es.investing.com/news/insider-trading-news/director-de-stride-dylan-haggart-compra-acciones-por-62187-dolares-93CH-3899622",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM40318_1200_L.jpg",
-        "fecha": "2026-10-30T01:16:45.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El oro ronda los 4.000 dólares ante el PCE y tensiones en Oriente Próximo",
-        "url": "https://es.investing.com/news/commodities-news/el-oro-ronda-los-4000-dolares-ante-el-pce-y-tensiones-en-oriente-proximo-3899624",
-        "imagen": "https://content-media.investing.com/news/LYNXNPEB8N174_M.jpg",
-        "fecha": "2026-10-30T01:16:13.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Anthropic representa más de un tercio de los ingresos de SpaceX en el tercer trimestre",
-        "url": "https://es.investing.com/news/stock-market-news/anthropic-representa-mas-de-un-tercio-de-los-ingresos-de-spacex-en-el-tercer-trimestre-3899620",
-        "imagen": "https://content-media.investing.com/news/LYNXMPEB2N09U_M.jpg",
-        "fecha": "2026-10-30T01:14:51.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "¿Por qué caen las acciones de SpaceX en el mercado fuera de hora?",
-        "url": "https://es.investing.com/news/stock-market-news/por-que-caen-las-acciones-de-spacex-en-el-mercado-fuera-de-hora-93CH-3899619",
-        "imagen": "https://content-media.investing.com/news/LYNXMPECBE0OL_M.jpg",
-        "fecha": "2026-10-30T01:13:02.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
       }
     ],
     "entretenimiento": [
+      {
+        "titulo": "11 juegos confirmados en las últimas horas para Nintendo Switch / Nintendo Switch 2: The Grimm Reapress and the Drearytale Monster y más",
+        "url": "https://www.nintenderos.com/nintendo-switch-2/11-juegos-confirmados-en-las-ultimas-horas-para-nintendo-switch-nintendo-switch-2-the-grimm-reapress-and-the-drearytale-monster-y-mas/",
+        "imagen": "https://i.ytimg.com/vi/vhuWNmqYe5g/hqdefault.jpg",
+        "fecha": "2026-10-30T03:45:55.000Z",
+        "fuenteId": "nintenderos",
+        "fuenteTitle": "Nintenderos",
+        "categorias": [
+          "tecnologia",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Películas y series de estreno en Netflix, HBO Max, Prime Video y Disney+ en el fin de semana de Halloween",
         "url": "https://www.hobbyconsolas.com/hobbycine/peliculas-series-estreno-netflix-hbo-max-prime-video-disney-fin-semana-halloween_7054998_0.html",
@@ -1759,18 +1772,6 @@
         "fecha": "2026-10-29T22:18:28.000Z",
         "fuenteId": "el-televisero",
         "fuenteTitle": "El Televisero",
-        "categorias": [
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Hugo Silva alerta sobre la situación de los actores: \"Aumenta el volumen de producciones pero la mayoría no puede trabajar\"",
-        "url": "https://www.espinof.com/actores-y-actrices/hugo-silva-alerta-situacion-actores-aumenta-volumen-producciones-mayoria-no-puede-trabajar",
-        "imagen": "https://i.blogs.es/75972b/silva1/1024_2000.jpeg",
-        "fecha": "2026-10-29T22:15:28.000Z",
-        "fuenteId": "espinof",
-        "fuenteTitle": "Espinof",
         "categorias": [
           "entretenimiento"
         ],
@@ -4104,6 +4105,19 @@
     ],
     "tecnologia": [
       {
+        "titulo": "11 juegos confirmados en las últimas horas para Nintendo Switch / Nintendo Switch 2: The Grimm Reapress and the Drearytale Monster y más",
+        "url": "https://www.nintenderos.com/nintendo-switch-2/11-juegos-confirmados-en-las-ultimas-horas-para-nintendo-switch-nintendo-switch-2-the-grimm-reapress-and-the-drearytale-monster-y-mas/",
+        "imagen": "https://i.ytimg.com/vi/vhuWNmqYe5g/hqdefault.jpg",
+        "fecha": "2026-10-30T03:45:55.000Z",
+        "fuenteId": "nintenderos",
+        "fuenteTitle": "Nintenderos",
+        "categorias": [
+          "tecnologia",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Películas y series de estreno en Netflix, HBO Max, Prime Video y Disney+ en el fin de semana de Halloween",
         "url": "https://www.hobbyconsolas.com/hobbycine/peliculas-series-estreno-netflix-hbo-max-prime-video-disney-fin-semana-halloween_7054998_0.html",
         "imagen": "https://imagenes.hobbyconsolas.com/files/image_1920_1080/uploads/imagenes/2026/10/13/6acdc95b637503-30891917.jpeg",
@@ -4340,19 +4354,6 @@
         "url": "https://www.elmundo.es/papel/lideres/2026/10/30/6ae31cdde85ece2a0d8b4591.html",
         "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/29/17932916645466.jpg",
         "fecha": "2026-10-29T23:03:10.000Z",
-        "fuenteId": "el-mundo",
-        "fuenteTitle": "El Mundo",
-        "categorias": [
-          "actualidad",
-          "tecnologia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Los bomberos madrileños en el epicentro de la tragedia de Urda: \"Es lo más duro que he vivido; guardártelo es peligroso\"",
-        "url": "https://www.elmundo.es/madrid/2026/10/30/6ae3ab68fdddffc6708b4597.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/29/17933056284327.jpg",
-        "fecha": "2026-10-29T23:02:27.000Z",
         "fuenteId": "el-mundo",
         "fuenteTitle": "El Mundo",
         "categorias": [
