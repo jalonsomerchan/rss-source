@@ -1,8 +1,20 @@
 {
-  "generado": "2026-10-30T02:30:31.941Z",
+  "generado": "2026-10-30T02:42:01.809Z",
   "limitePorCategoria": 20,
   "categorias": {
     "actualidad": [
+      {
+        "titulo": "Santa-Olalla, el arqueólogo español al servicio de Hitler",
+        "url": "https://www.abc.es/podcast/estamos-en-la-historia/santaolalla-arqueologo-espanol-servicio-hitler-20261029024500-aud.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/podcast/2026/10/29/cuadrada-RrtXVDBFiDPZOT4yVijCpEO-1200x1200@diario_abc.jpg",
+        "fecha": "2026-10-30T01:45:00.000Z",
+        "fuenteId": "abc",
+        "fuenteTitle": "ABC",
+        "categorias": [
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "El comité electoral y el servicio de inteligencia descartan un fraude sistemático en Israel",
         "url": "https://theobjective.com/internacional/2026-10-30/comite-electoral-inteligencia-fraude-israel/",
@@ -25,6 +37,18 @@
         "fuenteTitle": "ABC - España",
         "categorias": [
           "politica",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Un año en Marte sin salir de Houston: los cuatro 'tripulantes' de la misión CHAPEA 2 'vuelven' a la Tierra",
+        "url": "https://www.abc.es/ciencia/ano-marte-salir-houston-cuatro-tripulantes-mision-20261031015021-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/10/31/chapeamission2-RwAEkTdwea6OVY85S9CxgvM-1200x840@diario_abc.jpg",
+        "fecha": "2026-10-30T00:50:21.000Z",
+        "fuenteId": "abc",
+        "fuenteTitle": "ABC",
+        "categorias": [
           "actualidad"
         ],
         "idioma": "es"
@@ -222,31 +246,6 @@
         "url": "https://www.abc.es/deportes/futbol/eder-sarabia-peso-pasado-frente-ley-balon-20261029010807-nt.html",
         "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/10/29/edersa-RdCfDi9aBn3VTHhpuCuv4eO-1200x840@diario_abc.jpg",
         "fecha": "2026-10-30T00:23:18.000Z",
-        "fuenteId": "abc",
-        "fuenteTitle": "ABC",
-        "categorias": [
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Tom Brady, en el centro de la ruptura entre Joan Smalls y Candice Swanepoel tras 15 años de amistad",
-        "url": "https://www.lavanguardia.com/gente/20261030/11671797/tom-brady-centro-ruptura-joan-smalls-candice-swanepoel-15-anos-amistad.html",
-        "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/26/6adf59af39f2c.r_d.2618-876-0.jpeg",
-        "fecha": "2026-10-30T00:19:25.000Z",
-        "fuenteId": "la-vanguardia-gente",
-        "fuenteTitle": "La Vanguardia - Gente",
-        "categorias": [
-          "corazon",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Sánchez arrincona al ministro que usaba de ariete",
-        "url": "https://www.abc.es/espana/sanchez-amortiza-puente-relega-gestion-crisis-ferroviaria-20261030011847-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/30/1519475365_20261029173750-RWUeISR8AmWwYMs7GpqC7SL-1200x840@diario_abc.jpg",
-        "fecha": "2026-10-30T00:19:10.000Z",
         "fuenteId": "abc",
         "fuenteTitle": "ABC",
         "categorias": [
@@ -1285,9 +1284,45 @@
     ],
     "economia": [
       {
+        "titulo": "Director de Block Anthony Eisen vende 446.640 dólares en acciones",
+        "url": "https://es.investing.com/news/insider-trading-news/director-de-block-anthony-eisen-vende-446640-dolares-en-acciones-93CH-3899631",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3T1AG_1200_L.jpg",
+        "fecha": "2026-10-30T01:46:59.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Saba Capital Management compra 12.337 dólares en Ellsworth Growth & Income Fund",
+        "url": "https://es.investing.com/news/insider-trading-news/saba-capital-management-compra-12337-dolares-en-ellsworth-growth--income-fund-93CH-3899630",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM40318_1200_L.jpg",
+        "fecha": "2026-10-30T01:46:36.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El petróleo sube ante la posibilidad de nuevas acciones militares de EE.UU. contra Irán",
+        "url": "https://es.investing.com/news/commodities-news/el-petroleo-sube-ante-la-posibilidad-de-nuevas-acciones-militares-de-eeuu-contra-iran-3899629",
+        "imagen": "https://content-media.investing.com/news/LYNXMPEA601BL_M.jpg",
+        "fecha": "2026-10-30T01:40:06.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "El director ejecutivo de HF Sinclair, Franklin Myers, compra 1,11 millones de dólares en acciones",
         "url": "https://es.investing.com/news/insider-trading-news/el-director-ejecutivo-de-hf-sinclair-franklin-myers-compra-111-millones-de-dolares-en-acciones-93CH-3899623",
-        "imagen": "",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0WG_1200_L.jpg",
         "fecha": "2026-10-30T01:16:49.000Z",
         "fuenteId": "investing-es-noticias",
         "fuenteTitle": "Investing.com España - Noticias",
@@ -1359,7 +1394,7 @@
       {
         "titulo": "Berkshire Hathaway vende 69,03 millones de dólares en acciones de DaVita",
         "url": "https://es.investing.com/news/insider-trading-news/berkshire-hathaway-vende-6903-millones-de-dolares-en-acciones-de-davita-93CH-3899616",
-        "imagen": "",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEK42093_L.jpg",
         "fecha": "2026-10-30T01:02:19.000Z",
         "fuenteId": "investing-es-noticias",
         "fuenteTitle": "Investing.com España - Noticias",
@@ -1487,45 +1522,35 @@
           "economia"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "StrategX completa el tramo final de 379.255 dólares de su colocación privada",
-        "url": "https://es.investing.com/news/company-news/strategx-completa-el-tramo-final-de-379255-dolares-de-su-colocacion-privada-93CH-3899603",
-        "imagen": "https://content-media.investing.com/news/LYNXMPEM4R1OV_1200_L.jpg",
-        "fecha": "2026-10-30T00:17:21.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El director de contabilidad de SLB vende 539.021 dólares en acciones",
-        "url": "https://es.investing.com/news/insider-trading-news/el-director-de-contabilidad-de-slb-vende-539021-dolares-en-acciones-93CH-3899602",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM431A2_1200_L.jpg",
-        "fecha": "2026-10-30T00:16:57.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El seguro que todos los viajeros tienen al comprar un billete, aunque la mayoría desconoce",
-        "url": "https://www.abc.es/economia/cuentas-corrientes/seguro-viajeros-comprar-billete-mayoria-desconoce-20261029011133-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/29/ave-viajeros-RgcwlDEKjxzORRhSUcNO5FL-1200x840@diario_abc.jpg",
-        "fecha": "2026-10-30T00:11:34.000Z",
-        "fuenteId": "abc-economia",
-        "fuenteTitle": "ABC - Economía",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
       }
     ],
     "entretenimiento": [
+      {
+        "titulo": "He jugado 4 horas a A.O.T. 3 y tengo algo claro: si te gustaron los juegos anteriores, este te va a volver loco",
+        "url": "https://areajugones.sport.es/videojuegos/he-jugado-4-horas-a-a-o-t-3-y-tengo-algo-claro-si-te-gustaron-los-juegos-anteriores-este-te-va-a-volver-loco/",
+        "imagen": "https://areajugones.sport.es/wp-content/uploads/2026/10/preview-aot-3-1-1024x577.png",
+        "fecha": "2026-10-30T02:00:00.000Z",
+        "fuenteId": "areajugones",
+        "fuenteTitle": "Areajugones",
+        "categorias": [
+          "tecnologia",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Impresiones de A.O.T. 3, el juego definitivo de Attack on Titan que nos da alas para saborear la libertad en mundo abierto",
+        "url": "https://www.hobbyconsolas.com/videojuegos/impresiones-t-3-juego-definitivo-attack-on-titan-que-nos-da-alas-para-saborear-libertad-mundo-abierto_7054816_0.html",
+        "imagen": "https://imagenes.hobbyconsolas.com/files/image_1920_1080/uploads/imagenes/2026/10/29/6ae3c8f831fae8-22664274.jpeg",
+        "fecha": "2026-10-30T02:00:00.000Z",
+        "fuenteId": "hobby-consolas",
+        "fuenteTitle": "Hobby Consolas",
+        "categorias": [
+          "tecnologia",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "El susto de salud de Asraf Beno en 'Supervivientes All Stars’: “He visto todo blanco”",
         "url": "https://www.lavanguardia.com/television/20261030/11671803/susto-salud-asraf-beno-supervivientes-all-stars-he-visto-blanco.html",
@@ -1747,30 +1772,6 @@
         "fuenteTitle": "Diez Minutos",
         "categorias": [
           "corazon",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Cuántos capítulos tiene la temporada 2 de 'Entre Tierras' y todo lo que se sabe de si habrá una tercera en Antena 3",
-        "url": "https://eltelevisero.huffingtonpost.es/2026/10/cuantos-capitulos-tiene-la-temporada-2-de-entre-tierras-y-todo-lo-que-se-sabe-de-si-habra-una-tercera-en-antena-3/",
-        "imagen": "https://www.youtube.com/embed/5nxakgZTG2I",
-        "fecha": "2026-10-29T22:02:29.000Z",
-        "fuenteId": "el-televisero",
-        "fuenteTitle": "El Televisero",
-        "categorias": [
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Portada de EL MUNDO del viernes 30 de octubre de 2026",
-        "url": "https://www.elmundo.es/television/medios/2026/10/29/6ae3a13221efa0a84e8b45d3.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/29/17933102586128.jpg",
-        "fecha": "2026-10-29T21:56:01.000Z",
-        "fuenteId": "el-mundo-television",
-        "fuenteTitle": "El Mundo - Televisión",
-        "categorias": [
           "entretenimiento"
         ],
         "idioma": "es"
@@ -2299,6 +2300,19 @@
     ],
     "internacional": [
       {
+        "titulo": "Bloque de Netanyahu no logra mayoría, según recuento final de la Comisión Electoral Central de Israel",
+        "url": "https://www.dw.com/es/bloque-de-netanyahu-no-logra-mayoría-según-recuento-final-de-la-comisión-electoral-central-de-israel/a-79803290?maca=spa-rss-sp-all-1122-xml-mrss",
+        "imagen": "",
+        "fecha": "2026-10-30T01:37:00.000Z",
+        "fuenteId": "dw-espanol",
+        "fuenteTitle": "DW Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Informe desde Caracas: Delcy Rodríguez anuncia elecciones en Venezuela, pero no confirma fecha",
         "url": "https://www.france24.com/es/video/20261030-informe-desde-caracas-delcy-rodr%C3%ADguez-anuncia-elecciones-en-venezuela-pero-no-confirma-fecha",
         "imagen": "https://s.france24.com/media/display/9b67d7ee-d3f6-11f1-8992-bf1914cabd52/w:1024/p:16x9/ES-20261029-173914-174115-CS.jpg",
@@ -2535,19 +2549,6 @@
         "fecha": "2026-10-29T20:18:01.000Z",
         "fuenteId": "el-pais-internacional",
         "fuenteTitle": "El País - Internacional",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Muere Patrick Stewart, actor de \"Viaje a las estrellas\" y \"X-Men\"",
-        "url": "https://www.dw.com/es/muere-patrick-stewart-actor-de-viaje-a-las-estrellas-y-x-men/a-79802941?maca=spa-rss-sp-all-1122-xml-mrss",
-        "imagen": "",
-        "fecha": "2026-10-29T20:17:00.000Z",
-        "fuenteId": "dw-espanol",
-        "fuenteTitle": "DW Español",
         "categorias": [
           "internacional",
           "politica"
@@ -3325,6 +3326,19 @@
         "idioma": "es"
       },
       {
+        "titulo": "Bloque de Netanyahu no logra mayoría, según recuento final de la Comisión Electoral Central de Israel",
+        "url": "https://www.dw.com/es/bloque-de-netanyahu-no-logra-mayoría-según-recuento-final-de-la-comisión-electoral-central-de-israel/a-79803290?maca=spa-rss-sp-all-1122-xml-mrss",
+        "imagen": "",
+        "fecha": "2026-10-30T01:37:00.000Z",
+        "fuenteId": "dw-espanol",
+        "fuenteTitle": "DW Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Informe desde Caracas: Delcy Rodríguez anuncia elecciones en Venezuela, pero no confirma fecha",
         "url": "https://www.france24.com/es/video/20261030-informe-desde-caracas-delcy-rodr%C3%ADguez-anuncia-elecciones-en-venezuela-pero-no-confirma-fecha",
         "imagen": "https://s.france24.com/media/display/9b67d7ee-d3f6-11f1-8992-bf1914cabd52/w:1024/p:16x9/ES-20261029-173914-174115-CS.jpg",
@@ -3552,19 +3566,6 @@
         "fecha": "2026-10-29T23:01:11.000Z",
         "fuenteId": "eldiario-es",
         "fuenteTitle": "elDiario.es",
-        "categorias": [
-          "actualidad",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Crónica de un intento de manipulación electoral",
-        "url": "https://www.lamarea.com/2026/10/30/trump-manipulacion-electoral/",
-        "imagen": "",
-        "fecha": "2026-10-29T23:01:00.000Z",
-        "fuenteId": "la-marea",
-        "fuenteTitle": "La Marea",
         "categorias": [
           "actualidad",
           "politica"
@@ -4103,6 +4104,32 @@
     ],
     "tecnologia": [
       {
+        "titulo": "He jugado 4 horas a A.O.T. 3 y tengo algo claro: si te gustaron los juegos anteriores, este te va a volver loco",
+        "url": "https://areajugones.sport.es/videojuegos/he-jugado-4-horas-a-a-o-t-3-y-tengo-algo-claro-si-te-gustaron-los-juegos-anteriores-este-te-va-a-volver-loco/",
+        "imagen": "https://areajugones.sport.es/wp-content/uploads/2026/10/preview-aot-3-1-1024x577.png",
+        "fecha": "2026-10-30T02:00:00.000Z",
+        "fuenteId": "areajugones",
+        "fuenteTitle": "Areajugones",
+        "categorias": [
+          "tecnologia",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Impresiones de A.O.T. 3, el juego definitivo de Attack on Titan que nos da alas para saborear la libertad en mundo abierto",
+        "url": "https://www.hobbyconsolas.com/videojuegos/impresiones-t-3-juego-definitivo-attack-on-titan-que-nos-da-alas-para-saborear-libertad-mundo-abierto_7054816_0.html",
+        "imagen": "https://imagenes.hobbyconsolas.com/files/image_1920_1080/uploads/imagenes/2026/10/29/6ae3c8f831fae8-22664274.jpeg",
+        "fecha": "2026-10-30T02:00:00.000Z",
+        "fuenteId": "hobby-consolas",
+        "fuenteTitle": "Hobby Consolas",
+        "categorias": [
+          "tecnologia",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Un fallo en el arranque PXE permite eludir Secure Boot y ejecutar malware con privilegios totales desde la BIOS",
         "url": "https://blog.desdelinux.net/vulnerabilidad-critica-cve-2026-97631-tianocore-edk-ii-pxe-uefi/",
         "imagen": "https://blog.desdelinux.net/wp-content/uploads/2026/10/CVE-2026-97631.jpg",
@@ -4330,34 +4357,6 @@
         "fuenteId": "xataka",
         "fuenteTitle": "Xataka",
         "categorias": [
-          "tecnologia",
-          "ciencia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Los grandes siguen adelante avisados por el batacazo del Espanyol",
-        "url": "https://elpais.com/deportes/futbol/2026-10-29/los-grandes-siguen-adelante-avisados-por-el-batacazo-del-espanyol.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/EJTDDDVQQNLNBDF4M5GXJIEZPA.jpg?auth=0bb7cc189bf42d73d3ca2d0c3c117cb0f4b5cddff75e1e7c8407365a1cf6172d",
-        "fecha": "2026-10-29T22:40:06.000Z",
-        "fuenteId": "el-pais",
-        "fuenteTitle": "El País",
-        "categorias": [
-          "actualidad",
-          "tecnologia",
-          "ciencia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El Barcelona femenino golea al Koge danés en el partido 100 de Graham Hansen",
-        "url": "https://elpais.com/deportes/futbol/2026-10-29/el-barcelona-femenino-golea-al-koge-danes-en-el-partido-100-de-graham-hansen.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/JNNOIGVMHBL77JEG4YAJUJI4RQ.jpg?auth=1b4f6e9d7775b353fe86be84a24f1c6f76c3a0cfc0fdd8d2841f8923346853f9",
-        "fecha": "2026-10-29T22:25:48.000Z",
-        "fuenteId": "el-pais",
-        "fuenteTitle": "El País",
-        "categorias": [
-          "actualidad",
           "tecnologia",
           "ciencia"
         ],
