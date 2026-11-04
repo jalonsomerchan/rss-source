@@ -1,8 +1,20 @@
 {
-  "generado": "2026-11-04T03:34:47.486Z",
+  "generado": "2026-11-04T03:42:03.013Z",
   "limitePorCategoria": 20,
   "categorias": {
     "actualidad": [
+      {
+        "titulo": "Chris Pappas hace historia: será el primer hombre abiertamente gay elegido para el Senado de EEUU",
+        "url": "https://www.20minutos.es/internacional/chris-pappas-hace-historia-convertirse-primer-hombre-abiertamente-gay-elegido-para-senado-eeuu_7056866_0.html",
+        "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/11/04/6aea9e1100fcd1-86889061.jpeg",
+        "fecha": "2026-11-04T02:55:32.000Z",
+        "fuenteId": "20minutos",
+        "fuenteTitle": "20minutos",
+        "categorias": [
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Dimisión obligada",
         "url": "https://www.20minutos.es/nacional/dimision-obligada-oscar-puente-jesus-morales_7056856_3.html",
@@ -233,19 +245,6 @@
         "categorias": [
           "politica",
           "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La dimisión fulminante de Puente deja huérfano a Sánchez ante el 29-N: \"No tenía otra opción\"",
-        "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/04/6aea22ccfdddfffe538b45a9.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/03/17937316968036.jpg",
-        "fecha": "2026-11-04T00:57:34.000Z",
-        "fuenteId": "el-mundo",
-        "fuenteTitle": "El Mundo",
-        "categorias": [
-          "actualidad",
-          "tecnologia"
         ],
         "idioma": "es"
       }
@@ -1289,6 +1288,102 @@
     ],
     "economia": [
       {
+        "titulo": "Berkshire Hathaway compra acciones de Sirius XM Holdings por 26,9 millones de dólares",
+        "url": "https://es.investing.com/news/insider-trading-news/berkshire-hathaway-compra-acciones-de-sirius-xm-holdings-por-269-millones-de-dolares-93CH-3907978",
+        "imagen": "",
+        "fecha": "2026-11-04T03:02:18.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Director ejecutivo de Fold Holdings vende 2.523 dólares en acciones",
+        "url": "https://es.investing.com/news/insider-trading-news/director-ejecutivo-de-fold-holdings-vende-2523-dolares-en-acciones-93CH-3907977",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3T1AG_1200_L.jpg",
+        "fecha": "2026-11-04T03:02:03.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El CFO de Fold Holdings, Repass Wolfe, vende 638 dólares en acciones",
+        "url": "https://es.investing.com/news/insider-trading-news/el-cfo-de-fold-holdings-repass-wolfe-vende-638-dolares-en-acciones-93CH-3907976",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0WG_1200_L.jpg",
+        "fecha": "2026-11-04T03:01:56.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El CTO de Fold Holdings, Thomas Dickman, vende 3 dólares en acciones",
+        "url": "https://es.investing.com/news/insider-trading-news/el-cto-de-fold-holdings-thomas-dickman-vende-3-dolares-en-acciones-93CH-3907975",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM4510G_1200_L.jpg",
+        "fecha": "2026-11-04T03:01:51.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El director jurídico de Sandisk vende acciones por 694.956 dólares",
+        "url": "https://es.investing.com/news/insider-trading-news/el-director-juridico-de-sandisk-vende-acciones-por-694956-dolares-93CH-3907972",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM4416N_1200_L.jpg",
+        "fecha": "2026-11-04T02:46:49.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Director de First United Corp vende acciones por 46.255 dólares",
+        "url": "https://es.investing.com/news/insider-trading-news/director-de-first-united-corp-vende-acciones-por-46255-dolares-93CH-3907971",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3S10Z_1200_L.jpg",
+        "fecha": "2026-11-04T02:46:45.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El CFO de Agilysys, William Wood, vende 111.476 dólares en acciones",
+        "url": "https://es.investing.com/news/insider-trading-news/el-cfo-de-agilysys-william-wood-vende-111476-dolares-en-acciones-93CH-3907970",
+        "imagen": "",
+        "fecha": "2026-11-04T02:46:42.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El presidente de Palo Alto Networks vende acciones por 6.540 millones de dólares",
+        "url": "https://es.investing.com/news/insider-trading-news/el-presidente-de-palo-alto-networks-vende-acciones-por-6540-millones-de-dolares-93CH-3907967",
+        "imagen": "",
+        "fecha": "2026-11-04T02:32:20.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Goodman apunta a un crecimiento anual del 9% en beneficios por la demanda de centros de datos",
         "url": "https://es.investing.com/news/stock-market-news/goodman-apunta-a-un-crecimiento-anual-del-9-en-beneficios-por-la-demanda-de-centros-de-datos-3907966",
         "imagen": "https://content-media.investing.com/news/LYNXMPEB0508S_M.jpg",
@@ -1425,102 +1520,6 @@
         "url": "https://es.investing.com/news/commodities-news/el-petroleo-sube-levemente-ante-senales-mixtas-entre-eeuu-e-iran-3907951",
         "imagen": "https://content-media.investing.com/news/LYNXMPEA601YK_M.jpg",
         "fecha": "2026-11-04T01:27:16.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "ARK de Cathie Wood vende acciones de Shopify y compra Palantir",
-        "url": "https://es.investing.com/news/company-news/ark-de-cathie-wood-vende-acciones-de-shopify-y-compra-palantir-93CH-3907949",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEK770GR_L.jpg",
-        "fecha": "2026-11-04T01:17:42.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La presidenta y COO de Adaptive Biotechnologies vende acciones por 928.891 dólares",
-        "url": "https://es.investing.com/news/insider-trading-news/la-presidenta-y-coo-de-adaptive-biotechnologies-vende-acciones-por-928891-dolares-93CH-3907948",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0WG_1200_L.jpg",
-        "fecha": "2026-11-04T01:17:13.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El director de NPK International, John Minge, compra 138.600 dólares en acciones",
-        "url": "https://es.investing.com/news/insider-trading-news/el-director-de-npk-international-john-minge-compra-138600-dolares-en-acciones-93CH-3907946",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3T1AG_1200_L.jpg",
-        "fecha": "2026-11-04T01:16:49.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El presidente y director ejecutivo de Navan vende acciones por 209.941 dólares",
-        "url": "https://es.investing.com/news/insider-trading-news/el-presidente-y-director-ejecutivo-de-navan-vende-acciones-por-209941-dolares-93CH-3907947",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM4510G_1200_L.jpg",
-        "fecha": "2026-11-04T01:16:49.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Director de Ligand Pharmaceuticals Jason Aryeh vende acciones por 676.000 dólares",
-        "url": "https://es.investing.com/news/insider-trading-news/director-de-ligand-pharmaceuticals-jason-aryeh-vende-acciones-por-676000-dolares-93CH-3907944",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM4519D_1200_L.jpg",
-        "fecha": "2026-11-04T01:02:01.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El director de Boeing, Mortimer Buckley, compra acciones por 998.421 dólares",
-        "url": "https://es.investing.com/news/insider-trading-news/el-director-de-boeing-mortimer-buckley-compra-acciones-por-998421-dolares-93CH-3907943",
-        "imagen": "https://content-media.investing.com/news/Boeing_1_M_1440048506.jpg",
-        "fecha": "2026-11-04T01:01:54.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El director de Boeing Mollenkopf compra 510.426 dólares en acciones",
-        "url": "https://es.investing.com/news/insider-trading-news/el-director-de-boeing-mollenkopf-compra-510426-dolares-en-acciones-93CH-3907942",
-        "imagen": "https://content-media.investing.com/news/LYNXMPEB5E0JP_M.jpg",
-        "fecha": "2026-11-04T01:01:51.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Fondo estatal de Japón venderá JSR a Mitsui Chemicals por 8.200 millones de dólares",
-        "url": "https://es.investing.com/news/stock-market-news/fondo-estatal-de-japon-vendera-jsr-a-mitsui-chemicals-por-8200-millones-de-dolares-93CH-3907941",
-        "imagen": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg",
-        "fecha": "2026-11-04T00:58:43.000Z",
         "fuenteId": "investing-es-noticias",
         "fuenteTitle": "Investing.com España - Noticias",
         "categorias": [
@@ -2314,6 +2313,19 @@
     ],
     "internacional": [
       {
+        "titulo": "Byron Donalds gana en Florida y consolida el control republicano tras la era DeSantis",
+        "url": "https://elpais.com/us/2026-11-04/byron-donalds-gana-en-florida-y-cementa-el-control-republicano-tras-la-era-desantis.html",
+        "imagen": "https://imagenes.elpais.com/resizer/v2/QULFPL66JJPB5HESMQEVIUJCIA.jpg?auth=e42cd98e7bbb9e1e90b3fca4a822342d76f4d38117f0c751856e465e042863e1",
+        "fecha": "2026-11-04T02:48:24.000Z",
+        "fuenteId": "el-pais-internacional",
+        "fuenteTitle": "El País - Internacional",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Midterms en Estados Unidos: los demócratas ganan Carolina del Norte, defienden Georgia y lideran en Texas y Kansas acariciando el control del Congreso",
         "url": "https://www.elmundo.es/internacional/2026/11/04/6aea9432e4d4d8701a8b45be.html",
         "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/04/17937580761495.jpg",
@@ -2556,18 +2568,6 @@
         "categorias": [
           "internacional",
           "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El Papa León XIV visitará Zaña, el pueblo peruano que carga con fama de maldito",
-        "url": "https://es.euronews.com/2026/11/03/papa-leon-xiv-visitara-zana-pueblo-peruano-que-carga-con-fama-de-maldito",
-        "imagen": "",
-        "fecha": "2026-11-03T21:24:46.000Z",
-        "fuenteId": "euronews-espanol",
-        "fuenteTitle": "Euronews Español",
-        "categorias": [
-          "internacional"
         ],
         "idioma": "es"
       }
@@ -3329,6 +3329,19 @@
     ],
     "politica": [
       {
+        "titulo": "Byron Donalds gana en Florida y consolida el control republicano tras la era DeSantis",
+        "url": "https://elpais.com/us/2026-11-04/byron-donalds-gana-en-florida-y-cementa-el-control-republicano-tras-la-era-desantis.html",
+        "imagen": "https://imagenes.elpais.com/resizer/v2/QULFPL66JJPB5HESMQEVIUJCIA.jpg?auth=e42cd98e7bbb9e1e90b3fca4a822342d76f4d38117f0c751856e465e042863e1",
+        "fecha": "2026-11-04T02:48:24.000Z",
+        "fuenteId": "el-pais-internacional",
+        "fuenteTitle": "El País - Internacional",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Midterms en Estados Unidos: los demócratas ganan Carolina del Norte, defienden Georgia y lideran en Texas y Kansas acariciando el control del Congreso",
         "url": "https://www.elmundo.es/internacional/2026/11/04/6aea9432e4d4d8701a8b45be.html",
         "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/04/17937580761495.jpg",
@@ -3569,19 +3582,6 @@
         "fecha": "2026-11-03T23:11:52.000Z",
         "fuenteId": "el-mundo-espana",
         "fuenteTitle": "El Mundo - España",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Juanma Moreno sobre la dimisión de Óscar Puente: «Sánchez ha visto que ahora es un lastre político de cara a las elecciones del 29 de noviembre»",
-        "url": "https://www.abc.es/espana/andalucia/juanma-moreno-sobre-dimision-oscar-puente-sanchez-20261103000506-nts.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/03/WhatsApp%20Image%202026-11-04%20at%2000.02.48-km-U40165069164zbC-1200x840@diario_abc.jpeg",
-        "fecha": "2026-11-03T23:09:50.000Z",
-        "fuenteId": "abc-espana",
-        "fuenteTitle": "ABC - España",
         "categorias": [
           "politica",
           "actualidad"
