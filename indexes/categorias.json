@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-07T03:15:19.343Z",
+  "generado": "2026-11-07T03:44:07.167Z",
   "limitePorCategoria": 20,
   "categorias": {
     "actualidad": [
@@ -1282,6 +1282,18 @@
     ],
     "economia": [
       {
+        "titulo": "Musk cita conflictos con Alphabet tras la salida de ejecutivo de Google del consejo de SpaceX",
+        "url": "https://es.investing.com/news/company-news/musk-cita-conflictos-con-alphabet-tras-la-salida-de-ejecutivo-de-google-del-consejo-de-spacex-3917484",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM1C17Y_L.jpg",
+        "fecha": "2026-11-07T02:22:21.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Director de Ligand Pharmaceuticals vende 90.237 dólares en acciones",
         "url": "https://es.investing.com/news/insider-trading-news/director-de-ligand-pharmaceuticals-vende-90237-dolares-en-acciones-93CH-3917482",
         "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM40318_1200_L.jpg",
@@ -1332,7 +1344,7 @@
       {
         "titulo": "Director de Fair Isaac David Rey vende 27.048 dólares en acciones",
         "url": "https://es.investing.com/news/insider-trading-news/director-de-fair-isaac-david-rey-vende-27048-dolares-en-acciones-93CH-3917478",
-        "imagen": "",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM450ND_1200_L.jpg",
         "fecha": "2026-11-07T02:03:44.000Z",
         "fuenteId": "investing-es-noticias",
         "fuenteTitle": "Investing.com España - Noticias",
@@ -1504,18 +1516,6 @@
         "fecha": "2026-11-07T00:36:44.000Z",
         "fuenteId": "abc-economia",
         "fuenteTitle": "ABC - Economía",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Director de Remitly Joshua Hug vende 239.965 dólares en acciones",
-        "url": "https://es.investing.com/news/insider-trading-news/director-de-remitly-joshua-hug-vende-239965-dolares-en-acciones-93CH-3917462",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM4519D_1200_L.jpg",
-        "fecha": "2026-11-07T00:35:53.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
         "categorias": [
           "economia"
         ],
@@ -2302,6 +2302,19 @@
     ],
     "internacional": [
       {
+        "titulo": "Tensión en Tanzania tras la condena de Tundu Lissu a cuatro años de cárcel",
+        "url": "https://www.france24.com/es/video/20261107-tensi%C3%B3n-en-tanzania-tras-la-condena-de-tundu-lissu-a-cuatro-a%C3%B1os-de-c%C3%A1rcel",
+        "imagen": "https://s.france24.com/media/display/e2bf017c-da53-11f1-8d1d-695cb59fade5/w:1024/p:16x9/ES-20261106-201034-201210-CS.jpg",
+        "fecha": "2026-11-07T03:00:00.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Pedro Alliana, el nuevo presidente que asume el mando de Paraguay en medio de la crisis de Ueno bank",
         "url": "https://www.elespanol.com/mundo/america/20261107/pedro-alliana-nuevo-presidente-asume-mando-paraguay-medio-crisis-ueno-bank/1003744449866_0.html",
         "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11396244.jpg?p=c:2972:1670:nowe:0:54/w:1706/h:960&h=HAcSYpgR",
@@ -2545,19 +2558,6 @@
         "categorias": [
           "internacional",
           "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El Senado de Paraguay destituye a Peña tras el escándalo bancario: pierde la inmunidad que le garantizaba la renuncia",
-        "url": "https://www.elespanol.com/mundo/america/20261106/senado-paraguay-destituye-pena-escandalo-bancario-pierde-inmunidad-garantizaba-renuncia/1003744449852_0.html",
-        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11396234.jpg?p=c:3399:1914:nowe:58:112/w:1706/h:960&h=c00G5jeQ",
-        "fecha": "2026-11-06T22:29:15.000Z",
-        "fuenteId": "el-espanol-mundo",
-        "fuenteTitle": "El Español - Mundo",
-        "categorias": [
-          "internacional",
-          "actualidad"
         ],
         "idioma": "es"
       }
@@ -3319,6 +3319,19 @@
     ],
     "politica": [
       {
+        "titulo": "Tensión en Tanzania tras la condena de Tundu Lissu a cuatro años de cárcel",
+        "url": "https://www.france24.com/es/video/20261107-tensi%C3%B3n-en-tanzania-tras-la-condena-de-tundu-lissu-a-cuatro-a%C3%B1os-de-c%C3%A1rcel",
+        "imagen": "https://s.france24.com/media/display/e2bf017c-da53-11f1-8d1d-695cb59fade5/w:1024/p:16x9/ES-20261106-201034-201210-CS.jpg",
+        "fecha": "2026-11-07T03:00:00.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "¿Quién es Stephen Miller? El hombre elegido por Trump para dirigir su gabinete",
         "url": "https://www.france24.com/es/video/20261107-qui%C3%A9n-es-stephen-miller-el-hombre-elegido-por-trump-para-dirigir-su-gabinete",
         "imagen": "https://s.france24.com/media/display/e4ccbd52-da20-11f1-92bf-a575454bc579/w:1024/p:16x9/000-D6PN3T3.jpg",
@@ -3557,19 +3570,6 @@
         "url": "https://theobjective.com/economia/transporte/2026-11-06/ouigo-operara-18-26-trenes-huelga/",
         "imagen": "https://theobjective.com/wp-content/uploads/2026/11/panel_trenes.jpg",
         "fecha": "2026-11-06T22:29:57.000Z",
-        "fuenteId": "the-objective",
-        "fuenteTitle": "The Objective",
-        "categorias": [
-          "actualidad",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Un fragmento de cuero de 7.000 años revela el origen prehistórico de las cabras españolas",
-        "url": "https://theobjective.com/sociedad/ciencia/2026-11-06/fragmento-cuero-7000-anos-revela-origen-prehistorico-cabras-espanolas/",
-        "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/10/cocodrilo-extinto-469x317.jpg",
-        "fecha": "2026-11-06T22:25:54.000Z",
         "fuenteId": "the-objective",
         "fuenteTitle": "The Objective",
         "categorias": [
