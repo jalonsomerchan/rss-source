@@ -1,8 +1,545 @@
 {
-  "generado": "2026-11-07T04:50:18.679Z",
+  "generado": "2026-11-07T05:20:32.013Z",
   "limite": 50,
-  "total": 524219,
+  "total": 524308,
   "noticias": [
+    {
+      "titulo": "Karl Deisseroth, Nobel de Medicina: “Los modelos avanzados de inteligencia artificial podrían leer la actividad cerebral de las personas”",
+      "url": "https://elpais.com/ciencia/2026-11-07/karl-deisseroth-nobel-de-medicina-los-modelos-avanzados-de-inteligencia-artificial-podrian-leer-la-actividad-cerebral-de-las-personas.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/FNBTPUO3MBFOHLXRKOT4QZTZFI.jpg?auth=3311ade22111899beeefb6fa18af8f2bb64b5a4a0e5ca267f2fcf31a43447e49",
+      "fecha": "2026-11-07T04:30:01.000Z",
+      "fuenteId": "el-pais-ciencia",
+      "fuenteTitle": "El País - Ciencia",
+      "categorias": [
+        "ciencia",
+        "tecnologia"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Laura Díaz Anadón, investigadora: “La transición energética no es el problema de la UE, lo es la dependencia de los combustibles fósiles”",
+      "url": "https://elpais.com/clima-y-medio-ambiente/2026-11-07/laura-diaz-anadon-investigadora-la-transicion-energetica-no-es-el-problema-de-la-ue-lo-es-la-dependencia-de-los-combustibles-fosiles.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/4K3I5FVKC5CN7PHBRR2QE7MFPQ.jpg?auth=e7e316482498153bc1ad195373f2565b032ffc2d3bc451f2ae1dbc95dac6989b",
+      "fecha": "2026-11-07T04:30:01.000Z",
+      "fuenteId": "el-pais-clima-medio-ambiente",
+      "fuenteTitle": "El País - Clima y medio ambiente",
+      "categorias": [
+        "medio-ambiente",
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "El inaudito caso de Los Romeos: la enrevesada batalla por el nombre del grupo español",
+      "url": "https://elpais.com/cultura/2026-11-07/el-inaudito-caso-de-los-romeos-la-enrevesada-batalla-por-el-nombre-del-grupo-espanol.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/D3ZF3KIREFHDZFIRIRJUJL4FDY.jpeg?auth=9028d7c15408ec63ded855592dbbfc800e13f162649bb11b135401f7f4e40652",
+      "fecha": "2026-11-07T04:30:01.000Z",
+      "fuenteId": "el-pais-cultura",
+      "fuenteTitle": "El País - Cultura",
+      "categorias": [
+        "cultura"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Ni Shakira ni Rosalía: ‘Delirium Pepitatorum’, la enfermedad del entusiasmo que desató la bailarina Pepita de Oliva",
+      "url": "https://elpais.com/cultura/2026-11-07/ni-shakira-ni-rosalia-delirium-pepitatorum-la-enfermedad-del-entusiasmo-que-desato-la-bailarina-pepita-de-oliva.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/EWE7EVGKVZA2XOXWVGTPOK3GIE.jpg?auth=d41a0cc37d9689f02fe99ebc9dc21c6ce946711103e28da999fd776877a8d87e",
+      "fecha": "2026-11-07T04:30:01.000Z",
+      "fuenteId": "el-pais-cultura",
+      "fuenteTitle": "El País - Cultura",
+      "categorias": [
+        "cultura"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Rafa Nadal, alumno de Florentino Pérez para aprender a ser presidente del Real Madrid",
+      "url": "https://elpais.com/deportes/futbol/2026-11-07/rafa-nadal-alumno-de-florentino-perez-para-aprender-a-ser-presidente-del-real-madrid.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/FEEW2AFAGBYL3M4HBUIE2XGCKY.jpg?auth=8ac54251d033cb17ef635ad9d93831dcb9e08e1795c439aae88332627e54e3ac",
+      "fecha": "2026-11-07T04:30:01.000Z",
+      "fuenteId": "el-pais-deportes",
+      "fuenteTitle": "El País - Deportes",
+      "categorias": [
+        "deportes"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Un Baskonia en crisis paga el peaje de su guerra interna",
+      "url": "https://elpais.com/deportes/baloncesto/2026-11-07/un-baskonia-en-crisis-paga-el-peaje-de-su-guerra-interna.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/ZBAIDEWCYFEY5AMFYKDVPSABDM.jpg?auth=0a469c29b62f7cb527c07d364c60315ede7ce2bd5ad35724007b9565cd346c53",
+      "fecha": "2026-11-07T04:30:01.000Z",
+      "fuenteId": "el-pais-deportes",
+      "fuenteTitle": "El País - Deportes",
+      "categorias": [
+        "deportes"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "¿Se mueven las encuestas? Desde la convocatoria y tras el accidente de tren",
+      "url": "https://elpais.com/espana/2026-11-07/se-mueven-las-encuestas-que-ha-cambiado-desde-la-convocatoria-y-tras-el-accidente-de-tren.html",
+      "imagen": "",
+      "fecha": "2026-11-07T04:30:01.000Z",
+      "fuenteId": "el-pais-espana",
+      "fuenteTitle": "El País - España",
+      "categorias": [
+        "politica",
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "La inflación diluye el impacto electoral de los buenos datos macroeconómicos y el ‘efecto Cuerpo’",
+      "url": "https://elpais.com/espana/2026-11-07/la-inflacion-diluye-el-impacto-electoral-de-los-buenos-datos-macroeconomicos-y-el-efecto-cuerpo.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/RDHKWBFK5NCUFCNKJP5CBOO4MI.png?auth=82d5568067679991f90320e617b9c10c0f36a05da9222ed8cb26e540577b2924",
+      "fecha": "2026-11-07T04:30:01.000Z",
+      "fuenteId": "el-pais-espana",
+      "fuenteTitle": "El País - España",
+      "categorias": [
+        "politica",
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "La falta de seguridad obliga a la Reina a cancelar el viaje de cooperación a Bolivia",
+      "url": "https://elpais.com/espana/2026-11-07/la-falta-de-seguridad-obliga-a-la-reina-a-cancelar-el-viaje-de-cooperacion-a-bolivia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/RNWQRSZZTZEX5Z2F5PKGO2MOXM.jpg?auth=4fc7322c25ccee147e1bd2a6e22ade6b1a535d48dbb77f86a87d0deec12139d6",
+      "fecha": "2026-11-07T04:30:01.000Z",
+      "fuenteId": "el-pais-espana",
+      "fuenteTitle": "El País - España",
+      "categorias": [
+        "politica",
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Un profesor buscado por la Audiencia Nacional recluta soldados y espías españoles para Rusia",
+      "url": "https://elpais.com/espana/2026-11-07/un-profesor-buscado-por-la-audiencia-nacional-recluta-soldados-y-espias-espanoles-para-rusia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/A7QSBLLARZEGJIX3627V4T7IWU.png?auth=7e809002ee6b48fa42baab15121a3be4d38cad6e532ab84c1ce26867685e6ec7",
+      "fecha": "2026-11-07T04:30:01.000Z",
+      "fuenteId": "el-pais-espana",
+      "fuenteTitle": "El País - España",
+      "categorias": [
+        "politica",
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "La línea Madrid-Sevilla, a examen: dos juzgados y dos causas de la Fiscalía Europea se mantienen activas",
+      "url": "https://elpais.com/espana/2026-11-07/la-linea-madrid-sevilla-a-examen-dos-juzgados-y-dos-causas-de-la-fiscalia-europea-se-mantienen-activas.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/X7TD5H2V2VCYPEAV3HYIVUB7QM.jpg?auth=47e52c423a4c918c379c4aed5a8dc3a9fbb7f270946f82e79e49b489a3b75801",
+      "fecha": "2026-11-07T04:30:01.000Z",
+      "fuenteId": "el-pais-espana",
+      "fuenteTitle": "El País - España",
+      "categorias": [
+        "politica",
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Un juez indemniza con 5,7 millones a los padres de Oliver, un niño que se quedó tetrapléjico por errores en el parto",
+      "url": "https://elpais.com/sociedad/2026-11-07/un-juez-indemniza-con-57-millones-a-los-padres-de-oliver-un-nino-que-se-quedo-tetraplejico-por-errores-en-el-parto.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/TRKUKMQL3RGYVGE4YMO45RLQQY.JPG?auth=202777a5c39d2c807b3c87289216c4318543806de15ecaaf111e0e8fb9a7bdd2",
+      "fecha": "2026-11-07T04:30:01.000Z",
+      "fuenteId": "el-pais-sociedad",
+      "fuenteTitle": "El País - Sociedad",
+      "categorias": [
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "“Hice una parodia y me amenazaron de muerte”: así funcionan los ataques coordinados para silenciar a las mujeres en redes",
+      "url": "https://elpais.com/sociedad/2026-11-07/hice-una-parodia-y-me-amenazaron-de-muerte-asi-funcionan-los-ataques-coordinados-para-silenciar-a-las-mujeres-en-redes.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/XL7DI2JOBFFAJD4QOCE2UPXMUM.jpg?auth=ce714a1f4cc20c5cae1dcbc1c1e2b95b44174c66e944bfc9a181ff8291499252",
+      "fecha": "2026-11-07T04:30:01.000Z",
+      "fuenteId": "el-pais-sociedad",
+      "fuenteTitle": "El País - Sociedad",
+      "categorias": [
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "¿Merece la pena gastar 150 euros en un secador? He probado el Laifen Neo y he tardado solo cinco minutos en secarme el pelo",
+      "url": "https://elpais.com/escaparate/belleza/probamos-secador-ionico-laifen-neo.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/F5TRK5GGGNGMXOHC2TYN5VV7FI.png?auth=68278d629f897346fcb3098a1c050ae292a047c35abfe5624f41010062d527f8",
+      "fecha": "2026-11-07T04:30:00.000Z",
+      "fuenteId": "el-pais",
+      "fuenteTitle": "El País",
+      "categorias": [
+        "actualidad",
+        "tecnologia",
+        "ciencia"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Cuando la élite apaga la luz y los deportistas sufren: “Somos adictos, y así deben tratarnos”",
+      "url": "https://elpais.com/deportes/2026-11-07/cuando-la-elite-apaga-la-luz-y-los-deportistas-sufren-somos-adictos-y-nos-deben-tratar-asi.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/ZFLBGSNRC5FFTJIUSMXKYHLVTM.jpg?auth=8b76ac80a34df21becd805d27541ee8bb7bda4e87358c6d68368b59cf48c86e9",
+      "fecha": "2026-11-07T04:30:00.000Z",
+      "fuenteId": "el-pais-deportes",
+      "fuenteTitle": "El País - Deportes",
+      "categorias": [
+        "deportes"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Correos, ‘whatsapps’, alertas, reuniones... por qué el nuevo lujo laboral es mantener la concentración más de una hora",
+      "url": "https://elpais.com/economia/negocios/2026-11-07/correos-whatsapps-alertas-reuniones-por-que-el-nuevo-lujo-laboral-es-mantener-la-concentracion-mas-de-una-hora.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/KNF7BYCWV5E5HAHKHMTYOBANSY.jpg?auth=7c38865e32d11edf8e2e7a3aaf2f9cf7fa3b323c9435c2dc234964ea773d0498",
+      "fecha": "2026-11-07T04:30:00.000Z",
+      "fuenteId": "el-pais-economia",
+      "fuenteTitle": "El País - Economía",
+      "categorias": [
+        "economia",
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Vecinos anclados en una calefacción contaminante que este invierno saldrá muy cara: qué alternativas hay en el mercado",
+      "url": "https://elpais.com/economia/negocios/2026-11-07/vecinos-anclados-en-una-calefaccion-contaminante-que-este-invierno-saldra-muy-cara-que-alternativas-hay-en-el-mercado.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/QCWJE4OKFJDALCSL46OS357HKY.jpg?auth=3e72496748d67fd5fa3d280769440e7522c35fa26d5c4d90caa9dc8cdaf89ad5",
+      "fecha": "2026-11-07T04:30:00.000Z",
+      "fuenteId": "el-pais-economia",
+      "fuenteTitle": "El País - Economía",
+      "categorias": [
+        "economia",
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "En Argentina florecen los ‘finfluencers’, supuestos expertos que prometen hacerte rico: “Deja de ser una perrita y conviértete en un hombre-gorila”",
+      "url": "https://elpais.com/economia/negocios/carta-del-corresponsal/2026-11-07/en-argentina-florecen-los-finfluencers-supuestos-expertos-que-prometen-hacerte-rico-deja-de-ser-una-perrita-y-convierte-en-un-hombre-gorila.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/GVQ567VKQJAJRA4HYAXRJOIGEU.JPG?auth=691332107ff8a0a0522b1fbd6bff37ef5a9535abe7f84fd815cb3854c992cf16",
+      "fecha": "2026-11-07T04:30:00.000Z",
+      "fuenteId": "el-pais-economia",
+      "fuenteTitle": "El País - Economía",
+      "categorias": [
+        "economia",
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "La política para Fernando Savater",
+      "url": "https://theobjective.com/podcasts/sostiene-savater-podcast/podcast-politica-fernando-savater/",
+      "imagen": "https://theobjective.com/wp-content/uploads/2025/04/02-PODCAST-356x356_savater.jpg",
+      "fecha": "2026-11-07T04:25:58.000Z",
+      "fuenteId": "the-objective",
+      "fuenteTitle": "The Objective",
+      "categorias": [
+        "actualidad",
+        "politica"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "La herencia de Sánchez: instituciones colonizadas… en dos minutos",
+      "url": "https://theobjective.com/podcasts/en-dos-minutos/podcast-herencia-sanchez-en-dos-minutos/",
+      "imagen": "https://theobjective.com/wp-content/uploads/2026/07/bansssss01-copia-1200x675.jpg",
+      "fecha": "2026-11-07T04:25:17.000Z",
+      "fuenteId": "the-objective",
+      "fuenteTitle": "The Objective",
+      "categorias": [
+        "actualidad",
+        "politica"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Nacimiento y muerte de Natura",
+      "url": "https://theobjective.com/elsubjetivo/opinion/2026-11-07/nacimiento-muerte-natura-felix-azua/",
+      "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/10/protesta-urbana-entre-humo-y-ruinas-469x317.jpg",
+      "fecha": "2026-11-07T04:25:00.000Z",
+      "fuenteId": "the-objective",
+      "fuenteTitle": "The Objective",
+      "categorias": [
+        "actualidad",
+        "politica"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Un buen trompazo",
+      "url": "https://theobjective.com/elsubjetivo/opinion/2026-11-07/buen-trompazo-articulo-gabriel-tortella/",
+      "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/10/montaje-editorial-del-accidente-ferroviario-469x317.jpg",
+      "fecha": "2026-11-07T04:25:00.000Z",
+      "fuenteId": "the-objective",
+      "fuenteTitle": "The Objective",
+      "categorias": [
+        "actualidad",
+        "politica"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Los nietos de las negras bolas. Tres actos",
+      "url": "https://theobjective.com/elsubjetivo/opinion/2026-11-07/bolas-negras-articulo-pablo-lora/",
+      "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2023/10/Enrique-Krauze-portada-469x317.jpg",
+      "fecha": "2026-11-07T04:25:00.000Z",
+      "fuenteId": "the-objective",
+      "fuenteTitle": "The Objective",
+      "categorias": [
+        "actualidad",
+        "politica"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Cerrado por derribo",
+      "url": "https://theobjective.com/elsubjetivo/opinion/2026-11-07/cerrado-derribo-articulo-jorge-vilches/",
+      "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/11/ilustracio-n-sa-nchez-necesita-un-enemigo-469x317.jpg",
+      "fecha": "2026-11-07T04:25:00.000Z",
+      "fuenteId": "the-objective",
+      "fuenteTitle": "The Objective",
+      "categorias": [
+        "actualidad",
+        "politica"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Dime lo que quiero oír",
+      "url": "https://theobjective.com/elsubjetivo/opinion/2026-11-07/lo-que-quiero-oir-articulo-dudda/",
+      "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/10/collage-editorial-sobre-el-esca-ndalo-ferroviario-469x317.jpg",
+      "fecha": "2026-11-07T04:25:00.000Z",
+      "fuenteId": "the-objective",
+      "fuenteTitle": "The Objective",
+      "categorias": [
+        "actualidad",
+        "politica"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Si en EEUU se puede, aquí también",
+      "url": "https://theobjective.com/elsubjetivo/opinion/2026-11-07/eeuu-articulo-victoria-carvajal/",
+      "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/03/SANCHEZ_PSOE_SV_250-469x317.jpg",
+      "fecha": "2026-11-07T04:25:00.000Z",
+      "fuenteId": "the-objective",
+      "fuenteTitle": "The Objective",
+      "categorias": [
+        "actualidad",
+        "politica"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Sánchez contraprogramará a Abascal y Broncano con una entrevista en La Séptima",
+      "url": "https://theobjective.com/espana/politica/2026-11-07/sanchez-septima-abascal-broncano-revuelta/",
+      "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/11/santiago-abascal-y-david-broncano-469x317.jpg",
+      "fecha": "2026-11-07T04:25:00.000Z",
+      "fuenteId": "the-objective",
+      "fuenteTitle": "The Objective",
+      "categorias": [
+        "actualidad",
+        "politica"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "LaLiga omite las explicaciones de Laporta sobre el ‘caso Negreira’",
+      "url": "https://theobjective.com/deportes/futbol/2026-11-07/tebas-censura-laporta-caso-negreira-laliga/",
+      "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/09/negreira-barsa-1-469x317.jpg",
+      "fecha": "2026-11-07T04:25:00.000Z",
+      "fuenteId": "the-objective",
+      "fuenteTitle": "The Objective",
+      "categorias": [
+        "actualidad",
+        "politica"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Juan Diego Guerrero: «No es propio de una democracia señalar a periodistas»",
+      "url": "https://theobjective.com/medios/radio/2026-11-07/juan-diego-guerrero-entrevista-fuera-de-microfono/",
+      "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/10/manuel-llamas_fdm-copia-469x317.jpg",
+      "fecha": "2026-11-07T04:25:00.000Z",
+      "fuenteId": "the-objective",
+      "fuenteTitle": "The Objective",
+      "categorias": [
+        "actualidad",
+        "politica"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "La Justicia da la razón a un padre que «voló» a 228 kilómetros por hora para salvar a su hija",
+      "url": "https://theobjective.com/motor/2026-11-07/tribunal-da-razon-padre-volo-228-km-hora-salvar-hija/",
+      "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/07/guardia-civil-de-trafico-dgt-469x317.jpg",
+      "fecha": "2026-11-07T04:25:00.000Z",
+      "fuenteId": "the-objective",
+      "fuenteTitle": "The Objective",
+      "categorias": [
+        "actualidad",
+        "politica"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Steve Jobs, fundador de Apple: «Las personas son mucho más felices cuando descubren que la vida no solo está ahí, sino que puedes cambiarla y mejorarla»",
+      "url": "https://theobjective.com/lifestyle/2026-11-07/steve-jobs-fundador-de-apple-las-personas-son-mucho-mas-felices-cuando-descubren-que-la-vida-no-solo-esta-ahi-sino-que-puedes-cambiarla-y-mejorarla/",
+      "imagen": "https://www.youtube.com/embed/bYEMSXniQIA",
+      "fecha": "2026-11-07T04:25:00.000Z",
+      "fuenteId": "the-objective",
+      "fuenteTitle": "The Objective",
+      "categorias": [
+        "actualidad",
+        "politica"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Niño Becerra, economista: «La respuesta que vale un billón es a la pregunta de cuándo la IA va a multiplicar por 100, al menos, lo que están invirtiendo»",
+      "url": "https://theobjective.com/economia/2026-11-07/nino-becerra-economista-la-respuesta-que-vale-un-billon-es-a-la-pregunta-de-cuando-la-ia-va-a-multiplicar-por-100-al-menos-lo-que-estan-invirtiendo/",
+      "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/10/nino-becerra-la-sexta-salarios-smi-sueldos-espana-2005-469x317.jpg",
+      "fecha": "2026-11-07T04:25:00.000Z",
+      "fuenteId": "the-objective",
+      "fuenteTitle": "The Objective",
+      "categorias": [
+        "actualidad",
+        "politica"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Cayetana González denuncia la «agresión y traición» de Sánchez a las víctimas de ETA",
+      "url": "https://theobjective.com/espana/2026-11-07/dircom-oreja-traicion-victimas/",
+      "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/09/henri-parot-469x317.jpg",
+      "fecha": "2026-11-07T04:25:00.000Z",
+      "fuenteId": "the-objective",
+      "fuenteTitle": "The Objective",
+      "categorias": [
+        "actualidad",
+        "politica"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Tom Cruise (64 años), sobre infancia: «Pasé por 15 colegios diferentes y vivía con mis padres en casas de alquiler. Teníamos que asegurarnos que estuvieran en buenas condiciones»",
+      "url": "https://theobjective.com/cultura/cine/2026-11-07/tom-cruise-64-anos-sobre-infancia-pase-por-15-colegios-diferentes-y-vivia-con-mis-padres-en-casas-de-alquiler-teniamos-que-asegurarnos-que-estuvieran-en-buenas-condiciones/",
+      "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/10/digger-warner-bros-469x317.jpg",
+      "fecha": "2026-11-07T04:25:00.000Z",
+      "fuenteId": "the-objective",
+      "fuenteTitle": "The Objective",
+      "categorias": [
+        "actualidad",
+        "politica"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Fernando Morientes (50 años), sobre sus negociaciones con Jesús Gil: «Me quiso pagar con pisos en Marbella y regalarme un Volkswagen Golf al fichar por el Atlético»",
+      "url": "https://theobjective.com/deportes/futbol/2026-11-07/fernando-morientes-50-anos-sobre-sus-negociaciones-con-jesus-gil-me-quiso-pagar-con-pisos-en-marbella-y-regalarme-un-volkswagen-golf-al-fichar-por-el-atletico/",
+      "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2025/05/gil-marin-fitur-469x317.jpg",
+      "fecha": "2026-11-07T04:25:00.000Z",
+      "fuenteId": "the-objective",
+      "fuenteTitle": "The Objective",
+      "categorias": [
+        "actualidad",
+        "politica"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "La paradoja de Interior con una comisaría: pide un informe para crearla después de construirla",
+      "url": "https://theobjective.com/espana/2026-11-07/interior-informe-comisaria-roquetas/",
+      "imagen": "https://www.youtube.com/embed/-cC_fHtWrpA",
+      "fecha": "2026-11-07T04:25:00.000Z",
+      "fuenteId": "the-objective",
+      "fuenteTitle": "The Objective",
+      "categorias": [
+        "actualidad",
+        "politica"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Albert Rivera (46 años), sobre su infancia: «Viví en La Barceloneta y mis padres tenían un negocio de comidas caseras, curraban como nadie. No venimos de cuna con todo hecho»",
+      "url": "https://theobjective.com/gente/2026-11-07/albert-rivera-46-anos-sobre-su-infancia-vivi-en-la-barceloneta-y-mis-padres-tenian-un-negocio-de-comidas-caseras-curraban-como-nadie-no-venimos-de-cuna-con-todo-hecho/",
+      "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/03/albert_1-copia-469x317.jpg",
+      "fecha": "2026-11-07T04:25:00.000Z",
+      "fuenteId": "the-objective",
+      "fuenteTitle": "The Objective",
+      "categorias": [
+        "actualidad",
+        "politica"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "María de la O Lejárraga, escritora española: «Las personas más felices no son las que necesitan exhibir su vida y el aplauso de los demás, sino las que disfrutan produciendo»",
+      "url": "https://theobjective.com/lifestyle/2026-11-07/maria-de-la-o-lejarraga-escritora-espanola-las-personas-mas-felices-no-son-las-que-necesitan-exhibir-su-vida-y-el-aplauso-de-los-demas-sino-las-que-disfrutan-produciendo/",
+      "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/11/maria-zambrano-469x317.jpg",
+      "fecha": "2026-11-07T04:25:00.000Z",
+      "fuenteId": "the-objective",
+      "fuenteTitle": "The Objective",
+      "categorias": [
+        "actualidad",
+        "politica"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "El vicepresidente ejecutivo y COO de HCA Healthcare vende acciones por 15.900 millones de dólares",
+      "url": "https://es.investing.com/news/insider-trading-news/el-vicepresidente-ejecutivo-y-coo-de-hca-healthcare-vende-acciones-por-15900-millones-de-dolares-93CH-3917496",
+      "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM450ND_1200_L.jpg",
+      "fecha": "2026-11-07T04:17:20.000Z",
+      "fuenteId": "investing-es-noticias",
+      "fuenteTitle": "Investing.com España - Noticias",
+      "categorias": [
+        "economia"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "La vicepresidenta ejecutiva de Abbott Laboratories vende acciones por 406.000 dólares",
+      "url": "https://es.investing.com/news/insider-trading-news/la-vicepresidenta-ejecutiva-de-abbott-laboratories-vende-acciones-por-406000-dolares-93CH-3917495",
+      "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM4510G_1200_L.jpg",
+      "fecha": "2026-11-07T04:16:50.000Z",
+      "fuenteId": "investing-es-noticias",
+      "fuenteTitle": "Investing.com España - Noticias",
+      "categorias": [
+        "economia"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Michelle Fischthal, experta en educación, advierte sobre mencionar a la IA en una entrevista de trabajo: «Si no puedes explicar qué has hecho con la inteligencia artificial, tendrás problemas para conseguir trabajo»",
+      "url": "https://www.larazon.es/tecnologia-consumo/inteligencia-artificial/michelle-fischthal-experta-educacion-advierte-mencionar-ia-entrevista-trabajo-no-puedes-explicar-has-hecho-inteligencia-artificial-tendras-problemas-conseguir-trabajo_202611076aea02c66973466c29e7c659.html",
+      "imagen": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/11/03/8457AD56-7055-4DCB-848E-72FDC24B9ED2/michelle-fischthal-es-voces-reputadas-educacion_96.jpg?crop=1280,720,x0,y0&amp;width=1200&amp;height=675&amp;optimize=low&amp;format=webply",
+      "fecha": "2026-11-07T04:15:00.000Z",
+      "fuenteId": "andro4all",
+      "fuenteTitle": "Andro4all",
+      "categorias": [
+        "tecnologia"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Tres dudas razonables y un pecado capital detrás del colapso de la red ferroviaria",
+      "url": "https://cincodias.elpais.com/opinion/2026-11-07/tres-dudas-razonables-y-un-pecado-capital-detras-del-colapso-de-la-red-ferroviaria.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/NMAWJXMQNNCFHHPZOU7EVAN5LA.JPG?auth=bde816e1e6cd405570850ad911d693a5bc2d2f560821d52f956dbbbdca3ac0e7",
+      "fecha": "2026-11-07T04:15:00.000Z",
+      "fuenteId": "el-pais-economia",
+      "fuenteTitle": "El País - Economía",
+      "categorias": [
+        "economia",
+        "actualidad"
+      ],
+      "idioma": "es"
+    },
     {
       "titulo": "Las 50 mejores maratones del mundo generan un impacto económico de 6.000 millones",
       "url": "https://palco23.mundodeportivo.com/competiciones/las-50-mejores-maratones-del-mundo-generan-un-impacto-economico-de-6000-millones",
@@ -17,6 +554,31 @@
       "idioma": "es"
     },
     {
+      "titulo": "La obesidad no es solo una cuestión de peso: qué hay detrás de esta enfermedad",
+      "url": "https://www.lavanguardia.com/magazine/20261107/11676934/obesidad-cuestion-peso-enfermedad-cronica-brl.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/06/6aed937a15d8a.jpeg",
+      "fecha": "2026-11-07T04:05:00.000Z",
+      "fuenteId": "la-vanguardia-magazine",
+      "fuenteTitle": "La Vanguardia - Magazine",
+      "categorias": [
+        "cultura",
+        "entretenimiento"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "El cofundador de Chime Financial Ryan King vende 1,98 millones de dólares en acciones",
+      "url": "https://es.investing.com/news/insider-trading-news/el-cofundador-de-chime-financial-ryan-king-vende-198-millones-de-dolares-en-acciones-93CH-3917492",
+      "imagen": "https://content-media.investing.com/news/moved_small-LYNXMPEM4519D_1200_L.jpg",
+      "fecha": "2026-11-07T04:02:37.000Z",
+      "fuenteId": "investing-es-noticias",
+      "fuenteTitle": "Investing.com España - Noticias",
+      "categorias": [
+        "economia"
+      ],
+      "idioma": "es"
+    },
+    {
       "titulo": "Medía siete kilómetros y tenía 682 vagones: el tren más largo de la historia nació en 2001. Ahora ha perdido su récord",
       "url": "https://www.motorpasion.com/industria/media-siete-kilometros-tenia-682-vagones-tren-largo-historia-nacio-2001-ahora-ha-perdido-su-record",
       "imagen": "https://i.blogs.es/52a718/tren/1024_2000.jpeg",
@@ -26,6 +588,32 @@
       "categorias": [
         "tecnologia",
         "deportes"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Hoy No Circula sabatino: qué autos pueden circular y cuáles descansan el 24 de octubre",
+      "url": "https://www.xataka.com/mexico/hoy-no-circula-sabatino-que-autos-pueden-circular-cuales-descansan-24-octubre-1",
+      "imagen": "https://i.blogs.es/549bca/wesley-tingey-d2xefygcl0e-unsplash/1024_2000.jpeg",
+      "fecha": "2026-11-07T04:01:06.000Z",
+      "fuenteId": "xataka",
+      "fuenteTitle": "Xataka",
+      "categorias": [
+        "tecnologia",
+        "ciencia"
+      ],
+      "idioma": "es"
+    },
+    {
+      "titulo": "Encuestas elecciones generales en Galicia: resultados de PP, PSOE, Vox, Sumar y BNG y ganador el 29N según los sondeos",
+      "url": "https://www.abc.es/espana/galicia/encuestas-elecciones-generales-galicia-resultados-pp-psoe-20261107050017-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/05/encuestas-galicia-k1hD-R1UgkpRjSiEhnUKthsDbDoM-1200x840@diario_abc.jpg",
+      "fecha": "2026-11-07T04:00:17.000Z",
+      "fuenteId": "abc-espana",
+      "fuenteTitle": "ABC - España",
+      "categorias": [
+        "politica",
+        "actualidad"
       ],
       "idioma": "es"
     },
@@ -52,579 +640,6 @@
       "categorias": [
         "economia",
         "actualidad"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Las malas noticias hunden a Wall Street, pero los números desafían al pesimismo",
-      "url": "https://www.20minutos.es/lainformacion/economia-y-finanzas/las-malas-noticias-hunden-wall-street-pero-los-numeros-desafian-pesimismo_7058233_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/30/6ae4a54dc46c70-38180691.jpeg",
-      "fecha": "2026-11-07T04:00:00.000Z",
-      "fuenteId": "20minutos-economia",
-      "fuenteTitle": "20minutos - Economía",
-      "categorias": [
-        "economia",
-        "actualidad"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Por qué el Gobierno retira aceite de oliva y qué impacto tiene sobre el precio que se paga en los supermercados",
-      "url": "https://www.20minutos.es/lainformacion/economia-y-finanzas/retirada-obligatoria-aceite-oliva-impacto-precios-claves-decision-historica_7058138_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/11/06/6aedb816d9d3d0-49948428.r_d.755-236-12000.jpeg",
-      "fecha": "2026-11-07T04:00:00.000Z",
-      "fuenteId": "20minutos-economia",
-      "fuenteTitle": "20minutos - Economía",
-      "categorias": [
-        "economia",
-        "actualidad"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "¿No todos son iguales? De Marlaska, a la gerente del PSOE y la SEPI: las doce dimisiones que no llegaron",
-      "url": "https://www.elconfidencial.com/espana/2026-11-07/dimisiones-psoe-nunca-llegaron-marlaska-gerente-sepi_4459019/",
-      "imagen": "https://images.ecestaticos.com/twApvaKbUFXmla8tI05_OhikFTE=/0x0:2272x1629/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fb9b%2F8ca%2Fda0%2Fb9b8cada085ea80edb3c6e33d32204ed.jpg",
-      "fecha": "2026-11-07T04:00:00.000Z",
-      "fuenteId": "el-confidencial",
-      "fuenteTitle": "El Confidencial",
-      "categorias": [
-        "actualidad"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "¿Estará Donald Trump ahora más 'atado' en EEUU? \"Puede ser más volátil en su política exterior\"",
-      "url": "https://www.elconfidencial.com/mundo/2026-11-07/trump-congreso-iran-ucrania-europa-1hms_4458954/",
-      "imagen": "https://images.ecestaticos.com/1_j_l7xqtKTguZf_h1g6oSojcug=/0x0:2272x1533/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F481%2F733%2F061%2F481733061352bf304924c48a98ec9716.jpg",
-      "fecha": "2026-11-07T04:00:00.000Z",
-      "fuenteId": "el-confidencial",
-      "fuenteTitle": "El Confidencial",
-      "categorias": [
-        "actualidad"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Descentralizar el país más centralizado de Europa: ¿puede Reino Unido importar el modelo autonómico español?",
-      "url": "https://www.elconfidencial.com/mundo/2026-11-07/nuevo-manchesterismo-descentralizacion-reino-unido-1hms_4454202/",
-      "imagen": "https://images.ecestaticos.com/8i39V-NJd0WisN0qrLT9oc2V5Fo=/0x0:2272x1514/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fac0%2F3b5%2F20f%2Fac03b520ff97431293f2210a7bbe69a1.jpg",
-      "fecha": "2026-11-07T04:00:00.000Z",
-      "fuenteId": "el-confidencial",
-      "fuenteTitle": "El Confidencial",
-      "categorias": [
-        "actualidad"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Hernán Cortés, sin pólvora y rodeado de enemigos: La salvación vino del volcán",
-      "url": "https://www.elconfidencial.com/alma-corazon-vida/2026-11-07/francisco-montano-hernan-cortes-volcan_4459205/",
-      "imagen": "https://images.ecestaticos.com/lQfC4QVToKmjzQedXvJsSNw-PR8=/0x0:1920x1098/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fe19%2F3b1%2F1f6%2Fe193b11f6d0584b49150e98a942661f3.jpg",
-      "fecha": "2026-11-07T04:00:00.000Z",
-      "fuenteId": "el-confidencial-alma-corazon-vida",
-      "fuenteTitle": "El Confidencial - Alma, Corazón y Vida",
-      "categorias": [
-        "salud",
-        "hogar",
-        "corazon"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Leonor Watling (con Leo Sidrán): \"Tengo músculo de leer horas y mis hijos ya no tienen ninguna oportunidad frente a las pantallas\"",
-      "url": "https://www.elconfidencial.com/cultura/2026-11-07/leonor-watling-leo-sidran-cbtrntrv_4460158/",
-      "imagen": "https://images.ecestaticos.com/LP_7vQtX5hIB-C0s49U7_ZWdYlg=/0x336:2000x1461/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F292%2F5d1%2F982%2F2925d19825e5e3b41acb29adddbf8f03.jpg",
-      "fecha": "2026-11-07T04:00:00.000Z",
-      "fuenteId": "el-confidencial-cultura",
-      "fuenteTitle": "El Confidencial - Cultura",
-      "categorias": [
-        "cultura"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Por qué tu sueldo puede no subir en 2027 aunque suba el salario mínimo: la letra pequeña de los complementos",
-      "url": "https://www.elconfidencial.com/economia/2026-11-07/por-que-sueldo-no-sube-2027-salario-minimo-absorcion-complementos_4459359/",
-      "imagen": "https://images.ecestaticos.com/fTB93mgQc2rKVJbZL0SrKqaDpEY=/0x237:2272x1515/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ff33%2Fbfb%2Fa05%2Ff33bfba05bcb5abe05ee08323b8f7f5a.jpg",
-      "fecha": "2026-11-07T04:00:00.000Z",
-      "fuenteId": "el-confidencial-economia",
-      "fuenteTitle": "El Confidencial - Economía",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "¿Es Valladolid la capital mundial de la tapa? Hay buenos motivos para que la ciudad defienda ese título",
-      "url": "https://www.elconfidencial.com/espana/castilla-y-leon/2026-11-07/es-valladolid-la-capital-mundial-de-la-tapa-hay-buenos-motivos-para-que-la-ciudad-defienda-ese-titulo_4460321/",
-      "imagen": "https://images.ecestaticos.com/PJNBkGaPIOAo1ZDXXtHyl2C0Rr4=/0x0:1600x1066/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F2f9%2F922%2Ffdb%2F2f9922fdb4866353eba603be32b770ed.jpg",
-      "fecha": "2026-11-07T04:00:00.000Z",
-      "fuenteId": "el-confidencial-espana",
-      "fuenteTitle": "El Confidencial - España",
-      "categorias": [
-        "politica",
-        "actualidad"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El plato típico de Andalucía cuyo nombre da risa: una sopa hecha a base de espinas de pescado",
-      "url": "https://www.elconfidencial.com/espana/andalucia/2026-11-07/plato-tipico-andalucia-sopa-espinas-pescado-1qrt-1tna_4459011/",
-      "imagen": "https://images.ecestaticos.com/f9gS5qYDg4iCg3Y0jrSk65lQY_E=/0x0:1500x900/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fa95%2Ff5c%2F9c6%2Fa95f5c9c66fb585599ef53a16052a540.jpg",
-      "fecha": "2026-11-07T04:00:00.000Z",
-      "fuenteId": "el-confidencial-espana",
-      "fuenteTitle": "El Confidencial - España",
-      "categorias": [
-        "politica",
-        "actualidad"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "La sequía escala a niveles críticos en Vigo, Pontevedra, A Coruña y Ferrol",
-      "url": "https://www.elconfidencial.com/espana/galicia/2026-11-07/sequia-galicia-niveles-criticos-embalses-demarcacion-costa_4460379/",
-      "imagen": "https://images.ecestaticos.com/V6SC_ZNLHhK-zXGxBkvOyskmdEw=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fb12%2Fd43%2F0b3%2Fb12d430b3cf5890d54346f3b2f65fa30.jpg",
-      "fecha": "2026-11-07T04:00:00.000Z",
-      "fuenteId": "el-confidencial-espana",
-      "fuenteTitle": "El Confidencial - España",
-      "categorias": [
-        "politica",
-        "actualidad"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Abre una nueva frutería con los melones que los políticos no quieren abrir",
-      "url": "https://www.elconfidencial.com/espana/madrid/2026-11-07/fruteria-melones-politicos-abrir-changeorg_4460260/",
-      "imagen": "https://images.ecestaticos.com/vKUSpC7mD1qeWEfIoTjHmUb2idQ=/0x0:1600x1200/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F7a9%2F633%2Fc92%2F7a9633c922e3b4df6f3ba9a7ac48b024.jpg",
-      "fecha": "2026-11-07T04:00:00.000Z",
-      "fuenteId": "el-confidencial-espana",
-      "fuenteTitle": "El Confidencial - España",
-      "categorias": [
-        "politica",
-        "actualidad"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "De La Cebada a Pittsburgh y de La Almudena a Londres: los parecidos razonables de la arquitectura madrileña",
-      "url": "https://www.elconfidencial.com/espana/madrid/2026-11-07/cebada-pitssburgh-almudena-londres-arquitectura_4459595/",
-      "imagen": "https://images.ecestaticos.com/upUyJlC-Nz9ihjrcDhessdDwjx0=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fa7b%2Ff9b%2F45d%2Fa7bf9b45dc257a79f4f1227d9155dbb8.jpg",
-      "fecha": "2026-11-07T04:00:00.000Z",
-      "fuenteId": "el-confidencial-espana",
-      "fuenteTitle": "El Confidencial - España",
-      "categorias": [
-        "politica",
-        "actualidad"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Mariano Ventosa (Comillas) alerta de que la productividad de la IA puede estar ocultando la pérdida de criterio",
-      "url": "https://www.elconfidencial.com/tecnologia/2026-11-07/mariano-ventosa-universidad-de-comillas-ia-bra_4460356/",
-      "imagen": "https://images.ecestaticos.com/wwNRTc4I93u_sdV5E7TVD3vKFtQ=/0x0:1920x1080/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F84d%2F481%2F2a9%2F84d4812a98f78743fb84f76d2d66ca2b.jpg",
-      "fecha": "2026-11-07T04:00:00.000Z",
-      "fuenteId": "el-confidencial-tecnologia",
-      "fuenteTitle": "El Confidencial - Tecnología",
-      "categorias": [
-        "tecnologia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El error de cálculo que inutiliza nuestro sistema de defensa contra asteroides asesinos",
-      "url": "https://www.elconfidencial.com/tecnologia/novaceno/2026-11-07/error-calculo-inutiliza-sistema-defensa-asteroides_4460798/",
-      "imagen": "https://images.ecestaticos.com/jqSdI4l7Q7Cqlezkpzfjg0eHRoQ=/0x0:1920x1440/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F4b2%2F7e3%2F4b8%2F4b27e34b824c11863de5fea58d5bbbf7.jpg",
-      "fecha": "2026-11-07T04:00:00.000Z",
-      "fuenteId": "el-confidencial-tecnologia",
-      "fuenteTitle": "El Confidencial - Tecnología",
-      "categorias": [
-        "tecnologia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Jorge Arandilla (CaixaBank):\"Recortar costes con IA es pan para hoy y hambre para mañana\"",
-      "url": "https://www.elconfidencial.com/tecnologia/2026-11-07/jorge-arandilla-caixabank-foro-ia-el-confidencial-bra_4460295/",
-      "imagen": "https://images.ecestaticos.com/BK4SkCBvBxKD1llFVpSaqc7IBTw=/0x0:1920x1080/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F753%2Fba4%2F503%2F753ba4503638015e60fa916634f7cd26.jpg",
-      "fecha": "2026-11-07T04:00:00.000Z",
-      "fuenteId": "el-confidencial-tecnologia",
-      "fuenteTitle": "El Confidencial - Tecnología",
-      "categorias": [
-        "tecnologia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Del catastrofismo a la realidad de la IA: modelos exagerados, brechas de seguridad y una factura pendiente",
-      "url": "https://www.elconfidencial.com/tecnologia/2026-11-07/del-catastrofismo-a-la-realidad-de-la-ia-modelos-exagerados-brechas-de-seguridad-y-una-factura-pendiente-bra_4459932/",
-      "imagen": "https://images.ecestaticos.com/HAtjHsHcOnIPY_DUNjPHsTzYbhY=/0x0:1920x1080/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F1a9%2Fcc1%2F17e%2F1a9cc117e1d083c0267f41cbe8cfbf99.jpg",
-      "fecha": "2026-11-07T04:00:00.000Z",
-      "fuenteId": "el-confidencial-tecnologia",
-      "fuenteTitle": "El Confidencial - Tecnología",
-      "categorias": [
-        "tecnologia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Florentino Pérez (ACS) se adjudica la primera gran obra del nuevo plan de infraestructuras de Phoenix por 275 millones",
-      "url": "https://www.economiadigital.es/empresas/florentino-perez-acs-adjudica-primera-gran-obra-nuevo-plan-infraestructuras-phoenix-275-millones.html",
-      "imagen": "https://www.economiadigital.es/wp-content/uploads/2026/05/acs-florentino-perez-turner-estados-unidos-300x169.jpg",
-      "fecha": "2026-11-07T03:55:00.000Z",
-      "fuenteId": "economia-digital",
-      "fuenteTitle": "Economía Digital",
-      "categorias": [
-        "economia",
-        "actualidad"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Dcoop y Acesur se hacen gigantes con Deoleo: un negocio de 2.400 trabajadores y 3.350 millones de euros",
-      "url": "https://www.economiadigital.es/empresas/dcoop-acesur-hacen-gigantes-deoleo-negocio-2-400-trabajadores-3-350-millones-euros.html",
-      "imagen": "https://www.economiadigital.es/wp-content/uploads/2026/10/Montaje-4-300x169.jpg",
-      "fecha": "2026-11-07T03:55:00.000Z",
-      "fuenteId": "economia-digital",
-      "fuenteTitle": "Economía Digital",
-      "categorias": [
-        "economia",
-        "actualidad"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "La entrada masiva de renovables pasa factura a Red Eléctrica: empeora sus predicciones diarias y pierde incentivos",
-      "url": "https://www.economiadigital.es/empresas/entrada-masiva-renovables-pasa-factura-red-electrica-empeora-sus-predicciones-diarias-pierde-incentivos.html",
-      "imagen": "https://www.economiadigital.es/wp-content/uploads/2025/06/presidenta-no-ejecutiva-redeia-beatriz-corredor-ceo-redeia-roberto-garcia-merino-directora-general-operacion-red-electrica-concha-sanchez-ofrecen-rueda-prensa-sede-red-electrica-tres-cantos-20250618110115-300x200.jpg",
-      "fecha": "2026-11-07T03:55:00.000Z",
-      "fuenteId": "economia-digital",
-      "fuenteTitle": "Economía Digital",
-      "categorias": [
-        "economia",
-        "actualidad"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Una camiseta de Nintendo de 2001 hace que las operaciones de fabricación parezcan una experiencia aterradora",
-      "url": "https://www.nintenderos.com/2026/11/una-camiseta-de-nintendo-de-2001-hace-que-las-operaciones-de-fabricacion-parezcan-una-experiencia-aterradora/",
-      "imagen": "",
-      "fecha": "2026-11-07T03:45:36.000Z",
-      "fuenteId": "nintenderos",
-      "fuenteTitle": "Nintenderos",
-      "categorias": [
-        "tecnologia",
-        "entretenimiento"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "EE.UU. exige a China que respete el acuerdo comercial bilateral",
-      "url": "https://www.dw.com/es/ee-uu-exige-a-china-que-respete-el-acuerdo-comercial-bilateral/a-79882938?maca=spa-rss-sp-all-1122-xml-mrss",
-      "imagen": "",
-      "fecha": "2026-11-07T03:32:00.000Z",
-      "fuenteId": "dw-espanol",
-      "fuenteTitle": "DW Español",
-      "categorias": [
-        "internacional",
-        "politica"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "¿Estalla la burbuja de la IA? Las elecciones en EEUU tumban la tecnología en Wall Street",
-      "url": "https://theobjective.com/economia/2026-11-07/estalla-burbuja-ia-elecciones-eeuu-tecnologia-wall-street/",
-      "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/07/inteligencia-artificial-469x317.jpg",
-      "fecha": "2026-11-07T03:25:00.000Z",
-      "fuenteId": "the-objective",
-      "fuenteTitle": "The Objective",
-      "categorias": [
-        "actualidad",
-        "politica"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El director ejecutivo de SharkNinja vende acciones por 25.000 millones de dólares",
-      "url": "https://es.investing.com/news/insider-trading-news/el-director-ejecutivo-de-sharkninja-vende-acciones-por-25000-millones-de-dolares-93CH-3917489",
-      "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3T1K3_1200_L.jpg",
-      "fecha": "2026-11-07T03:16:42.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Paraguay: la tormenta de Ueno Bank arrastró a Santiago Peña, destituido, detenido y sustituido",
-      "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261107-paraguay-la-tormenta-de-ueno-bank-arrastr%C3%B3-a-santiago-pe%C3%B1a-destituido-detenido-y-sustituido",
-      "imagen": "https://s.france24.com/media/display/f6018828-da57-11f1-9f09-d18c5759e759/w:1024/p:16x9/AP26308842915508.jpg",
-      "fecha": "2026-11-07T03:07:40.000Z",
-      "fuenteId": "france24-espanol",
-      "fuenteTitle": "France 24 Español",
-      "categorias": [
-        "internacional",
-        "politica"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Rusia lanza un ataque con misiles balísticos sobre Kiev antes de las conversaciones de paz en Abu Dabi",
-      "url": "https://es.investing.com/news/economy-news/rusia-lanza-un-ataque-con-misiles-balisticos-sobre-kiev-antes-de-las-conversaciones-de-paz-en-abu-dabi-3917487",
-      "imagen": "https://content-media.investing.com/news/LYNXMPEA6M0QA_M.jpg",
-      "fecha": "2026-11-07T03:04:31.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Presión sobre Pete Hegseth: ¿será una posible víctima de los resultados de las midterms?",
-      "url": "https://www.france24.com/es/video/20261107-presi%C3%B3n-sobre-pete-hegseth-ser%C3%A1-una-posible-v%C3%ADctima-de-los-resultados-de-las-midterms",
-      "imagen": "https://s.france24.com/media/display/f6fdce1e-d924-11f1-9a6a-d18c5759e759/w:1024/p:16x9/AP26301214244363.jpg",
-      "fecha": "2026-11-07T03:04:04.000Z",
-      "fuenteId": "france24-espanol",
-      "fuenteTitle": "France 24 Español",
-      "categorias": [
-        "internacional",
-        "politica"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Ejecutivo de Ryerson Holding vende 96.300 dólares en acciones",
-      "url": "https://es.investing.com/news/insider-trading-news/ejecutivo-de-ryerson-holding-vende-96300-dolares-en-acciones-93CH-3917486",
-      "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM431A2_1200_L.jpg",
-      "fecha": "2026-11-07T03:02:01.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Kenia: condenan al líder sectario Paul Mackenzie a 200 años por llevar a sus fieles al ayuno extremo",
-      "url": "https://www.france24.com/es/video/20261107-kenia-condenan-al-l%C3%ADder-sectario-paul-mackenzie-a-200-a%C3%B1os-por-llevar-a-sus-fieles-al-ayuno-extremo",
-      "imagen": "https://s.france24.com/media/display/ed59527e-cc00-11f1-a12e-6313a763b466/w:1024/p:16x9/000-D3PA67M.jpg",
-      "fecha": "2026-11-07T03:01:52.000Z",
-      "fuenteId": "france24-espanol",
-      "fuenteTitle": "France 24 Español",
-      "categorias": [
-        "internacional",
-        "politica"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Tensión en Tanzania tras la condena de Tundu Lissu a cuatro años de cárcel",
-      "url": "https://www.france24.com/es/video/20261107-tensi%C3%B3n-en-tanzania-tras-la-condena-de-tundu-lissu-a-cuatro-a%C3%B1os-de-c%C3%A1rcel",
-      "imagen": "https://s.france24.com/media/display/e2bf017c-da53-11f1-8d1d-695cb59fade5/w:1024/p:16x9/ES-20261106-201034-201210-CS.jpg",
-      "fecha": "2026-11-07T03:00:00.000Z",
-      "fuenteId": "france24-espanol",
-      "fuenteTitle": "France 24 Español",
-      "categorias": [
-        "internacional",
-        "politica"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Director de Empery Digital Tice Brown vende 1.193 dólares en acciones",
-      "url": "https://es.investing.com/news/insider-trading-news/director-de-empery-digital-tice-brown-vende-1193-dolares-en-acciones-93CH-3917485",
-      "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM4519D_1200_L.jpg",
-      "fecha": "2026-11-07T02:46:54.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Musk cita conflictos con Alphabet tras la salida de ejecutivo de Google del consejo de SpaceX",
-      "url": "https://es.investing.com/news/company-news/musk-cita-conflictos-con-alphabet-tras-la-salida-de-ejecutivo-de-google-del-consejo-de-spacex-3917484",
-      "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM1C17Y_L.jpg",
-      "fecha": "2026-11-07T02:22:21.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Director de Ligand Pharmaceuticals vende 90.237 dólares en acciones",
-      "url": "https://es.investing.com/news/insider-trading-news/director-de-ligand-pharmaceuticals-vende-90237-dolares-en-acciones-93CH-3917482",
-      "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM40318_1200_L.jpg",
-      "fecha": "2026-11-07T02:17:05.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Saba Capital Management vende 762.500 dólares del PIMCO Dynamic Income Strategy Fund",
-      "url": "https://es.investing.com/news/insider-trading-news/saba-capital-management-vende-762500-dolares-del-pimco-dynamic-income-strategy-fund-93CH-3917481",
-      "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM4416N_1200_L.jpg",
-      "fecha": "2026-11-07T02:16:27.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Vertical Data cierra una colocación privada de 4,24 millones de dólares",
-      "url": "https://es.investing.com/news/company-news/vertical-data-cierra-una-colocacion-privada-de-424-millones-de-dolares-93CH-3917480",
-      "imagen": "https://content-media.investing.com/news/LYNXMPEM4C1QN_1200_L.jpg",
-      "fecha": "2026-11-07T02:05:17.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Director ejecutivo de Porch Group vende acciones PRCH por 9,8 millones de dólares",
-      "url": "https://es.investing.com/news/insider-trading-news/director-ejecutivo-de-porch-group-vende-acciones-prch-por-98-millones-de-dolares-93CH-3917479",
-      "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM4519D_1200_L.jpg",
-      "fecha": "2026-11-07T02:03:57.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Director de Fair Isaac David Rey vende 27.048 dólares en acciones",
-      "url": "https://es.investing.com/news/insider-trading-news/director-de-fair-isaac-david-rey-vende-27048-dolares-en-acciones-93CH-3917478",
-      "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM450ND_1200_L.jpg",
-      "fecha": "2026-11-07T02:03:44.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Horacio Gutierrez, alto ejecutivo de Disney, vende acciones por 2,47 millones de dólares",
-      "url": "https://es.investing.com/news/insider-trading-news/horacio-gutierrez-alto-ejecutivo-de-disney-vende-acciones-por-247-millones-de-dolares-93CH-3917477",
-      "imagen": "https://content-media.investing.com/news/walt_disney_800x533_L_1411985626.jpg",
-      "fecha": "2026-11-07T02:02:39.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Pedro Alliana, el nuevo presidente que asume el mando de Paraguay en medio de la crisis de Ueno bank",
-      "url": "https://www.elespanol.com/mundo/america/20261107/pedro-alliana-nuevo-presidente-asume-mando-paraguay-medio-crisis-ueno-bank/1003744449866_0.html",
-      "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11396244.jpg?p=c:2972:1670:nowe:0:54/w:1706/h:960&h=HAcSYpgR",
-      "fecha": "2026-11-07T01:57:52.000Z",
-      "fuenteId": "el-espanol-mundo",
-      "fuenteTitle": "El Español - Mundo",
-      "categorias": [
-        "internacional",
-        "actualidad"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Baker Bros. adquiere acciones de Madrigal Pharma por 35 millones de dólares",
-      "url": "https://es.investing.com/news/insider-trading-news/baker-bros-adquiere-acciones-de-madrigal-pharma-por-35-millones-de-dolares-93CH-3917476",
-      "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3T1K3_1200_L.jpg",
-      "fecha": "2026-11-07T01:47:37.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Solo Leveling: Karma aclara su posición en la cronología y se distancia por completo de Arise",
-      "url": "https://www.nintenderos.com/2026/11/solo-leveling-karma-aclara-su-posicion-en-la-cronologia-y-se-distancia-por-completo-de-arise/",
-      "imagen": "https://eloutput.com/wp-content/uploads/2025/07/juego-Solo-Leveling-en-KARMA-4.jpg",
-      "fecha": "2026-11-07T01:45:00.000Z",
-      "fuenteId": "nintenderos",
-      "fuenteTitle": "Nintenderos",
-      "categorias": [
-        "tecnologia",
-        "entretenimiento"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Las pérdidas del hedge fund Arini se profundizan hasta el 32%",
-      "url": "https://es.investing.com/news/company-news/las-perdidas-del-hedge-fund-arini-se-profundizan-hasta-el-32-3917474",
-      "imagen": "https://content-media.investing.com/news/LYNXMPEM18116_1200_L.jpg",
-      "fecha": "2026-11-07T01:39:55.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Directora de Procore Elisa Steele vende 230.586 dólares en acciones PCOR",
-      "url": "https://es.investing.com/news/insider-trading-news/directora-de-procore-elisa-steele-vende-230586-dolares-en-acciones-pcor-93CH-3917473",
-      "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3S10Z_1200_L.jpg",
-      "fecha": "2026-11-07T01:32:03.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "Directora de Qualcomm Sylvia Acevedo vende 10.074 dólares en acciones",
-      "url": "https://es.investing.com/news/insider-trading-news/directora-de-qualcomm-sylvia-acevedo-vende-10074-dolares-en-acciones-93CH-3917472",
-      "imagen": "https://content-media.investing.com/news/LYNXNPEE2D12H_M.jpg",
-      "fecha": "2026-11-07T01:32:01.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El director jurídico de Procore Technologies vende acciones por 193.950 dólares",
-      "url": "https://es.investing.com/news/insider-trading-news/el-director-juridico-de-procore-technologies-vende-acciones-por-193950-dolares-93CH-3917471",
-      "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM431A2_1200_L.jpg",
-      "fecha": "2026-11-07T01:31:53.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
-      ],
-      "idioma": "es"
-    },
-    {
-      "titulo": "El presidente de Accel Entertainment, Andrew Rubenstein, vende 517.628 dólares en acciones",
-      "url": "https://es.investing.com/news/insider-trading-news/el-presidente-de-accel-entertainment-andrew-rubenstein-vende-517628-dolares-en-acciones-93CH-3917470",
-      "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM431A2_1200_L.jpg",
-      "fecha": "2026-11-07T01:31:52.000Z",
-      "fuenteId": "investing-es-noticias",
-      "fuenteTitle": "Investing.com España - Noticias",
-      "categorias": [
-        "economia"
       ],
       "idioma": "es"
     }
