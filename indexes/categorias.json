@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-11T02:19:48.654Z",
+  "generado": "2026-11-11T02:27:05.558Z",
   "limitePorCategoria": 20,
   "categorias": {
     "actualidad": [
@@ -799,6 +799,18 @@
     ],
     "cultura": [
       {
+        "titulo": "El Real estrena 'Bodas' con divorcio musical",
+        "url": "https://www.abc.es/cultura/musica/real-estrena-bodas-divorcio-musical-20261111024909-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/11/11/Nozze26%20_0580-khjC-U40283534639DMF-1200x840@diario_abc.jpg",
+        "fecha": "2026-11-11T01:49:10.000Z",
+        "fuenteId": "abc-cultura",
+        "fuenteTitle": "ABC - Cultura",
+        "categorias": [
+          "cultura"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Caballero Bonald a los cien, un compromiso literario y humano ejemplar: siempre exigente, renovado y al alza",
         "url": "https://www.elespanol.com/el-cultural/letras/20261111/caballero-bonald-cien-compromiso-literario-humano-ejemplar-siempre-exigente-renovado-alza/1003744452342_0.html",
         "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11397842.jpg?p=c:2077:1167:nowe:0:1220/w:1706/h:960&h=WuB9ZUgE",
@@ -1036,23 +1048,34 @@
           "cultura"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "Xiaomi refuerza su apuesta por la gama media con una rebaja en el smartphone Redmi Note 17",
-        "url": "https://muyinteresante.okdiario.com/bazar/xiaomi-refuerza-su-apuesta-por-la-gama-media-con-una-rebaja-en-el-smartphone-redmi-note-17.html",
-        "imagen": "",
-        "fecha": "2026-11-10T19:15:00.000Z",
-        "fuenteId": "muy-interesante",
-        "fuenteTitle": "Muy Interesante",
-        "categorias": [
-          "ciencia",
-          "tecnologia",
-          "cultura"
-        ],
-        "idioma": "es"
       }
     ],
     "deportes": [
+      {
+        "titulo": "Dra. Courtney Conley: \"Si alguien que camina poco añade 5 minutos más de caminata al día reduce la mortalidad por todas las causas en un 7 %\"",
+        "url": "https://www.runnersworld.com/es/training/a74169392/dra-courtney-conley-si-caminas-mucho-y-no-entrenas-fuerza-debes-bajar-el-liston-y-asi-te-daras-tiempo-para-fortalecer-la-musculatura/",
+        "imagen": "https://hips.hearstapps.com/hmg-prod/images/8541a9d6-bb47-4a72-b0ec-fbee7ac91ad4.jpg",
+        "fecha": "2026-11-11T01:43:00.000Z",
+        "fuenteId": "runners-world-espana",
+        "fuenteTitle": "Runner's World España",
+        "categorias": [
+          "deportes",
+          "salud"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El mensaje borrado del manager de Gaethje sobre la revancha con Topuria: «Nunca sucederá»",
+        "url": "https://www.abc.es/deportes/mma/mensaje-borrado-manager-gaethje-sobre-revancha-topuria-20261110023401-nt.html",
+        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/11/10/revancha-gaethje-topuria-REnSHNCqmalOdSvu6wCDqLL-1200x840@diario_abc.jpeg",
+        "fecha": "2026-11-11T01:34:01.000Z",
+        "fuenteId": "abc-deportes",
+        "fuenteTitle": "ABC - Deportes",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Ben Shelton, el chico al que tiene que reinventar Ferrero",
         "url": "https://www.abc.es/deportes/tenis/shelton-chico-reinventar-ferrero-20261110013220-nt.html",
@@ -1268,33 +1291,93 @@
           "deportes"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "Frenkie de Jong, según Flick",
-        "url": "https://www.lavanguardia.com/deportes/20261110/11681300/frenkie-jong-flick.html",
-        "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
-        "fecha": "2026-11-10T22:21:03.000Z",
-        "fuenteId": "la-vanguardia-deportes",
-        "fuenteTitle": "La Vanguardia - Deportes",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "\"Lamine juega como si el campo fuera suyo\"",
-        "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261110/1004249694/lamine-juega-campo-fuera-suyo.html",
-        "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/11/03/6aea614daa321.jpeg",
-        "fecha": "2026-11-10T22:20:35.000Z",
-        "fuenteId": "mundo-deportivo",
-        "fuenteTitle": "Mundo Deportivo",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
       }
     ],
     "economia": [
+      {
+        "titulo": "¿Qué podría impulsar al Nifty de India? BofA señala los riesgos clave",
+        "url": "https://es.investing.com/news/stock-market-news/que-podria-impulsar-al-nifty-de-india-bofa-senala-los-riesgos-clave-3922620",
+        "imagen": "",
+        "fecha": "2026-11-11T01:37:47.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Director de Sinclair Robert E. Smith vende acciones Clase A por 2,73 millones de dólares",
+        "url": "https://es.investing.com/news/insider-trading-news/director-de-sinclair-robert-e-smith-vende-acciones-clase-a-por-273-millones-de-dolares-93CH-3922618",
+        "imagen": "",
+        "fecha": "2026-11-11T01:36:42.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El director de Alphatec, Keith Valentine, compra acciones por 242.550 dólares",
+        "url": "https://es.investing.com/news/insider-trading-news/el-director-de-alphatec-keith-valentine-compra-acciones-por-242550-dolares-93CH-3922617",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM40318_1200_L.jpg",
+        "fecha": "2026-11-11T01:36:16.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Charles R. Schwab, copresidente, vende acciones por 6,58 millones de dólares",
+        "url": "https://es.investing.com/news/insider-trading-news/charles-r-schwab-copresidente-vende-acciones-por-658-millones-de-dolares-93CH-3922615",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3S10Z_1200_L.jpg",
+        "fecha": "2026-11-11T01:32:25.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Director ejecutivo de CrowdStrike vende acciones por 4,45 millones de dólares",
+        "url": "https://es.investing.com/news/insider-trading-news/director-ejecutivo-de-crowdstrike-vende-acciones-por-445-millones-de-dolares-93CH-3922614",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEK740X7_L.jpg",
+        "fecha": "2026-11-11T01:32:05.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Director de Exagen Jorey Chernett vende acciones por 69.167 dólares y compra más",
+        "url": "https://es.investing.com/news/insider-trading-news/director-de-exagen-jorey-chernett-vende-acciones-por-69167-dolares-y-compra-mas-93CH-3922613",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3S10Z_1200_L.jpg",
+        "fecha": "2026-11-11T01:32:00.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "La directora de Enovis Sharon Wienbar compra acciones por 49.917 dólares",
+        "url": "https://es.investing.com/news/insider-trading-news/la-directora-de-enovis-sharon-wienbar-compra-acciones-por-49917-dolares-93CH-3922612",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM431A2_1200_L.jpg",
+        "fecha": "2026-11-11T01:31:59.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Directiva de ServiceNow vende acciones por valor de 131.091 dólares",
         "url": "https://es.investing.com/news/insider-trading-news/directiva-de-servicenow-vende-acciones-por-valor-de-131091-dolares-93CH-3922611",
@@ -1445,90 +1528,6 @@
         "url": "https://es.investing.com/news/insider-trading-news/el-coo-de-sentinelone-barry-padgett-vende-acciones-por-207358-dolares-93CH-3922597",
         "imagen": "https://content-media.investing.com/news/moved_LYNXNPEH5T1CN_L.jpg",
         "fecha": "2026-11-11T00:47:07.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Directora de Contabilidad de SentinelOne vende acciones por 181.930 dólares",
-        "url": "https://es.investing.com/news/insider-trading-news/directora-de-contabilidad-de-sentinelone-vende-acciones-por-181930-dolares-93CH-3922596",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXNPEH5T1CN_L.jpg",
-        "fecha": "2026-11-11T00:47:01.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Los futuros de las acciones suben tras caída por IPC y pérdidas de Nvidia",
-        "url": "https://es.investing.com/news/stock-market-news/los-futuros-de-las-acciones-suben-tras-caida-por-ipc-y-perdidas-de-nvidia-3922595",
-        "imagen": "",
-        "fecha": "2026-11-11T00:42:41.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La CHRO de Arthur J. Gallagher vende acciones por 4.240.161 dólares",
-        "url": "https://es.investing.com/news/insider-trading-news/la-chro-de-arthur-j-gallagher-vende-acciones-por-4240161-dolares-93CH-3922593",
-        "imagen": "",
-        "fecha": "2026-11-11T00:37:05.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El sector energético deja aislado al Gobierno en su cruzada contra los centros de datos",
-        "url": "https://www.abc.es/economia/sector-energetico-deja-aislado-gobierno-cruzada-centros-20261111013635-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/11/11/data%20center-Rv716CYceLgppbB1pP8RQXN-1200x840@diario_abc.jpg",
-        "fecha": "2026-11-11T00:36:36.000Z",
-        "fuenteId": "abc-economia",
-        "fuenteTitle": "ABC - Economía",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El codirector ejecutivo de Netflix, Gregory Peters, vende acciones por 1,74 millones de dólares",
-        "url": "https://es.investing.com/news/insider-trading-news/el-codirector-ejecutivo-de-netflix-gregory-peters-vende-acciones-por-174-millones-de-dolares-93CH-3922592",
-        "imagen": "https://content-media.investing.com/news/LYNXNPEE8519V_S.jpg",
-        "fecha": "2026-11-11T00:36:22.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El director ejecutivo de Heartflow vende acciones por valor de 2,17 millones de dólares",
-        "url": "https://es.investing.com/news/insider-trading-news/el-director-ejecutivo-de-heartflow-vende-acciones-por-valor-de-217-millones-de-dolares-93CH-3922590",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3S10Z_1200_L.jpg",
-        "fecha": "2026-11-11T00:32:15.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El CFO de indie Semiconductor vende más de 68.000 dólares en acciones Clase A",
-        "url": "https://es.investing.com/news/insider-trading-news/el-cfo-de-indie-semiconductor-vende-mas-de-68000-dolares-en-acciones-clase-a-93CH-3922589",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0WG_1200_L.jpg",
-        "fecha": "2026-11-11T00:32:14.000Z",
         "fuenteId": "investing-es-noticias",
         "fuenteTitle": "Investing.com España - Noticias",
         "categorias": [
@@ -2317,6 +2316,32 @@
     ],
     "internacional": [
       {
+        "titulo": "EEUU inculpa tres \"agentes iraníes\" por presunto complot en base aérea en Reino Unido",
+        "url": "https://www.dw.com/es/eeuu-inculpa-tres-agentes-iraníes-por-presunto-complot-en-base-aérea-en-reino-unido/a-79913854?maca=spa-rss-sp-all-1122-xml-mrss",
+        "imagen": "",
+        "fecha": "2026-11-11T01:42:00.000Z",
+        "fuenteId": "dw-espanol",
+        "fuenteTitle": "DW Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El papa en Perú: una ahijada, su amado Chiclayo y la comida... todo lo que emociona su regreso",
+        "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261111-el-papa-en-per%C3%BA-una-ahijada-su-amado-chiclayo-y-la-comida-todo-lo-que-emociona-su-regreso",
+        "imagen": "https://s.france24.com/media/display/b3434a3a-dd6d-11f1-95f9-3f371022a770/w:1024/p:16x9/WhatsApp-Image-2026-11-10-at-20-15-40.jpeg",
+        "fecha": "2026-11-11T01:40:50.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "\"Es un espectáculo\": Pete Hegseth, líder del Pentágono, rechaza juicio político en su contra",
         "url": "https://www.france24.com/es/video/20261111-es-un-espect%C3%A1culo-pol%C3%ADtico-pete-hegseth-l%C3%ADder-del-pent%C3%A1gono-rechaza-jucio-pol%C3%ADtico-en-su-contra",
         "imagen": "https://s.france24.com/media/display/2381a74e-dd6c-11f1-a50b-5f54d898a954/w:1024/p:16x9/ES-20261110-144144-144347-CS.jpg",
@@ -2547,32 +2572,6 @@
         "categorias": [
           "internacional",
           "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "León XIV espolea el fervor católico ante el empuje de otras religiones",
-        "url": "https://www.elmundo.es/internacional/2026/11/11/6af36b6f21efa0684c8b45a5.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/10/17943384642081.jpg",
-        "fecha": "2026-11-10T23:04:52.000Z",
-        "fuenteId": "el-mundo-internacional",
-        "fuenteTitle": "El Mundo - Internacional",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Informe desde Washington: Hegseth se defiende tras ola de acusaciones por resultados de las midterms",
-        "url": "https://www.france24.com/es/video/20261110-informe-desde-washington-hegseth-se-defiende-tras-ola-de-acusaciones-por-resultados-de-las-midterms",
-        "imagen": "https://s.france24.com/media/display/88fa1e66-dd4f-11f1-b28a-5f54d898a954/w:1024/p:16x9/ES-20261110-083002-083416-CS.jpg",
-        "fecha": "2026-11-10T23:01:06.000Z",
-        "fuenteId": "france24-espanol",
-        "fuenteTitle": "France 24 Español",
-        "categorias": [
-          "internacional",
-          "politica"
         ],
         "idioma": "es"
       }
@@ -3331,6 +3330,32 @@
     ],
     "politica": [
       {
+        "titulo": "EEUU inculpa tres \"agentes iraníes\" por presunto complot en base aérea en Reino Unido",
+        "url": "https://www.dw.com/es/eeuu-inculpa-tres-agentes-iraníes-por-presunto-complot-en-base-aérea-en-reino-unido/a-79913854?maca=spa-rss-sp-all-1122-xml-mrss",
+        "imagen": "",
+        "fecha": "2026-11-11T01:42:00.000Z",
+        "fuenteId": "dw-espanol",
+        "fuenteTitle": "DW Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El papa en Perú: una ahijada, su amado Chiclayo y la comida... todo lo que emociona su regreso",
+        "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261111-el-papa-en-per%C3%BA-una-ahijada-su-amado-chiclayo-y-la-comida-todo-lo-que-emociona-su-regreso",
+        "imagen": "https://s.france24.com/media/display/b3434a3a-dd6d-11f1-95f9-3f371022a770/w:1024/p:16x9/WhatsApp-Image-2026-11-10-at-20-15-40.jpeg",
+        "fecha": "2026-11-11T01:40:50.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "\"Es un espectáculo\": Pete Hegseth, líder del Pentágono, rechaza juicio político en su contra",
         "url": "https://www.france24.com/es/video/20261111-es-un-espect%C3%A1culo-pol%C3%ADtico-pete-hegseth-l%C3%ADder-del-pent%C3%A1gono-rechaza-jucio-pol%C3%ADtico-en-su-contra",
         "imagen": "https://s.france24.com/media/display/2381a74e-dd6c-11f1-a50b-5f54d898a954/w:1024/p:16x9/ES-20261110-144144-144347-CS.jpg",
@@ -3563,35 +3588,22 @@
           "politica"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "Bosch presenta en Eicma 2026 nuevas soluciones contra ciberataques en motocicletas",
-        "url": "https://www.eldiario.es/motor/tecnologia/bosch-presenta-eicma-2026-nuevas-soluciones-ciberataques-motocicletas_1_13651329.html",
-        "imagen": "https://static.eldiario.es/clip/11b16a2b-c5f6-4921-bf64-8d078b0f2244_16-9-discover-aspect-ratio_default_0.jpg",
-        "fecha": "2026-11-10T22:59:58.000Z",
-        "fuenteId": "eldiario-es",
-        "fuenteTitle": "elDiario.es",
-        "categorias": [
-          "actualidad",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Bolaños defiende a Broncano y dice que Abascal se ha retratado como «franquista»",
-        "url": "https://theobjective.com/espana/politica/2026-11-10/bolanos-defiende-broncano-abascal-retratado-franquista/",
-        "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/11/ada-colau-broncano-469x317.jpg",
-        "fecha": "2026-11-10T22:56:28.000Z",
-        "fuenteId": "the-objective",
-        "fuenteTitle": "The Objective",
-        "categorias": [
-          "actualidad",
-          "politica"
-        ],
-        "idioma": "es"
       }
     ],
     "salud": [
+      {
+        "titulo": "Dra. Courtney Conley: \"Si alguien que camina poco añade 5 minutos más de caminata al día reduce la mortalidad por todas las causas en un 7 %\"",
+        "url": "https://www.runnersworld.com/es/training/a74169392/dra-courtney-conley-si-caminas-mucho-y-no-entrenas-fuerza-debes-bajar-el-liston-y-asi-te-daras-tiempo-para-fortalecer-la-musculatura/",
+        "imagen": "https://hips.hearstapps.com/hmg-prod/images/8541a9d6-bb47-4a72-b0ec-fbee7ac91ad4.jpg",
+        "fecha": "2026-11-11T01:43:00.000Z",
+        "fuenteId": "runners-world-espana",
+        "fuenteTitle": "Runner's World España",
+        "categorias": [
+          "deportes",
+          "salud"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Los especialistas en sueño coinciden: \"Deberíamos cenar al menos tres horas antes de acostarnos\"",
         "url": "https://www.elconfidencial.com/alma-corazon-vida/2026-11-10/especialistas-sueno-coinciden-cenar-tres-horas-antes-acostarnos-1qrt_4461618/",
@@ -3836,18 +3848,6 @@
         "fecha": "2026-11-10T16:01:49.000Z",
         "fuenteId": "bebes-y-mas",
         "fuenteTitle": "Bebés y más",
-        "categorias": [
-          "salud"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Los cocineros italianos y españoles coinciden: \"Tenemos que retirar la pasta del agua dos o tres minutos antes del tiempo que marca el fabricante para que siente bien y poder mantecarla correctamente\"",
-        "url": "https://www.vitonica.com/alimentos/cocineros-italianos-espanoles-coinciden-tenemos-que-retirar-pasta-agua-dos-tres-minutos-antes-tiempo-que-marca-fabricante-siente-bien-poder-mantecarla-correctamente",
-        "imagen": "https://i.blogs.es/302ad3/pasta-cocinar/1024_2000.jpeg",
-        "fecha": "2026-11-10T16:01:48.000Z",
-        "fuenteId": "vitonica",
-        "fuenteTitle": "Vitónica",
         "categorias": [
           "salud"
         ],
@@ -4118,6 +4118,30 @@
     ],
     "tecnologia": [
       {
+        "titulo": "Firefox 160: Función Miniventana, PiP Mejorado y WebGL con Metal",
+        "url": "https://blog.desdelinux.net/firefox-160-lanzamiento-novedades-miniventana-metal/",
+        "imagen": "https://blog.desdelinux.net/wp-content/uploads/2019/10/Firefox-Logo.png",
+        "fecha": "2026-11-11T01:55:20.000Z",
+        "fuenteId": "desde-linux",
+        "fuenteTitle": "Desde Linux",
+        "categorias": [
+          "tecnologia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Fedora Linux 45: GNOME 51, Anaconda WebUI y Seguridad en RPM",
+        "url": "https://blog.desdelinux.net/fedora-linux-45-lanzamiento-novedades-gnome-51-rpm-webui/",
+        "imagen": "https://blog.desdelinux.net/wp-content/uploads/2026/11/Fedora_LInux_45.jpg",
+        "fecha": "2026-11-11T01:46:23.000Z",
+        "fuenteId": "desde-linux",
+        "fuenteTitle": "Desde Linux",
+        "categorias": [
+          "tecnologia"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Temor en el sector inmobiliario a incidentes por la huelga general: \"Nos han señalado públicamente\"",
         "url": "https://www.elmundo.es/economia/vivienda/2026/11/11/6af376ea21efa0b64b8b45b9.html",
         "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/10/17943427955319.jpg",
@@ -4350,32 +4374,6 @@
         "categorias": [
           "tecnologia",
           "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Dale Coyne Racing confirma a Nikita Johnson en tanto Nolan Siegel conversa con Brad Hollinger",
-        "url": "https://www.diariomotor.com/competicion/noticia/dale-coyne-nikita-johnson-nolan-siegel-juncos/",
-        "imagen": "https://www.diariomotor.com/imagenes/2026/11/Nikita_Johnson_Rahal_Latterman_Lanigan_2025_26_26-6af38a20bdf15.jpg?class=XL",
-        "fecha": "2026-11-10T23:02:26.000Z",
-        "fuenteId": "diariomotor",
-        "fuenteTitle": "Diariomotor",
-        "categorias": [
-          "tecnologia",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "No es la encuesta, es el encuestador",
-        "url": "https://www.elmundo.es/espana/2026/11/11/6af36d8afdddffc3368b4570.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/04/19/17766116154918.jpg",
-        "fecha": "2026-11-10T23:00:31.000Z",
-        "fuenteId": "el-mundo",
-        "fuenteTitle": "El Mundo",
-        "categorias": [
-          "actualidad",
-          "tecnologia"
         ],
         "idioma": "es"
       }
