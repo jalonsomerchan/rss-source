@@ -1,8 +1,22 @@
 {
-  "generado": "2026-11-17T00:16:40.054Z",
+  "generado": "2026-11-17T00:32:35.825Z",
   "limitePorCategoria": 20,
   "categorias": {
     "actualidad": [
+      {
+        "titulo": "United Airlines informa de una “interrupción generalizada” que afecta a los vuelos de salida",
+        "url": "https://elpais.com/us/2026-11-16/united-airlines-informa-de-una-interrupcion-generalizada-que-afecta-a-los-vuelos-de-salida.html",
+        "imagen": "https://imagenes.elpais.com/resizer/v2/3YGECAIMPNKNFNCNI6EABGTSIU.jpg?auth=aded5c56abf3358e9d0968e0f54a986c6ab565b122dd39a3ba9bbb7402e330d3",
+        "fecha": "2026-11-16T23:17:29.000Z",
+        "fuenteId": "el-pais",
+        "fuenteTitle": "El País",
+        "categorias": [
+          "actualidad",
+          "tecnologia",
+          "ciencia"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Los damnificados de las leyes imposibles del Congreso con Sánchez: \"Somos moneda de cambio de derechas e izquierdas\"",
         "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/17/6afb46c5e85ece2d268b45a3.html",
@@ -42,14 +56,26 @@
         "idioma": "es"
       },
       {
+        "titulo": "El Chase Bank y United Airlines sufren incidencias en sus servicios por fallos informáticos",
+        "url": "https://www.lavanguardia.com/internacional/20261116/11686118/chase-bank-united-airlines-sufren-incidencias-servicios-fallos-informaticos.html",
+        "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/16/6afb86f0c6984.jpeg",
+        "fecha": "2026-11-16T22:56:01.000Z",
+        "fuenteId": "la-vanguardia-internacional",
+        "fuenteTitle": "La Vanguardia - Internacional",
+        "categorias": [
+          "internacional",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Rusia ataca con misiles dos de los puentes más importantes de Kiev",
         "url": "https://www.abc.es/internacional/rusia-ataca-misiles-dos-puentes-importantes-kiev-20261116234917-nt.html",
         "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/11/16/1500510141-kzbB-U40384830243j2C-1200x840@diario_abc.jpg",
         "fecha": "2026-11-16T22:53:21.000Z",
-        "fuenteId": "abc-internacional",
-        "fuenteTitle": "ABC - Internacional",
+        "fuenteId": "abc",
+        "fuenteTitle": "ABC",
         "categorias": [
-          "internacional",
           "actualidad"
         ],
         "idioma": "es"
@@ -229,6 +255,22 @@
           "entretenimiento"
         ],
         "idioma": "es"
+      }
+    ],
+    "ciencia": [
+      {
+        "titulo": "United Airlines informa de una “interrupción generalizada” que afecta a los vuelos de salida",
+        "url": "https://elpais.com/us/2026-11-16/united-airlines-informa-de-una-interrupcion-generalizada-que-afecta-a-los-vuelos-de-salida.html",
+        "imagen": "https://imagenes.elpais.com/resizer/v2/3YGECAIMPNKNFNCNI6EABGTSIU.jpg?auth=aded5c56abf3358e9d0968e0f54a986c6ab565b122dd39a3ba9bbb7402e330d3",
+        "fecha": "2026-11-16T23:17:29.000Z",
+        "fuenteId": "el-pais",
+        "fuenteTitle": "El País",
+        "categorias": [
+          "actualidad",
+          "tecnologia",
+          "ciencia"
+        ],
+        "idioma": "es"
       },
       {
         "titulo": "Los promotores de la candidatura conjunta de la izquierda para el Senado llaman a “la remontada”",
@@ -245,25 +287,10 @@
         "idioma": "es"
       },
       {
-        "titulo": "Sánchez anuncia que subirá este martes el salario de los funcionarios un 4,5% para 2027",
-        "url": "https://theobjective.com/espana/politica/2026-11-16/sanchez-subira-martes-salario-funcionarios-2027/",
-        "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/11/sanchez-entrevista-en-telecinco-469x317.jpg",
-        "fecha": "2026-11-16T22:15:48.000Z",
-        "fuenteId": "the-objective",
-        "fuenteTitle": "The Objective",
-        "categorias": [
-          "actualidad",
-          "politica"
-        ],
-        "idioma": "es"
-      }
-    ],
-    "ciencia": [
-      {
-        "titulo": "Los promotores de la candidatura conjunta de la izquierda para el Senado llaman a “la remontada”",
-        "url": "https://elpais.com/espana/elecciones-generales/2026-11-16/los-promotores-de-la-candidatura-conjunta-de-la-izquierda-para-el-senado-llaman-a-la-remontada.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/5HCMKZFGCRD2TC6LNTK3LGGKVU.jpg?auth=363bd1fac8ef2586a07d5ef1e40b8930054f2f52c6535e4680cfbaafeafec11f",
-        "fecha": "2026-11-16T22:16:19.000Z",
+        "titulo": "Burnham denuncia que el Brexit no ha funcionado: “El emperador está desnudo”",
+        "url": "https://elpais.com/internacional/2026-11-16/burnham-denuncia-que-el-brexit-no-ha-funcionado-el-emperador-esta-desnudo.html",
+        "imagen": "https://imagenes.elpais.com/resizer/v2/OEP4IS4EJ5PCFF7TBYHJB4M72Q.jpg?auth=391e67d100cf7b8462a5722d70a18ce95d4f083466452938ca1fa278caf7221e",
+        "fecha": "2026-11-16T22:04:49.000Z",
         "fuenteId": "el-pais",
         "fuenteTitle": "El País",
         "categorias": [
@@ -503,32 +530,6 @@
         "fuenteTitle": "El País",
         "categorias": [
           "actualidad",
-          "tecnologia",
-          "ciencia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "SpaceX ha hecho historia con el vuelo 14 y 15 de Starship: ahora espera repetir la hazaña con el vuelo 16",
-        "url": "https://www.xataka.com/espacio/spacex-ha-hecho-historia-vuelo-14-15-starship-ahora-espera-repetir-hazana-vuelo-16",
-        "imagen": "https://i.blogs.es/69fcf7/starship-v15/1024_2000.jpeg",
-        "fecha": "2026-11-16T19:01:21.000Z",
-        "fuenteId": "xataka",
-        "fuenteTitle": "Xataka",
-        "categorias": [
-          "tecnologia",
-          "ciencia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "PlayStation Plus vuelve de oferta por el Black Friday con descuentos de hasta el 33% en los niveles Essential, Extra y Premium",
-        "url": "https://www.xataka.com/seleccion/playstation-plus-vuelve-oferta-black-friday-descuentos-33-niveles-essential-extra-premium",
-        "imagen": "https://i.blogs.es/df9f9c/playstation-plus/1024_2000.jpeg",
-        "fecha": "2026-11-16T18:45:22.000Z",
-        "fuenteId": "xataka",
-        "fuenteTitle": "Xataka",
-        "categorias": [
           "tecnologia",
           "ciencia"
         ],
@@ -800,6 +801,18 @@
     ],
     "cultura": [
       {
+        "titulo": "¿De qué lado estás?",
+        "url": "https://www.lavanguardia.com/cultura/20261116/11686059/que-lado-estas.html",
+        "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+        "fecha": "2026-11-16T22:39:53.000Z",
+        "fuenteId": "la-vanguardia-cultura",
+        "fuenteTitle": "La Vanguardia - Cultura",
+        "categorias": [
+          "cultura"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Premios Los Grandes de El Cultural: emoción y arte a raudales en la Abadía del Sacromonte de Granada",
         "url": "https://www.elespanol.com/eventos/2026/premios-el-cultural-2026/20261116/premios-grandes-cultural-emocion-arte-raudales-abadia-sacromonte-granada/1003744460536_0.html",
         "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11403179.jpg?p=w:1706/h:960&h=rTyzYpdg",
@@ -1036,21 +1049,117 @@
           "cultura"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "I Premios Los Grandes de El Cultural",
-        "url": "https://www.elespanol.com/eventos/2026/premios-el-cultural-2026/20261116/premios-grandes-cultural/1003744460481_3.html",
-        "imagen": "https://s3.elespanol.com/k/imgp/cms/elespanol/11403012.jpg?p=c:3449:2585:nowe:335:0/w:1706/h:1280&h=1rGNClRd",
-        "fecha": "2026-11-16T18:40:07.000Z",
-        "fuenteId": "el-cultural",
-        "fuenteTitle": "El Cultural",
-        "categorias": [
-          "cultura"
-        ],
-        "idioma": "es"
       }
     ],
     "deportes": [
+      {
+        "titulo": "Quién es Killian Hayes, el número 7 del draft de 2020 que tiene un acuerdo con el Barça",
+        "url": "https://www.gigantes.com/liga-endesa/quien-es-killian-hayes-fichaje-barca/",
+        "imagen": "https://cdn.gigantes.com/wp-content/uploads/sites/4/2026/10/1574-1.webp",
+        "fecha": "2026-11-16T23:23:17.000Z",
+        "fuenteId": "gigantes-basket",
+        "fuenteTitle": "Gigantes del Basket",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Futbolistas que pasaron del césped al palco",
+        "url": "https://as.com/futbol/fotorrelato/futbolistas-que-pasaron-del-cesped-al-palco-f202611-f/",
+        "imagen": "https://img.asmedia.epimg.net/resizer/v2/P6TVSINM3BBELAY2OUSP4XLW5M.jpg?auth=5124e34598f74ae6291119fa3d6e16402a64f62bb0501728c2e857dfeadf65ee",
+        "fecha": "2026-11-16T23:22:06.000Z",
+        "fuenteId": "as",
+        "fuenteTitle": "AS",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Trafford, problemón resuelto en Inglaterra",
+        "url": "https://as.com/futbol/internacional/trafford-problemon-resuelto-en-inglaterra-f202611-n/",
+        "imagen": "https://img.asmedia.epimg.net/resizer/v2/H3MVFAV2TRKL7KFYRLN4FDPGAA.jpg?auth=02e364f65d91f227734d8ada216a043a6a9fa2fb0aa7d2e0d911b8efa2332748",
+        "fecha": "2026-11-16T23:19:25.000Z",
+        "fuenteId": "as",
+        "fuenteTitle": "AS",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Vinicius: una golondrina no hace verano",
+        "url": "https://as.com/opinion/vinicius-una-golondrina-no-hace-verano-f202611-n/",
+        "imagen": "https://img.asmedia.epimg.net/resizer/v2/DGEFELQQ2RCIXKMW6EZDJBZX2M.JPG?auth=f20606e3cb70c26e51710355004ea09ea4942d568c22d67e728481800a2120cb",
+        "fecha": "2026-11-16T23:16:09.000Z",
+        "fuenteId": "as",
+        "fuenteTitle": "AS",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "“Vinicius ha sido el jugador más importante de los últimos cuatro años del Real Madrid”",
+        "url": "https://as.com/futbol/internacional/vinicius-ha-sido-el-jugador-mas-importante-de-los-ultimos-cuatro-anos-del-real-madrid-f202611-n/",
+        "imagen": "https://img.asmedia.epimg.net/resizer/v2/S3VJAF4GKJAALEORZERKPBDQ5E.jpg?auth=f84a141c0811efbb5a74cb7e49293998ffd579bd21014e5892bca3b5c555b9af",
+        "fecha": "2026-11-16T23:15:08.000Z",
+        "fuenteId": "as",
+        "fuenteTitle": "AS",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Después de perder la gracia de Dios",
+        "url": "https://as.com/opinion/despues-de-perder-la-gracia-de-dios-f202611-n/",
+        "imagen": "https://img.asmedia.epimg.net/resizer/v2/K4HEOKQGGJJPJIDVD3F7BVJUK4.jpg?auth=3bf23a59b28fa6e210fb534cf4695641c2802d83cadac137db7ad27bfc07c3fa",
+        "fecha": "2026-11-16T23:14:21.000Z",
+        "fuenteId": "as",
+        "fuenteTitle": "AS",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "De carne y hueso",
+        "url": "https://as.com/opinion/de-carne-y-hueso-f202611-n/",
+        "imagen": "https://img.asmedia.epimg.net/resizer/v2/NOGQQZLWDFI27KPLMOAW65NK3U.jpg?auth=f92e356ececef6aa7f82d8f91cac46dacb706f80cc7f1f448d41659c5b1a6d1b",
+        "fecha": "2026-11-16T23:13:45.000Z",
+        "fuenteId": "as",
+        "fuenteTitle": "AS",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Klopp avisa: \"Si rendimos al máximo no será nada divertido jugar contra nosotros\"",
+        "url": "https://www.mundodeportivo.com/futbol/20261117/1004251930/klopp-avisa-rendimos-maximo-no-sera-divertido-jugar.html",
+        "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/10/01/6abeb9a01473b.jpeg",
+        "fecha": "2026-11-16T23:12:36.000Z",
+        "fuenteId": "mundo-deportivo",
+        "fuenteTitle": "Mundo Deportivo",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Van der Vaart: \"Se subestima el nivel de De Jong, es el mejor\"",
+        "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261117/1004251929/vaart-subestima-nivel-jong-mejor.html",
+        "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/11/14/6af840c6a882f.jpeg",
+        "fecha": "2026-11-16T23:12:32.000Z",
+        "fuenteId": "mundo-deportivo",
+        "fuenteTitle": "Mundo Deportivo",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Piqué reflexiona sobre la sanción a Owono",
         "url": "https://as.com/futbol/segunda/pique-reflexiona-sobre-la-sancion-a-owono-f202611-n/",
@@ -1068,6 +1177,30 @@
         "url": "https://as.com/futbol/rubiales-deja-de-estar-inhabilitado-f202611-n/",
         "imagen": "https://img.asmedia.epimg.net/resizer/v2/5NIJHQ3DJQ25NNMBKUPB6DLY7Y.JPG?auth=7a88a0979029788f08abf61bb1ed512dc812cb8baccfe90e319f55534334b437",
         "fecha": "2026-11-16T22:54:18.000Z",
+        "fuenteId": "as",
+        "fuenteTitle": "AS",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "“Escuchabas Giménez, Casadó, Auba... quien diga que no le sorprendió, miente”",
+        "url": "https://as.com/futbol/primera/escuchabas-gimenez-casado-auba-quien-diga-que-no-le-sorprendio-miente-f202611-n/",
+        "imagen": "https://img.asmedia.epimg.net/resizer/v2/ZF2S56YBKZJZPLZ6RJ32FI4G74.jpg?auth=e8c1547c7ab360ee71036616a51f6bca81d1d19841e651ea0a9052f03b4b06bf",
+        "fecha": "2026-11-16T22:53:17.000Z",
+        "fuenteId": "as",
+        "fuenteTitle": "AS",
+        "categorias": [
+          "deportes"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Maxi Rodríguez: “En el caso Julián quien pierde más es el club”",
+        "url": "https://as.com/futbol/primera/maxi-rodriguez-en-el-caso-julian-quien-pierde-mas-es-el-club-f202611-n/",
+        "imagen": "https://img.asmedia.epimg.net/resizer/v2/POHIHXWIDZKSHBD3DYS5RFNXDY.jpg?auth=23a972878eb8033d14b8aad47747d97cce59a133e4fbf48ff6a47c049116b842",
+        "fecha": "2026-11-16T22:52:05.000Z",
         "fuenteId": "as",
         "fuenteTitle": "AS",
         "categorias": [
@@ -1158,141 +1291,93 @@
           "deportes"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "Antonio Camacho y aquella turbia trama que también salpicó al Barça: 100.000 pesetas por amañar un partido en Burgos",
-        "url": "https://www.elmundo.es/deportes/futbol/2026/11/16/6af9f78fe4d4d8522e8b457b.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/15/17947670493555.jpg",
-        "fecha": "2026-11-16T22:13:23.000Z",
-        "fuenteId": "el-mundo-deportes",
-        "fuenteTitle": "El Mundo - Deportes",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "1-0: El Albacete se alía con la fortuna y mantiene su buena racha",
-        "url": "https://www.mundodeportivo.com/futbol/albacete/20261116/1004251870/albacete-alia-fortuna-mantiene-buena-racha.html",
-        "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/11/16/6afb753c05e92.jpeg",
-        "fecha": "2026-11-16T22:13:04.000Z",
-        "fuenteId": "mundo-deportivo",
-        "fuenteTitle": "Mundo Deportivo",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El Fraikin BM Granollers, a sellar los cruces de la Liga Europea EHF tras otra renovación",
-        "url": "https://www.mundodeportivo.com/balonmano/20261116/1004251867/fraikin-bm-granollers-sellar-cruces-liga-europea-ehf-renovacion.html",
-        "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2026/03/18/69bada9a6aaba.r_d.1517-831-0.jpeg",
-        "fecha": "2026-11-16T22:12:58.000Z",
-        "fuenteId": "mundo-deportivo",
-        "fuenteTitle": "Mundo Deportivo",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "La dulce resaca (deportiva y social) de España tras decir adiós a su racha: \"El árbol es fuerte\"",
-        "url": "https://www.elmundo.es/deportes/futbol/uefa-nations-league/2026/11/16/6afb0ee4fc6c83b9018b4572.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/16/17948382355630.jpg",
-        "fecha": "2026-11-16T22:12:56.000Z",
-        "fuenteId": "el-mundo-deportes",
-        "fuenteTitle": "El Mundo - Deportes",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Durísimo correctivo alemán para Xavi y sus Países Bajos",
-        "url": "https://www.lavanguardia.com/deportes/20261116/11685923/duro-correctivo-aleman-xavi-paises-bajos.html",
-        "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/11/16/6afb7d5412475.r_d.2560-1437-0.jpeg",
-        "fecha": "2026-11-16T22:12:18.000Z",
-        "fuenteId": "la-vanguardia-deportes",
-        "fuenteTitle": "La Vanguardia - Deportes",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Robbie Ure y Vlachodimos vuelven a Sevilla en blanco",
-        "url": "https://www.abc.es/deportes/orgullodenervion/noticias-sevilla-fc/robbie-ure-vlachodimos-vuelven-sevilla-blanco-20261116230650-nts.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/11/16/ure-RNJi50fLwdef55CNnZPF12O-1200x840@diario_abc.PNG",
-        "fecha": "2026-11-16T22:07:18.000Z",
-        "fuenteId": "abc-deportes",
-        "fuenteTitle": "ABC - Deportes",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Alemania vuelve a su ser con una histórica goleada ante Holanda",
-        "url": "https://www.elmundo.es/deportes/futbol/uefa-nations-league/2026/11/16/6afb6140e85eced2268b4578.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/16/17948663162789.jpg",
-        "fecha": "2026-11-16T22:02:04.000Z",
-        "fuenteId": "el-mundo-deportes",
-        "fuenteTitle": "El Mundo - Deportes",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Ofrecen al Barça un objetivo de verano del Real Madrid",
-        "url": "https://www.mundodeportivo.com/baloncesto/20261116/1004251860/ofrecen-barca-objetivo-verano-real-madrid.html",
-        "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/11/16/6afb7ae99c04a.jpeg",
-        "fecha": "2026-11-16T21:58:52.000Z",
-        "fuenteId": "mundo-deportivo",
-        "fuenteTitle": "Mundo Deportivo",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Klopp aplasta a Xavi",
-        "url": "https://as.com/futbol/internacional/klopp-aplasta-a-xavi-f202611-n/",
-        "imagen": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261116/1238511_213858_video_1200.mp4",
-        "fecha": "2026-11-16T21:49:58.000Z",
-        "fuenteId": "as",
-        "fuenteTitle": "AS",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Alemania golea a Países Bajos en el primer tropiezo de Xavi y deja a Grecia sin cuartos de final",
-        "url": "https://www.abc.es/deportes/futbol/alemania-golea-paises-bajos-primer-tropiezo-xavi-20261116224029-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/11/16/IMG_3295-RXu41DmcQS8RSC3479fa6NN-1200x840@diario_abc.JPG",
-        "fecha": "2026-11-16T21:48:54.000Z",
-        "fuenteId": "abc-deportes",
-        "fuenteTitle": "ABC - Deportes",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "5-0: Alemania acaba con el invicto de Xavi con una espectacular manita",
-        "url": "https://www.mundodeportivo.com/futbol/uefa-nations-league/20261116/1004251844/alemania-xavi.html",
-        "imagen": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/11/16/6afb7a9ec2ffe.jpeg",
-        "fecha": "2026-11-16T21:48:41.000Z",
-        "fuenteId": "mundo-deportivo",
-        "fuenteTitle": "Mundo Deportivo",
-        "categorias": [
-          "deportes"
-        ],
-        "idioma": "es"
       }
     ],
     "economia": [
+      {
+        "titulo": "Leverage Shares lanza el primer ETP apalancado sobre Anthropic",
+        "url": "https://www.expansion.com/inversion/2026/11/17/leverage-shares-lanza-primer-etp-apalancado-sobre-anthropic.html",
+        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/06/17940055167659.jpg",
+        "fecha": "2026-11-16T23:25:51.000Z",
+        "fuenteId": "expansion-mercados",
+        "fuenteTitle": "Expansión - Mercados",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El euro se debilita frente al dólar y ya pierde más de un 6% anual",
+        "url": "https://www.expansion.com/mercados/divisas/2026/11/17/euro-debilita-frente-dolar-pierde-6-anual.html",
+        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/17/17948714471565.jpg",
+        "fecha": "2026-11-16T23:24:20.000Z",
+        "fuenteId": "expansion-mercados",
+        "fuenteTitle": "Expansión - Mercados",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Director de Royal Caribbean Arne Alexander Wilhelmsen vende 28,4 millones de dólares en acciones",
+        "url": "https://es.investing.com/news/insider-trading-news/director-de-royal-caribbean-arne-alexander-wilhelmsen-vende-284-millones-de-dolares-en-acciones-93CH-3931058",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3T1AG_1200_L.jpg",
+        "fecha": "2026-11-16T23:17:01.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Saba Capital Management adquiere 6.894 dólares en Ellsworth Convertible Growth & IF",
+        "url": "https://es.investing.com/news/insider-trading-news/saba-capital-management-adquiere-6894-dolares-en-ellsworth-convertible-growth--if-93CH-3931057",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM4416N_1200_L.jpg",
+        "fecha": "2026-11-16T23:16:42.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Informe de resultados: Xp Inc decepciona en BPA del tercer trimestre y sus acciones caen un 4,3%",
+        "url": "https://es.investing.com/news/transcripts/informe-de-resultados-xp-inc-decepciona-en-bpa-del-tercer-trimestre-y-sus-acciones-caen-un-43-93CH-3931056",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM4416N_1200_L.jpg",
+        "fecha": "2026-11-16T23:14:17.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Needham mantiene Figure Technology como valor favorito pese a recortar el precio objetivo",
+        "url": "https://es.investing.com/news/stock-market-news/needham-mantiene-figure-technology-como-valor-favorito-pese-a-recortar-el-precio-objetivo-3931054",
+        "imagen": "https://content-media.investing.com/news/LYNXNPEB5S0BT_M.jpg",
+        "fecha": "2026-11-16T23:12:38.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Northern Discovery recauda 500.000 dólares canadienses en primer tramo de financiación",
+        "url": "https://es.investing.com/news/company-news/northern-discovery-recauda-500000-dolares-canadienses-en-primer-tramo-de-financiacion-93CH-3931053",
+        "imagen": "",
+        "fecha": "2026-11-16T23:05:27.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Biogran ante el regreso a la 'comida limpia' tras el desencanto con lo ultraprocesado: \"El consumidor se ha dado cuenta de que esa tendencia sí, pero no a cualquier precio\"",
         "url": "https://www.elmundo.es/economia/2026/11/17/6aecc917e85ece42678b458d.html",
@@ -1303,6 +1388,54 @@
         "categorias": [
           "economia",
           "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "AJB Investment Fund II compra 8.301 dólares en acciones de Jewett-Cameron Trading",
+        "url": "https://es.investing.com/news/insider-trading-news/ajb-investment-fund-ii-compra-8301-dolares-en-acciones-de-jewettcameron-trading-93CH-3931051",
+        "imagen": "",
+        "fecha": "2026-11-16T23:02:12.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El director ejecutivo de Kingsway Financial Services Inc adquiere 2.506 dólares en acciones",
+        "url": "https://es.investing.com/news/insider-trading-news/el-director-ejecutivo-de-kingsway-financial-services-inc-adquiere-2506-dolares-en-acciones-93CH-3931050",
+        "imagen": "https://content-media.investing.com/news/moved_small-LYNXMPEM3T1K3_1200_L.jpg",
+        "fecha": "2026-11-16T23:02:01.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El CFO y vicepresidente ejecutivo de Kingsway compra 1.561 dólares en acciones",
+        "url": "https://es.investing.com/news/insider-trading-news/el-cfo-y-vicepresidente-ejecutivo-de-kingsway-compra-1561-dolares-en-acciones-93CH-3931049",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0WG_1200_L.jpg",
+        "fecha": "2026-11-16T23:01:59.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Berkshire recorta posiciones en Bank of America y Capital One y amplía Delta",
+        "url": "https://es.investing.com/news/stock-market-news/berkshire-recorta-posiciones-en-bank-of-america-y-capital-one-y-amplia-delta-3931052",
+        "imagen": "https://content-media.investing.com/news/LYNXNPEB760ZX_M.jpg",
+        "fecha": "2026-11-16T23:00:28.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
         ],
         "idioma": "es"
       },
@@ -1401,141 +1534,21 @@
           "economia"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "Moody’s rebaja Hertz a Caa1 ante el creciente riesgo de refinanciación en 2028",
-        "url": "https://es.investing.com/news/stock-market-news/moodys-rebaja-hertz-a-caa1-ante-el-creciente-riesgo-de-refinanciacion-en-2028-3931038",
-        "imagen": "https://content-media.investing.com/news/LYNXNPEB6208D_M.jpg",
-        "fecha": "2026-11-16T22:45:19.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "S&P mejora la perspectiva de Celsius Holdings a positiva con un apalancamiento de 1,7x",
-        "url": "https://es.investing.com/news/stock-market-news/sp-mejora-la-perspectiva-de-celsius-holdings-a-positiva-con-un-apalancamiento-de-17x-3931033",
-        "imagen": "https://content-media.investing.com/news/LYNXNPEB670Y6_M.jpg",
-        "fecha": "2026-11-16T22:38:44.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Usuarios denuncian problemas de acceso a Chase, Bank of America y Wells Fargo",
-        "url": "https://www.elconfidencial.com/empresas/2026-11-16/fallos-acceso-banca-online-estados-unidos-1tna-1tps_4466347/",
-        "imagen": "https://images.ecestaticos.com/Zy3NgFe3uKAQHRLT3YwhbDsQXdA=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F002%2F10d%2Fea8%2F00210dea817a7a78e24c42853b69f3d0.jpg",
-        "fecha": "2026-11-16T22:23:00.000Z",
-        "fuenteId": "el-confidencial-economia",
-        "fuenteTitle": "El Confidencial - Economía",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El COO de Thermo Fisher, Gianluca Pettiti, vende acciones de TMO por 2,9 millones de dólares",
-        "url": "https://es.investing.com/news/insider-trading-news/el-coo-de-thermo-fisher-gianluca-pettiti-vende-acciones-de-tmo-por-29-millones-de-dolares-93CH-3931013",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM40318_1200_L.jpg",
-        "fecha": "2026-11-16T22:17:41.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El director jurídico de Equinix Inc vende acciones por 140.583 dólares",
-        "url": "https://es.investing.com/news/insider-trading-news/el-director-juridico-de-equinix-inc-vende-acciones-por-140583-dolares-93CH-3931012",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM4416N_1200_L.jpg",
-        "fecha": "2026-11-16T22:17:35.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Informe de resultados: Aqua Metals reduce pérdidas en el tercer trimestre",
-        "url": "https://es.investing.com/news/transcripts/informe-de-resultados-aqua-metals-reduce-perdidas-en-el-tercer-trimestre-93CH-3931011",
-        "imagen": "https://content-media.investing.com/news/LYNXNPEB6J0AJ_M.jpg",
-        "fecha": "2026-11-16T22:17:24.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El director de Corteva Inc compra 185.400 dólares en acciones de la empresa",
-        "url": "https://es.investing.com/news/insider-trading-news/el-director-de-corteva-inc-compra-185400-dolares-en-acciones-de-la-empresa-93CH-3931010",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM4519D_1200_L.jpg",
-        "fecha": "2026-11-16T22:17:07.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Acciones de Insight Molecular Diagnostics caen por oferta pública",
-        "url": "https://es.investing.com/news/stock-market-news/acciones-de-insight-molecular-diagnostics-caen-por-oferta-publica-3931009",
-        "imagen": "https://content-media.investing.com/news/LYNXMPEM5H10K_1200_L.jpg",
-        "fecha": "2026-11-16T22:13:20.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Pro Medicus Ltd en la Conferencia Bell Potter Healthcare: el crecimiento sigue su curso",
-        "url": "https://es.investing.com/news/transcripts/pro-medicus-ltd-en-la-conferencia-bell-potter-healthcare-el-crecimiento-sigue-su-curso-93CH-3931005",
-        "imagen": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg",
-        "fecha": "2026-11-16T22:08:57.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "GoGo AI Network nombra a Drew Zimmerman director ejecutivo interino y planea una consolidación de acciones",
-        "url": "https://es.investing.com/news/company-news/gogo-ai-network-nombra-a-drew-zimmerman-director-ejecutivo-interino-y-planea-una-consolidacion-de-acciones-93CH-3931003",
-        "imagen": "",
-        "fecha": "2026-11-16T22:05:15.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Russel Metals nombra a Stephen Reitknecht como nuevo director financiero",
-        "url": "https://es.investing.com/news/company-news/russel-metals-nombra-a-stephen-reitknecht-como-nuevo-director-financiero-93CH-3931002",
-        "imagen": "https://content-media.investing.com/news/LYNXMPEM18123_150x108_S.jpg",
-        "fecha": "2026-11-16T22:05:07.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
       }
     ],
     "entretenimiento": [
+      {
+        "titulo": "Arnold Schwarzenegger (79 años), sobre los efectos de envejecer tras ser un referente estético. \"Me miro al espejo y pienso: Sí, eres un desastre\"",
+        "url": "https://www.espinof.com/actores-y-actrices/arnold-schwarzenegger-79-anos-efectos-envejecer-ser-referente-estetico-me-miro-al-espejo-pienso-eres-desastre",
+        "imagen": "https://i.blogs.es/40f82c/see-17-celebrities-over-75-then-and-now/1024_2000.jpeg",
+        "fecha": "2026-11-16T23:12:03.000Z",
+        "fuenteId": "espinof",
+        "fuenteTitle": "Espinof",
+        "categorias": [
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Mohamed Hadid sella su compromiso con Keni Silva: así queda el reparto de su patrimonio inmobiliario",
         "url": "https://www.cotilleo.es/2026/11/16/mohamed-hadid-compromiso-keni-silva-536295/",
@@ -1680,6 +1693,18 @@
         "idioma": "es"
       },
       {
+        "titulo": "Dulceida aclara cómo se eligen los ganadores de los Premios Ídolo en 'La Revuelta': “No hay tongo”",
+        "url": "https://www.lavanguardia.com/television/20261116/11686116/dulceida-aclara-como-eligen-ganadores-premios-idolo-revuelta-hay-tongo.html",
+        "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/16/6afb87389221c.jpeg",
+        "fecha": "2026-11-16T22:47:31.000Z",
+        "fuenteId": "lavanguardia-television",
+        "fuenteTitle": "La Vanguardia - Televisión",
+        "categorias": [
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Filmin recupera «Baron Noir», una de las grandes series políticas francesas",
         "url": "https://www.neeo.es/2026/11/16/filmin-recupera-baron-noir-una-de-las-grandes-series-politicas-francesas/",
         "imagen": "https://www.neeo.es/wp-content/uploads/2017/11/filmin.png",
@@ -1763,31 +1788,6 @@
         "categorias": [
           "tecnologia",
           "ciencia",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "'La Revuelta' responde a la denuncia de Vox al programa de RTVE ante la Junta Electoral y anuncia su firme decisión: \"Nunca más\"",
-        "url": "https://eltelevisero.huffingtonpost.es/2026/11/la-revuelta-responde-a-la-denuncia-de-vox-al-programa-de-rtve-ante-la-junta-electoral-y-anuncia-su-firme-decision-nunca-mas/",
-        "imagen": "",
-        "fecha": "2026-11-16T21:50:06.000Z",
-        "fuenteId": "el-televisero",
-        "fuenteTitle": "El Televisero",
-        "categorias": [
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El diseñador de Roxy en Pokémon Espada y Escudo recuerda las críticas que recibió su aspecto inicial",
-        "url": "https://www.nintenderos.com/2026/11/el-disenador-de-roxy-en-pokemon-espada-y-escudo-recuerda-las-criticas-que-recibio-su-aspecto-inicial/",
-        "imagen": "",
-        "fecha": "2026-11-16T21:50:03.000Z",
-        "fuenteId": "nintenderos",
-        "fuenteTitle": "Nintenderos",
-        "categorias": [
-          "tecnologia",
           "entretenimiento"
         ],
         "idioma": "es"
@@ -2317,12 +2317,51 @@
     ],
     "internacional": [
       {
-        "titulo": "Rusia ataca con misiles dos de los puentes más importantes de Kiev",
-        "url": "https://www.abc.es/internacional/rusia-ataca-misiles-dos-puentes-importantes-kiev-20261116234917-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/11/16/1500510141-kzbB-U40384830243j2C-1200x840@diario_abc.jpg",
-        "fecha": "2026-11-16T22:53:21.000Z",
-        "fuenteId": "abc-internacional",
-        "fuenteTitle": "ABC - Internacional",
+        "titulo": "Macron defiende que ha hecho \"todo lo posible\" por Francia a pesar de algunos \"errores\"",
+        "url": "https://www.france24.com/es/francia/20261116-macron-defiende-que-ha-hecho-todo-lo-posible-por-francia-a-pesar-de-algunos-errores",
+        "imagen": "https://s.france24.com/media/display/73761a32-b328-11f1-ad78-8bce42b8e305/w:1024/p:16x9/AP26247415545627.jpg",
+        "fecha": "2026-11-16T23:38:19.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El Papa, el \"cuerdo de Dios\" en Perú, el país de los extremos",
+        "url": "https://www.elmundo.es/internacional/2026/11/17/6afb4888fdddff6f418b4597.html",
+        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/16/17948530975999.jpg",
+        "fecha": "2026-11-16T23:04:22.000Z",
+        "fuenteId": "el-mundo-internacional",
+        "fuenteTitle": "El Mundo - Internacional",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Israel ante un asunto de Estado: la pérdida de apoyo en EEUU",
+        "url": "https://www.elmundo.es/internacional/2026/11/17/6afb56ffe4d4d808088b4598.html",
+        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/16/17948570411574.jpg",
+        "fecha": "2026-11-16T23:04:21.000Z",
+        "fuenteId": "el-mundo-internacional",
+        "fuenteTitle": "El Mundo - Internacional",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El Chase Bank y United Airlines sufren incidencias en sus servicios por fallos informáticos",
+        "url": "https://www.lavanguardia.com/internacional/20261116/11686118/chase-bank-united-airlines-sufren-incidencias-servicios-fallos-informaticos.html",
+        "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/16/6afb86f0c6984.jpeg",
+        "fecha": "2026-11-16T22:56:01.000Z",
+        "fuenteId": "la-vanguardia-internacional",
+        "fuenteTitle": "La Vanguardia - Internacional",
         "categorias": [
           "internacional",
           "actualidad"
@@ -2330,12 +2369,12 @@
         "idioma": "es"
       },
       {
-        "titulo": "Burnham denuncia que el Brexit no ha funcionado: “El emperador está desnudo”",
-        "url": "https://elpais.com/internacional/2026-11-16/burnham-denuncia-que-el-brexit-no-ha-funcionado-el-emperador-esta-desnudo.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/OEP4IS4EJ5PCFF7TBYHJB4M72Q.jpg?auth=391e67d100cf7b8462a5722d70a18ce95d4f083466452938ca1fa278caf7221e",
-        "fecha": "2026-11-16T22:04:49.000Z",
-        "fuenteId": "el-pais-internacional",
-        "fuenteTitle": "El País - Internacional",
+        "titulo": "Endurecen el régimen de prisión del expresidente paraguayo Peña y lo trasladan en el día de su cumpleaños",
+        "url": "https://www.elmundo.es/internacional/2026/11/16/6afb81edfc6c8332048b457b.html",
+        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/16/17948681424000.jpg",
+        "fecha": "2026-11-16T22:35:11.000Z",
+        "fuenteId": "el-mundo-internacional",
+        "fuenteTitle": "El Mundo - Internacional",
         "categorias": [
           "internacional",
           "politica"
@@ -2352,6 +2391,19 @@
         "categorias": [
           "internacional",
           "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Así \"mataron políticamente\" los países a la jefa de la diplomacia europea: demasiado antirrusa para negociar con Putin",
+        "url": "https://www.elmundo.es/internacional/2026/11/16/6afb4b5afdddff50578b4590.html",
+        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/16/17948605511476.jpg",
+        "fecha": "2026-11-16T21:43:00.000Z",
+        "fuenteId": "el-mundo-internacional",
+        "fuenteTitle": "El Mundo - Internacional",
+        "categorias": [
+          "internacional",
+          "politica"
         ],
         "idioma": "es"
       },
@@ -2517,57 +2569,6 @@
         "fecha": "2026-11-16T19:51:09.000Z",
         "fuenteId": "la-vanguardia-internacional",
         "fuenteTitle": "La Vanguardia - Internacional",
-        "categorias": [
-          "internacional",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Fracasa lanzamiento del cohete Vulcan de ULA y 40 satélites de Amazon no llegan a órbita",
-        "url": "https://es.euronews.com/2026/11/16/fracasa-lanzamiento-del-cohete-vulcan-de-ula-y-40-satelites-de-amazon-no-llegan-a-orbita",
-        "imagen": "",
-        "fecha": "2026-11-16T19:30:58.000Z",
-        "fuenteId": "euronews-espanol",
-        "fuenteTitle": "Euronews Español",
-        "categorias": [
-          "internacional"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Un rosario lanzado desde el público golpea en la cara al Papa en su último día de gira por Latinoamérica",
-        "url": "https://www.abc.es/internacional/rosario-lanzado-publico-golpea-cara-papa-ultimo-20261116201950-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/11/16/1520373179-kLOD-U40382712722sjC-1200x840@diario_abc.jpg",
-        "fecha": "2026-11-16T19:19:51.000Z",
-        "fuenteId": "abc-internacional",
-        "fuenteTitle": "ABC - Internacional",
-        "categorias": [
-          "internacional",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Al menos 17 personas murieron en dos tiroteos masivos en Sudáfrica",
-        "url": "https://elpais.com/internacional/2026-11-16/varias-personas-murieron-en-dos-tiroteos-masivos-en-sudafrica.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/4CBJZSETDNKEVNWCA3MRBDT3JA.jpg?auth=0b5dd9f8759647aafaefa482a4fd125fe76de9a7243fe664577b9a3b9b75f562",
-        "fecha": "2026-11-16T19:16:56.000Z",
-        "fuenteId": "el-pais-internacional",
-        "fuenteTitle": "El País - Internacional",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Qué tan poderosas son las pandillas a las que se enfrenta Bukele en Haití",
-        "url": "https://www.bbc.com/mundo/watch/cxj05r723gpjo?at_medium=RSS&at_campaign=rss",
-        "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4abe/live/14b32e40-e1ea-11f1-99a1-253766e7ad8b.jpg",
-        "fecha": "2026-11-16T19:14:07.000Z",
-        "fuenteId": "bbc-mundo",
-        "fuenteTitle": "BBC News Mundo",
         "categorias": [
           "internacional",
           "actualidad"
@@ -3330,6 +3331,45 @@
     ],
     "politica": [
       {
+        "titulo": "Macron defiende que ha hecho \"todo lo posible\" por Francia a pesar de algunos \"errores\"",
+        "url": "https://www.france24.com/es/francia/20261116-macron-defiende-que-ha-hecho-todo-lo-posible-por-francia-a-pesar-de-algunos-errores",
+        "imagen": "https://s.france24.com/media/display/73761a32-b328-11f1-ad78-8bce42b8e305/w:1024/p:16x9/AP26247415545627.jpg",
+        "fecha": "2026-11-16T23:38:19.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El Papa, el \"cuerdo de Dios\" en Perú, el país de los extremos",
+        "url": "https://www.elmundo.es/internacional/2026/11/17/6afb4888fdddff6f418b4597.html",
+        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/16/17948530975999.jpg",
+        "fecha": "2026-11-16T23:04:22.000Z",
+        "fuenteId": "el-mundo-internacional",
+        "fuenteTitle": "El Mundo - Internacional",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Israel ante un asunto de Estado: la pérdida de apoyo en EEUU",
+        "url": "https://www.elmundo.es/internacional/2026/11/17/6afb56ffe4d4d808088b4598.html",
+        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/16/17948570411574.jpg",
+        "fecha": "2026-11-16T23:04:21.000Z",
+        "fuenteId": "el-mundo-internacional",
+        "fuenteTitle": "El Mundo - Internacional",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Los damnificados de las leyes imposibles del Congreso con Sánchez: \"Somos moneda de cambio de derechas e izquierdas\"",
         "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/17/6afb46c5e85ece2d268b45a3.html",
         "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/16/17948552184740.jpg",
@@ -3408,6 +3448,19 @@
         "idioma": "es"
       },
       {
+        "titulo": "Endurecen el régimen de prisión del expresidente paraguayo Peña y lo trasladan en el día de su cumpleaños",
+        "url": "https://www.elmundo.es/internacional/2026/11/16/6afb81edfc6c8332048b457b.html",
+        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/16/17948681424000.jpg",
+        "fecha": "2026-11-16T22:35:11.000Z",
+        "fuenteId": "el-mundo-internacional",
+        "fuenteTitle": "El Mundo - Internacional",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Sánchez anuncia que subirá este martes el salario de los funcionarios un 4,5% para 2027",
         "url": "https://theobjective.com/espana/politica/2026-11-16/sanchez-subira-martes-salario-funcionarios-2027/",
         "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/11/sanchez-entrevista-en-telecinco-469x317.jpg",
@@ -3416,19 +3469,6 @@
         "fuenteTitle": "The Objective",
         "categorias": [
           "actualidad",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Burnham denuncia que el Brexit no ha funcionado: “El emperador está desnudo”",
-        "url": "https://elpais.com/internacional/2026-11-16/burnham-denuncia-que-el-brexit-no-ha-funcionado-el-emperador-esta-desnudo.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/OEP4IS4EJ5PCFF7TBYHJB4M72Q.jpg?auth=391e67d100cf7b8462a5722d70a18ce95d4f083466452938ca1fa278caf7221e",
-        "fecha": "2026-11-16T22:04:49.000Z",
-        "fuenteId": "el-pais-internacional",
-        "fuenteTitle": "El País - Internacional",
-        "categorias": [
-          "internacional",
           "politica"
         ],
         "idioma": "es"
@@ -3486,6 +3526,19 @@
         "idioma": "es"
       },
       {
+        "titulo": "Así \"mataron políticamente\" los países a la jefa de la diplomacia europea: demasiado antirrusa para negociar con Putin",
+        "url": "https://www.elmundo.es/internacional/2026/11/16/6afb4b5afdddff50578b4590.html",
+        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/16/17948605511476.jpg",
+        "fecha": "2026-11-16T21:43:00.000Z",
+        "fuenteId": "el-mundo-internacional",
+        "fuenteTitle": "El Mundo - Internacional",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Con la venia de Su Majestad: Robert Pattinson es el nuevo James Bond",
         "url": "https://www.france24.com/es/cultura/20261116-con-la-venia-de-su-majestad-robert-pattinson-es-el-nuevo-james-bond",
         "imagen": "https://s.france24.com/media/display/06c48942-e202-11f1-a568-29048b396e03/w:1024/p:16x9/2026-11-16T151945Z-2110735739-RC2I8MAKA7N1-RTRMADP-3-FILM-BOND.jpg",
@@ -3534,58 +3587,6 @@
         "categorias": [
           "politica",
           "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Corea del Sur toma medidas para evitar fraudes en examen de ingreso a la universidad",
-        "url": "https://www.france24.com/es/video/20261116-corea-del-sur-toma-medidas-para-evitar-fraudes-en-examen-de-ingreso-a-la-universidad",
-        "imagen": "https://s.france24.com/media/display/824b14de-e1fb-11f1-a9fe-695cb59fade5/w:1024/p:16x9/ES-20261116-114043-114240-CS.jpg",
-        "fecha": "2026-11-16T21:09:59.000Z",
-        "fuenteId": "france24-espanol",
-        "fuenteTitle": "France 24 Español",
-        "categorias": [
-          "internacional",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Hernández, Juliana y Quero abren el debate sobre el deterioro de lo común",
-        "url": "https://www.lavanguardia.com/politica/20261116/11685915/hernandez-juliana-quero-abren-debate-sobre-deterioro-comun.html",
-        "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/16/6afb6f554e19c.jpeg",
-        "fecha": "2026-11-16T21:09:26.000Z",
-        "fuenteId": "la-vanguardia-politica",
-        "fuenteTitle": "La Vanguardia - Política",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Abascal aterriza en Canarias en plena oleada migratoria y entona su discurso contra la \"invasión\": \"Aquí no caben, es nuestra tierra\"",
-        "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/16/6afb5a78e9cf4a3c4b8b4595.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/17/17948701370637.jpg",
-        "fecha": "2026-11-16T21:07:57.000Z",
-        "fuenteId": "el-mundo-espana",
-        "fuenteTitle": "El Mundo - España",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Abascal replica a Sánchez por llamarle racista: «Nos da igual el color de la piel de la gente»",
-        "url": "https://theobjective.com/espana/politica/2026-11-16/abascal-sanchez-racista-igual-color-piel-gente/",
-        "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/11/lee-gratis-1-11-469x317.jpg",
-        "fecha": "2026-11-16T20:58:49.000Z",
-        "fuenteId": "the-objective",
-        "fuenteTitle": "The Objective",
-        "categorias": [
-          "actualidad",
-          "politica"
         ],
         "idioma": "es"
       }
@@ -4117,6 +4118,20 @@
     ],
     "tecnologia": [
       {
+        "titulo": "United Airlines informa de una “interrupción generalizada” que afecta a los vuelos de salida",
+        "url": "https://elpais.com/us/2026-11-16/united-airlines-informa-de-una-interrupcion-generalizada-que-afecta-a-los-vuelos-de-salida.html",
+        "imagen": "https://imagenes.elpais.com/resizer/v2/3YGECAIMPNKNFNCNI6EABGTSIU.jpg?auth=aded5c56abf3358e9d0968e0f54a986c6ab565b122dd39a3ba9bbb7402e330d3",
+        "fecha": "2026-11-16T23:17:29.000Z",
+        "fuenteId": "el-pais",
+        "fuenteTitle": "El País",
+        "categorias": [
+          "actualidad",
+          "tecnologia",
+          "ciencia"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "United Airlines sufre una caída generalizada de sus sistemas días después del caos aéreo en Estados Unidos",
         "url": "https://www.elmundo.es/economia/2026/11/16/6afb88f6fc6c8357268b458b.html",
         "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/16/17948691716801.jpg",
@@ -4178,6 +4193,20 @@
         "categorias": [
           "tecnologia",
           "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Burnham denuncia que el Brexit no ha funcionado: “El emperador está desnudo”",
+        "url": "https://elpais.com/internacional/2026-11-16/burnham-denuncia-que-el-brexit-no-ha-funcionado-el-emperador-esta-desnudo.html",
+        "imagen": "https://imagenes.elpais.com/resizer/v2/OEP4IS4EJ5PCFF7TBYHJB4M72Q.jpg?auth=391e67d100cf7b8462a5722d70a18ce95d4f083466452938ca1fa278caf7221e",
+        "fecha": "2026-11-16T22:04:49.000Z",
+        "fuenteId": "el-pais",
+        "fuenteTitle": "El País",
+        "categorias": [
+          "actualidad",
+          "tecnologia",
+          "ciencia"
         ],
         "idioma": "es"
       },
@@ -4347,31 +4376,6 @@
         "categorias": [
           "tecnologia",
           "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Lo hemos analizado, y por debajo de 500 euros, este smartphone es una de las joyas desconocidas que deberías probar",
-        "url": "https://www.larazon.es/tecnologia-consumo/vivo/hemos-analizado-debajo-500-euros-este-smartphone-es-joyas-desconocidas-deberias-probar_202611166afacda34196933d7edea804.html",
-        "imagen": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/11/16/F0B6A26D-243D-413A-AE0A-A06CB32AF0B9/vivo-v70-5g-es-realmente-delgado-ligero-fotografia-elisa-pinon_96.jpg?crop=1280,720,x0,y0&amp;width=1200&amp;height=675&amp;optimize=low&amp;format=webply",
-        "fecha": "2026-11-16T21:15:00.000Z",
-        "fuenteId": "andro4all",
-        "fuenteTitle": "Andro4all",
-        "categorias": [
-          "tecnologia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Prime Video presenta el nuevo tráiler de «Blade Runner 2099»",
-        "url": "https://www.neeo.es/2026/11/16/prime-video-presenta-el-nuevo-trailer-de-blade-runner-2099/",
-        "imagen": "https://www.neeo.es/wp-content/uploads/2025/10/primevideo_25.png",
-        "fecha": "2026-11-16T21:12:24.000Z",
-        "fuenteId": "neeo",
-        "fuenteTitle": "Neeo",
-        "categorias": [
-          "entretenimiento",
-          "tecnologia"
         ],
         "idioma": "es"
       }
