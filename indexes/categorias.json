@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-27T23:08:26.632Z",
+  "generado": "2026-11-27T23:27:23.711Z",
   "limitePorCategoria": 20,
   "categorias": {
     "actualidad": [
@@ -12,6 +12,19 @@
         "fuenteTitle": "El Confidencial",
         "categorias": [
           "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Puigdemont llama a los independentistas desencantados a movilizarse el 29-N",
+        "url": "https://theobjective.com/espana/politica/2026-11-27/puigdemont-llama-independentistas-desencantados-movilizarse-29-n/",
+        "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/09/puigdemont-469x317.jpg",
+        "fecha": "2026-11-27T22:50:22.000Z",
+        "fuenteId": "the-objective",
+        "fuenteTitle": "The Objective",
+        "categorias": [
+          "actualidad",
+          "politica"
         ],
         "idioma": "es"
       },
@@ -235,18 +248,6 @@
         "url": "https://www.abc.es/recetasderechupete/por-que-la-leche-sin-lactosa-sabe-mas-dulce-la-explicacion-esta-en-la-lactasa/181099/",
         "imagen": "",
         "fecha": "2026-11-27T21:12:42.000Z",
-        "fuenteId": "abc",
-        "fuenteTitle": "ABC",
-        "categorias": [
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Cómo hacer pan francés bien",
-        "url": "https://www.abc.es/recetasderechupete/pan-frances-con-pipas-de-girasol-bollitos-perfectos-para-el-desayuno/51905/",
-        "imagen": "",
-        "fecha": "2026-11-27T21:12:24.000Z",
         "fuenteId": "abc",
         "fuenteTitle": "ABC",
         "categorias": [
@@ -1293,9 +1294,93 @@
     ],
     "economia": [
       {
+        "titulo": "Comprar cuando nadie quiere hacerlo",
+        "url": "https://www.expansion.com/mercados/2026/11/27/comprar-nadie-quiere-hacerlo.html",
+        "imagen": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/27/17958196159983.jpg",
+        "fecha": "2026-11-27T22:47:05.000Z",
+        "fuenteId": "expansion-mercados",
+        "fuenteTitle": "Expansión - Mercados",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Silver Bow Mining llega a un acuerdo con la EPA por 799.799 dólares por un vertedero",
+        "url": "https://es.investing.com/news/sec-filings/silver-bow-mining-llega-a-un-acuerdo-con-la-epa-por-799799-dolares-por-un-vertedero-93CH-3945572",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3T1AG_1200_L.jpg",
+        "fecha": "2026-11-27T22:37:04.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "iQSTEL recibe aviso de Nasdaq sobre el precio un mínimo de oferta",
+        "url": "https://es.investing.com/news/sec-filings/iqstel-recibe-aviso-de-nasdaq-sobre-el-precio-un-minimo-de-oferta-93CH-3945571",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM40318_1200_L.jpg",
+        "fecha": "2026-11-27T22:33:41.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El director ejecutivo de IES Holdings Inc compra 41.150 dólares en acciones ordinarias",
+        "url": "https://es.investing.com/news/insider-trading-news/el-director-ejecutivo-de-ies-holdings-inc-compra-41150-dolares-en-acciones-ordinarias-93CH-3945570",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM4510G_1200_L.jpg",
+        "fecha": "2026-11-27T22:31:36.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "El director de Viatris Inc, W. Don Cornwell, se retira del consejo el 1 de diciembre",
+        "url": "https://es.investing.com/news/sec-filings/el-director-de-viatris-inc-w-don-cornwell-se-retira-del-consejo-el-1-de-diciembre-93CH-3945569",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3S10Z_1200_L.jpg",
+        "fecha": "2026-11-27T22:29:53.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Miller Industries Inc recupera el cumplimiento en la NYSE tras cambio en su comité de auditoría",
+        "url": "https://es.investing.com/news/sec-filings/miller-industries-inc-recupera-el-cumplimiento-en-la-nyse-tras-cambio-en-su-comite-de-auditoria-93CH-3945568",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3S10Z_1200_L.jpg",
+        "fecha": "2026-11-27T22:26:12.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Q/C Tech programa su junta anual virtual y fija plazos para propuestas",
+        "url": "https://es.investing.com/news/sec-filings/qc-tech-programa-su-junta-anual-virtual-y-fija-plazos-para-propuestas-93CH-3945567",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM4416N_1200_L.jpg",
+        "fecha": "2026-11-27T22:21:52.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "60 Degrees Pharmaceuticals recibe aviso de Nasdaq por deficiencia en acciones",
         "url": "https://es.investing.com/news/sec-filings/60-degrees-pharmaceuticals-recibe-aviso-de-nasdaq-por-deficiencia-en-acciones-93CH-3945566",
-        "imagen": "",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0WG_1200_L.jpg",
         "fecha": "2026-11-27T22:15:41.000Z",
         "fuenteId": "investing-es-noticias",
         "fuenteTitle": "Investing.com España - Noticias",
@@ -1307,7 +1392,7 @@
       {
         "titulo": "Los accionistas de Distribution Solutions Group aprueban la fusión con Eclipse Parent Acquisitions",
         "url": "https://es.investing.com/news/sec-filings/los-accionistas-de-distribution-solutions-group-aprueban-la-fusion-con-eclipse-parent-acquisitions-93CH-3945565",
-        "imagen": "",
+        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM4510G_1200_L.jpg",
         "fecha": "2026-11-27T22:11:44.000Z",
         "fuenteId": "investing-es-noticias",
         "fuenteTitle": "Investing.com España - Noticias",
@@ -1441,90 +1526,6 @@
         "url": "https://es.investing.com/news/stock-market-news/por-que-suben-hoy-las-acciones-de-strategy-inc-93CH-3945548",
         "imagen": "https://content-media.investing.com/news/MicroStrategy_800x533_L_1659517189.jpg",
         "fecha": "2026-11-27T21:32:58.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El director de Skydance Corporation, Gerald Cardinale, compra acciones por 149.882 dólares",
-        "url": "https://es.investing.com/news/insider-trading-news/el-director-de-skydance-corporation-gerald-cardinale-compra-acciones-por-149882-dolares-93CH-3945547",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEL450ZT_L.jpg",
-        "fecha": "2026-11-27T21:32:50.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Cantor Equity Partners V convoca junta general anual para el 29 de diciembre",
-        "url": "https://es.investing.com/news/sec-filings/cantor-equity-partners-v-convoca-junta-general-anual-para-el-29-de-diciembre-93CH-3945546",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0WG_1200_L.jpg",
-        "fecha": "2026-11-27T21:31:39.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Cantor Equity Partners IV programa su junta general anual para el 29 de diciembre",
-        "url": "https://es.investing.com/news/sec-filings/cantor-equity-partners-iv-programa-su-junta-general-anual-para-el-29-de-diciembre-93CH-3945543",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM4416N_1200_L.jpg",
-        "fecha": "2026-11-27T21:27:10.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Puig Brands SA comprará el 75% de la matriz de Parfums de Marly por 1.200 millones de euros",
-        "url": "https://es.investing.com/news/company-news/puig-brands-sa-comprara-el-75-de-la-matriz-de-parfums-de-marly-por-1200-millones-de-euros-93CH-3945541",
-        "imagen": "https://content-media.investing.com/news/LYNXMPEM37199_150x108_S.jpg",
-        "fecha": "2026-11-27T21:24:51.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Lantern Pharma llega a un acuerdo de 2.000 millones de dólares con un exempleado",
-        "url": "https://es.investing.com/news/sec-filings/lantern-pharma-llega-a-un-acuerdo-de-2000-millones-de-dolares-con-un-exempleado-93CH-3945540",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM450ND_1200_L.jpg",
-        "fecha": "2026-11-27T21:22:47.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Rocky Mountain Chocolate Factory recibe aviso de Nasdaq por precio un mínimo de cotización",
-        "url": "https://es.investing.com/news/sec-filings/rocky-mountain-chocolate-factory-recibe-aviso-de-nasdaq-por-precio-un-minimo-de-cotizacion-93CH-3945538",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3T1AG_1200_L.jpg",
-        "fecha": "2026-11-27T21:18:02.000Z",
-        "fuenteId": "investing-es-noticias",
-        "fuenteTitle": "Investing.com España - Noticias",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "PharmaCyte Biotech establece un límite de propiedad del 49,99% en Q/C Technologies",
-        "url": "https://es.investing.com/news/sec-filings/pharmacyte-biotech-establece-un-limite-de-propiedad-del-4999-en-qc-technologies-93CH-3945537",
-        "imagen": "https://content-media.investing.com/news/moved_LYNXMPEM3T1K3_1200_L.jpg",
-        "fecha": "2026-11-27T21:13:34.000Z",
         "fuenteId": "investing-es-noticias",
         "fuenteTitle": "Investing.com España - Noticias",
         "categorias": [
@@ -2310,6 +2311,32 @@
     ],
     "internacional": [
       {
+        "titulo": "¿Rehén o secuestrador?: Las dudas que deja la toma de un supermercado en Colombia",
+        "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261127-reh%C3%A9n-o-secuestrador-las-dudas-que-deja-la-toma-de-un-supermercado-en-colombia",
+        "imagen": "https://s.france24.com/media/display/a43cbf90-e8bb-11f1-a155-29d00e23de9a/w:1024/p:16x9/0fcf51f38e9f51b4f98d0dca638ff8474e90eac4.jpg",
+        "fecha": "2026-11-27T22:47:57.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Cubrimiento especial de las elecciones generales en España",
+        "url": "https://www.france24.com/es/video/20261127-cubrimiento-especial-de-las-elecciones-generales-en-espa%C3%B1a",
+        "imagen": "https://s.france24.com/media/display/93db4e4e-eab1-11f1-9d9c-174dac1c1bf0/w:1024/p:16x9/ESPAN%CC%83A-PROMO.png",
+        "fecha": "2026-11-27T22:32:35.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "El ABC de las elecciones en España: ¿qué pasará después del 29N?",
         "url": "https://www.france24.com/es/programas/en-contexto/20261127-el-abc-de-las-elecciones-en-espa%C3%B1a-qu%C3%A9-pasar%C3%A1-despu%C3%A9s-del-29n",
         "imagen": "https://s.france24.com/media/display/daaebf3c-ea9c-11f1-893e-f9cf020caef6/w:1024/p:16x9/AP26330745461824.jpg",
@@ -2537,31 +2564,6 @@
         "fuenteTitle": "Euronews Español",
         "categorias": [
           "internacional"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Profesor uzbeko gana en Turín el premio Green Skills por proyecto de reciclaje escolar",
-        "url": "https://es.euronews.com/2026/11/27/profesor-uzbeko-gana-en-turin-el-premio-green-skills-por-proyecto-de-reciclaje-escolar",
-        "imagen": "",
-        "fecha": "2026-11-27T17:13:03.000Z",
-        "fuenteId": "euronews-espanol",
-        "fuenteTitle": "Euronews Español",
-        "categorias": [
-          "internacional"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Rusia prohíbe las exportaciones de trigo sarraceno para reforzar el mercado nacional",
-        "url": "https://www.20minutos.es/internacional/rusia-prohibe-las-exportaciones-trigo-sarraceno-para-reforzar-mercado-nacional_7066883_0.html",
-        "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/11/27/6b09b7b5e9ceb3-21072976.jpeg",
-        "fecha": "2026-11-27T17:11:18.000Z",
-        "fuenteId": "20minutos-internacional",
-        "fuenteTitle": "20minutos - Internacional",
-        "categorias": [
-          "internacional",
-          "actualidad"
         ],
         "idioma": "es"
       }
@@ -3320,6 +3322,45 @@
     ],
     "politica": [
       {
+        "titulo": "Puigdemont llama a los independentistas desencantados a movilizarse el 29-N",
+        "url": "https://theobjective.com/espana/politica/2026-11-27/puigdemont-llama-independentistas-desencantados-movilizarse-29-n/",
+        "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/09/puigdemont-469x317.jpg",
+        "fecha": "2026-11-27T22:50:22.000Z",
+        "fuenteId": "the-objective",
+        "fuenteTitle": "The Objective",
+        "categorias": [
+          "actualidad",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "¿Rehén o secuestrador?: Las dudas que deja la toma de un supermercado en Colombia",
+        "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261127-reh%C3%A9n-o-secuestrador-las-dudas-que-deja-la-toma-de-un-supermercado-en-colombia",
+        "imagen": "https://s.france24.com/media/display/a43cbf90-e8bb-11f1-a155-29d00e23de9a/w:1024/p:16x9/0fcf51f38e9f51b4f98d0dca638ff8474e90eac4.jpg",
+        "fecha": "2026-11-27T22:47:57.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Cubrimiento especial de las elecciones generales en España",
+        "url": "https://www.france24.com/es/video/20261127-cubrimiento-especial-de-las-elecciones-generales-en-espa%C3%B1a",
+        "imagen": "https://s.france24.com/media/display/93db4e4e-eab1-11f1-9d9c-174dac1c1bf0/w:1024/p:16x9/ESPAN%CC%83A-PROMO.png",
+        "fecha": "2026-11-27T22:32:35.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Cazorla en un fin de semana: castillos, patrimonio y rutas por una de las sierras más espectaculares de Jaén",
         "url": "https://www.eldiario.es/viajes/cazorla-semana-castillos-patrimonio-rutas-sierras-espectaculares-jaen_1_13692311.html",
         "imagen": "https://static.eldiario.es/clip/df88f32e-7c9c-4e76-88a7-9855242b2179_16-9-discover-aspect-ratio_default_0.jpg",
@@ -3536,45 +3577,6 @@
         "fuenteTitle": "elDiario.es",
         "categorias": [
           "actualidad",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "El Frente Amplio andaluz se agarra al debate de Colau para la remontada: «Aquí no pasa el fascismo»",
-        "url": "https://www.abc.es/espana/andalucia/frente-amplio-andaluz-agarra-debate-colau-remontada-20261127214036-nts.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/27/frente-amplio-sevilla-Rnp8sLjv4gAhnavQaxqB9PI-1200x840@diario_abc.jpg",
-        "fecha": "2026-11-27T20:52:24.000Z",
-        "fuenteId": "abc-espana",
-        "fuenteTitle": "ABC - España",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Abascal acaba la campaña con insultos a Sánchez y asegura que en las elecciones puede haber \"trampas\" o \"violencia\"",
-        "url": "https://www.eldiario.es/politica/abascal-acaba-campana-insultos-sanchez-asegura-elecciones-haber-trampas-violencia_1_13700156.html",
-        "imagen": "https://static.eldiario.es/clip/3c2e7935-8e04-4be2-8058-57384c268144_16-9-discover-aspect-ratio_default_0.jpg",
-        "fecha": "2026-11-27T20:50:55.000Z",
-        "fuenteId": "eldiario-es",
-        "fuenteTitle": "elDiario.es",
-        "categorias": [
-          "actualidad",
-          "politica"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Relatora de la ONU advierte que Costa Rica deberá rendir cuentas por acusaciones \"falsas\" de terrorismo",
-        "url": "https://www.dw.com/es/relatora-de-la-onu-advierte-que-costa-rica-deberá-rendir-cuentas-por-acusaciones-falsas-de-terrorismo/a-80082610?maca=spa-rss-sp-all-1122-xml-mrss",
-        "imagen": "",
-        "fecha": "2026-11-27T20:47:00.000Z",
-        "fuenteId": "dw-espanol",
-        "fuenteTitle": "DW Español",
-        "categorias": [
-          "internacional",
           "politica"
         ],
         "idioma": "es"
