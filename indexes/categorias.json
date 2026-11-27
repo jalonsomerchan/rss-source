@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-27T02:30:43.000Z",
+  "generado": "2026-11-27T03:06:06.907Z",
   "limitePorCategoria": 20,
   "categorias": {
     "actualidad": [
@@ -11,6 +11,32 @@
         "fuenteId": "el-confidencial",
         "fuenteTitle": "El Confidencial",
         "categorias": [
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Ester Expósito entra en juego y responde al \"calladita\" de Feijóo a Ada Colau con un mensaje de cara al 29N: \"Nos van a escuchar\"",
+        "url": "https://www.huffingtonpost.es/life/influencers-celebrities/ester-exposito-reacciona-calladita-feijoo-ada-colau-mensaje-cara-29n-nos-escuchar-f202611.html",
+        "imagen": "",
+        "fecha": "2026-11-27T02:03:43.000Z",
+        "fuenteId": "huffpost-espana",
+        "fuenteTitle": "HuffPost España",
+        "categorias": [
+          "actualidad",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Por qué Federico, ingeniero de 46 años, votará a Santiago Abascal (aunque realmente quiere que gobierne Feijóo)",
+        "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/27/6b05d3ffe9cf4a97348b45aa.html",
+        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/24/17955441445959.jpg",
+        "fecha": "2026-11-27T02:00:35.000Z",
+        "fuenteId": "el-mundo-espana",
+        "fuenteTitle": "El Mundo - España",
+        "categorias": [
+          "politica",
           "actualidad"
         ],
         "idioma": "es"
@@ -229,31 +255,6 @@
         "fuenteTitle": "El Confidencial - España",
         "categorias": [
           "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Encuestas elecciones generales: consulta la evolución diaria de los sondeos para el 29N",
-        "url": "https://www.abc.es/espana/encuestas-elecciones-generales-consulta-evolucion-diaria-sondeos-20261127050000-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/16/agregador-encuestas-1920x1080-k1uE-U40558240788yUG-1200x672@diario_abc.jpg",
-        "fecha": "2026-11-27T00:54:52.000Z",
-        "fuenteId": "abc-espana",
-        "fuenteTitle": "ABC - España",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Los aciertos y errores de los candidatos: el análisis de las corresponsales políticas",
-        "url": "https://www.abc.es/espana/aciertos-errores-candidatos-debate-cuatro-analisis-corresponsales-20261127015122-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/27/ainhoa-paloma-k3OH-U40568390552RyD-1200x672@diario_abc.jpg",
-        "fecha": "2026-11-27T00:51:22.000Z",
-        "fuenteId": "abc",
-        "fuenteTitle": "ABC",
-        "categorias": [
           "actualidad"
         ],
         "idioma": "es"
@@ -541,6 +542,34 @@
     ],
     "corazon": [
       {
+        "titulo": "Judit Mascó, supermodelo y presentadora: \"Toda la vida hemos dormido juntos, pero ahora lo hacemos en cuartos separados y es maravilloso\"",
+        "url": "https://www.elconfidencial.com/alma-corazon-vida/2026-11-27/judit-masco-dormir-cuartos-separados-1qrt_4471269/",
+        "imagen": "https://images.ecestaticos.com/SwRcG0fDQCsevWM1eFT-ng69aTE=/0x0:1027x578/0x900/filters:format(png)/f.elconfidencial.com%2Foriginal%2Fb6f%2Fcef%2Febd%2Fb6fcefebd3bc8bf7834033a0fb1b6b8d.png",
+        "fecha": "2026-11-27T02:00:00.000Z",
+        "fuenteId": "el-confidencial-alma-corazon-vida",
+        "fuenteTitle": "El Confidencial - Alma, Corazón y Vida",
+        "categorias": [
+          "salud",
+          "hogar",
+          "corazon"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Los veterinarios coinciden: mover continuamente el comedero de tu gato puede alterar una rutina que para él es importante",
+        "url": "https://www.elconfidencial.com/alma-corazon-vida/2026-11-27/veterinarios-coinciden-mover-continuamente-el-comedero-de-tu-gato_4464731/",
+        "imagen": "https://images.ecestaticos.com/Z1UNoT4RFXldz7enY8ifcQHPKQc=/0x0:612x407/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F7f4%2F7f0%2Fa6c%2F7f47f0a6c29fdd4bf1cf6a94c0bde337.jpg",
+        "fecha": "2026-11-27T02:00:00.000Z",
+        "fuenteId": "el-confidencial-alma-corazon-vida",
+        "fuenteTitle": "El Confidencial - Alma, Corazón y Vida",
+        "categorias": [
+          "salud",
+          "hogar",
+          "corazon"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Horóscopo de hoy, viernes 27 de noviembre: \"Hay una gran diferencia entre desear que algo suceda y decidir hacer que suceda. Los deseos son muy bonitos, pero no siempre tienen la fuerza necesaria\"",
         "url": "https://www.hola.com/horoscopo/20261127936531/horoscopo-de-hoy-viernes-27-de-noviembre/",
         "imagen": "https://www.hola.com/horizon/landscape/3d09912d0f60-viernes.jpg",
@@ -773,32 +802,6 @@
         "categorias": [
           "corazon",
           "moda"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Juan Ferrando desmenuza los looks de Leonor y Sofía: siluetas marcadas frente a prendas con movimiento",
-        "url": "https://www.cotilleo.es/2026/11/26/looks-leonor-sofia-patronista-537699/",
-        "imagen": "https://www.cotilleo.es/wp-content/uploads/2026/11/looks-leonor-sofia-patronista-portada-scaled.webp",
-        "fecha": "2026-11-26T20:58:07.000Z",
-        "fuenteId": "cotilleo",
-        "fuenteTitle": "Cotilleo.es",
-        "categorias": [
-          "corazon",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Lamine Yamal e Inés García destapan la fecha exacta en la que empezó su romance",
-        "url": "https://www.cotilleo.es/2026/11/26/lamine-yamal-ines-garcia-romance-537697/",
-        "imagen": "https://www.cotilleo.es/wp-content/uploads/2026/11/Lamine-Yamal-696x392-2.webp",
-        "fecha": "2026-11-26T20:58:02.000Z",
-        "fuenteId": "cotilleo",
-        "fuenteTitle": "Cotilleo.es",
-        "categorias": [
-          "corazon",
-          "entretenimiento"
         ],
         "idioma": "es"
       }
@@ -1294,6 +1297,30 @@
     ],
     "economia": [
       {
+        "titulo": "Alfonso Muñoz, funcionario de la Seguridad Social: \"Se puede acceder a la jubilación anticipada involuntaria sin que haya un despido\"",
+        "url": "https://www.elconfidencial.com/economia/2026-11-27/alfonso-munoz-funcionario-de-la-seguridad-social_4472938/",
+        "imagen": "https://images.ecestaticos.com/rb4PskBPp1K4zNHqzF2BqYyGua4=/0x0:655x452/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fd53%2F421%2F1ba%2Fd534211ba63f4bfb753789866b403a30.jpg",
+        "fecha": "2026-11-27T02:00:00.000Z",
+        "fuenteId": "el-confidencial-economia",
+        "fuenteTitle": "El Confidencial - Economía",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "¿Por qué se dispara hoy la acción de 3P Learning Ltd?",
+        "url": "https://es.investing.com/news/stock-market-news/por-que-se-dispara-hoy-la-accion-de-3p-learning-ltd-93CH-3944904",
+        "imagen": "",
+        "fecha": "2026-11-27T01:47:47.000Z",
+        "fuenteId": "investing-es-noticias",
+        "fuenteTitle": "Investing.com España - Noticias",
+        "categorias": [
+          "economia"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Sánchez deja en el aire el 70% de las plazas para funcionarios del Estado prometidas en 2026 y rescata miles desiertas de otros años en vísperas del 29N",
         "url": "https://www.elmundo.es/economia/2026/11/27/6b083a7de85ece9a738b4594.html",
         "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/26/17957010638781.jpg",
@@ -1511,33 +1538,22 @@
           "economia"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "Ni todo para los hijos ni todo a tu gusto: la regla legal que reparte tu herencia",
-        "url": "https://www.abc.es/economia/cuentas-corrientes/hijos-gusto-regla-legal-reparte-herencia-20261127010417-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/11/27/reparto-herencias-regla-tres-tercios-RjS7IDJxlJ1SwM0xbvePfxJ-1200x840@diario_abc.jpg",
-        "fecha": "2026-11-27T00:04:17.000Z",
-        "fuenteId": "abc-economia",
-        "fuenteTitle": "ABC - Economía",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "¿Sin paga extra de Navidad en el banco? La Seguridad Social señala a los pensionistas que quedan fuera",
-        "url": "https://www.abc.es/economia/cuentas-corrientes/paga-extra-navidad-banco-seguridad-social-senala-20261127010330-nt.html",
-        "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/11/27/extra-navidad-pensionistas-no-cobran-Rg74CGEIZGiFTTwRRh2iZ4L-1200x840@diario_abc.jpg",
-        "fecha": "2026-11-27T00:03:48.000Z",
-        "fuenteId": "abc-economia",
-        "fuenteTitle": "ABC - Economía",
-        "categorias": [
-          "economia"
-        ],
-        "idioma": "es"
       }
     ],
     "entretenimiento": [
+      {
+        "titulo": "Ester Expósito entra en juego y responde al \"calladita\" de Feijóo a Ada Colau con un mensaje de cara al 29N: \"Nos van a escuchar\"",
+        "url": "https://www.huffingtonpost.es/life/influencers-celebrities/ester-exposito-reacciona-calladita-feijoo-ada-colau-mensaje-cara-29n-nos-escuchar-f202611.html",
+        "imagen": "",
+        "fecha": "2026-11-27T02:03:43.000Z",
+        "fuenteId": "huffpost-espana",
+        "fuenteTitle": "HuffPost España",
+        "categorias": [
+          "actualidad",
+          "entretenimiento"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "La canción que ha sonado en la sede del Frente Amplio tras el \"calladita\" de Feijóo a Ada Colau es de no creer",
         "url": "https://www.huffingtonpost.es/virales/la-cancion-sonado-sede-frente-amplio-calladita-feijoo-ada-colau-creer-f202611.html",
@@ -1772,19 +1788,6 @@
         "url": "https://www.huffingtonpost.es/virales/feijoo-pronuncia-sobre-y-calladita-le-dicho-ada-colau-debate-4-f202611.html",
         "imagen": "",
         "fecha": "2026-11-26T23:35:47.000Z",
-        "fuenteId": "huffpost-espana",
-        "fuenteTitle": "HuffPost España",
-        "categorias": [
-          "actualidad",
-          "entretenimiento"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Del \"usted calladita\" al \"tiene que traerse a esta señora\": la expresiones machistas de Feijóo y Abascal en el debate a cuatro",
-        "url": "https://www.huffingtonpost.es/politica/del-usted-calladita-tiene-traerse-senora-expresiones-machistas-feijoo-abascal-debate-cuatro-f202611.html",
-        "imagen": "",
-        "fecha": "2026-11-26T23:32:42.000Z",
         "fuenteId": "huffpost-espana",
         "fuenteTitle": "HuffPost España",
         "categorias": [
@@ -2048,6 +2051,34 @@
     ],
     "hogar": [
       {
+        "titulo": "Judit Mascó, supermodelo y presentadora: \"Toda la vida hemos dormido juntos, pero ahora lo hacemos en cuartos separados y es maravilloso\"",
+        "url": "https://www.elconfidencial.com/alma-corazon-vida/2026-11-27/judit-masco-dormir-cuartos-separados-1qrt_4471269/",
+        "imagen": "https://images.ecestaticos.com/SwRcG0fDQCsevWM1eFT-ng69aTE=/0x0:1027x578/0x900/filters:format(png)/f.elconfidencial.com%2Foriginal%2Fb6f%2Fcef%2Febd%2Fb6fcefebd3bc8bf7834033a0fb1b6b8d.png",
+        "fecha": "2026-11-27T02:00:00.000Z",
+        "fuenteId": "el-confidencial-alma-corazon-vida",
+        "fuenteTitle": "El Confidencial - Alma, Corazón y Vida",
+        "categorias": [
+          "salud",
+          "hogar",
+          "corazon"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Los veterinarios coinciden: mover continuamente el comedero de tu gato puede alterar una rutina que para él es importante",
+        "url": "https://www.elconfidencial.com/alma-corazon-vida/2026-11-27/veterinarios-coinciden-mover-continuamente-el-comedero-de-tu-gato_4464731/",
+        "imagen": "https://images.ecestaticos.com/Z1UNoT4RFXldz7enY8ifcQHPKQc=/0x0:612x407/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F7f4%2F7f0%2Fa6c%2F7f47f0a6c29fdd4bf1cf6a94c0bde337.jpg",
+        "fecha": "2026-11-27T02:00:00.000Z",
+        "fuenteId": "el-confidencial-alma-corazon-vida",
+        "fuenteTitle": "El Confidencial - Alma, Corazón y Vida",
+        "categorias": [
+          "salud",
+          "hogar",
+          "corazon"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Virgilio compró una cabaña en Asturias por 3.000 euros: \"De notario e impuestos pagué casi 800 euros\"",
         "url": "https://www.elconfidencial.com/alma-corazon-vida/2026-11-27/compro-cabana-asturias-3000-euros-notario-impuestos-oague-800-euros-1qrt_4472670/",
         "imagen": "https://images.ecestaticos.com/jx1dsCXRSDDXK_Cgr9U2ygjVmPM=/0x0:622x575/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fa45%2F262%2F220%2Fa45262220d84983221bb213a038ed1a2.jpg",
@@ -2288,36 +2319,22 @@
           "corazon"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "Álvaro Flores, español en Reikiavik, Islandia: \"El agua caliente delgrifo huele literalmente a huevo podrido\"",
-        "url": "https://www.elconfidencial.com/alma-corazon-vida/2026-11-26/alvaro-flores-espanol-reikiavik-islandia-agua-caliente-1qrt_4473141/",
-        "imagen": "https://images.ecestaticos.com/RhUVN0Ipvwe4psNXFvP3QBqsc-Y=/0x0:575x323/0x900/filters:fill(white):format(JPG)/f.elconfidencial.com%2Foriginal%2F839%2Ffbf%2F574%2F839fbf574a13030ed0acf8f3e8549ade.JPG",
-        "fecha": "2026-11-26T14:04:00.000Z",
-        "fuenteId": "el-confidencial-alma-corazon-vida",
-        "fuenteTitle": "El Confidencial - Alma, Corazón y Vida",
-        "categorias": [
-          "salud",
-          "hogar",
-          "corazon"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Decathlon deja a casi mitad de precio unas zapatillas Hoka para corredores que buscan ligereza y comodidad en cada zancada",
-        "url": "https://www.compradiccion.com/deportes-zapatillas-running-ropa/decathlon-deja-a-casi-mitad-precio-unas-zapatillas-hoka-para-corredores-que-buscan-ligereza-comodidad-cada-zancada",
-        "imagen": "https://i.blogs.es/b8c977/collage-decathlon-y-zapatilla-hoka/1024_2000.jpeg",
-        "fecha": "2026-11-26T14:00:25.000Z",
-        "fuenteId": "compradiccion",
-        "fuenteTitle": "Compradicción",
-        "categorias": [
-          "hogar",
-          "tecnologia"
-        ],
-        "idioma": "es"
       }
     ],
     "internacional": [
+      {
+        "titulo": "Estados Unidos rechaza el plan de la Unión Europea para gravar a las tecnológicas",
+        "url": "https://www.france24.com/es/programas/econom%C3%ADa/20261127-estados-unidos-rechaza-el-plan-de-la-uni%C3%B3n-europea-para-gravar-a-las-tecnol%C3%B3gicas",
+        "imagen": "https://s.france24.com/media/display/3052d314-e9fe-11f1-861d-77d069279b82/w:1024/p:16x9/AP24157775501044.jpg",
+        "fecha": "2026-11-27T01:44:21.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "La población de Jebel Marra y muchas otras zonas de Sudán se encuentra cada vez más abandonada",
         "url": "https://www.abc.es/internacional/yilma-werkagegnehu-poblacion-jebel-marra-zonas-sudan-encuentra-vez-20261127022341-nt.html",
@@ -2558,19 +2575,6 @@
         "fuenteTitle": "Euronews Español",
         "categorias": [
           "internacional"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Roman Gofman, el nuevo jefe del Mosad que desata tensiones internas",
-        "url": "https://www.elmundo.es/internacional/2026/11/26/6b081a2c21efa0af728b45c9.html",
-        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/26/17957001035694.jpg",
-        "fecha": "2026-11-26T19:30:34.000Z",
-        "fuenteId": "el-mundo-internacional",
-        "fuenteTitle": "El Mundo - Internacional",
-        "categorias": [
-          "internacional",
-          "politica"
         ],
         "idioma": "es"
       }
@@ -3330,6 +3334,32 @@
     ],
     "politica": [
       {
+        "titulo": "Por qué Federico, ingeniero de 46 años, votará a Santiago Abascal (aunque realmente quiere que gobierne Feijóo)",
+        "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/27/6b05d3ffe9cf4a97348b45aa.html",
+        "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/24/17955441445959.jpg",
+        "fecha": "2026-11-27T02:00:35.000Z",
+        "fuenteId": "el-mundo-espana",
+        "fuenteTitle": "El Mundo - España",
+        "categorias": [
+          "politica",
+          "actualidad"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Estados Unidos rechaza el plan de la Unión Europea para gravar a las tecnológicas",
+        "url": "https://www.france24.com/es/programas/econom%C3%ADa/20261127-estados-unidos-rechaza-el-plan-de-la-uni%C3%B3n-europea-para-gravar-a-las-tecnol%C3%B3gicas",
+        "imagen": "https://s.france24.com/media/display/3052d314-e9fe-11f1-861d-77d069279b82/w:1024/p:16x9/AP24157775501044.jpg",
+        "fecha": "2026-11-27T01:44:21.000Z",
+        "fuenteId": "france24-espanol",
+        "fuenteTitle": "France 24 Español",
+        "categorias": [
+          "internacional",
+          "politica"
+        ],
+        "idioma": "es"
+      },
+      {
         "titulo": "Destapan una cocina-chabola en un garaje tras la puerta secreta de un restaurante chino",
         "url": "https://www.abc.es/espana/madrid/destapan-cocinachabola-garaje-tras-puerta-secreta-restaurante-20261128022728-nt.html",
         "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/26/A69BCC11-B1CF-4984-8B55-96074352DCC2-RtutywH10jiVJwVwjtcw0tM-1200x840@diario_abc.jpg",
@@ -3562,35 +3592,37 @@
           "actualidad"
         ],
         "idioma": "es"
-      },
-      {
-        "titulo": "Frente Amplio celebra el desempeño de Colau: “Salimos con más fuerza y con más ganas que nunca de llegar al domingo”",
-        "url": "https://elpais.com/espana/elecciones-generales/2026-11-26/frente-amplio-celebra-el-desempeno-de-colau-salimos-con-mas-fuerza-y-con-mas-ganas-que-nunca-de-llegar-al-domingo.html",
-        "imagen": "https://imagenes.elpais.com/resizer/v2/4A6CRWFQZZA77DCYXGXAQYRPSU.jpg?auth=cc55ffd424892e87f1c41bed5820c0df62a61a1a2aa661650e95aa9a0f5c01f9",
-        "fecha": "2026-11-27T00:08:15.000Z",
-        "fuenteId": "el-pais-espana",
-        "fuenteTitle": "El País - España",
-        "categorias": [
-          "politica",
-          "actualidad"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Dos asustaviejas tratan de resucitar a la desesperada",
-        "url": "https://theobjective.com/elsubjetivo/opinion/2026-11-27/asustaviejas-desesperada-debate-alvaro-nieto/",
-        "imagen": "https://theobjective.com/theobjective.com/wp-content/uploads/2026/11/candidatos-y-casado-469x317.png",
-        "fecha": "2026-11-27T00:07:48.000Z",
-        "fuenteId": "the-objective",
-        "fuenteTitle": "The Objective",
-        "categorias": [
-          "actualidad",
-          "politica"
-        ],
-        "idioma": "es"
       }
     ],
     "salud": [
+      {
+        "titulo": "Judit Mascó, supermodelo y presentadora: \"Toda la vida hemos dormido juntos, pero ahora lo hacemos en cuartos separados y es maravilloso\"",
+        "url": "https://www.elconfidencial.com/alma-corazon-vida/2026-11-27/judit-masco-dormir-cuartos-separados-1qrt_4471269/",
+        "imagen": "https://images.ecestaticos.com/SwRcG0fDQCsevWM1eFT-ng69aTE=/0x0:1027x578/0x900/filters:format(png)/f.elconfidencial.com%2Foriginal%2Fb6f%2Fcef%2Febd%2Fb6fcefebd3bc8bf7834033a0fb1b6b8d.png",
+        "fecha": "2026-11-27T02:00:00.000Z",
+        "fuenteId": "el-confidencial-alma-corazon-vida",
+        "fuenteTitle": "El Confidencial - Alma, Corazón y Vida",
+        "categorias": [
+          "salud",
+          "hogar",
+          "corazon"
+        ],
+        "idioma": "es"
+      },
+      {
+        "titulo": "Los veterinarios coinciden: mover continuamente el comedero de tu gato puede alterar una rutina que para él es importante",
+        "url": "https://www.elconfidencial.com/alma-corazon-vida/2026-11-27/veterinarios-coinciden-mover-continuamente-el-comedero-de-tu-gato_4464731/",
+        "imagen": "https://images.ecestaticos.com/Z1UNoT4RFXldz7enY8ifcQHPKQc=/0x0:612x407/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F7f4%2F7f0%2Fa6c%2F7f47f0a6c29fdd4bf1cf6a94c0bde337.jpg",
+        "fecha": "2026-11-27T02:00:00.000Z",
+        "fuenteId": "el-confidencial-alma-corazon-vida",
+        "fuenteTitle": "El Confidencial - Alma, Corazón y Vida",
+        "categorias": [
+          "salud",
+          "hogar",
+          "corazon"
+        ],
+        "idioma": "es"
+      },
       {
         "titulo": "Virgilio compró una cabaña en Asturias por 3.000 euros: \"De notario e impuestos pagué casi 800 euros\"",
         "url": "https://www.elconfidencial.com/alma-corazon-vida/2026-11-27/compro-cabana-asturias-3000-euros-notario-impuestos-oague-800-euros-1qrt_4472670/",
@@ -3820,31 +3852,6 @@
         "fuenteTitle": "El Español - Ciencia",
         "categorias": [
           "ciencia",
-          "salud"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "De perforar el tabique nasal a destruir la base del cráneo: las graves y desconocidas consecuencias del consumo de cocaína",
-        "url": "https://cuidateplus.marca.com/bienestar/2026/11/26/perforar-tabique-nasal-destruir-base-craneo-graves-desconocidas-consecuencias-consumo-cocaina-185894.html",
-        "imagen": "https://cuidateplus.marca.com/sites/default/files/styles/ratio_16_9/public/2026-11/coca.jpg.webp?itok=LrnKgDk8",
-        "fecha": "2026-11-26T15:50:52.000Z",
-        "fuenteId": "cuidateplus",
-        "fuenteTitle": "CuídatePlus",
-        "categorias": [
-          "salud"
-        ],
-        "idioma": "es"
-      },
-      {
-        "titulo": "Las Adidas Runfalcon 6 ATR rebajadas de 60 a 32 euros son posiblemente una de las mejores zapatillas para correr a diario cuando llueve",
-        "url": "https://www.runnersworld.com/es/zapatillas-correr-material-deportivo/a74541428/zapatillas-adidas-runfalcon-6-atr-correr-con-lluvia-rebaja/",
-        "imagen": "https://hips.hearstapps.com/hmg-prod/images/d92941a7-8182-44b6-8a8a-302ba5a71bd9.jpeg",
-        "fecha": "2026-11-26T15:49:26.000Z",
-        "fuenteId": "runners-world-espana",
-        "fuenteTitle": "Runner's World España",
-        "categorias": [
-          "deportes",
           "salud"
         ],
         "idioma": "es"
